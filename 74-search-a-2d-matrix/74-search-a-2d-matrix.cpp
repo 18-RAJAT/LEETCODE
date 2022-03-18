@@ -1,6 +1,6 @@
     //1st APPROACH O(m*n)
 
-/*class Solution {
+class Solution {
 public:
 
    bool searchMatrix(vector<vector<int>>& matrix,int target)
@@ -21,10 +21,10 @@ public:
     }
 };
 
-*/
+
     
     //2nd APPROACH O(m+n)
-/*class Solution {
+class Solution {
 public: 
     
     bool searchMatrix(vector<vector<int>>& matrix,int target){
@@ -46,7 +46,7 @@ public:
         return false;
     }
 };
-*/
+
     
 
 //3rd APPROACH O(m log n)
@@ -87,61 +87,61 @@ public:
     
         //BINARY SEARCH
         
-//         int row = matrix.size();
+        int row = matrix.size();
         
-//         if(row == 0)
-//         {
-//             return false;
-//         }
+        if(row == 0)
+        {
+            return false;
+        }
         
-//         int column = matrix[0].size();
+        int column = matrix[0].size();
         
-//         int row_first = 0,row_last = row-1,mid;
+        int row_first = 0,row_last = row-1,mid;
         
-//         while(row_first < row_last)
-//         {
-//             mid = row_first + (row_last - row_first)/2;
+        while(row_first < row_last)
+        {
+            mid = row_first + (row_last - row_first)/2;
             
-//             if(matrix[mid] [column -1] < target)
-//             {
-//                 row_first = mid+1;
-//             }
+            if(matrix[mid] [column -1] < target)
+            {
+                row_first = mid+1;
+            }
             
-//             else if(matrix[mid][0] > target)
-//             {
-//                 row_last = mid - 1;
-//             }
+            else if(matrix[mid][0] > target)
+            {
+                row_last = mid - 1;
+            }
             
-//             else
-//             {
-//                 row_first = mid;
-//                 break;
-//             }
-//         }
+            else
+            {
+                row_first = mid;
+                break;
+            }
+        }
         
-//         //Another Binary Search
+        //Another Binary Search
         
-//         int column_first = 0,column_last = column-1;
+        int column_first = 0,column_last = column-1;
         
-//         while(column_first <= column_last)
-//         {
-//             mid = column_first+(column_last - column_first)/2;
+        while(column_first <= column_last)
+        {
+            mid = column_first+(column_last - column_first)/2;
             
-//             if(matrix[row_first][mid] < target)
-//             {
-//                 column_first = mid+1;
-//             }
+            if(matrix[row_first][mid] < target)
+            {
+                column_first = mid+1;
+            }
             
-//             else if(matrix[row_first][mid] > target)
-//             {
-//                 column_last = mid - 1;
-//             }
-//             else
-//             {
-//                 return true;
-//             }
-//         }
+            else if(matrix[row_first][mid] > target)
+            {
+                column_last = mid - 1;
+            }
+            else
+            {
+                return true;
+            }
+        }
         
-//         return false;
-//     }
-// };
+        return false;
+    }
+};
