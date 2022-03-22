@@ -18,10 +18,11 @@ public:
         while(head!=NULL)
         {
        
-        if(head->next!=NULL && head->val==head->next->val)
+        if(head->next!=NULL and head->val==head->next->val)
         {
                 
-       while(head->next!=NULL && head->val==head->next->val)head=head->next;
+       while(head->next!=NULL and head->val==head->next->val)
+           head=head->next;
                      
                 prev->next=head->next;
         }
@@ -29,6 +30,7 @@ public:
      else 
                     
             prev=prev->next;
+            
             head=head->next;
             
         }
