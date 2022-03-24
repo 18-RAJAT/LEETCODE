@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/boats-to-save-people/">881. Boats to Save People</a></h2><h3>Medium</h3><hr><div><p>You are given an array <code>people</code> where <code>people[i]</code> is the weight of the <code>i<sup style="">th</sup></code> person, and an <strong>infinite number of boats</strong> where each boat can carry a maximum weight of <code>limit</code>. Each boat carries at most two people at the same time, provided the sum of the weight of those people is at most <code>limit</code>.</p>
+<h2><a href="https://leetcode.com/problems/boats-to-save-people/">881. Boats to Save People</a></h2><h3>Medium</h3><hr><div><p>You are given an array <code>people</code> where <code>people[i]</code> is the weight of the <code>i<sup>th</sup></code> person, and an <strong>infinite number of boats</strong> where each boat can carry a maximum weight of <code>limit</code>. Each boat carries at most two people at the same time, provided the sum of the weight of those people is at most <code>limit</code>.</p>
 
 <p>Return <em>the minimum number of boats to carry every given person</em>.</p>
 
@@ -28,7 +28,7 @@
 <p><strong>Constraints:</strong></p>
 
 <ul data-read-aloud-multi-block="true">
-	<li><code>1 &lt;= people.length &lt;= 5 * 10<sup style="">4</sup></code></li>
-	<li><code>1 &lt;= people[i] &lt;= limit &lt;= 3 * 10<sup style="">4</sup></code></li>
+	<li><code>1 &lt;= people.length &lt;= 5 * 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= people[i] &lt;= limit &lt;= 3 * 10<sup>4</sup></code></li>
 </ul>
 </div>
