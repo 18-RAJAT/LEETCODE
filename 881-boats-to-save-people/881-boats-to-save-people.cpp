@@ -1,7 +1,7 @@
 class Solution {
 public:
-    int numRescueBoats(vector<int>& people, int limit) {
-        
+    
+    int numRescueBoats(vector<int>& people, int limit) {    
         //Sort all of people 
         sort(people.begin(),people.end());
         
