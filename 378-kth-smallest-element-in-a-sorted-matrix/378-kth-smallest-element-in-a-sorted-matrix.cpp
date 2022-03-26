@@ -6,7 +6,7 @@ public:
         
         int n = matrix.size();
         int low = matrix[0][0];
-        int high = matrix[n-1][n-1];
+        int high = matrix[n-1][n-1] + 1;
         int mid , count , temp;
         
         while(low < high)
