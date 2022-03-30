@@ -10,65 +10,28 @@
  */
 class Solution {
 public:
-    ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
+    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
         
-//         //base case
-//      if(l1 == NULL) return l2;
-     
-//      if(l2 == NULL) return l1;
-        
-//         //recursive case
-//         ListNode* result;
-        
-//         if(l1 -> val <= l2 -> val)
-//         {
-//             result = l1;
-//             result -> next = mergeTwoLists(l1->next,l2);
-//         }
-//         else
-//         {
-//             result = l2;
-//             result -> next = mergeTwoLists(l1,l2->next);
-//         }
-        
-//         return result;
-        
-//         if(l1 == NULL)
-//         {
-//             return l2;
-//         }
-        
-//         if(l2 == NULL)
-//         {
-//             return l1;
-//         }
-        
-//         if(l1->val < l2->val)
-//         {
-//             l1->next = mergeTwoLists(l1->next,l2);
-//             return l1;
-//         }
-//         else
-//         {
-//             l2->next = mergeTwoLists(l2->next,l1);
-//             return l2;
-//         }
-        
-        
-      if(l1 == NULL) return l2;
-        
-        if(l2 == NULL) return l1;
-        
-        if(l1->val <= l2->val)
+        if(list1 == NULL)
         {
-            l1->next = mergeTwoLists(l1->next,l2);
-            return l1;
+            return list2;
         }
+        
+        if(list2 == NULL)
+        {
+            return list1;
+        }
+        if(list1->val <= list2->val)
+        {
+            list1->next = mergeTwoLists(list1->next,list2);
+            return list1;
+        }
+        
         else
         {
-            l2->next = mergeTwoLists(l2->next,l1);
-            return l2;
+            list2->next = mergeTwoLists(list2->next,list1);
+            return list2;
         }
-        
     }
 };
+
