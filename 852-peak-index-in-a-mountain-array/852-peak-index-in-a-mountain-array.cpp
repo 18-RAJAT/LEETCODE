@@ -2,21 +2,6 @@ class Solution {
 public:
     int peakIndexInMountainArray(vector<int>& arr) {
         
-      /*  1st APPROACH
-        
-        int left =0;
-        while(arr[left] < arr[left+1])
-        {
-            left++;
-        }
-        
-        return left;
-        
-        */
-        
-        
-        // 2nd approach using Binary Search 
-        
         int start = 0;
         int end = arr.size()-1;
         
@@ -37,5 +22,4 @@ public:
         
         return start;
     }
-    
 };
