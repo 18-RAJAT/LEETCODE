@@ -1,25 +1,26 @@
 class Solution {
 public:
     
-    bool CheckPalindrome(string s , int start , int end)
+    bool CheckPalindrome(string s,int start,int end)
     {
         while(start <= end)
         {
             if(s[start] != s[end])
             {
-               return false;
+                return false;
             }
             
             start++;
             end--;
         }
+        
         return true;
     }
     
     bool validPalindrome(string s) {
-     
+        
         int left = 0;
-        int right = s.size() - 1;
+        int right = s.size()-1;
         
         while(left <= right)
         {
@@ -29,6 +30,7 @@ public:
                 {
                     return true;
                 }
+                
                 else
                 {
                     return false;
@@ -38,8 +40,6 @@ public:
             left++;
             right--;
         }
-        
         return true;
-        
     }
 };
