@@ -2,19 +2,32 @@ class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
         
+        vector<int>answer;
+
+        int start = -1;
+        int end = -1;
         
-        int first = lower_bound(nums.begin(), nums.end(), target) - nums.begin();
-       
-        int last =  upper_bound(nums.begin(), nums.end(), target) - nums.begin();
-        
-     
-        if (first == last) 
+        for(int i=0;i<nums.size();++i)
         {
-            return {-1, -1};
+            if(nums[i] == target)
+            {
+                if(start == -1)
+                {
+                    start = i;
+                    end = i;
+                }
+                
+                else
+                {
+                    end = i;
+                }
+            }
         }
         
-        return {first, last - 1};
+        answer.push_back(start);
+        answer.push_back(end);
+        
+        return answer;
+        
     }
-    
-
 };
