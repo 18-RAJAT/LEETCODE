@@ -26,8 +26,8 @@ public:
             if(nums[i] > nums[Breakpoint])
             {
                 swap(nums[Breakpoint],nums[i]);
-                
-                reverse(nums.begin() + Breakpoint + 1, nums.end());
+                    
+                reverse(nums.begin() + Breakpoint+1,nums.end());
                 
                 break;
             }
