@@ -1,5 +1,6 @@
 class Solution {
 public:
+    
     int lastStoneWeight(vector<int>& stones) {
         
         priority_queue<int>Max_Heap;
