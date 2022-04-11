@@ -4,16 +4,17 @@ public:
         
        int right = s.size()-1;
         int left = 0;
-        int c;
         
         while(left < right)
         {
-            c = s[left];
-            s[left] = s[right];
-            s[right] = c;
+            int temp = s[left];
             
-            left += 1;
-            right -= 1;
+            s[left] = s[right];
+            
+            s[right] = temp;
+            
+            left = left + 1;
+            right = right - 1;
         }
     }
 };
