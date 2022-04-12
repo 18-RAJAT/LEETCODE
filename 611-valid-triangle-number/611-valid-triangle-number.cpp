@@ -2,30 +2,37 @@ class Solution {
 public:
     int triangleNumber(vector<int>& nums) {
         
-        sort(nums.begin(),nums.end());
-        int count = 0;
-        int n = nums.size();
+    if(nums.size() < 3)
+    {
+        return 0;
+    }
         
-        for(int i=n-1;i>=2;--i)
+        int answer = 0;
+        
+        sort(nums.begin(),nums.end());
+        
+        for(int i=nums.size() - 1; i>0;--i)
         {
-            int l = 0;
-            int r = i-1;
+            int first = 0;
+            int second = i-1;
             
-            while(l < r)
+            while(first < second)
             {
-                if(nums[l] + nums[r] > nums[i])
+                if(nums[first] + nums[second] > nums[i])
                 {
-                    count += r-l;
-                --r;
+                    answer = answer + second - first;
+                    
+                    --second;
                 }
                 
-            else
-            {
-                ++l;
-            }
+                else
+                {
+                    ++first;
+                }
             }
         }
-         return count;   
+        
+        return answer;
         
     }
 };
