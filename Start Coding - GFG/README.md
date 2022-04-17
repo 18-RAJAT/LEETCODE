@@ -1,0 +1,5 @@
+# Start Coding
+## Easy
+<div class="problem-statement">
+                <p></p><p><span style="font-size:18px">When learning a new language, we first learn to output some message. Here, we'll start with the famous <strong>Hello World</strong> message. Now, here you are given a function to complete. <em>Don't worry about the ins and outs of functions, just add the command (cout&lt;&lt;"Hello World") to print <strong>Hello World</strong>.</em></span></p><p><span style="font-size:18px"><strong>Input Format :</strong><br>No input</span></p><p><span style="font-size:18px"><strong>Output format :</strong><br>Hello World</span></p><p><span style="font-size:18px"><strong>Your Task:</strong><br>Your task is to complete the function below to print Hello World.</span></p><p><span style="font-size:18px"><strong>Explanation:<br>Hello World</strong> is printed.</span></p><p><strong>Video:</strong></p><p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/37GG-T6B7bc" width="560" style="max-width: 100%;"></iframe></p> <p></p>
+            </div>
