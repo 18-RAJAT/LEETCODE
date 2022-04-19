@@ -2,7 +2,7 @@ class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
         
-        //Time Complexity -> O(m+n)
+        
         int m = 0;
         int n = matrix[0].size()-1;
         
@@ -10,7 +10,7 @@ public:
         {
             if(matrix[m][n] == target)
             {
-                return true;
+               return true;
             }
             
             if(matrix[m][n] > target)
@@ -20,7 +20,7 @@ public:
             
             else
             {
-                m = m+1;
+                m = m + 1;
             }
         }
         return false;
