@@ -9,15 +9,16 @@ public:
         }
         
         string operation = "";
+            
         vector<string>result;
         
-        Solve(digits,operation,result);
+        ans(digits,operation,result);
         
         return result;
         
     }
     
-    void Solve(string digits,string operation,vector<string>& result)
+    void ans(string digits,string operation,vector<string>& result)
     {
         //Possible combinations...!!
         vector<string> v = {"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
@@ -34,7 +35,7 @@ public:
         
         for(int i=0;i<s.length();++i)
         {
-            Solve(digits,operation+s[i],result);
+            ans(digits,operation+s[i],result);
         }
     }
 };
