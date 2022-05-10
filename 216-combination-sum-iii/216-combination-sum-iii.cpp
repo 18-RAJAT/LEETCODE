@@ -3,14 +3,8 @@ public:
         
    void solve(int previous,int k,int n,int sum,vector<int>temp,vector<vector<int>>&answer)
    {
-          if(k==0)
-          {
-                  if(sum==n)
-                  {
-                          answer.push_back(temp);
-                  }
-                  return;
-          }
+          if(k==0)if(sum==n){answer.push_back(temp);return;}
+           
            for(int i=previous;i<=9;++i)
            {
                    temp.push_back(i);
