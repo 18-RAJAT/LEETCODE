@@ -8,19 +8,18 @@ public:
             
             while(right < n)
             {
-                   if(nums[right]==0)
-                   {
-                           right++;
-                   }
+                    if(nums[right]==0)
+                    {
+                            right++;
+                    }
                     else
                     {
-                            temp=nums[left];
-                            nums[left]=nums[right];
-                            nums[right]=temp;
-                            
+                            temp = nums[right];
+                            nums[right] = nums[left];
+                            nums[left] = temp;
                             right++;left++;
                     }
             }
-        
+         
     }
 };
