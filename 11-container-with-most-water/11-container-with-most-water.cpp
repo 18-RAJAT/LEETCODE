@@ -1,37 +1,18 @@
 /*
 The first thing we should realize is that the amount of water contained is always going to be a rectangle whose area is defined as length * width. The width of any container will be the difference between the index of the two lines (start and end), and the height will be whichever of the two sides is the lowest (min(H[start], H[end])).
-
-
 */
 class Solution {
 public:
     int maxArea(vector<int>& height) {
-  
-        int answer = 0;
-        int start = 0;
-        int end = height.size() - 1;
-        int result = 0;
-        
-        while(start < end)
-        {
-            if(height[start] <= height[end])
+
+          int i=0,j=height.size()-1,maxArea=-1;
+            while(i<j)
             {
-                result = height[start] * (end - start);
-                start++;
+                    int currentArea=min(height[i],height[j])*(j-i);
+                    if(height[i]<height[j]) ++i;
+                    else --j;
+                    maxArea=max(maxArea,currentArea);
             }
-            
-            else
-            {
-                result = height[end] * (end - start);
-                end--;
-            }
-            
-            if(result > answer)
-            {
-                answer = result;
-            }
-        }
-    
-        return answer;
+            return maxArea;
     }
 };
