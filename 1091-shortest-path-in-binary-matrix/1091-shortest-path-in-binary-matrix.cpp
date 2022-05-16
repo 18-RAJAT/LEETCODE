@@ -12,7 +12,6 @@ public:
         //Insert starting cell
         q.push(make_pair(0,0));
         
-        
         vector<vector<int>> directions = {{1,1},{0,1},{1,0},{0,-1},{-1,0},{-1,-1},{1,-1},{-1,1}};
         
         grid[0][0] = 1;
@@ -23,33 +22,24 @@ public:
             int column = q.front().second;
             
             if(row == n-1 and column == n-1)
-            {
-                return grid[row][column];
-                
-            }
+            {return grid[row][column];}
                 
                 for(auto direction : directions)
                 {
                     int new_row = row + direction[0];
                     int new_column = column + direction[1];
                     
-                    if(new_row >= 0 and new_row < n and new_column >= 0 and new_column < n and                                       grid[new_row][new_column] == 0)
-                        
-                        
+                    if(new_row >= 0 and new_row < n and new_column >= 0 and new_column < n and grid[new_row][new_column] == 0)
+                           
                     {
                         q.push(make_pair(new_row,new_column));
                         
                         grid[new_row][new_column] = grid[row][column] + 1;
                     }
-                    
-                }
-                
-                q.pop();
-                
-            
-        }
-        
-        return -1;
+         }
+        q.pop();
+}
+         return -1;
         
     }
 };
