@@ -2,23 +2,13 @@ class Solution {
 public:
     vector<int> targetIndices(vector<int>& nums, int target) {
         
-      vector<int> v1;
-        sort(nums.begin(),nums.end());
-        
-        for(int i=0;i<nums.size();++i)
-        {
-            if(target == nums[i])
+     vector<int>result;
+            sort(nums.begin(),nums.end());
+            for(int i=0;i<nums.size();++i)
             {
-                v1.push_back(i);
+                    if(target==nums[i]){result.push_back(i);}
+                    if(target<nums[i]){break;}
             }
-            
-            if(target < nums[i])
-            {
-                break;
-            }
-        }
-        
-        return v1;
-        
+        return result;
     }
 };
