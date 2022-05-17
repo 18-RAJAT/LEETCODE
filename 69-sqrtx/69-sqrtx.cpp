@@ -2,13 +2,8 @@ class Solution {
 public:
     
     int mySqrt(int x) {
-        
-        long store = x;
-        
-        while(store * store > x)
-        {
-            store = (store + x/store)/2;
-        }
-        return store;
+        long long temp=x;
+            while(temp*temp>x){temp=(temp+x/temp)/2;}
+            return temp;
     }
 };
