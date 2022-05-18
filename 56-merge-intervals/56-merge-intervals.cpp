@@ -1,34 +1,32 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        
-        vector<vector<int>>answer;
-        
-        if(intervals.size() == 0)
-        {
-            return answer;
-        }
-        
-        sort(intervals.begin(),intervals.end());
-        
-        answer.push_back(intervals[0]);
-        
-        int j=0;
-        for(int i=0;i<intervals.size();++i)
-        {
-            if(answer[j][1] >= intervals[i][0])
-            {
-                answer[j][1] = max(answer[j][1],intervals[i][1]);
-            }
+            vector<vector<int>>v1;
+            if(intervals.size()==0){return intervals;}
             
-            else
+            sort(intervals.begin(),intervals.end());
+            for(int i=1;i<intervals.size();i++)
             {
-                j++;
-                
-                answer.push_back(intervals[i]);
+                    int l=max(intervals[i][1],intervals[i][0]);
+                    int r=min(intervals[i-1][1],intervals[i-1][0]);
+                    int l1=max(intervals[i-1][0],intervals[i-1][1]);
+                    int r1=min(intervals[i][0],intervals[i][1]);
+                    l=max(l,l1);
+                    r=min(r,r1);
+                    
+                    if(intervals[i][0] <= intervals[i-1][1])
+                    {
+                            // cout<<"test";
+                            intervals[i][0]=r;
+                             intervals[i][1]=l;
+                            intervals[i-1][0]=-1;
+                    }
             }
-        }
-        
-        return answer;
+            for(auto it : intervals)
+            {
+                    if(it[0]!=-1){v1.push_back({it[0],it[1]});}
+                    
+            }
+            return v1;
     }
 };
