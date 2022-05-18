@@ -5,6 +5,8 @@ static int speedUp=[](){
     return 0;
 }();
 
+//---------------------------------------------------------SOLUTION OF USING TARJAN'S ALGORITHM-----------------------------------------------------------------------//
+
 class Solution {
         
         unordered_map<int,vector<int>>adj;//ADJ list
@@ -42,11 +44,13 @@ public:
     vector<vector<int>> criticalConnections(int n, vector<vector<int>>& connections) {
         for(int i=0;i<connections.size();++i)//Make adj list
         {
+                //Moves of to find the critical connectiosn of the network  
                 adj[connections[i][0]].push_back(connections[i][1]);
                 adj[connections[i][1]].push_back(connections[i][0]);
         }
             
             vector<vector<int>>bridges; //Stroe all the bridges as a pairs
+            //Function call
             findbridgesTarjan(n,bridges);
             return bridges;
     }
