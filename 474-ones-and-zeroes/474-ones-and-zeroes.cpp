@@ -8,7 +8,7 @@ public:
                     int zeros=0,ones=0;
                     for(char c : s)
                     c=='0'?zeros++:ones++;
-                    cout<<"Run"<<endl;
+                    // cout<<"Run"<<endl;
                     for(int i=m;i>=zeros;--i)
                     for(int j=n;j>=ones;--j)
                  dp[i][j] = max(dp[i][j], dp[i-zeros][j-ones] + 1);
