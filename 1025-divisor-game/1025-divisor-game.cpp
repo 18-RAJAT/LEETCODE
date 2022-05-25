@@ -7,10 +7,10 @@ public:
             {
                     for(int j=1;j<=sqrt(i);++j)
                     {
-                            if(i%j==0 and dp[i-j]==0){dp[i]=2;}
+                            if(i%j==0 and dp[i-j]==0){dp[i]=1;}
                     }
             }
-            if(dp[n]==2){return true;}
+            if(dp[n]==1){return true;}
             return false;
     }
 };
