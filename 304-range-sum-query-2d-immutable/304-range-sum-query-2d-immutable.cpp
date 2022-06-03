@@ -1,41 +1,18 @@
 class NumMatrix {
 public:
-    int row=0;
-    int col=0;
-    vector<vector<int>> dp;
-        
+    vector<vector<int>> sum;
     NumMatrix(vector<vector<int>>& matrix) {
-        row=matrix.size();
-        col=matrix[0].size();
-        
-        dp.resize(row+1);
-        for(auto &v : dp)
-        {
-            v.resize(col+1);
-        }
-
-        for(int i=0;i<=row;i++){
-            dp[i][0]=0;
-        }
-        
-        for(int j=1;j<=col;j++){
-            dp[0][j]=0;
-        }
-        
-        for(int i=1;i<=row;i++){
-            for(int j=1;j<=col;j++){
-                dp[i][j]=matrix[i-1][j-1]+dp[i-1][j]+dp[i][j-1]-dp[i-1][j-1];
+        int m = matrix.size(), n = matrix[0].size();
+        sum = vector<vector<int>>(m + 1, vector<int>(n + 1)); // sum[i][j] is sum of all elements inside the rectangle [0,0,i,j]
+        for (int i = 1; i <= m; i++) {
+            for (int j = 1; j <= n; j++) {
+                sum[i][j] = sum[i - 1][j] + sum[i][j - 1] - sum[i - 1][j - 1] + matrix[i - 1][j - 1];
             }
         }
-        
     }
-    
-    int sumRegion(int row1, int col1, int row2, int col2) {
-        return dp[row2+1][col2+1]-dp[row2+1][col1]-dp[row1][col2+1]+dp[row1][col1];
+    int sumRegion(int r1, int c1, int r2, int c2) {
+		// Since our `sum` starts by 1 so we need to increase r1, c1, r2, c2 by 1
+        r1++; c1++; r2++; c2++; 
+        return sum[r2][c2] - sum[r2][c1 - 1] - sum[r1 - 1][c2] + sum[r1 - 1][c1 - 1];
     }
 };
-/**
- * Your NumMatrix object will be instantiated and called as such:
- * NumMatrix* obj = new NumMatrix(matrix);
- * int param_1 = obj->sumRegion(row1,col1,row2,col2);
- */
