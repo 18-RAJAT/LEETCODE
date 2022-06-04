@@ -1,44 +1,37 @@
 class Solution {
 public:
-        vector<vector<string>>result;
-        bool valid(vector<string>&board,int row,int col)
-        {
-                //column
-                 for(int i=row;i>=0;--i)
-            if(board[i][col] == 'Q') return false;
-                
-                //Left Diagonal
-                for(int i=row,j=col;i>=0&&j>=0;--i,--j)
-            if(board[i][j] == 'Q') return false;
-                
-                //Right Diagonal
-                for(int i=row,j=col;i>=0&&j<board.size();--i,++j)
-            if(board[i][j] == 'Q') return false;
-                return true;
+    std::vector<std::vector<std::string> > solveNQueens(int n) {
+        std::vector<std::vector<std::string> > res;
+        std::vector<std::string> nQueens(n, std::string(n, '.'));
+        solveNQueens(res, nQueens, 0, n);
+        return res;
+    }
+private:
+    void solveNQueens(std::vector<std::vector<std::string> > &res, std::vector<std::string> &nQueens, int row, int &n) {
+        if (row == n) {
+            res.push_back(nQueens);
+            return;
         }
-        
-        void dfs(vector<string>&board,int row)
-        {
-                if(row==board.size())
-                {
-                        result.push_back(board);
-                        return;
-                }
-                
-        for(int i=0;i<board.size();++i)
-        {
-                if(valid(board,row,i))
-                {
-                        board[row][i]='Q';//Decision
-                        dfs(board,row+1);//Next
-                        board[row][i]='.';//backtrack
-                }
-        }
-}
-        
-    vector<vector<string>> solveNQueens(int n) {
-        if(n==0){return{{}};}
-            vector<string>board(n,string(n,'.'));
-            dfs(board,0);return result;
+        for (int col = 0; col != n; ++col)
+            if (isValid(nQueens, row, col, n)) {
+                nQueens[row][col] = 'Q';
+                solveNQueens(res, nQueens, row + 1, n);
+                nQueens[row][col] = '.';
+            }
+    }
+    bool isValid(std::vector<std::string> &nQueens, int row, int col, int &n) {
+        //check if the column had a queen before.
+        for (int i = 0; i != row; ++i)
+            if (nQueens[i][col] == 'Q')
+                return false;
+        //check if the 45° diagonal had a queen before.
+        for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; --i, --j)
+            if (nQueens[i][j] == 'Q')
+                return false;
+        //check if the 135° diagonal had a queen before.
+        for (int i = row - 1, j = col + 1; i >= 0 && j < n; --i, ++j)
+            if (nQueens[i][j] == 'Q')
+                return false;
+        return true;
     }
 };
