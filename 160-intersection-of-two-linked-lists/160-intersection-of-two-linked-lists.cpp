@@ -16,15 +16,12 @@ public:
      ListNode* b = headB;
         
         //Base condition(edge cases)
-        if(a == NULL and b == NULL)
-        {
-            return NULL;
-        }
+        if(a==NULL and b==NULL)
+        {return NULL;}
         
         //This base is when a is not equal to b it mean no intersection is determined...!!
           while(a != b)
-        {
-            //Check the cases...!!
+        {//Check the cases...!!
             a = !a ?  headB : a->next;
             b = !b ?  headA : b->next;
         }
