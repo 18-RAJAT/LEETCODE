@@ -14,7 +14,7 @@ public:
             {
                   if(pair[0]>prev)
                   {
-                    answer++;
+                    answer++;prev++;
                     prev=pair[1];
                   }
             }
