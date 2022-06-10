@@ -1,5 +1,5 @@
 #define ll long long
-#define f(a,b) for(int i=a;i<b;i++)
+#define f(i,a,b) for(int i=a;i<b;i++)
 #define f2(x,a,b) for(int x=a;x<b;x++)
 #define fr(b,a) for(int i=b;i>=a;i--)
 #define fit(nums) for(auto &it:nums)
@@ -25,7 +25,10 @@ class Solution {
 public:
     int jump(vector<int>& nums) {
         
-         int n=nums.size();int jumps=0;int mxreach=0;int current=0;
+         int n=nums.size();
+         int jumps=0;
+         int mxreach=0;
+         int current=0;
             for(int i=0;i<nums.size()-1;++i)
             {
                     mxreach=max(mxreach,i+nums[i]);
