@@ -1,9 +1,9 @@
 class Solution {
 public:
     int removePalindromeSub(string s) {
-        string str=s;
-            reverse(str.begin(),str.end());
-            if(str==s){return 1;}
-            return 2;
+         if (s=="") return 0;
+        for (int i = 0, j = s.size() - 1; i < j; i++, j--)
+            if (s[i] != s[j]) return 2;
+        return 1;
     }
 };
