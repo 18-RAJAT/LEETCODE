@@ -1,34 +1,38 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-       int n=matrix.size();
-       int m=matrix[0].size();
-            int left=0,right=m-1,top=0,bottom=n-1,direction=1;
-            vector<int>answer;
-            while(left<=right and top<=bottom)
+        int n=matrix.size();
+            int m=matrix[0].size();
+            
+            int l=0;
+            int r=m-1;
+            int b=n-1;
+            int t=0;
+            int dir=1;
+            vector<int>v;
+            while(l<=r and t<=b)
             {
-                    if(direction==1)
+                    if(dir==1)
                     {
-                            for(int i=left;i<=right;++i){answer.push_back(matrix[top][i]);}
-                            direction=2;top++;
+                            for(int i=l;i<=r;++i)
+                                    v.push_back(matrix[t][i]);dir=2;t++;
                     }
-                    else if(direction==2)
+                    else if(dir==2)
                     {
-                            for(int i=top;i<=bottom;++i){answer.push_back(matrix[i][right]);}
-                            direction=3;right--;
+                            for(int i=t;i<=b;++i)
+                                    v.push_back(matrix[i][r]);dir=3;r--;
                     }
-                    else if(direction==3)
+                    else if(dir==3)
                     {
-                            for(int i=right;i>=left;--i){answer.push_back(matrix[bottom][i]);}
-                            direction=4;bottom--;
+                            for(int i=r;i>=l;--i)
+                                    v.push_back(matrix[b][i]);dir=4;b--;
                     }
-                    else if(direction==4)
+                    else if(dir==4)
                     {
-                            for(int i=bottom;i>=top;--i){answer.push_back(matrix[i][left]);}
-                            direction=1;left++;
+                            for(int i=b;i>=t;--i)
+                                    v.push_back(matrix[i][l]);dir=1;l++;
                     }
             }
-            return answer;
+            return v;
     }
 };
-           
