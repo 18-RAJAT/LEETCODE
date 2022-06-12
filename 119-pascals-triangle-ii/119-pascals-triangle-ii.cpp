@@ -1,21 +1,14 @@
 class Solution {
 public:
-    vector<int> getRow(int rowIndex) {
-        
-        vector<int>vec(rowIndex + 1);
+    vector<int> getRow(int rowIdx) {
+        vector<int>dp(rowIdx+1);
         {
-            vec[0] = 1;
-            
-            for(int i=0;i<=rowIndex;++i)
-            {
-                for(int j=i;j>0;--j)
+                dp[0]=1;
+                for(int i=0;i<=rowIdx;++i)
                 {
-                    vec[j] = vec[j] + vec[j-1]; 
+                        for(int j=i;j>0;--j){dp[j]+=dp[j-1];}
                 }
-            }
         }
-        
-        return vec;
-        
+            return dp;
     }
 };
