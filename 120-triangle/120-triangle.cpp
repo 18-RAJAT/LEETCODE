@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minimumTotal(vector<vector<int>>& t) {
-        int n=t.size();
+          int n=t.size();
             for(int i=n-2;i>=0;--i)
             {
                     for(int j=0;j<t[i].size();++j)
@@ -12,6 +12,6 @@ public:
                             t[i][j]=t[i][j]+min(l,r);
                     }
             }
-            return t[0][0];
+            return t[0][0];   
     }
 };
