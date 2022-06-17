@@ -7,8 +7,10 @@ public:
             dis[k]=0;
             for(int i=1;i<n;++i)
             {
+                    //cout<<"P";
                     for(int j=0;j<times.size();++j)
                     {
+                            //cout<<"R";
                             int u=times[j][0];
                             int v=times[j][1];
                             int w=times[j][2];
@@ -21,7 +23,8 @@ public:
             int answer=0;
             for(int i=1;i<=n;++i)
             {
-                         if(dis[i]==imax){return -1;}
+                    // cout<<"res";
+                         if(dis[i]==imax){return -1;}//cout<<"run";
                          answer=max(answer,dis[i]);
             }
             return answer;
