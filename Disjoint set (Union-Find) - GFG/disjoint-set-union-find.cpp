@@ -44,5 +44,9 @@ int find(int A[],int X)
 void unionSet(int A[],int X,int Z)
 {
 	//add code here.
-	A[find(A,X)]=find(A,Z);
+	X=find(A,X);
+	Z=find(A,Z);
+	
+	if(X==Z){return;}
+	A[X]=Z;
 }
