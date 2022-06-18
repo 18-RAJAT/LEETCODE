@@ -1,25 +1,27 @@
 class WordFilter {
 public:
-        map<string,int>mp;
+    unordered_map<string,int>um;
     WordFilter(vector<string>& words) {
-            for(int i=0;i<words.size();++i)
+        for(int k=0;k<words.size();k++)
+        {
+            string word=words[k];
+            int n=word.size();
+            for(int i=0;i<n;i++)
             {
-                    string w=words[i];
-                    int n=w.size();
-                    for(int j=0;j<n;++j)
-                    {
-                            for(int k=n-1;k>=0;--k)
-                            {
-                                    mp[w.substr(0,j+1)+'|'+w.substr(k)]=i;
-                            }
-                    }
+                for(int j=n-1;j>=0;j--)
+                {
+                    um[word.substr(0,i+1)+'|'+word.substr(j)]=k;
+                }
             }
-        
+        }
     }
     
     int f(string prefix, string suffix) {
-        if(mp.find(prefix+'|'+suffix)==mp.end()){return -1;}
-            return mp[prefix+'|'+suffix];
+        if(um.find(prefix+'|'+suffix)==um.end())
+        {
+            return -1;
+        }
+        return um[prefix+'|'+suffix];
     }
 };
 
