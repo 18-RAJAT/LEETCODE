@@ -4,6 +4,7 @@
 class Solution {
 public:
     bool isThree(int n) {
+        if(n<3){return false;}
         int ct=0;
         f(2,n){if(n%i==0){ct++;}}
         if(ct==1)return true;
