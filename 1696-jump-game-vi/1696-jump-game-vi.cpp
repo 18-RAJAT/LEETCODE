@@ -1,24 +1,22 @@
+#define pii pair<int, int>
 class Solution {
 public:
-    int maxResult(vector<int>& nums, int k) {
+    int maxResult(vector<int>& nums, int k)
+    {
         int n=nums.size();
-        if(n==1 and k>=1){return nums[0];}
-        deque<int> q; //O(k)
-        vector<int> dp(n); //O(n)
+        int score[n];
+        priority_queue<pii> pq;
         
-        dp[n-1]=nums[n-1]; 
-        q.push_back(n-1);
-        
-        for(int i=n-2;i>=0;i--) 
-        { 
-            //O(n)
-            if(q.front()-i>k) {q.pop_front();}
+        for(int i=n-1 ; i>=0 ; i--)
+        {
+            while(pq.size() && pq.top().second>i+k)
+                pq.pop();
             
-            dp[i]=nums[i]+dp[q.front()];
-            
-            while(q.size() and dp[q.back()]<dp[i]){q.pop_back();}
-            q.push_back(i);
+            score[i]=nums[i];
+            score[i]+=(pq.size() ? pq.top().first : 0);
+            pq.push({score[i], i});
         }
-        return dp[0];
+        
+        return score[0];
     }
 };
