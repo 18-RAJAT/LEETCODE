@@ -1,30 +1,16 @@
 class Solution {
 public:
     int numMatchingSubseq(string s, vector<string>& words) {
-        vector<vector<int>> charMap(26);
-        int n = s.length();
-        
-        for(int i = 0; i < n; i++) {
-            charMap[s[i] - 'a'].push_back(i);
+        map<string,int>mp;
+        for(auto it:words){mp[it]++;}
+        int ans=0;
+        for(auto it:mp)
+        {
+            string x=it.first;
+            int a=0,b=0;
+            while(a<x.length() and b<s.length()){if(x[a]==s[b]){a++;}b++;}
+            if(a==x.length()){ans+=it.second;}
         }
-        
-        int ans = words.size();
-        
-        for(auto& word : words) {
-            int last = -1;
-            
-            for(char c : word) {
-                auto& cIndexes = charMap[c - 'a'];
-                auto it = upper_bound(cIndexes.begin(), cIndexes.end(), last);
-                if(it == cIndexes.end()) {
-                    ans--;
-                    break;
-                } else {
-                    last = *it;
-                }
-            }
-        }
-        
         return ans;
     }
 };
