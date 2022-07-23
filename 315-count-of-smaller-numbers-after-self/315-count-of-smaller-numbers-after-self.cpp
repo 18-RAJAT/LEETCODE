@@ -1,95 +1,79 @@
-#define pp pair<int , int>
+#define ll long long
+typedef vector<pair<int,int>> vv;
+typedef pair<int, int> PII;
+typedef pair<int,int> PAIR;
+typedef vector<int> VI;
+typedef vector<vector<int>> VII;
+typedef vector<string> VS;
+typedef vector<PII> VIII;
+typedef vector<VI> VVI;
+typedef map<int,int> MPII;
+typedef unordered_map<char,int> MPC;
+typedef set<int> SETI;
+typedef multiset<int> MSETI;
+#define ff(a,b) for(int i=0;i<n;++i)
 
+//using merge sort
 class Solution {
 public:
-  
-    void merge(vector<pp> &arr , vector<int> &count , int l , int mid , int r)
-    {
-        int i=l , j=mid+1;
+    //simple merge function
+    void merge(VI&count,vv&v,int left,int mid,int right)
+{
+        vv temp(right-left+1);
+        int i=left,j=mid+1,k=0;
         
-        vector<pp> temp(r-l+1);
-        int k=0;
-        
-        while(i<=mid && j<=r)
+        //if left is less then mid and mid+1 is less then right
+        while(i<=mid and j<=right)
         {
-            if(arr[i].first>arr[j].first)
+            if(v[i].first<=v[j].first)
             {
-                temp[k++]=arr[i];
-				
-                count[arr[i].second]+=(r-j+1);
-				// as sorted in decresing order , for a value arr[i] , all the values post j will also be smaller 
-				// so include all
-                i++;
+                temp[k++]=v[j++];
             }
             else
             {
-                temp[k++]=arr[j];
-                j++;
-                
+                count[v[i].second]+=right-j+1;
+                temp[k++]=v[i++];
             }
         }
+        //less then mid part condition check and all the pairs of left are check
+        while(i<=mid){temp[k++]=v[i++];}
+        //same as greater then mid part condition check and all the pairs of left are check
+        while(j<=right){temp[k++]=v[j++];}
         
-        // Now sort in decreasing order
-       
-        
-        while(i<=mid)
+        //traverse all these things and check pairs of i(left) = pair of temp(left-1)
+        for(int i=left;i<=right;++i)
+        {v[i]=temp[i-left];}
+}
+    //simple mergeSort function
+    void mergeSort(VI&count,vv&v,int left,int right)
+{
+        if(left<right)
         {
-           temp[k++]=arr[i];
-            i++;
+            //finding middle element
+            int mid=left+(right-left)/2;
+            //merge sort
+            mergeSort(count,v,left,mid);
+            mergeSort(count,v,mid+1,right);
+            //merge function call
+            merge(count,v,left,mid,right);
         }
-        
-        while(j<=r)
-
-        {
-            temp[k++]=arr[j];
-            j++;
-        }
-        
-        // now put back these dacending sorted value back into arr
-        
-        for(int i=l;i<=r;i++)
-        {
-            arr[i]=temp[i-l];
-        }
-        return ;
-    }
-    
-    void mergesort(vector<pp> &arr , vector<int> &count , int l , int r )
-    {
-        if(l>=r)
-        {
-            return ;
-        }
-        
-        int mid=(l+r)/2;
-        
-        mergesort(arr , count , l , mid);
-        mergesort(arr , count , mid+1 , r);
-        merge(arr , count , l , mid , r);
-        
-        
-    }
+}
     
     vector<int> countSmaller(vector<int>& nums) {
-        
-        // The method we use here is Merge sort 
-        
         int n=nums.size();
-        
-        vector<int> count(n , 0);
-        
-        vector<pp> arr(n);
-        
-        for(int i=0;i<n;i++)
+        //vector of pair to storing all the elements
+        vv a(n);
+        ff(a,b)
         {
-            arr[i]={nums[i] , i};
+            //taking a pair and create a pair of elements
+            PAIR p;
+            p.first=nums[i];
+            p.second=i;
+            a[i]=p;
         }
-        
-        
-       mergesort(arr , count , 0 , n-1);
-        
+        VI count(n,0);
+        //recursive call
+        mergeSort(count,a,0,n-1);
         return count;
-        
-        
     }
 };
