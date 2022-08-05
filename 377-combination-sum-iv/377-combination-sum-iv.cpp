@@ -13,7 +13,7 @@ typedef vector<vector<int>> VII;
 typedef vector<string> VS;
 typedef vector<vector<string>> VVS;
 typedef vector<PII> VIII;
-typedef vector<VI> VVI;
+typedef vector<uint> VVI;
 typedef map<int,int> MPII;
 typedef priority_queue<pair<int,pair<int,int>>> PQVI;
 typedef unordered_map<string,vector<string>> MPSVS;
@@ -36,14 +36,18 @@ typedef unsigned long long int  uint64;
 class Solution {
 public:
     int combinationSum4(vector<int>& nums, int target) {
-       int n = nums.size();
-        vector<unsigned int> dp(target+1,0);
-        dp[0] = 1;
-        for(int i = 1;i<=target;i++){//for each sub-target, we want to find out the number of combination
-        for(int num:nums){
-            if(i>=num){dp[i] = dp[i]  +  dp[i-num];}
+       int n=nums.size();
+        VVI dp(target+1,0);
+        dp[0]=1;
+        //Now for each subTarget we want to find out the number of combination
+        for(int i=1;i<=target;++i)
+    {
+        for(auto num:nums)
+        {
+            if(i>=num)
+            {dp[i]=dp[i]+dp[i-num];}
         }
     }
-    return dp[target];
+        return dp[target];
     }
 };
