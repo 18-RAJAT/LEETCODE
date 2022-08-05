@@ -14,6 +14,7 @@ typedef vector<string> VS;
 typedef vector<vector<string>> VVS;
 typedef vector<PII> VIII;
 typedef vector<uint> VVI;
+typedef vector<unsigned int> VUI;
 typedef map<int,int> MPII;
 typedef priority_queue<pair<int,pair<int,int>>> PQVI;
 typedef unordered_map<string,vector<string>> MPSVS;
@@ -37,7 +38,8 @@ class Solution {
 public:
     int combinationSum4(vector<int>& nums, int target) {
        int n=nums.size();
-        VVI dp(target+1,0);
+        // VVI dp(target+1,0);
+        VUI dp(target+1,0);
         dp[0]=1;
         //Now for each subTarget we want to find out the number of combination
         for(int i=1;i<=target;++i)
