@@ -14,7 +14,7 @@ typedef vector<string> VS;
 typedef vector<vector<string>> VVS;
 typedef vector<PII> VIII;
 typedef vector<VI> VVI;
-typedef map<int,long> MPII;
+typedef map<int,ll> MPII;
 typedef priority_queue<pair<int,pair<int,int>>> PQVI;
 typedef unordered_map<string,vector<string>> MPSVS;
 typedef set<int> SETI;
@@ -56,6 +56,6 @@ public:
                 mp[arr[i]]=currentState;
                 answer=(answer+currentState)%MOD;
         }
-             return (int)answer;
+             return answer;
     }
 };
