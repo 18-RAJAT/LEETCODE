@@ -29,7 +29,3 @@ public:
         return true;
     }
 };
-
-//r->l
-//bt.pb->(r->v)
-//r->r
