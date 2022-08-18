@@ -47,7 +47,7 @@ public:
         
         int n=arr.size();
         int result=0,sum=0;
-        while(sum<ceil(n/2))
+        while(sum<abs(n/2))
         {
             sum=sum+q.top();q.pop();result++;
         }
