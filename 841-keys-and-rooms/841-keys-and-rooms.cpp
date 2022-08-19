@@ -1,24 +1,58 @@
+#define MP make_pair
+#define PB push_back
+#define INF (int)1e9
+#define EPS 1e-9
+#define MOD 1000000007
+#define PI 3.1415926535897932384626433832795
+#define read(type) readInt<type>()
+const double pi=acos(-1.0);
+#define ll long long
+typedef pair<int, int> PII;
+typedef vector<int> VI;
+typedef vector<bool> VB;
+typedef vector<vector<int>> VII;
+typedef vector<string> VS;
+typedef vector<vector<string>> VVS;
+typedef vector<PII> VIII;
+typedef vector<VI> VVI;
+typedef map<int,int> MPII;
+typedef priority_queue<pair<int,pair<int,int>>> PQVI;
+typedef unordered_map<string,vector<string>> MPSVS;
+typedef set<int> SETI;
+typedef multiset<int> MSETI;
+typedef long int int32;
+typedef unsigned long int uint32;
+typedef long long int int64;
+typedef unsigned long long int  uint64;
+#define all(x) sort(x.begin(), x.end())
+#define ff(a,b) for(int i=a;i<b;i++)
+#define f1(i,s,e) for(long long int i=s;i<e;i++)
+#define ff1(pass) for(long long int i=n-2;i>=0;--i)
+#define cf(i,s,e) for(long long int i=s;i<=e;i++)
+#define FOREACH(n) for(auto it:n)
+#define rf(i,e,s) for(long long int i=e-1;i>=s;i--)
+#define pb push_back
+#define eb emplace_back
 class Solution {
 public:
-    void dfs(vector<vector<int>>&rooms,vector<bool>&visited,int idx,int n)
-{
-    if(visited[idx]==true){return;}//base case
-        visited[idx]=true;//if the idx is visited then
-        for(auto it:rooms[idx])
+    void dfs(VII& rooms,VB& visited,int index,int n)
+    {
+        if(visited[index]==true)return;
+        
+        visited[index]=true;
+        for(auto it:rooms[index])
         {
-            //dfs call 
             dfs(rooms,visited,it,n);
         }
-}
+    }
     bool canVisitAllRooms(vector<vector<int>>& rooms) {
         int n=rooms.size();
-        vector<bool>visited(n,false);//pos + initially false the value
-        dfs(rooms,visited,0,n);//dfs call
-        // for(int i=0;i<nums.size();++i)
-        for(auto it:visited)
+        VB dp(n,false); //visited
+        dfs(rooms,dp,0,n);
+        
+        for(auto it:dp)
         {
-        //it the value is of key already taken previously then we will be considered as false
-            if(it==false){return false;}
+            if(it==false)return false;
         }
         return true;
     }
