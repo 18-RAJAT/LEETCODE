@@ -11,18 +11,27 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        vector<int>a;
-        ListNode*tp=head;
-        while(tp!=NULL)
+        stack<int> start;
+        queue<int> end;
+
+        ListNode* curr = head;
+        
+        while(curr != NULL)
         {
-            a.push_back(tp->val);tp=tp->next;
+            start.push(curr->val); 
+            
+            end.push(curr->val);
+            
+            curr = curr->next;
         }
-        int start=0,end=a.size()-1;
-        while(start<end)
+        
+        while(!start.empty() and !end.empty())
         {
-            if(a[start]!=a[end])return 0;
-                start++;end--;
+            if(start.top() != end.front()) return false;
+        
+             start.pop(); end.pop();
         }
-        return 1;
+        
+        return true;
     }
 };
