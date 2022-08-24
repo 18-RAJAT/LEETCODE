@@ -39,7 +39,7 @@ typedef unsigned long long int  uint64;
 class Solution {
 public:
     int minReorder(int n, vector<vector<int>>& connections) {
-        QUE q;int result=0;
+        QUE q;
         VB visited(n,false);
         q.push(0);
         VII a(n),b(n);
@@ -48,6 +48,7 @@ public:
             a[it[0]].pb(it[1]);
             b[it[1]].pb(it[0]);
         }
+        int result=0;
         visited[0]=true;
         while(!q.empty())
         {
