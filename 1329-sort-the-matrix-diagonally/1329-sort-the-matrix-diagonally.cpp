@@ -1,19 +1,18 @@
 class Solution {
 public:
-    vector<vector<int>> diagonalSort(vector<vector<int>>& A) {
-    int m = A.size(), n = A[0].size();
-    for (int i = 0; i < m; i++) {
-        for (int j = 0; j < (i?1:n); j++) {
-            vector<int> vals;
-            while (i<m && j<n)
-                vals.push_back(A[i++][j++]);
-            sort(vals.begin(), vals.end());
-            while (i && j) {
-                A[--i][--j] = vals.back();
-                vals.pop_back();
+    vector<vector<int>> diagonalSort(vector<vector<int>>& mat) {
+        
+    for(int k=0;k<mat.size();k++)
+    {
+        for(int i=1;i<mat.size();i++)
+        {
+            for(int j=1;j<mat[0].size();j++)
+            {
+                if(mat[i][j]<mat[i-1][j-1])
+                    swap(mat[i][j],mat[i-1][j-1]);
             }
         }
     }
-    return A;
-}
+        return mat;
+    }
 };
