@@ -40,35 +40,51 @@ class Solution {
 public:
     int romanToInt(string s) {
 
-        MPCI roman;
-        roman.insert(PCI('I', 1));
-        roman.insert(PCI('V', 5));
-        roman.insert(PCI('X', 10));
-        roman.insert(PCI('L', 50));
-        roman.insert(PCI('C', 100));
-        roman.insert(PCI('D', 500));
-        roman.insert(PCI('M', 1000));
+//         MPCI roman;
+//         roman.insert(PCI('I', 1));
+//         roman.insert(PCI('V', 5));
+//         roman.insert(PCI('X', 10));
+//         roman.insert(PCI('L', 50));
+//         roman.insert(PCI('C', 100));
+//         roman.insert(PCI('D', 500));
+//         roman.insert(PCI('M', 1000));
         
-        int len=s.length(),num,sum=0;
+//         int len=s.length(),num,sum=0;
 
-        for(int i=0;i<len;){
-            if(i==(len-1)){
-                num=roman[s[i]];
-                ++i;
-            }
-            else if(roman[s[i]]<roman[s[i+1]])
-            {
-                num=roman[s[i+1]]-roman[s[i]];
-                i=i+2;
-            }
-            else
-            {
-                num=roman[s[i]];
-                ++i;
-            }
-            sum+=num;
+//         for(int i=0;i<len;){
+//             if(i==(len-1)){
+//                 num=roman[s[i]];
+//                 ++i;
+//             }
+//             else if(roman[s[i]]<roman[s[i+1]])
+//             {
+//                 num=roman[s[i+1]]-roman[s[i]];
+//                 i=i+2;
+//             }
+//             else
+//             {
+//                 num=roman[s[i]];
+//                 ++i;
+//             }
+//             sum+=num;
+//         }
+
+//         return sum;
+        
+        int a[1000];
+        a['I']=1; 
+        a['V']=5;
+        a['X']=10;
+        a['L']=50;
+        a['C']=100;
+        a['D']=500;
+        a['M']=1000;
+        int sum=0;
+        f1(i,0,s.size()-1)
+        {
+            if(a[s[i]]<a[s[i+1]]){sum=sum-a[s[i]];}
+            else{sum=sum+a[s[i]];}
         }
-
-        return sum;
+        sum=sum+a[s[s.size()-1]];return sum;
     }
 };
