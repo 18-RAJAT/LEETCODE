@@ -1,64 +1,81 @@
+#define MP make_pair
+#define PB push_back
+#define INF (int)1e9
+#define EPS 1e-9
+#define MOD 1000000007
+#define PI 3.1415926535897932384626433832795
+#define read(type) readInt<type>()
+const double pi=acos(-1.0);
+#define ll long long
+typedef pair<int, int> PII;
+typedef vector<int> VI;
+typedef vector<vector<int>> VII;
+typedef vector<string> VS;
+typedef vector<bool> VB;
+typedef vector<vector<string>> VVS;
+typedef vector<vector<bool>> VVB;
+typedef vector<PII> VIII;
+typedef vector<VI> VVI;
+typedef map<int,int> MPII;
+typedef priority_queue<pair<int,pair<int,int>>> PQVI;
+typedef unordered_map<string,vector<string>> MPSVS;
+typedef set<int> SETI;
+typedef multiset<int> MSETI;
+typedef long int int32;
+typedef unsigned long int uint32;
+typedef long long int int64;
+typedef unsigned long long int  uint64;
+#define all(x) sort(x.begin(), x.end())
+#define ff(a,b) for(int i=a;i<b;i++)
+#define f1(i,s,e) for(int i=s;i<e;i++)
+#define ff1(pass) for(int i=n-2;i>=0;--i)
+#define cf(i,s,e) for(long long int i=s;i<=e;i++)
+#define FOREACH(n) for(auto it:n)
+#define rf(i,e,s) for(long long int i=e-1;i>=s;i--)
+#define pb push_back
+#define eb emplace_back
+
 class Solution {
 public:
     
-    // DFS Function implementation
-    void dfs_fun(vector<vector<int>> &heights,int i,int j,int prev,vector<vector<int>> &oce){
-        if(i<0 || i>=oce.size() || j<0 || j>=oce[0].size()){
-            return;
-        }
-        if(heights[i][j]<prev || oce[i][j]==1){
-            return;
-        }
+    void dfs(int r,int c,VVB &visited,int previous,VVI &heights)
+    {
+        if(r<0 or r>=heights.size() or c<0 or c>=heights[0].size()){return;}
+        if(visited[r][c] or heights[r][c]<previous){return;}
+        visited[r][c]=true;
         
-        oce[i][j]=1;
-        
-        dfs_fun(heights,i,j+1,heights[i][j],oce);
-        dfs_fun(heights,i,j-1,heights[i][j],oce);
-        dfs_fun(heights,i+1,j,heights[i][j],oce);
-        dfs_fun(heights,i-1,j,heights[i][j],oce);
+        dfs(r+1,c,visited,heights[r][c],heights);
+        dfs(r-1,c,visited,heights[r][c],heights);
+        dfs(r,c+1,visited,heights[r][c],heights);
+        dfs(r,c-1,visited,heights[r][c],heights);
     }
     
     vector<vector<int>> pacificAtlantic(vector<vector<int>>& heights) {
-        // no. of rows
-        int m=heights.size();
-        // no. of columns
-        int n=heights[0].size();
+        int row=heights.size();
+        int col=heights[0].size();
+        VVB pacific(row,VB(col,false));
+        VVB atlantic(row,VB(col,false));
         
-        // 2-d vector for storing ans
-        vector<vector<int>> ans;
-        
-        if(m==0 and n==0){
-            return ans;
+        f1(i,0,col)
+        {
+            dfs(0,i,pacific,INT_MIN,heights);
+            dfs(row-1,i,atlantic,INT_MIN,heights);
         }
         
-        // pacific and atlantic 2-d vector for checking from which block it is possible to reach the specified location
-        vector<vector<int>> pacific(m,vector<int> (n));
-        vector<vector<int>> atlantic(m,vector<int> (n));
-        
-        
-        // Depth First Traversal Call
-        for(int j=0;j<n;j++){
-            dfs_fun(heights,0,j,INT_MIN,pacific);
-            dfs_fun(heights,m-1,j,INT_MIN,atlantic);
+        f1(j,0,row)
+        {
+            dfs(j,0,pacific,INT_MIN,heights);
+            dfs(j,col-1,atlantic,INT_MIN,heights);
         }
         
-        for(int j=0;j<m;j++){
-            dfs_fun(heights,j,0,INT_MIN,pacific);
-            dfs_fun(heights,j,n-1,INT_MIN,atlantic);
-        }
-        
-        
-        // Intersection of Pacific and Atlantic ocean where both are having true value is our coordinates.
-        
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(pacific[i][j]==1 && atlantic[i][j]==1){
-                    ans.push_back({i,j});
-                }
+        VII answer;
+        f1(R,0,row)
+        {
+            f1(C,0,col)
+            {
+                if(pacific[R][C] and atlantic[R][C]){answer.pb({R,C});}
             }
         }
-        
-        return ans;
-        
+        return answer;
     }
 };
