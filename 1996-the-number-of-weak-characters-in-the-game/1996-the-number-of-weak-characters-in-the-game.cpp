@@ -21,7 +21,7 @@ public:
         {
             if(prop[i][0]<prop[i+1][0])
             {
-                b=max(maxi,b);
+                b=max(maxi,0);
                 maxi=max(b,prop[i][1]);
             }
             if(prop[i][0]<a and prop[i][1]<b){ans++;}
