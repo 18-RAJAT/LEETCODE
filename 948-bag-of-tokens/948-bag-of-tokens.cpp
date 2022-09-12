@@ -33,7 +33,6 @@ typedef unsigned long long int  uint64;
 #define pb push_back
 #define eb emplace_back
 
-
 class Solution {
 public:
     int bagOfTokensScore(vector<int>& tokens, int power) {
