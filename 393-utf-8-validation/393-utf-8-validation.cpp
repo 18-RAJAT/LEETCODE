@@ -5,7 +5,7 @@ public:
         
         for(auto it:data)
         {
-            if(byte == 0)
+            if(byte==0)
             {
                 if((it>>7)==0b0){byte=0;}
                 else if((it>>5)==0b110){byte=1;}
