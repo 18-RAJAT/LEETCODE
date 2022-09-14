@@ -14,7 +14,7 @@ class Solution {
     void dfs(TreeNode *root) {
         if(root==nullptr){return;}
         arr[root->val]++;
-        if (!root->left and !root->right)
+        if(root->left==nullptr and root->right==nullptr)
         {
             int c=0;
             for(int i=1;i<1001;++i) 
