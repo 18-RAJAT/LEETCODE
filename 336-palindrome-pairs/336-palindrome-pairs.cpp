@@ -1,65 +1,74 @@
-struct TrieNode
-{
-    TrieNode *child[26]={};
-    int curIndex=-1;
-    vector<int> wordIndex;
-};
-class Solution
-{
-    bool isPalindrome(string &s, int i, int j)
-    {
-        while (i < j)
-        {
-            if (s[i++] != s[j--])
-                return false;
+class Solution {
+    bool checkPal(string &str , int st , int ed){
+        int i = st , j = ed;
+        while(i < j){
+            if(str[i] != str[j]){
+                return 0;
+            }
+            i++,j--;
         }
-        return true;
+        return 1;
     }
-    TrieNode *root;
-    void insert(string &s, int index)
-    {
-        TrieNode *cur = root;
-        for (int i = s.size() - 1; i >= 0; i--)
-        {
-            int c = s[i] - 'a';
-            if (cur->child[c] == nullptr)
-                cur->child[c] = new TrieNode();
-            if (isPalindrome(s, 0, i))
-                cur->wordIndex.push_back(index);
-            cur = cur->child[c];
-        }
-        cur->wordIndex.push_back(index);
-        cur->curIndex = index;
-    }
-
 public:
-    vector<vector<int>> palindromePairs(vector<string> &words)
-    {
-        root = new TrieNode();
-        for (int i = 0; i < words.size(); i++)
-            insert(words[i], i);
+    
+    vector<vector<int>> palindromePairs(vector<string>& words) {
+        int n = words.size();
+        unordered_map<string , int> mp;
+        unordered_map<string , int> mp2;
+        for(int i = 0 ; i < n ; i++){
+            reverse(words[i].begin() , words[i].end());
+            mp[words[i]] = i;
+            reverse(words[i].begin() , words[i].end());
+            mp2[words[i]] = i; 
+        }
+        
         vector<vector<int>> ans;
-        for (int i = 0; i < words.size(); i++)
-        {
-            TrieNode *cur = root;
-            string &s = words[i];
-            for (int j = 0; j < s.size(); j++)
-            {
-                if (cur->curIndex != -1 && cur->curIndex != i && isPalindrome(s, j, s.size() - 1))
-                    ans.push_back({i, cur->curIndex});
-                cur = cur->child[s[j] - 'a'];
-                if (cur == nullptr)
-                    break;
-            }
-            if (cur == nullptr)
-                continue;
-            for (int j : cur->wordIndex)
-            {
-                if (i == j)
+        set<vector<int>> st;
+        vector<int>temp(2);
+        if(mp.find("") != mp.end()){
+            int id = mp[""];
+            for(int i = 0 ; i < n ;i++){
+                if(i == id){
                     continue;
-                ans.push_back({i, j});
+                }
+                if(checkPal(words[i] , 0 , words[i].size() - 1) ){
+                    temp[0] = id;
+                    temp[1] = i;
+                    st.insert(temp);
+                    temp[0] = i;
+                    temp[1] = id;
+                    st.insert(temp);
+                }
             }
         }
+        for(int i = 0 ; i < n ; i++){
+            if(words[i] == ""){
+                continue;
+            }
+            string need = "";
+            for(int j = 0 ; j < words[i].size() ; j++){
+                need += words[i][j];
+                if(mp.find(need) != mp.end() && mp[need] != i && checkPal(words[i], j + 1 , words[i].size() - 1)){
+                    temp[0] = i;
+                    temp[1] = mp[need];
+                     st.insert(temp);
+                }
+            }
+            need = "";
+            for(int j = words[i].size() - 1 ; j >= 0 ; j--){
+                need += words[i][j];
+                if(mp2.find(need) != mp2.end() && mp2[need] != i && checkPal(words[i] , 0 , j - 1)){
+                    temp[0] = mp2[need];
+                    temp[1] = i;
+                    st.insert(temp);
+                }
+            
+            }
+        }
+        for(auto x : st){
+            ans.push_back(x);
+        }
+        sort(ans.begin() , ans.end());
         return ans;
     }
 };
