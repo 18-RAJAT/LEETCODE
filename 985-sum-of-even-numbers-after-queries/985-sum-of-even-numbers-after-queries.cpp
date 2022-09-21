@@ -1,8 +1,10 @@
 class Solution {
+private:
+
+vector<int>ans;int sum=0;
+
 public:
     vector<int> sumEvenAfterQueries(vector<int>& nums, vector<vector<int>>& queries) {
-        vector<int>ans;
-        int sum=0;
         for(auto query:queries)
         {
             if(ans.size()==0)
