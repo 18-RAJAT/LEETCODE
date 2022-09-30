@@ -70,7 +70,7 @@ public:
         }  
         
         VII res;
-        int prev=0;
+        int prev=-1;
         for(auto i:ans)
         {
             if(i[1]!=prev)
