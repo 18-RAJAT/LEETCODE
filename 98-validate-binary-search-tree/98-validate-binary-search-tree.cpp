@@ -11,21 +11,32 @@
  */
 class Solution {
 public:
-    vector<int>BinaryTree;
-    void inorder(TreeNode*root)
+    vector<int>bTree;
+    void inorder(TreeNode* root)
     {
-        if(!root){return;}
+        if(root==nullptr)
+        {
+            return;
+        }
         inorder(root->left);
-        BinaryTree.push_back(root->val);
+        bTree.push_back(root->val);
         inorder(root->right);
     }
     bool isValidBST(TreeNode* root) {
-        if(!root)return true;
-        if(!root->right and !root->left)return true;
+        
+        if(root->right==nullptr and root->left==nullptr)
+        {
+            return true;
+        }
         inorder(root);
-        int n=BinaryTree.size()-1;
+        int n=bTree.size()-1;
         for(int i=0;i<n;++i)
-            if(BinaryTree[i]>=BinaryTree[i+1])return false;
+        {
+            if(bTree[i+1]<=bTree[i])
+            {
+                return false;
+            }
+        }
         return true;
     }
 };
