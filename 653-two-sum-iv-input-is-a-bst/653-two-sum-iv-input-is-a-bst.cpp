@@ -11,16 +11,17 @@
  */
 class Solution {
 public:
+    set<int>s;
     bool findTarget(TreeNode* root, int k) {
-        unordered_set<int> s;
-        return help(root, k, s);
-    }
-    bool help(TreeNode* n, int k, unordered_set<int>& s){
-        if(!n) return false;
-        if(s.find(n->val) != s.end()) return true;
-        else{
-            s.insert(k - n->val);
-            return help(n->left, k, s) || help(n->right, k, s);
+        if(root==nullptr)
+        {
+            return false;
         }
+        if(s.count(k-root->val))
+        {
+            return true;
+        }
+        s.insert(root->val);
+        return findTarget(root->left,k) or findTarget(root->right,k);
     }
 };
