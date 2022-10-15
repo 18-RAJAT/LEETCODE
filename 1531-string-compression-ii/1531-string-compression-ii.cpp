@@ -1,24 +1,42 @@
-int dp[101][27][101][101];
 class Solution {
 public:
-    string s;
-    int solve(int idx, int last, int len, int k ){
-        if(k<0)return INT_MAX/2;
-        if(idx>=s.size())return 0;
-        int &ans=dp[idx][last][len][k];
-        if(ans!=-1)return ans;
-        if(s[idx]-'a'==last){
-            int carry=(len==1||len==9||len==99);
-            ans= carry+solve(idx+1, last, len+1, k);
+    int getLengthOfOptimalCompression(string s, int k) {
+        int n = s.size();
+        int m = k;
+
+        int dp[110][110] = {};
+        for (int i = 1; i <= n; ++i) {
+            for (int j = 0; j <= i && j <= m; ++j) {
+                int need_remove = 0;
+                int group_count = 0;
+                dp[i][j] = INT_MAX;
+                if (j) {
+                    dp[i][j] = dp[i - 1][j - 1];
+                }
+                for (int k = i; k >= 1; --k) {
+                    if (s[k - 1] != s[i - 1]) {
+                        need_remove += 1;
+                    } else {
+                        group_count += 1;
+                    }
+
+                    if (need_remove > j) {
+                        break;
+                    }
+
+                    if (group_count == 1) {
+                        dp[i][j] = min(dp[i][j], dp[k - 1][j - need_remove] + 1);
+                    } else if (group_count < 10) {
+                        dp[i][j] = min(dp[i][j], dp[k - 1][j - need_remove] + 2);
+                    } else if (group_count < 100) {
+                        dp[i][j] = min(dp[i][j], dp[k - 1][j - need_remove] + 3);
+                    } else {
+                        dp[i][j] = min(dp[i][j], dp[k - 1][j - need_remove] + 4);
+                    }
+                }
+            }
         }
-        else {
-            ans=min(1+solve(idx+1, s[idx]-'a', 1, k), solve(idx+1, last, len,k-1));
-        }
-        return ans;
-    }
-    int getLengthOfOptimalCompression(string str, int k) {
-        s=str;
-        memset(dp, -1, sizeof(dp));
-        return solve(0, 26, 0, k);
+
+        return dp[n][m];
     }
 };
