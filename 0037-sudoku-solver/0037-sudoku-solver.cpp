@@ -14,7 +14,8 @@
 #define eb emplace_back
 typedef pair<int, int> PII;
 typedef vector<int> VI;
-typedef vector<vector<int>> VII;
+typedef vector<vector<int>>vii;
+typedef vector<vector<char>>vvc;
 typedef vector<string> VS;
 typedef vector<vector<string>> VVS;
 typedef vector<PII> VIII;
@@ -28,7 +29,7 @@ typedef multiset<int> MSETI;
 
 class Solution {
 public:
-    bool fun(vector<vector<char>>& grid)
+    bool helper(vvc& grid)
     {
         f1(i,0,9)
         {
@@ -45,7 +46,7 @@ public:
                             grid[i][j]=c;
                         
                         
-                        if(fun(grid)==true)
+                        if(helper(grid)==true)
                         {
                             return true;
                         }
@@ -62,22 +63,29 @@ public:
         }
         return true;
     }
-    bool isValid(char c,int row,int col,vector<vector<char>> grid){
+    bool isValid(char c,int row,int col,vvc grid){
         f1(i,0,9)
         {
             
             if(grid[row][i]==c)
+            {
                 return false;
+            }
             
             if(grid[i][col]==c)
+            {
                 return false;
+            }
             
             if(grid[3*(row/3)+i/3][3*(col/3)+i%3]==c)
+            {
                 return false;
+            }
         }
         return true;
     }
-    void solveSudoku(vector<vector<char>>& board) {
-        fun(board);
+    void solveSudoku(vvc& board) 
+    {
+        helper(board);
     }
 };
