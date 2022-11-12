@@ -1,39 +1,45 @@
 class MedianFinder {
-private:priority_queue<int> que1;
-        priority_queue<int, vector<int>, greater<int> > que2;
 public:
-
-    // Adds a number into the data structure.
-    void addNum(int num) {
-        if(que1.empty() &&que2.empty()) {que1.push(num);return;}
-        double mid=findMedian();
-        if(num<mid) {que1.push(num);
-            if(que1.size()-que2.size()>1){
-               int t=que1.top();
-               que1.pop();
-               que2.push(t);
-            }
-        }else{
-            que2.push(num);
-            if(que2.size()-que1.size()>=1){
-               int t=que2.top();
-               que2.pop();
-               que1.push(t);
-            }
+    // we will use heaps (min and max) to get the median using . We will try to keep them balanced on basis of their size so that at    end we will have the medians at top.
+    // we are not interested in other numbers just the middle one thats why using heap combo of min and max .
+	// we are using min and max beacuse we will maintain our heaps in a way that max of max heap will always be lesser than equal to min of min Heap in this way we be able to get the medians
+    priority_queue<int,vector<int>,greater<int>> minH;
+    priority_queue<int> maxH;
+    MedianFinder() {}
+    
+    void addNum(int num) 
+    {
+        if(maxH.empty() or num<maxH.top())
+        {
+            maxH.push(num);
         }
-        return;
-        
+        else
+        {
+            minH.push(num);
+        }
+        if(maxH.size()>minH.size()+1)
+        {
+            minH.push(maxH.top());
+            maxH.pop();
+        }
+        else if(minH.size()>maxH.size()+1)
+        {
+            maxH.push(minH.top());
+            minH.pop();
+        }
     }
-
-    // Returns the median of current data stream
-    double findMedian() {
-        if(que1.empty() &&que2.empty()) return 0;
-        if(que1.size()==que2.size()){
-            double m=que1.top(),n=que2.top();
-            return (m+n)/2;
+    
+    double findMedian() 
+    {
+        if(maxH.size()==minH.size())
+        {
+            return (maxH.top()+minH.top())/2.0;
         }
-        if(que1.size()>que2.size()) return (double)que1.top();
-        else return (double)que2.top();
+        else
+        {
+            return maxH.size()>minH.size()?maxH.top():minH.top();
+        }
+        
     }
 };
 
