@@ -24,12 +24,15 @@ typedef priority_queue<pair<int,pair<int,int>>> PQVI;
 typedef unordered_map<string,vector<string>> MPSVS;
 typedef set<int> SETI;
 typedef multiset<int> MSETI;
+#define nl endl
 
 class Solution {
 public:
     string reverseWords(string s) {
         stack<string>st;
-        f1(i,0,s.length())
+        int n=s.length();
+        // int ct=0;
+        f1(i,0,n)
         {
             string word="";
             if(s[i]==' ')
@@ -41,8 +44,11 @@ public:
                 word+=s[i];
                 ++i;
             }
+            // cout<<i<<" ";
+            
             st.push(word);
         }
+        // int x=st.top();
         string ans="";
         while(!st.empty())
         {
@@ -51,8 +57,12 @@ public:
             
             if(!st.empty())
             {
+                // ct++;
                 ans+=" ";
             }
+            // cout<<ans<<" ";
+            
+            // cout<<ct<<nl;
         }
         return ans;
     }
