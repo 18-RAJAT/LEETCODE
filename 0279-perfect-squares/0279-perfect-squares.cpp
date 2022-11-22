@@ -24,7 +24,8 @@ public:
             for(int j=1;j*j<=i;j++)
             {
                 //compute
-                dp[i]=min(dp[i],dp[i-j*j]+1);
+                int sq=j*j;
+                dp[i]=min(dp[i],dp[i-sq]+1);
                 // cout<<dp[i]<<endl;
             }
         }
