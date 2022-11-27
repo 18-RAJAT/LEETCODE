@@ -1,19 +1,19 @@
 class Solution {
 public:
     int numberOfArithmeticSlices(vector<int>& nums) {
-        
         int n = nums.size();
-        long long int ans = 0;
-        vector<unordered_map<long long int,long long int>> dp(n);
-
-        for(int i=0; i<n; i++)
+        vector<unordered_map<long long,int>> ind_diff(n);// Store for every index number of sequence (ind_diff[i][diff])
+        int ans = 0;
+        for(int i=0;i<n;i++)
         {
-            for(int j=0; j<i; j++)
+            int cur = 0;
+            for(int j=0;j<i;j++)
             {
-                long long int diff = (long long int)nums[i] - nums[j];
-                ans += dp[j].find(diff) == dp[j].end() ? 0 : dp[j][diff];
-                dp[i][diff] += dp[j][diff]+1;
+                long long diff = (long)nums[i]-nums[j];
+                cur = cur + ind_diff[j][diff];// no. of valid sequence ending at i index with difference diff
+                ind_diff[i][diff]+=(ind_diff[j][diff]+1);// add current sequence (nums[j] ,nums[i]) + previous sequence ending at j equal to total no of sequence ending at i with difference diff
             }
+            ans+=cur;
         }
         return ans;
     }
