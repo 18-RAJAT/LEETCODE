@@ -11,7 +11,7 @@ public:
         {
             st.insert(it.second);
         }
-        if(st.size()==mp.size())
+        if(mp.size()==st.size())
         {
             return true;
         }
