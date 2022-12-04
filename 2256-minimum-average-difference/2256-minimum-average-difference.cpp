@@ -1,33 +1,29 @@
 class Solution {
 public:
-    #define ll long long
     int minimumAverageDifference(vector<int>& nums) {
-        int n = nums.size();
-        int val = INT_MAX;
-        int idx = 0;
-        
-        ll sum = 0,cur = 0;
-        for(int i:nums)sum += i;
- 
-        for(int i=0;i<n;i++)
-        {
-            cur += nums[i];
-            sum -= nums[i];
+        long long int prefixR=0,prefixL=0;
+        for(auto it:nums)
             
-            ll c_val = 0;
-            if(i == n-1)
+        prefixR+=it;
+
+        int mn=INT_MAX,ans=0;
+        int n=nums.size();
+        for(int i=0;i<n-1;i++)
+        {
+            prefixR-=nums[i];
+            prefixL+=nums[i];
+            // int temp=abs(prefixL-(prefixR));
+            int temp=abs(prefixL/(i+1)-prefixR/(n-i-1));
+            if(temp<mn)
             {
-                c_val = cur/(i+1);
+                mn=temp;
+                ans=i;
             }
-            else c_val = abs((cur)/(i+1)-((sum)/(n-i-1)));
-            if(c_val < val)
-            {
-                val = c_val;
-                idx = i;
-                // idx++;
-            }
-        } 
-        return idx;
+        }
+        if(mn>(prefixL+nums.back())/n)
+        {
+            return n-1;
+        }
+        return ans;
     }
 };
-   
