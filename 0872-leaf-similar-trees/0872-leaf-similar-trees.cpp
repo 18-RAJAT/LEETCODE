@@ -12,9 +12,8 @@
 class Solution {
 public:
      void dfs(TreeNode* root,vector<int>&v){
-        // base condition
-        if(root == NULL) return;
-        if(root->left == NULL and root->right == NULL) 
+        if(root==nullptr) return;
+        if(root->left==nullptr and root->right==nullptr) 
         {
             v.push_back(root->val);
             return;
@@ -31,6 +30,13 @@ public:
         dfs(root1,tree1);
         dfs(root2,tree2);
 
-        return tree1 == tree2;
+        if(tree1==tree2)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
     }
 };
