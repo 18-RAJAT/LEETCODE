@@ -1,3 +1,5 @@
+#define ll long long int
+
 class Solution {
 public:
     int evalRPN(vector<string>& tokens) {
@@ -20,7 +22,7 @@ public:
                
                if(i=="+") st.push(num2+num1);
                if(i=="-") st.push(num2-num1);
-               if(i=="*") st.push((long long int)num2*num1);
+               if(i=="*") st.push((ll)num2*num1);
                if(i=="/") st.push(num2/num1);
 
            }
