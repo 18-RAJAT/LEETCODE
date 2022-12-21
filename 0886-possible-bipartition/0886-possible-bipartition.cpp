@@ -4,6 +4,7 @@ public:
         vector<int>color(n+1,0);
         vector<int>adj[n+1];
         
+        queue<int>que;
         int m=dislikes.size();
         for(int i=0;i<m;++i)
         {
@@ -12,11 +13,10 @@ public:
         }
         for(int i=1;i<=n;++i)
         {
-            if(color[i]==0)
+            if(color[i]==false)
             {
-                queue<int>que;
                 que.push(i);
-                color[i]=1;
+                color[i]=true;
                 
                 while(!que.empty())
                 {
@@ -25,15 +25,15 @@ public:
                     
                     for(int i=0;i<x;++i)
                     {
-                        for(auto &it:adj[node])
+                        for(auto it:adj[node])
                         {
                             if(color[node]==color[it])
                             {
                                 return false;
                             }
-                            if(color[it]==0)
+                            if(color[it]==false)
                             {
-                                color[it]-=color[node];
+                                color[it]=color[it]-color[node];
                                 que.push(it);
                             }
                         }
