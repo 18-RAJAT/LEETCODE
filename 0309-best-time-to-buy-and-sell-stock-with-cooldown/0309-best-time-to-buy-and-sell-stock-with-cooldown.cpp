@@ -1,25 +1,23 @@
 class Solution {
 public:
+    // 1. 3 options a day buy sell or leave
+    // 2. If bought , then only sell or leave (until you sell)
+    // 3. If sold , then only buy or leave (until you sell)
+    // 4. If left , then buy or sell (if you have any)
     int maxProfit(vector<int>& prices) {
+        int hold=INT_MIN;
+        int temp=INT_MIN;
+        int empty=0;
         
-        int n = prices.size();
-        vector<vector<int>> dp(n,vector<int> (2,-1));
-        return f(0,1,prices,dp);
-
-    }
-    int f(int i,int b,vector<int>& prices,vector<vector<int>> &dp){
-        if(i >= prices.size()){
-            return 0;
+        int n=prices.size();
+        // for(int i=1;i<n;++i)
+        for(auto &i:prices)
+        {
+            hold=max(hold,empty-i);
+            empty=max(empty,temp);
+            temp=hold+i;
         }
-        if(dp[i][b]!=-1){
-            return dp[i][b];
-        }
-        int profit = 0;
-        if(b){
-            profit = max(-prices[i] + f(i+1,0,prices,dp),f(i+1,1,prices,dp));
-        }else{
-            profit = max(prices[i] + f(i+2,1,prices,dp),f(i+1,0,prices,dp));
-        }
-        return dp[i][b] = profit;
+        int maximumProfit=max(empty,temp);
+        return maximumProfit;
     }
 };
