@@ -1,17 +1,22 @@
 class Solution {
 public:
-    vector<int> answerQueries(vector<int>& num, vector<int>& q) {
+    vector<int> answerQueries(vector<int>& nums, vector<int>& queries) {
         vector<int>ans;
-        sort(num.begin(),num.end());
-        for(int i=1;i<num.size();i++)
+        sort(nums.begin(),nums.end());
+        for(auto it:queries)
         {
-            num[i]+=num[i-1];
-        }
-        
-        for(int i=0;i<q.size();i++)
-        {
-            int ind=upper_bound(num.begin(),num.end(),q[i])-num.begin();
-            ans.push_back(ind);
+            int sum=0;
+            int ct=0;
+            for(int i=0;i<nums.size();++i)
+            {
+                //pf
+                sum+=nums[i];
+                if(sum<=it)
+                {
+                    ct++;
+                }
+            }
+            ans.push_back(ct);
         }
         return ans;
     }
