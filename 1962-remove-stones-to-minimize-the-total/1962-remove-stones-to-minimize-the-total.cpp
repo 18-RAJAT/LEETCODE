@@ -14,7 +14,7 @@ public:
             pq.pop();
             int halfSide=tp/2;
             
-            int op=tp-halfSide;
+            int op=abs(tp-halfSide);
             pq.push(op);
         }
         int ans=0;
