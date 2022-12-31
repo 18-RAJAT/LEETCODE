@@ -1,42 +1,52 @@
 class Solution {
 public:
-    
-    vector<vector<int>> dir = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
-    
-    void dfs(vector<vector<int>>& grid, vector<vector<int>>& dp, 
-             int i, int j, int m, int n, int val, int& count, int space) {
-        
-        //cout << i << ":" << j << ":" << ":" << val << endl;
-        if (i < 0 || i == m || j < 0 || j == n)  return;
-        if (grid[i][j] == -1 || dp[i][j] == 1)   return;
-        if (grid[i][j] == 2) {
-            if (space == val)   count++;
+    int xLen,yLen,totalZeros=0,res=0,cell,x,y;
+    void dfs(vector<vector<int>>& grid,int x,int y) 
+    {
+        if(x<0 or y<0 or x==xLen or y==yLen)
+        {
             return;
         }
-        dp[i][j] = 1;
-        for (int k = 0; k < dir.size(); k++) {
-            int x = i + dir[k][0], y = j + dir[k][1];
-            dfs(grid, dp, x, y, m, n, val + 1, count, space);
+        cell = grid[y][x];
+        if(cell) 
+        {
+            // increasing res if we reached the point and touched all available cell
+            res+=cell==2 and !totalZeros;
+            // res+=!totalZeros;
+            return;
         }
-        dp[i][j] = 0;
+        //visited marked
+        grid[y][x]=-1;
+        totalZeros--;
+        dfs(grid,x,y-1);
+        dfs(grid,x+1,y);
+        dfs(grid,x,y+1);
+        dfs(grid,x-1,y);
+        // backtracking cell as if visited
+        grid[y][x]=0;
+        totalZeros++;
     }
-    
     int uniquePathsIII(vector<vector<int>>& grid) {
-        int space = 0, m = grid.size(), n = grid[0].size(), x, y;
-        
-        vector<vector<int>> dp(m, vector<int>(n, 0));
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 0)    space++;
-                else if (grid[i][j] == 1)  {
-                    x = i; y = j;
+        yLen=grid.size();
+        xLen=grid[0].size();
+        for(int p=0;p<yLen;++p) 
+        {
+            for(int q=0;q<xLen;++q) 
+            {
+                cell=grid[p][q];
+                // finding the starting point
+                if(cell==1) 
+                {
+                    x=q;
+                    y=p;
                 }
+                totalZeros+=!cell;
             }
         }
-        int val = -1, count = 0;
-        grid[x][y] = 0;
-        dfs(grid, dp, x, y, m, n, val, count, space);
-        
-        return count;
+        dfs(grid,x,y-1);
+        dfs(grid,x+1,y);
+        dfs(grid,x,y+1);
+        dfs(grid,x-1,y);
+        return res;
     }
 };
