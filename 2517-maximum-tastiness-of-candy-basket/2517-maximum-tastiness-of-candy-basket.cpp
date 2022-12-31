@@ -1,71 +1,49 @@
-#define MP make_pair
-#define INF (int)1e9
-#define EPS 1e-9
-#define MOD 1000000007
-#define PI 3.1415926535897932384626433832795
-#define ll long long
-#define all(x) sort(x.begin(), x.end())
-#define ff(a,b) for(int i=a;i<b;i++)
-#define f1(i,s,e) for(long long int i=s;i<e;i++)
-#define cf(i,s,e) for(long long int i=s;i<=e;i++)
-#define FOREACH(n) for(auto it:n)
-#define rf(i,e,s) for(long long int i=e-1;i>=s;i--)
-#define pb push_back
-#define eb emplace_back
-typedef pair<int, int> PII;
-typedef vector<int> VI;
-typedef vector<vector<int>> VII;
-typedef vector<string> VS;
-typedef vector<vector<string>> VVS;
-typedef vector<PII> VIII;
-typedef vector<VI> VVI;
-typedef map<int,int> MPII;
-typedef priority_queue<pair<int,pair<int,int>>> PQVI;
-typedef unordered_map<string,vector<string>> MPSVS;
-typedef set<int> SETI;
-typedef multiset<int> MSETI;
-typedef long int int32;
-typedef unsigned long int uint32;
-typedef long long int int64;
-typedef unsigned long long int  uint64;
 class Solution {
 public:
-    bool binarySearch(VI&stalls,int n,int k,int dist)
+    bool check(vector<int>&price,int n,int tastiness,int k)
     {
-        int x=stalls[0];
-        int ct=1;
-        f1(i,1,n)
+        int baskets=1;
+        int lastPosBasket=price[0];//initial
+        
+        for(int i=0;i<n;++i)
         {
-            if(stalls[i]-x>=dist)
+            if(tastiness<=abs(price[i]-lastPosBasket))
             {
-                ct++;
-                x=stalls[i];
-            }
-            if(ct==k)
-            {
-                return true;
-            }
+                   baskets++;
+                   lastPosBasket=price[i];
+                   
+                   if(baskets==k)
+                   {
+                       return true;
+                   }
+             }
         }
         return false;
     }
     int maximumTastiness(vector<int>& price, int k) {
-        sort(price.begin(),price.end());
-        
         int n=price.size();
-        int low=1;
-        int high=price[n-1]-price[0];
-        while(low<=high)
+        sort(price.begin(),price.end());
+        int l=1;
+        int h=price[n-1]-price[0];
+        int ans=0;
+        
+        while(l<=h)
         {
-            int mid=high+(low-high)/2;
-            if(binarySearch(price,n,k,mid))
+            int mid=l+(h-l)/2;
+            
+            if(check(price,n,mid,k))
             {
-                low=mid+1;
+                ans=mid;
+                l=mid+1;
+                
+                // cout<<l<<" "<<ans<<"\n";
             }
             else
             {
-                high=mid-1;
+                h=mid-1;
+                // cout<<h<<" "<<ans<<"\n";
             }
         }
-        return high;
+        return ans;
     }
 };
