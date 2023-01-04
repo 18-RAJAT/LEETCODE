@@ -1,21 +1,34 @@
 class Solution {
 public:
     int minimumRounds(vector<int>& tasks) {
-        int count=1;
-        int res=0;
-        sort(tasks.begin(),tasks.end());
-        for(int i=1;i<=tasks.size();i++,count++)
+        int n=tasks.size();
+        int ans=0;
+        map<int,int>mp;
+        for(auto &it:tasks)
         {
-            if(i==tasks.size() or tasks[i-1]!=tasks[i])
+            mp[it]++;
+        }
+        vector<int>a;
+        for(auto &it:mp)
+        {
+            a.push_back(it.second);
+        }
+        for(int i=0;i<a.size();++i)
+        {
+            if(a[i]==1)
             {
-                if(count==1)
-                {
-                    return -1;
-                }
-                res+=(count+2)/3;
-                count=0;
+                return -1;
+            }
+            if(a[i]%3==0)
+            {
+                ans+=a[i]/3;
+            }
+            else
+            {
+                ans+=a[i]/3;
+                ans++;
             }
         }
-        return res;    
+        return ans; 
     }
 };
