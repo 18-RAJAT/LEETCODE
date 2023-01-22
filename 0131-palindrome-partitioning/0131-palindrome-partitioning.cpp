@@ -1,41 +1,48 @@
 class Solution {
 public:
-    bool isPalindrome(string s)
+    
+    void sol(string s,int i,vector<string>&temp,vector<vector<string>>&ans)
     {
-        int i=0,j=s.size()-1;
-        while(i<j)
+        function<bool(string)>isPal=[&](string s)
         {
-            if(s[i]!=s[j])
+            int i=0;
+            int j=s.size()-1;
+            
+            while(i<j)
             {
-                return false;
+                if(s[i]==s[j])
+                {
+                    i++;
+                    j--;
+                }
+                else
+                {
+                    return false;
+                }
             }
-            i++;
-            j--;
-        }
-        return true;
-    }
-    void solve(string s,int i,vector<string>&temp,vector<vector<string>>&ans)
-    {
+            return true;
+        };
+        
         if(i==s.size())
         {
             ans.push_back(temp);
             return;
         }
-        for(int j=i;j<s.size();j++)
+        for(int j=i;j<s.size();++j)
         {
-            string t=s.substr(i,j-i+1);
-            if(isPalindrome(t))
+            if(isPal(s.substr(i,j-i+1)))
             {
-                temp.push_back(t);
-                solve(s,j+1,temp,ans);
+                temp.push_back(s.substr(i,j-i+1));
+                sol(s,j+1,temp,ans);
                 temp.pop_back();
             }
         }
     }
+    
     vector<vector<string>> partition(string s) {
         vector<vector<string>>ans;
         vector<string>temp;
-        solve(s,0,temp,ans);
-        return ans;      
+        sol(s,0,temp,ans);
+        return ans;
     }
 };
