@@ -1,44 +1,83 @@
 class LFUCache {
-    int capacity;
-    unordered_map<int, pair<int, int>> m; // key -> {value, freq}
-    unordered_map<int, list<int>> freq;   // freq -> list of keys
-    unordered_map<int, list<int>::iterator> pos; // key -> position in freq list
-
 public:
-    LFUCache(int capacity) : capacity(capacity) {}
-
+    LFUCache(int capacity):cap(capacity),minFreq(0){}
+    
     int get(int key) {
-        if (m.count(key) == 0) return -1;
-        freq[m[key].second].erase(pos[key]);
-        m[key].second++;
-        freq[m[key].second].push_back(key);
-        pos[key] = --freq[m[key].second].end();
-        if (freq[minFreq].size() == 0) minFreq++;
-        return m[key].first;
+        // if not found in map, return -1
+        // if found in map, move node to list with ++freq
+        // return the value
+        auto it=cacheMap.find(key);
+        if (it==cacheMap.end()) 
+        {
+            return -1;
+        }
+        move_node(it->second);
+        return it->second.value;
     }
-
+    
     void put(int key, int value) {
-        if (capacity <= 0) return;
-        if (m.count(key) && get(key) != -1) {
-            m[key].first = value;
+        // if found in map, move node to list with ++freq, update the value
+        // if not found in map, 
+        //     if size < cap fine
+        //     if size == cap evit the LRU in list with minFreq
+        //     add to list with freq = 1, minFreq is 1
+        if(cap==0)
+        {
             return;
         }
-        if (m.size() >= capacity) {
-            int k = freq[minFreq].front();
-            freq[minFreq].pop_front();
-            pos.erase(k);
-            m.erase(k);
+        auto it=cacheMap.find(key);
+        if(it!=cacheMap.end())
+        {
+            it->second.value=value;
+            move_node(it->second);
+            return;
         }
-        m[key] = {value, 1};
-        freq[1].push_back(key);
-        pos[key] = --freq[1].end();
-        minFreq = 1;
+        if(cacheMap.size()==cap)
+        {
+            int keyToEvict=cacheLists[minFreq].back();
+            cacheLists[minFreq].pop_back();
+            cacheMap.erase(keyToEvict);
+        }
+        cacheLists[1].push_front(key);
+        minFreq=1;
+        cacheMap[key]={key,value,1,cacheLists[1].begin()};
+    }
+private:
+    int minFreq;
+    int cap;
+    struct Node 
+    {
+        int key; //key is used by move_node()
+        int value;
+        int freq;
+        list<int>::iterator it;
+    };
+    // key to node
+    unordered_map<int,Node>cacheMap;
+    // freq to 'list of keys'
+    unordered_map<int,list<int>>cacheLists;
+
+    // move node from Freq to Freq+1
+    // node can be anywhere in the list of Freq
+    // need to check if minFreq need to be udpated
+    void move_node(Node& node)
+    {
+        int oldFreq=node.freq;
+        int freqPlus=oldFreq+1;
+
+        cacheLists[oldFreq].erase(node.it);
+        if (cacheLists[oldFreq].empty() and oldFreq==minFreq)
+        {
+            cacheLists.erase(oldFreq);
+            ++minFreq;
+        }
+
+        cacheLists[freqPlus].push_front(node.key);
+        node.it=cacheLists[freqPlus].begin();
+        node.freq++;
     }
 
-private:
-    int minFreq = INT_MAX;
 };
-
 
 /**
  * Your LFUCache object will be instantiated and called as such:
