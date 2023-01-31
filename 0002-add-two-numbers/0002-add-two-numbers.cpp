@@ -7,70 +7,40 @@
  *     ListNode(int x) : val(x), next(nullptr) {}
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
-  */
+ */
 class Solution {
 public:
-    ListNode*addingTwoLL(ListNode*l1,ListNode*l2,int generateCarry)
-    {
-        int digit1,digit2;
-        int totalSum;
-        
-        if(l1==nullptr and l2==nullptr)
-        {
-            auto tp=new ListNode(1);
-            // return nullptr;
-            return generateCarry?tp:nullptr;
-        }
-        // else if(generateCarry)
-        // {
-        //     return new ListNode(1);
-        // }
-        // else
-        // {
-        //     return nullptr;
-        // }
-        if(l1)
-        {
-            digit1=l1->val;
-        }
-        else
-        {
-            digit1=0;
-        }
-        
-        if(l2)
-        {
-            digit2=l2->val;
-        }
-        else
-        {
-            digit2=0;
-        }
-        
-        // cout<<digit1<<" "<<digit2<<"\n";
-        
-        totalSum=digit1+digit2+generateCarry;
-        
-        // cout<<"Sum: "<<totalSum<<"\n"; |7,10,8|   l <- r move
-        
-        int generate=totalSum%10;
-        int bitGen=totalSum/10;
-        
-        // cout<<generate<<" "<<bitGen<<"\n";
-        
-        return new ListNode(generate,addingTwoLL(l1?l1->next:l1,l2?l2->next:l2,bitGen));
-    }
-    
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        if(!l1)
+        ListNode*head=new ListNode(0);
+        ListNode*temp=head;
+        int carry=0;
+        int sum;
+        while(l1 or l2 or carry)
         {
-            // cout<<"value of "<<l1<<" "<<l2<<"\n";
-            return l2;
+            sum=0;
+            if(l1)
+            {
+                sum+=l1->val;
+                l1=l1->next;
+            }
+            if(l2)
+            {
+                sum+=l2->val;
+                l2=l2->next;
+            }
+            /*
+                cases
+                1.If carry is 1 then it will add 1 to sum and carry will be 0 again
+                2.If sum is 10 then carry will be 1 and sum will be 0
+                3.if sum is 10 then tmp will be 0 and carry will be 1
+            */
+            sum+=carry;
+            carry=sum/10;
+            ListNode*tmp=new ListNode(sum%10);
+            temp->next=tmp;
+            temp=temp->next;
         }
-        if(!l2)
-        {
-            return l1;
-        }
-        return addingTwoLL(l1,l2,0);
+        return head->next;
     }
 };
+//Time Complexity is O(max(l1,l2))
