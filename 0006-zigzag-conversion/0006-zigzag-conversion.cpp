@@ -1,21 +1,40 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        if(numRows==1)return s;
-        int n=s.length();
-        string ans="";
-        int gap=2*numRows-2;
-        for(int i=0;i<numRows;i++)
+        if(numRows==1)
         {
-            for(int j=i;j<n;j+=gap)
+            return s;
+        }
+        bool down=true;
+        string str[numRows];
+        int row=0;
+        int n=s.size();
+        for(int i=0;i<n;++i)
+        {
+            str[row].push_back(s[i]);
+            
+            if(row==numRows-1)
             {
-                ans+=s[j];
-                if(i!=0 and i!=numRows-1 and j+gap-2*i<n)
-                {
-                    ans+=s[j+gap-2*i];
-                }
+                down=false;
+            }
+            else if(row==0)
+            {
+                down=true;
+            }
+            if(down)
+            {
+                row++;
+            }
+            else
+            {
+                row--;
             }
         }
-        return ans;
+        string res="";
+        for(int i=0;i<numRows;++i)
+        {
+            res+=str[i];
+        }
+        return res;
     }
 };
