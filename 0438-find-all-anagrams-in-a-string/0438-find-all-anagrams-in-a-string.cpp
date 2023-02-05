@@ -1,24 +1,44 @@
 class Solution {
 public:
+    bool check(int a[],int b[])
+    {
+        for(int i=0;i<26;i++)
+        {
+            if(a[i]!=b[i])
+            {
+                return false;
+            }
+        }
+        return true;
+    }
     vector<int> findAnagrams(string s, string p) {
+        vector<int>ans;
         int n=s.size();
         int m=p.size();
-        vector<int>ans;
-        if(n<m)return ans;
-        vector<int>freq(26,0);
-        vector<int>freq1(26,0);
+        if(n<m)
+        {
+            return ans;
+        }
+        int a[26];memset(a,0,sizeof(a));//Pfz
+        int b[26];memset(b,0,sizeof(b));//window
         for(int i=0;i<m;i++)
         {
-            freq[s[i]-'a']++;
-            freq1[p[i]-'a']++;
+            a[s[i]-'a']++;
+            b[p[i]-'a']++;
         }
-        if(freq==freq1)ans.push_back(0);
         for(int i=m;i<n;i++)
         {
-            freq[s[i]-'a']++;
-            freq[s[i-m]-'a']--;
-            if(freq==freq1)ans.push_back(i-m+1);
+            if(check(a,b))
+            {
+                ans.push_back(i-m);
+            }
+            a[s[i]-'a']++;
+            a[s[i-m]-'a']--;
         }
-        return ans;      
+        if(check(a,b))
+        {
+            ans.push_back(n-m);
+        }
+        return ans;     
     }
 };
