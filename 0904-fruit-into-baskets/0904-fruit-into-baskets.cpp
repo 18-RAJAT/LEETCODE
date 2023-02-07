@@ -1,26 +1,25 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
+        map<int,int>cnt;
+        int i,j;
         int n=fruits.size();
-        int ans=0;
-        int i=0,j=0;
-        map<int,int>mp;
-        while(j<n)
+        for(i=0,j=0;j<n;++j)
         {
-            mp[fruits[j]]++;
-            if(mp.size()>2)
+            cnt[fruits[j]]++;
+            // if(cnt.size()<=2)
+            // {
+            //     return {};
+            // }
+            if(cnt.size()>2)
             {
-                while(mp.size()>2)
+                if(--cnt[fruits[i]]==0)
                 {
-                    mp[fruits[i]]--;
-                    if(mp[fruits[i]]==0)
-                        mp.erase(fruits[i]);
-                    i++;
+                    cnt.erase(fruits[i]);
                 }
+                i++;
             }
-            ans=max(ans,j-i+1);
-            j++;
         }
-        return ans;
+        return abs(i-j);
     }
 };
