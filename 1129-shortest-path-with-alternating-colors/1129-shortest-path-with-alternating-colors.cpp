@@ -1,34 +1,66 @@
 class Solution {
 public:
-    //RE=redEdges
-    //BE=blueEdges
-    vector<int> shortestAlternatingPaths(int n, vector<vector<int>>& red_edges, vector<vector<int>>& blue_edges) {
-        // constructing adjacency matrix
-		vector<vector<pair<int,int>>> graph(n);
-        for(auto edge: red_edges)
-            graph[edge[0]].emplace_back(edge[1],0); //red edges are denoted by 0 
-        for(auto edge: blue_edges)
-            graph[edge[0]].emplace_back(edge[1],1); // blue edges are denoted by 1
-        vector<int> dist(n,-1); 
-        
-        queue<vector<int>> q;
-        q.emplace(vector<int>{0,0,-1});
-        
-        while(!q.empty()) {
-            auto front = q.front();
-            q.pop();
-            dist[front[0]] = dist[front[0]] != -1 ? dist[front[0]] : front[1];
-            
-            for(auto &adj : graph[front[0]]) {
-				//Push the node to the queue only if the next edge color is different from the pervious edge color and also if we are visiting the edge
-				//for the first time.
-                if(front[2] != adj.second && adj.first!= -1) {
-                    q.emplace(vector<int>{adj.first, front[1] + 1, adj.second});
-					//Update the value in the adjacency matrix to -1 to denote that the node has already been visited.
-                    adj.first = -1;
+    int tmp=-1;
+    vector<int> shortestAlternatingPaths(int n, vector<vector<int>>& RE, vector<vector<int>>& BE) {
+    
+    function<void(vector<pair<int,char>>arr[],vector<int>&Rvis,vector<int>&Bvis,int node,int d,char pre)>dfs=[&](vector<pair<int,char>>             arr[],vector<int> &Rvis,vector<int> &Bvis,int node,int d,char pre)
+    {
+        if(pre=='R')
+        {
+            Rvis[node]=d;//to store the distance of the node from the source
+        }
+        else
+        {
+            Bvis[node]=d;
+        }
+        for(auto it:arr[node])
+        {
+            if(pre=='R')
+            {
+                //if the previous node was red then we can only go to the blue node
+                if(it.second=='B' and Bvis[it.first]>(d+1))
+                {
+                    dfs(arr,Rvis,Bvis,it.first,d+1,'B');
                 }
             }
+            else 
+            {
+                //if the previous node was blue then we can only go to the red node
+                if(it.second=='R' and Rvis[it.first]>(d+1))
+                {
+                    dfs(arr,Rvis,Bvis,it.first,d+1,'R');
+                } 
+            }
         }
-        return dist;
+    };
+        vector<pair<int,char>>arr[n];
+        for(auto it:RE)
+        {
+            arr[it[0]].push_back({it[1],'R'});
+        }
+        for(auto it:BE)
+        {
+            arr[it[0]].push_back({it[1],'B'});
+        }
+        vector<int> Rvis(n,INT_MAX);
+        vector<int> Bvis(n,INT_MAX);
+        //we will do dfs from the source node and will store the distance of each node from the source
+        dfs(arr,Rvis,Bvis,0,0,'R');
+        dfs(arr,Rvis,Bvis,0,0,'B');
+        
+        vector<int> ans;
+        for(int i=0;i<n;i++)
+        {
+            int mn=min(Rvis[i],Bvis[i]);
+            ans.push_back(mn);
+        }
+        for(int i=0;i<n;i++)
+        {
+            if(ans[i]==INT_MAX)
+            {
+                ans[i]=tmp;
+            }
+        }
+        return ans;
     }
 };
