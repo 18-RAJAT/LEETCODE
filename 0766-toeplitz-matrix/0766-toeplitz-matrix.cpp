@@ -1,29 +1,32 @@
-#define MP make_pair
-#define INF (int)1e9
-#define EPS 1e-9
-#define MOD 1000000007
-#define PI 3.1415926535897932384626433832795
-#define ll long long
-#define all(x) sort(x.begin(), x.end())
-#define ff(a,b) for(int i=a;i<b;i++)
-#define f1(i,s,e) for(long long int i=s;i<e;i++)
-#define cf(i,s,e) for(long long int i=s;i<=e;i++)
-
 class Solution {
 public:
-    bool isToeplitzMatrix(vector<vector<int>>& mat) {
-        int n=mat.size();
-        f1(i,0,n-1)
+    bool isToeplitzMatrix(vector<vector<int>>& matrix) {
+        function<bool(int,int)>check=[&](int i,int j) 
         {
-            int m=mat[i].size();
-            f1(j,0,m-1)
+			int val=matrix[i][j];
+			while (i<matrix.size() and j<matrix[0].size()) 
             {
-                if(mat[i][j]!=mat[i+1][j+1])
-                {
-                    return false;
-                }
-            }
-        }
-        return true;
+				if (matrix[i][j]!=val) {
+					return false;
+				}
+				++i;++j;
+			}
+			return true;
+		};
+        for(int i=0;i<matrix.size();++i) 
+        {
+			if (not check(i,0)) 
+            {
+				return false;
+			}
+		}
+		for(int j=0;j<matrix[0].size();++j) 
+        {
+			if (not check(0,j)) 
+            {
+				return false;
+			}
+		}
+		return true;   
     }
 };
