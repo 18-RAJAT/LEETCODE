@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
-        function<bool(int,int)>check=[&](int i,int j)
+        function<bool(int,int)>check=[&](int i,int j)->bool
         {
             for(int k=0;k<9;k++)
             {
@@ -20,7 +20,7 @@ public:
             {
                 for(int l=0;l<3;l++)
                 {
-                    if((x*3+k!=i and y*3+l!=j) and board[x*3+k][y*3+l]==board[i][j])
+                    if((x*3+k!=i or y*3+l!=j) and board[x*3+k][y*3+l]==board[i][j])
                     {
                         return false;
                     }
