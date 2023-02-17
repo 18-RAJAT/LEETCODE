@@ -11,25 +11,26 @@
  */
 class Solution {
 public:
-    int minDiffInBST(TreeNode* root) {
-        function<void(TreeNode*)>inorder=[&](TreeNode* root)
+
+int minDiffInBST(TreeNode* root) {
+    function<void(TreeNode*)>inorder=[&](TreeNode* root)
+    {
+        if(root==nullptr)
         {
-            if(root==nullptr)
-            {
-                return;
-            }
-            inorder(root->left);
-            if(prev!=nullptr)
-            {
-                ans=min(abs(root->val-prev->val),ans);
-            }
-            prev=root;
-            inorder(root->right);
-        };
-        inorder(root);
-        return ans;
-    }
-    private:
-    TreeNode*prev=nullptr;
-    int ans=INT_MAX;
+            return;
+        }
+        inorder(root->left);
+        if(prev!=nullptr)
+        {
+            ans=min(abs(root->val-prev->val),ans);
+        }
+        prev=root;
+        inorder(root->right);
+    };
+    inorder(root);
+    return ans;
+}
+private:
+TreeNode*prev=nullptr;
+int ans=INT_MAX;
 };
