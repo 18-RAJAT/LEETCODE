@@ -1,35 +1,22 @@
 class Solution {
-  static constexpr int MOD = 1e9 + 7;
 public:
-    int sumSubarrayMins(vector<int>& arr) {  
-      stack<int> s;
-      
-      int n=arr.size();
-      long sum=0;
-      vector<int> dp(n);
-        
-      for (int i=0;i<n;++i) 
-      {
-        
-        while(!s.empty() and arr[s.top()]>=arr[i])
-          s.pop();
-        
-        if(s.size()) 
+    int sumSubarrayMins(vector<int>& arr) {
+        vector<int>ele;
+        int res=0;
+        for(int i=0;i<arr.size()+1;++i)
         {
-          int prev=s.top();
-          dp[i]=dp[prev]+(i-prev)*arr[i];
-          
-        } 
-        
-        else
-        {
-            dp[i]=(i+1)*arr[i];
+            while(ele.size() and ((i==arr.size()) or (arr[ele.back()]>=arr[i])))
+            {
+                int mid=ele.back();
+                ele.pop_back();
+                int lft=ele.size()?ele.back():-1;
+                int ryt=i;
+                long cnt=(mid-lft)*(ryt-mid)%1000000007;
+                res+=(arr[mid]*cnt)%1000000007;
+                res%=1000000007;
+            }
+            ele.push_back(i);
         }
-        sum=(sum+dp[i])%MOD;
-        
-        s.push(i);
-      }
-      
-      return (int) sum;
+        return res%1000000007;
     }
 };
