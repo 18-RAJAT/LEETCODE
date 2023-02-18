@@ -12,18 +12,28 @@
 class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) {
-        function<TreeNode*(TreeNode*)>invert=[&](TreeNode* root) 
+        // function<TreeNode*(TreeNode*)>invert=[&](TreeNode* root) 
+        // {
+        //     if(root==nullptr)
+        //     {
+        //         return root;
+        //     }
+        //     TreeNode*left=invert(root->left);
+        //     TreeNode*right=invert(root->right);
+        //     root->left=right;
+        //     root->right=left;
+        //     return root;
+        // };
+        // return invert(root);
+        
+        //recursive sol
+        if(root==nullptr)
         {
-            if(root==nullptr)
-            {
-                return root;
-            }
-            TreeNode*left=invert(root->left);
-            TreeNode*right=invert(root->right);
-            root->left=right;
-            root->right=left;
             return root;
-        };
-        return invert(root);
+        }
+        invertTree(root->right);
+        invertTree(root->left);
+        swap(root->right,root->left);
+        return root;
     }
 };
