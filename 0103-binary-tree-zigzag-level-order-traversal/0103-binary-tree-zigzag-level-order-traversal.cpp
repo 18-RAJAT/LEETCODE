@@ -10,43 +10,42 @@
  * };
  */
 class Solution {
+private:
+    vector<vector<int>>ans;
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        vector<vector<int>>ans;
-        if(root==nullptr)
+        auto cmp=[](TreeNode*a,TreeNode*b)
         {
-            return ans;
-        }
-        queue<TreeNode*>q;
-        q.push(root);
-        
-        bool leftToRight=true;
-        while(!q.empty())
+            return a->val>b->val;
+        };
+        function<void(TreeNode*,int)>dfs=[&](TreeNode*node,int lvl)
         {
-            int sz=q.size();
-            vector<int>row(sz);
-            for(int i=0;i<sz;++i)
+            if(not root)
             {
-                TreeNode*temp=q.front();
-                q.pop();
-                
-                int idx=leftToRight?i:sz-i-1;
-                
-                row[idx]=temp->val;
-                
-                if(temp->left)
-                {
-                    q.push(temp->left);
-                }
-                
-                if(temp->right)
-                {
-                    q.push(temp->right);
-                }
+                return;
             }
-            leftToRight=leftToRight==false;
-            ans.push_back(row);
-        }
+            if(lvl>=ans.size())
+            {
+                ans.push_back({});
+            }
+            if(lvl%2==0)
+            {
+                ans[lvl].push_back(node->val);
+            }
+            else
+            {
+                ans[lvl].insert(ans[lvl].begin(),node->val);
+            }
+            if(node->left)
+            {
+                dfs(node->left,lvl+1);
+            }
+            if(node->right)
+            {
+                dfs(node->right,lvl+1);
+            }
+        };
+        dfs(root,0);
         return ans;
     }
 };
