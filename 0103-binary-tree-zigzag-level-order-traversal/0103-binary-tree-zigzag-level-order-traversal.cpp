@@ -10,8 +10,6 @@
  * };
  */
 class Solution {
-private:
-    vector<vector<int>>ans;
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
         auto cmp=[](TreeNode*a,TreeNode*b)
@@ -48,4 +46,6 @@ public:
         dfs(root,0);
         return ans;
     }
+    private:
+    vector<vector<int>>ans;
 };
