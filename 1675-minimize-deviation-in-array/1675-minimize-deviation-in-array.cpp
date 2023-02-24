@@ -17,14 +17,13 @@ public:
         int ans=INT_MAX;
         while(st.size()>0)
         {
-            int x=*st.rbegin();
-            int y=*st.begin();
-            int db=x-y;
-            ans=min(ans,db);
-            if(x%2==0)
+            int mx=*st.rbegin();
+            int mn=*st.begin();
+            ans=min(ans,mx-mn);
+            if(mx%2==0)
             {
-                st.erase(x);
-                st.insert(x/2);
+                st.erase(mx);
+                st.insert(mx/2);
             }
             else
             {
