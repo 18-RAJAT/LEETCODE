@@ -9,7 +9,7 @@ public:
             db=prices[i]-prices[i-1];
             profit+=db;
             
-            if(profit<0)
+            if(profit<=0)
             {
                 profit=0;
             }
