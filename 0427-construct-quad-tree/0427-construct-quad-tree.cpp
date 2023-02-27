@@ -40,36 +40,41 @@ public:
 
 class Solution {
 public:
-    bool same(vector<vector<int>>& grid,int x,int y,int n){
-         int val=grid[x][y];
-         for(int i=x;i<x+n;++i)
-         {
-               for(int j=y;j<y+n;++j)
-               {
-                     if(grid[i][j]!=val)
-                     {
-                          return false;
-                     }
-               }
-         }
-         return true;
-    }
-    Node* solve(vector<vector<int>>& grid,int x,int y,int n){
-            if(same(grid,x,y,n))
+    
+    Node* func(vector<vector<int>>&grid,int i,int j,int n){
+        
+        int one=0,zero=0;
+        for(int k=i;k<i+n;k++)
+        {
+            for(int m=j;m<j+n;m++)
             {
-                   return new Node(grid[x][y],true);
-            }else
-            {
-                Node*newnode=new Node(1,false);
-                newnode->topLeft=solve(grid,x,y,n/2);
-                newnode->topRight=solve(grid,x,y+n/2,n/2);
-                newnode->bottomLeft=solve(grid,x+n/2,y,n/2);
-                newnode->bottomRight=solve(grid,x+n/2,y+n/2,n/2);
-                return newnode;
+                if(grid[k][m]==0)
+                {
+                    zero=1;
+                }
+                else
+                {
+                    one=1;
+                }
+                
+                if(zero and one)
+                {          
+                    auto root=new Node(0,false);
+                    
+                    root->topLeft=func(grid,i,j,n/2);
+                    root->topRight=func(grid,i,j+n/2,n/2);
+                    root->bottomLeft=func(grid,i+n/2,j,n/2);
+                    root->bottomRight=func(grid,i+n/2,j+n/2,n/2);
+                    return root;
+                }
             }
+        }
+        return new Node(grid[i][j],true);
     }
+    
     Node* construct(vector<vector<int>>& grid) 
     {
-           return solve(grid,0,0,grid.size());
+        int n=grid.size();
+        return func(grid,0,0,n);
     }
 };
