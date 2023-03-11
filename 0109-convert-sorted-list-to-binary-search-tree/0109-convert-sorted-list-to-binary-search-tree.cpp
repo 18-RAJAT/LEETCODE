@@ -21,28 +21,30 @@
  */
 class Solution {
 public:
+    TreeNode*makeTree(int i,int j,vector<int>a)
+    {
+        if(i>j)
+        {
+            return nullptr;
+        }
+        int mid=(i+j)/2;
+        TreeNode*root=new TreeNode(a[mid]);
+        root->left=makeTree(i,mid-1,a);
+        root->right=makeTree(mid+1,j,a);
+        
+        return root;
+    }
     TreeNode* sortedListToBST(ListNode* head) {
-        if(head==NULL)
+        vector<int>a;
+        if(head==nullptr)
         {
-            return NULL;
+            return nullptr;
         }
-        if(head->next==NULL)
+        while(head)
         {
-            return new TreeNode(head->val);
+            a.push_back(head->val);
+            head=head->next;
         }
-        ListNode* slow=head;
-        ListNode* fast=head;
-        ListNode* prev=NULL;
-        while(fast!=NULL and fast->next!=NULL)
-        {
-            prev=slow;
-            slow=slow->next;
-            fast=fast->next->next;
-        }
-        prev->next=NULL;
-        TreeNode* root=new TreeNode(slow->val);
-        root->left=sortedListToBST(head);
-        root->right=sortedListToBST(slow->next);
-        return root;      
+        return makeTree(0,a.size()-1,a);
     }
 };
