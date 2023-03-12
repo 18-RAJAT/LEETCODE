@@ -95,7 +95,7 @@ public:
         for(auto it:nums)
         {
             sum+=it;
-            if(sum>0)
+            if(sum>=1)
             {
                 db++;
             }
