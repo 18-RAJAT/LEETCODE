@@ -10,48 +10,28 @@
  */
 class Solution {
 public:
-    ListNode* Merge(ListNode*l1,ListNode*l2)
-    {
-        //base
-        if(l1==nullptr)
-        {
-            return l2;
-        }
-        if(l2==nullptr)
-        {
-            return l1;
-        }
-        
-        //chk
-        ListNode*current=nullptr;
-        if(l1->val<=l2->val)
-        {
-            current=l1;
-            current->next=Merge(l1->next,l2);
-        }
-        else
-        {
-            current=l2;
-            current->next=Merge(l1,l2->next);
-        }
-        return current;
-    }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if(lists.size()==1)
+        ListNode*head=new ListNode(0);
+        ListNode*temp=head;
+        priority_queue<pair<int,ListNode*>,vector<pair<int,ListNode*>>,greater<pair<int,ListNode*>>>pq;
+        for(auto x:lists)
         {
-            return lists[0];
-        }
-        ListNode*tmp=new ListNode(-2147483648);//INT_MIN
-        for(int i=0;i<lists.size();++i)
-        {
-            if(lists[i]==nullptr)
+            if(x)
             {
-                continue;
+                pq.push({x->val,x});
             }
-            //call
-            Merge(tmp,lists[i]);
         }
-        //move nxt
-        return tmp->next;
+        while(not pq.empty())
+        {
+            auto x=pq.top();
+            pq.pop();
+            temp->next=x.second;
+            temp=temp->next;
+            if(x.second->next)
+            {
+                pq.push({x.second->next->val,x.second->next});
+            }
+        }
+        return head->next;
     }
 };
