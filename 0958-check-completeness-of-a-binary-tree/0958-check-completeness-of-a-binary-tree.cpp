@@ -18,11 +18,11 @@ public:
 		bool flag=false;
 		while(not q.empty())
         {
-			TreeNode*temp=q.front();
+			TreeNode*tmp=q.front();
 			q.pop();
-			if(temp==nullptr)
+			if(tmp==nullptr)
             {
-				flag = true;
+				flag=true;
 			}
 			else
             {
@@ -30,8 +30,8 @@ public:
                 {
 					return false;
 				}
-				q.push(temp->left);
-				q.push(temp->right);
+				q.push(tmp->left);
+                q.push(tmp->right);
 			}
 		}
 		return true;
