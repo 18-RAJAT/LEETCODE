@@ -1,51 +1,67 @@
-class TrieNode{
-  public:
-    vector<TrieNode*> dict;
-    bool isEnd;
-    TrieNode(){
-        isEnd=false;
-        dict.resize(26,nullptr);
-    }
+class Node {
+public:
+    bool word;
+    map<char,Node*>children;
+    Node():word(false) {};
 };
+
 class Trie {
 public:
-    TrieNode* root;
-    
-    Trie() {
-        root = new TrieNode();
+    Node*root;
+    Trie() 
+    {
+        root=new Node();
     }
     
-    void insert(string s) {
-        TrieNode* node = root;
-        for(int i=0;i<s.length();i++){
-            if(node->dict[s[i]-'a']==nullptr){
-                node->dict[s[i]-'a'] = new TrieNode();
+    void insert(string word) {
+        auto* cur=root;
+        for(auto c:word) 
+        {
+            auto& childMap=cur->children;
+            if (childMap.find(c)==childMap.end()) 
+            {
+                childMap[c]=new Node();
             }
-            node = node->dict[s[i]-'a'];
+            cur=childMap[c];
         }
-        node->isEnd = true;
+        cur->word=true;
     }
     
-    bool search(string s) {
-        TrieNode* node = root;
-        for(int i=0;i<s.length();i++){
-            if(node->dict[s[i]-'a']==nullptr)
+    bool search(string word) {
+        auto* cur=root;
+        for(auto c:word) 
+        {
+            auto& childMap=cur->children;
+            if(childMap.find(c)!=childMap.end()) 
+            {
+                cur=childMap[c];
+            } 
+            else 
+            {
                 return false;
-            node = node->dict[s[i]-'a'];
+            }
         }
-        return node->isEnd;
+        return cur->word;
     }
     
-    bool startsWith(string s) {
-        TrieNode* node = root;
-        for(int i=0;i<s.length();i++){
-            if(node->dict[s[i]-'a']==nullptr)
+    bool startsWith(string prefix) {
+        auto* cur=root;
+        for(auto c:prefix) 
+        {
+            auto& childMap=cur->children;
+            if (childMap.find(c)!=childMap.end()) 
+            {
+                cur=childMap[c];
+            } 
+            else 
+            {
                 return false;
-            node = node->dict[s[i]-'a'];
+            }
         }
         return true;
     }
 };
+
 /**
  * Your Trie object will be instantiated and called as such:
  * Trie* obj = new Trie();
