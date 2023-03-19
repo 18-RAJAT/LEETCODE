@@ -1,57 +1,39 @@
 class WordDictionary {
-public:    
-    
+public:
     WordDictionary() {}
     
-    bool find(string& word,int pos,WordDictionary* root){
-        if(pos==word.size())
-            return root->end;
-        if(word[pos]!='.')
-        {
-            if(root->v[word[pos]-'a'])
-                return find(word,pos+1,root->v[word[pos]-'a']);
-            else
-                return false;
-        }
-        else
-        {
-             for(auto it:root->v)
-             {
-                bool t=false;
-                if(it)
-                   t=find(word,pos+1,it);
-                if(t)
-                    return t;
-            }
-            return false;
-        }
-        return true;
-    }
-    
     void addWord(string word) {
-        WordDictionary* root=this ;
-        for(char ch:word)
-        {
-            if(root->v[ch-'a'])
-                root=root->v[ch-'a'];
-            else
-            {
-                root->v[ch-'a']=new WordDictionary();
-                root=root->v[ch-'a'];
+        WordDictionary* tmp = this;
+        for(char c : word){
+            if(!tmp->words[c - 'a']) tmp->words[c - 'a'] = new WordDictionary();
+            tmp = tmp->words[c - 'a'];
+        }
+        tmp->isWord = true;
+    }
+
+    bool search(string word){
+        return search(word,this,0);
+    }
+     
+    bool search(string& word, WordDictionary* dict, int index) {
+        if(index == word.size() && dict->isWord) return true;
+        if(index == word.size()) return false;
+        
+        if(word[index] == '.'){
+            for(int i = 0; i < 26; i++){
+                if(dict->words[i] && search(word, dict->words[i], index + 1)) return true;;
             }
         }
-        root->end=true;
+        else{
+            if(!dict->words[word[index] - 'a']) return false;
+            return search(word, dict->words[word[index] - 'a'], index + 1);
+        }          
+        
+        return false;
     }
-    
-    bool search(string word) {
-        WordDictionary* root=this;
-        return find(word,0,root);
-    }
-    
-    private:
-       vector<WordDictionary*>v{26};
-       bool end=false;
-    
+
+    bool isWord = false;
+    WordDictionary* words[26] = { [0 ... 25] = nullptr };
 };
 
 /**
