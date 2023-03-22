@@ -20,7 +20,7 @@ public:
             auto node=q.front();
             q.pop();
             
-            for(auto& [src,dist]:graph[node])
+            for(auto&& [src,dist]:graph[node])
             {
                 ans=min(ans,dist);
                 
