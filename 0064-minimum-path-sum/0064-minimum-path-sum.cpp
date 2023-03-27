@@ -1,19 +1,20 @@
 class Solution {
 public:
     int minPathSum(vector<vector<int>>& grid) {
-        int R=grid.size();
-        int C=grid[0].size();
-        
-        for(int i=0;i<R;++i)
+        auto min=[](int a,int b)
         {
-            for(int j=0;j<C;++j)
+            return a<b?a:b;
+        };
+        int m=grid.size();
+        int n=grid[0].size();
+        for(int i=0;i<m;i++)
+        {
+            for(int j=0;j<n;j++)
             {
-                //base+assumption
                 if(i==0 and j==0)
                 {
                     continue;
                 }
-                //chk i,j and minimum also
                 else if(i==0)
                 {
                     grid[i][j]+=grid[i][j-1];
@@ -24,11 +25,10 @@ public:
                 }
                 else
                 {
-                    int minimum=min(grid[i][j-1],grid[i-1][j]);
-                    grid[i][j]+=minimum;
+                    grid[i][j]+=min(grid[i-1][j],grid[i][j-1]);
                 }
             }
         }
-        return grid[R-1][C-1];
+        return grid[m-1][n-1];
     }
 };
