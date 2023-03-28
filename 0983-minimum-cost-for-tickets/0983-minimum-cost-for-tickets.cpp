@@ -2,7 +2,7 @@ class Solution {
 public:
     int mincostTickets(vector<int>& days, vector<int>& costs) {
         int n=days.size();
-        int initial=1;
+        int initial=0;
         vector<int>memo(n,initial);
         
         function<int(int)>dp=[&](int i)->int
