@@ -1,49 +1,78 @@
 class Solution {
 public:
-    map<string,int>mp;
-    bool isvalid(vector<string>&pizza,int rs,int r,int cs,int cp)
-    {
-    for(int p=rs;p<=r;p++){
-      for(int i=cs;i<=cp;i++){
-          if(pizza[p][i]=='A')
-          return true;
-     }
-    }
-    return false;
-    }
-    int dfs(vector<string>& pizza,int k,int rs,int r,int cs,int s){
-    string i="";
-    i=i+to_string(k)+" "+to_string(rs)+" "+to_string(r)+" "+to_string(cs)+" "+to_string(s);  
-    if(mp.count(i)>0)
-         return mp[i];
-    if(k==0)
-         return mp[i]=1;
-    if(rs>r||cs>s||k<0)
-         return mp[i]=0;
-    int sols=0;
-    for(int p=rs;p+1<=r;p++){
-     if(isvalid(pizza,rs,p,cs,s)&&isvalid(pizza,p+1,r,cs,s)){
-         sols=(sols+dfs(pizza,k-1,p+1,r,cs,s))%1000000007;
-    }
-    }
-    for(int i=cs;i+1<=s;i++){
-     if(isvalid(pizza,rs,r,cs,i)&&isvalid(pizza,rs,r,i+1,s)){
-        sols=(sols+dfs(pizza,k-1,rs,r,i+1,s))%1000000007;  
-    }
-    }
-    return mp[i]=sols;
-    }
+    vector<vector<bool>>row;
+    vector<vector<bool>>col;
+    int n,m;
+    vector<vector<vector<int>>>dp;
+
     int ways(vector<string>& pizza, int k) {
-        int sols=0;
-        string i="";
-        i=i+to_string(k)+" ";
-        
-        i+=to_string(0)+" "+to_string(pizza.size())+" "+to_string(0)+" "+to_string(pizza[0].size()); 
-        if(k==1)
+        n=pizza.size();
+        m=pizza[0].size();
+        row.resize(n,vector<bool>(m,false));
+        col.resize(n,vector<bool>(m,false));
+        dp.resize(n,vector<vector<int>>(m,vector<int>(k+1,-1)));
+        for(int i=n-1;i>=0;i--)
         {
-            return mp[i]=1;
+            for(int j=m-1;j>=0;j--)
+            {
+                row[i][j]=pizza[i][j]=='A';
+                if(j+1<m)
+                {
+                    row[i][j]=row[i][j] or row[i][j+1];
+                }
+            }
         }
-        k--;
-        return mp[i]=dfs(pizza,k,0,pizza.size()-1,0,pizza[0].size()-1);
+        auto x=[&](int r,int c)->bool
+        {
+            return col[r][m-1] or row[n-1][c] or col[r][c];
+        };
+        function<int(int,int,int)>pruning=[&](int r,int c,int k)->int
+        {
+            if(r==n)
+            {
+                return k==0;
+            }
+            if(k==0 or c==m)
+            {
+                return 0;
+            }
+            if(dp[r][c][k]!=-1)
+            {
+                return dp[r][c][k];
+            }
+            int ans=0;
+            bool appleRow=false;
+            for(int i=r;i<n;i++)
+            {
+                appleRow=appleRow or row[i][c];
+                if(appleRow)
+                {
+                    ans=(ans+pruning(i+1,c,k-1))%1000000007;
+                }
+            }
+            bool appleCol=false;
+            for(int i=c;i<m;i++)
+            {
+                appleCol=appleCol or col[r][i];
+                if(appleCol)
+                {
+                    ans=(ans+pruning(r,i+1,k-1))%1000000007;
+                }
+            }
+            dp[r][c][k]=ans;
+            return ans;
+        };
+        for(int i=m-1;i>=0;i--)
+        {
+            for(int j=n-1;j>=0;j--)
+            {
+                col[j][i]=pizza[j][i]=='A';
+                if(j+1<n)
+                {
+                    col[j][i]=col[j][i] or col[j+1][i];
+                }
+            }
+        }
+        return pruning(0,0,k);
     }
 };
