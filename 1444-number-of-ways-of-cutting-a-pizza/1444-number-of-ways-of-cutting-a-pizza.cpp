@@ -1,13 +1,13 @@
 class Solution {
 public:
-    vector<vector<bool>>row;
-    vector<vector<bool>>col;
-    int n,m;
-    vector<vector<vector<int>>>dp;
 
     int ways(vector<string>& pizza, int k) {
-        n=pizza.size();
-        m=pizza[0].size();
+        vector<vector<bool>>row;
+        vector<vector<bool>>col;
+        vector<vector<vector<int>>>dp;
+        
+        int n=pizza.size();
+        int m=pizza[0].size();
         row.resize(n,vector<bool>(m,false));
         col.resize(n,vector<bool>(m,false));
         dp.resize(n,vector<vector<int>>(m,vector<int>(k+1,-1)));
