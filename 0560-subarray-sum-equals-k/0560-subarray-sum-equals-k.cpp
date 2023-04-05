@@ -1,18 +1,19 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
+        map<int,int>cnt;
         int n=nums.size();
-        // sort(nums.begin(),nums.end());
-        int matches=0;
-        int prefixSum=0;
-        map<int,int>idx;
-        // for(auto &it:nums)
-        for(int i=0;i<n;++i)
+        int possible=0;
+        int sum=0;
+        
+        
+        cnt[0]=1;
+        for(auto& it:nums)
         {
-            idx[prefixSum]++;
-            prefixSum+=nums[i];
-            matches+=idx[prefixSum-k];
+            sum+=it;
+            possible+=cnt[sum-k];
+            cnt[sum]++;
         }
-        return matches;
+        return possible;
     }
 };
