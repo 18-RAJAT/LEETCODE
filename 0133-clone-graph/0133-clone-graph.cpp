@@ -28,7 +28,7 @@ public:
         {
             if(not node)
             {
-                return 0;
+                return nullptr;
             }
             if(m.count(node))
             {
