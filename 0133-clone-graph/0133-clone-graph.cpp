@@ -22,7 +22,7 @@ public:
 class Solution {
 public:
     Node* cloneGraph(Node* node) {
-        map<Node*,Node*>m;
+        map<Node*,Node*>copy;
         
         function<Node*(Node*)>dfs=[&](Node* node)->Node*
         {
@@ -30,12 +30,12 @@ public:
             {
                 return nullptr;
             }
-            if(m.count(node))
+            if(copy.count(node))
             {
-                return m[node];
+                return copy[node];
             }
             Node* clone=new Node(node->val);
-            m[node]=clone;
+            copy[node]=clone;
             for(auto x:node->neighbors)
             {
                 clone->neighbors.push_back(dfs(x));
