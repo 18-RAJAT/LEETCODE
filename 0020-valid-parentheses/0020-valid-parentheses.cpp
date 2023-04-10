@@ -1,26 +1,39 @@
 class Solution {
 public:
     bool isValid(string s) {
-        function<bool(char,char)>Pairs=[](char a,char b)
+        
+        function<bool(char,char)>pairs=[&](char a,char b)->bool
         {
-            return (a=='(' and b==')') or (a=='[' and b==']') or (a=='{' and b=='}');
+            if(a=='(' and b==')')return true;
+            if(a=='{' and b=='}')return true;
+            if(a=='[' and b==']')return true;
+            return false;
         };
-        std:stack<char>st;
-        for (char c:s) 
+        
+        stack<char>st;
+        for(auto& it:s)
         {
-            if (c == '(' or c == '{' or c == '[') 
+            if(it=='(' or it=='{' or it=='[')
             {
-                st.push(c);
-            } 
-            else 
+                st.push(it);
+            }
+            else
             {
-                if (st.empty() or not Pairs(st.top(),c)) 
+                if(st.empty())return false;
+                if(pairs(st.top(),it))
+                {
+                    st.pop();
+                }
+                else
                 {
                     return false;
                 }
-                st.pop();
             }
         }
-        return st.empty();
+        if(st.empty())
+        {
+            return true;
+        }
+        return false;
     }
 };
