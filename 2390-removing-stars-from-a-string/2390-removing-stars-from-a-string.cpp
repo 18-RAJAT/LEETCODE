@@ -7,7 +7,7 @@ public:
         {
             if(s[i]=='*')
             {
-                if(ans.size()>0)
+                if(ans.size()>=0)
                 {
                     ans.pop_back();
                 }
