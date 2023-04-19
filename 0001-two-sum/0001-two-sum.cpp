@@ -1,40 +1,21 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        int n=nums.size();
-        // for(int i=0;i<n;++i)
-        // {
-        //     for(int j=i+1;j<n;++j)
-        //     {
-        //         if(nums[i]+nums[j]==target)
-        //         {
-        //             return {i,j};
-        //         }
-        //     }
-        // }
-        // return {};
+        unordered_map<int,int>hash;
+        vector<int>order;
         
-        
-        //reduce TC
-        vector<int>ans;
-        map<int,int>mp;
-        for(int i=0;i<n;++i)
+        for(int i=0;i<nums.size();++i)
         {
-            if(mp.find(target-nums[i])!=mp.end())
+            int numberFind=target-nums[i];
+            if(hash.find(numberFind)!=hash.end())
             {
-                ans.push_back(i);
+                order.push_back(hash[numberFind]);
+                order.push_back(i);
+                
+                return order;
             }
-            mp[nums[i]]++;
-        } 
-        int f=nums[ans[0]];//1
-        for(int i=0;i<n;++i)
-        {
-            if(nums[i]==(target-f))
-            {
-                ans.push_back(i);
-                break;
-            }
+            hash[nums[i]]=i;
         }
-        return ans;
+        return order;
     }
 };
