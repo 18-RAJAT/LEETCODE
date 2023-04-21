@@ -1,7 +1,7 @@
 class Solution {
 public:
     int profitableSchemes(int n, int minProfit, vector<int>& group, vector<int>& profit) {
-        //TLE
+            //TLE
 //         function<int(int,int,int,vector<int>&,vector<int>&)>scheme=[&](int n,int i,int minimumProfit,vector<int>&group,vector<int>&profit)->int
 //         {
 //             if(n<0)
@@ -22,13 +22,14 @@ public:
 //         return scheme(n,crimeGenerates,minProfit,group,profit);
         
         
-        vector<vector<int>>scheme(minProfit+1,vector<int>(n+1));
         
+        vector<vector<int>>scheme(minProfit+1,vector<int>(n+1));
         scheme[0][0]=1;
         for(int k=0;k<group.size();++k)
         {
             int include=group[k];
             int exclude=0;
+            
             if(profit[k]>0)
             {
                 exclude=profit[k];
@@ -42,11 +43,11 @@ public:
                 }
             }
         }
-        int ans=0;
+        int numberOfSchemes=0;
         for(int i=0;i<=n;++i)
         {
-            ans=(ans+scheme[minProfit][i])%1000000007;
+            numberOfSchemes=(numberOfSchemes+scheme[minProfit][i])%1000000007;
         }
-        return ans;
+        return numberOfSchemes;
     }
 };
