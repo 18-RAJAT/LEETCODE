@@ -2,8 +2,9 @@ class Solution {
 public:
 	int numberOfArrays(string s, int k) {
 		int n=s.size();
-		vector<int>dp(n,-1);
-		function<int(int)>Restore=[&](int x)
+        int dp[n];memset(dp,-1,sizeof(dp));
+		
+        function<int(int)>check=[&](int x)->int
 		{
 			if(x==n)
             {
@@ -22,12 +23,16 @@ public:
 			for(int j=x+1;j<=n;j++)
 			{
 				num=num*10+(s[j-1]-'0');
-				if(num>k) break;
-				ans=(ans+Restore(j))%1000000007;
+				if(num>k)
+                {
+                    break;
+                }
+				ans=(ans+check(j))%1000000007;
 			}
 			dp[x]=ans;
 			return ans;
 		};
-        return Restore (0);
+        int initialCheck=0;
+        return check(initialCheck);
 	}
 };
