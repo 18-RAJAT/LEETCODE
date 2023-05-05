@@ -13,13 +13,14 @@ public:
         int currentPosVowel=0;
         for(int i=0;i<s.size();++i)
         {
-            currentPosVowel+=isVowel(s[i]);
+            auto vowel=isVowel(s[i]);
+            currentPosVowel+=vowel;
             
             if(k<=i)
             {
                 currentPosVowel-=isVowel(s[i-k]);
             }
-             maximumVowel=max<int>(maximumVowel,currentPosVowel);
+            maximumVowel=max<int>(maximumVowel,currentPosVowel);
         }
         return maximumVowel;
     }
