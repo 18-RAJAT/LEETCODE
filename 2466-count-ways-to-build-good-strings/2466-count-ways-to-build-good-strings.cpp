@@ -2,7 +2,7 @@ class Solution {
 public:
     int countGoodStrings(int low, int high, int zero, int one) {
         int sz=high+low;
-        vector<int>dp(sz+1,0);
+        vector<int>dp(sz,0);
         
         dp.resize(sz+1);
         dp[0]=1;
