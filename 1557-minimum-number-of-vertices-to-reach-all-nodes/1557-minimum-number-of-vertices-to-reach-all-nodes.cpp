@@ -1,15 +1,15 @@
 class Solution {
 public:
     vector<int> findSmallestSetOfVertices(int n, vector<vector<int>>& edges) {
-        vector<int>ans;
-        vector<int>trav(n);
-        for(auto it:edges)
+        vector<int>deg(n,0);
+        for(int i=0;i<edges.size();++i)
         {
-            trav[it[true]]++;
+            deg[edges[i][1]]=1;
         }
-        for(int i=0;i!=n;++i)
+        vector<int>ans;
+        for(int i=0;i<n;++i)
         {
-            if(trav[i]==0)
+            if(not deg[i])
             {
                 ans.push_back(i);
             }
