@@ -1,40 +1,46 @@
 class Solution {
 public:
-    void dfs(int j,vector<bool> &vis,vector<int> adj[]){
-        vis[j]=1;
-        for(auto x:adj[j])
+    int findCircleNum(vector<vector<int>>& isConnected) {
+        
+        if(isConnected.empty())
         {
-            if(not vis[x])
-            {
-                dfs(x,vis,adj);
-            }
+            return 0;
         }
-    }
-    int findCircleNum(vector<vector<int>>& v) {
-        int n=v.size();
-        const int N=1001;
-        vector<int>adj[N];
-        vector<bool>vis(N);
-        for(int i=0;i<n;i++)
+        
+        int n = isConnected.size();
+        
+        vector<int>leads(n,0);
+        
+        for(int i=0;i<n;++i)
         {
-            for(int j=0;j<n;j++)
+            leads[i] = i;
+        }
+        
+        int groups = n;
+        for(int i=0;i<n;++i)
+        {
+            for(int j=i+1;j<n;++j)
             {
-                if(v[i][j]==1 and i!=j)
+                if(isConnected[i][j])
                 {
-                    adj[i].push_back(j);
+                    int lead1 = find(i,leads);
+                    int lead2 = find(j,leads);
+                    
+                    if(lead1 != lead2)
+                    {
+                        leads[lead1] = lead2;
+                        groups--;
+                    }
                 }
             }
         }
-        vis.assign(n+4,0);
-        int cnt=0;
-        for(int i=0;i<n;i++)
-        {
-            if(!vis[i])
-            {
-                dfs(i,vis,adj);
-                cnt++;
-            }
-        }
-        return cnt;
+        
+        return groups;
+        
+    }
+    
+    private:
+    int find(int x, vector<int>& parents) {
+        return parents[x] == x ? x : find(parents[x], parents);
     }
 };
