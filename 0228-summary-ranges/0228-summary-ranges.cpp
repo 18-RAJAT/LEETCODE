@@ -15,9 +15,9 @@ public:
             while(high+1<nums.size() and nums[high+1]==nums[high]+1)
                 high++;
             
-            if(high > low)
+            if(high>low)
             {
-                res.push_back(to_string(nums[low]) + "->"+to_string(nums[high]));
+                res.push_back(to_string(nums[low])+"->"+to_string(nums[high]));
             }
             else
             {
