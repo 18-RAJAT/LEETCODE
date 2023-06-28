@@ -31,8 +31,8 @@ public:
                     if(vals[chkNextNode]<next)
                     {
                         vals[chkNextNode]=next;
-                        pq.push({next,chkNextNode});
                     }
+                    pq.push({next,chkNextNode});
                 }
             }
         }
