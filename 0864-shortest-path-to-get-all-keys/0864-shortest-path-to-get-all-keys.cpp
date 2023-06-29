@@ -20,7 +20,7 @@ public:
         }
         queue<pair<int,pair<int,int>>>que;
         que.push({startX,{startY,0}});
-        int visited[n+1][m+1][70];
+        int visited[n+1][m+1][101];
         memset(visited,0,sizeof(visited));
         visited[startX][startY][0]=1;
         
