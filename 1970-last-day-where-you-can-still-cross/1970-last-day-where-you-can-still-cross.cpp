@@ -73,6 +73,7 @@ public:
                 n=mid-1;
             }
         }
+        assert(ans!=-1);
         return ans;
     }
 };
