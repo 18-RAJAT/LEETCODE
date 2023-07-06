@@ -28,7 +28,7 @@ public:
             }
             return true;
         };
-        int start=0,end=nums.size();
+        int start=1,end=nums.size();
         int ans=0;
         int mid=0;
         
