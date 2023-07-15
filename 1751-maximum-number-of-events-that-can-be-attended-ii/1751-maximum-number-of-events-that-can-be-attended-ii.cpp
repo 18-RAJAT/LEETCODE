@@ -12,7 +12,7 @@ private:
 
         op2 = solve(i+1,arr,k,prev);
 
-        return mp[i][k][prev] = max(op1,op2);
+        return mp[i][k][prev]=max<int>(op1,op2);
     }
 public:
     int maxValue(vector<vector<int>>& arr, int k) {
