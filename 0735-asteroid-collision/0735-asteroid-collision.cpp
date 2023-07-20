@@ -8,7 +8,7 @@ public:
             {
                 return true;
             }
-            while(!stk.empty() && stk.back()>=0)
+            while(!stk.empty() && stk.back()>0)
             {
                 if (stk.back()>=-asteroid)
                 {
