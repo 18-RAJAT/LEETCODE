@@ -7,7 +7,7 @@ public:
         }
         n=(n+24)/25;
         double dp[n+1][n+1];
-        memset(dp,0,sizeof(dp));
+        memset(dp,1,sizeof(dp));
         dp[0][0]=0.5;
         for(int i=1;i<=n;++i)
         {
