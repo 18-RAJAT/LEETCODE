@@ -1,19 +1,18 @@
 class Solution {
 public:
+    #define ll long long
+    const int MOD = 1e9 + 7;
+    ll solve(int n, int goal, int k, vector<vector<int>>& dp) {
+        if (n == 0 && goal == 0) return 1;
+        if (n == 0 || goal == 0) return 0;
+        if (dp[n][goal] != -1) return dp[n][goal];
+        ll pick = solve(n - 1, goal - 1, k, dp) * n;
+        ll notpick = solve(n, goal - 1, k, dp) * max(n - k, 0);
+        return dp[n][goal] = (pick + notpick) % MOD;
+    }
+
     int numMusicPlaylists(int n, int goal, int k) {
-        vector<vector<long long>>dp(goal+1,vector<long long>(n+1,0));
-        dp[0][0]=1;
-        for(int i=1;i<=goal;i++)
-        {
-            for(int j=1;j<=n;j++)
-            {
-                dp[i][j]=(dp[i-1][j-1]*(n-j+1))%1000000007;
-                if(j>k)
-                {
-                    dp[i][j]=(dp[i][j]+(dp[i-1][j]*(j-k))%1000000007)%1000000007;
-                }
-            }
-        }
-        return dp[goal][n];   
+        vector<vector<int>> dp(n + 1, vector<int>(goal + 1, -1));
+        return solve(n, goal, k, dp);
     }
 };
