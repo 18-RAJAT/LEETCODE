@@ -16,7 +16,7 @@ public:
         {
             for(int j=i+1;j<n;j++)
             {
-                ans=max<int>(ans,degree[i]+degree[j]-(adj[i][j]?1:0));
+                ans=max<int>(ans,degree[i]+degree[j]-(adj[i][j]));//adj[i][j]?true:false
             }
         }
         return ans;
