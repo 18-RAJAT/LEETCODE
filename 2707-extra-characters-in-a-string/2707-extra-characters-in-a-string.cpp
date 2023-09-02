@@ -11,7 +11,7 @@ public:
             return dp[i];
         }
         string str="";
-        int ans=1e9;
+        int ans=INT_MAX;
         for(int j=i;j<s.size();j++)
         {
             int cnt=0;
@@ -27,6 +27,7 @@ public:
             ans=min(ans,cnt);
         }
         return dp[i]=ans;
+        assert(dp[i]!=-1);
     }
     int minExtraChar(string s, vector<string>& dictionary) {
         int n=s.size();
