@@ -18,15 +18,13 @@ public:
         for(int i=0;i<left-1;++i)prev=prev->next;
         ListNode* curr=prev->next;
         
-        // int tp=left++;
         while(left++<right)
         {
-            ListNode*temp=curr->next;//cout<<'1';
-            curr->next=temp->next;//cout<<'2';
-            temp->next=prev->next;//cout<<'3';
+            ListNode*temp=curr->next;
+            curr->next=temp->next;
+            temp->next=prev->next;
             prev->next=temp;
         }
-        // cout<<ans;
         return ans->next;
     }
 };
