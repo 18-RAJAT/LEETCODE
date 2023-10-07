@@ -1,33 +1,50 @@
 class Solution {
-public:
-    int numOfArrays(int n, int m, int k) {
-        const int mod = 1000000007;
-        vector<vector<vector<long long>>> dp(n + 1, vector<vector<long long>>(m + 1, vector<long long>(k + 1, 0)));
-
-        // Initialize dp[1][i][1] = 1 for 1 <= i <= m
-        for (int i = 1; i <= m; ++i) {
-            dp[1][i][1] = 1;
-        }
-
-        for (int i = 1; i <= n; ++i) {
-            for (int j = 1; j <= m; ++j) {
-                for (int l = 1; l <= k; ++l) {
-                    for (int p = 1; p < j; ++p) {
-                        dp[i][j][l] += dp[i - 1][p][l - 1];
-                        dp[i][j][l] %= mod;
-                    }
-                    dp[i][j][l] += dp[i - 1][j][l] * j;
-                    dp[i][j][l] %= mod;
-                }
+    public:
+        int dp[105][105][105];
+        int m;
+        int recur(int fill,int check,int k)
+        {
+            //base case
+            if(k<0)
+            {
+                return 0;
             }
-        }
+            //pruning
+            if(check==0)
+            {
+                return k==0;
+            }
+            //memoization
+            int& ans=dp[fill][check][k];
+            if(~ans)
+            {
+                return ans;
+            }
+            int res=0;
+            for(int i=1;i<=m;++i)
+            {
+                //eliminating the case when we are not filling the array
+                if(i>fill)
+                {
+                    //take
+                    res+=recur(i,check-1,k-1);
+                }
+                else
+                {
+                    //not take
+                    res+=recur(fill,check-1,k);
+                }
+                res%=1000000007;
+            }
+            return ans=res;
 
-        long long ans = 0;
-        for (int i = 1; i <= m; ++i) {
-            ans += dp[n][i][k];
-            ans %= mod;
+            assert(~dp[fill][check][k]>=0);
         }
-
-        return static_cast<int>(ans);
-    }
-};
+        int numOfArrays(int n, int m, int k) {
+            //choice 1: Take element greater than last used k is reduced by 1
+            //choice 2: Take element less than or equal to last k not reduced
+            this->m=m;//number of elements
+            memset(dp,-1,sizeof(dp));
+            return recur(0,n,k);
+        }
+    };
