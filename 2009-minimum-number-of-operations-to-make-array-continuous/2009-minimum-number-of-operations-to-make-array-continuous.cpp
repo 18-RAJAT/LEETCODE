@@ -1,12 +1,29 @@
 class Solution {
 public:
-    int minOperations(vector<int>& A) {
-        int N = A.size(), i = 0, j = 0;
-        sort(begin(A), end(A));
-        A.erase(unique(begin(A), end(A)), end(A)); // only keep unique elements
-        for (int M = A.size(); j < M; ++j) {
-            if (A[i] + N <= A[j]) ++i;
+    int minOperations(vector<int>& nums) {
+        int n=nums.size();
+        sort(nums.begin(),nums.end());
+        map<int,int>mp;
+        int first=0,last=n-1;
+        int unique=0;
+        for(int i=0;i<n;++i)
+        {
+            mp[nums[i]]++;
+            if(mp[nums[i]]==1)
+            {
+                unique++;
+            }
+            while(nums[i]-nums[first]>=n)
+            {
+                mp[nums[first]]--;
+                if(mp[nums[first]]==0)
+                {
+                    unique--;
+                }
+                first++;
+            }
+            last=min(last,n-unique);//n-unique is the number of elements that are not unique
         }
-        return N - j + i;    
+        return last;
     }
 };
