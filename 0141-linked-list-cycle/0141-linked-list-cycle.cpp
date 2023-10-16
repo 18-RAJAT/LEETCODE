@@ -3,27 +3,28 @@
  * struct ListNode {
  *     int val;
  *     ListNode *next;
- *     ListNode(int x) : val(x), next(NULL) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
  * };
  */
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-         if(head==NULL)
-         {
-             return false;
-         }
-          ListNode* slow=head;
-          ListNode* fast=head;
-          while(fast->next!=NULL && fast->next->next!=NULL)
-          {
+        function<ListNode*(ListNode*)>floyd_Warshall=[&](ListNode*head)->ListNode*
+        {
+            ListNode*slow=head;
+            ListNode*fast=head;
+            while(fast!=nullptr && fast->next!=nullptr)
+            {
                 slow=slow->next;
                 fast=fast->next->next;
                 if(slow==fast)
                 {
-                    return true;
+                    return slow;
                 }
-          }
-          return false;
+            }
+            return nullptr;
+        };
+        ListNode*cycle=floyd_Warshall(head);//returns the node where cycle starts
+        return ((cycle!=nullptr)?true:false);
     }
 };
