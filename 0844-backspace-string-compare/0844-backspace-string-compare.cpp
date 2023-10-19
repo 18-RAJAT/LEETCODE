@@ -21,6 +21,6 @@ public:
             }
             return ans;
         };
-        return check(s)==check(t)?true:false;      
+        return check(s)==check(t)?true:false;
     }
 };
