@@ -17,7 +17,7 @@ public:
             return {};
         }
         vector<int>ans;
-        function<void(TreeNode*,int)>dfs=[&](TreeNode* root,int level)
+        function<void(TreeNode*,int)>dfs=[&](TreeNode* root,int level)->void
         {
             if(root==nullptr)
             {
