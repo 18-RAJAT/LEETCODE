@@ -12,7 +12,7 @@ public:
         ll dp[n];
         for(int i=0;i<n;++i)
         {
-            dp[i]=1;
+            dp[i]=1;//set
         }
         for(int i=0;i<n;++i)
         {
