@@ -2,42 +2,38 @@ class Solution {
 public:
     string longestPalindrome(string s) {
         int n=s.size();
-        int dp[n][n][2];
+        int dp[n][n][2];//0 for start and 1 for end
         memset(dp,0,sizeof(dp));
         int ans=1;
         int start=0;
         for(int i=0;i<n;++i)
         {
-            dp[i][i][0]=1;//even length
-            dp[i][i][1]=1;//odd length
+            dp[i][i][0]=1;
+            dp[i][i][1]=1;
         }
-        for(int i=0;i<n-1;++i)
+        for(int i=0;i<n;++i)
         {
-            if(s[i]==s[i+1])
+            if(s[i]==s[i+1])//if two consecutive characters are same
             {
-                dp[i][i+1][0]=1;
-                dp[i][i+1][1]=1;
-                ans=2;
-                start=i;//starting idx of longest palindrome
+                dp[i][i+1][0]=1;//start
+                dp[i][i+1][1]=1;//end
+                ans=2;//length
+                start=i;//start index
             }
         }
-        for(int k=3;k<=n;++k)//k is length of substring
+        for(int i=2;i<n;++i)
         {
-            for(int i=0;i<n-k+1;++i)//i is starting idx of substring
+            for(int j=0;j<n-i;++j)
             {
-                int j=i+k-1;//calculating ending idx of substring
-                if(s[i]==s[j] && dp[i+1][j-1][0])//if first and last char are same and substring between them is palindrome
+                if(s[j]==s[j+i] && dp[j+1][j+i-1][0])//if start and end of substring is same and the substring between them is also a palindrome
                 {
-                    dp[i][j][0]=1;
-                    dp[i][j][1]=1;
-                    if(k>ans)//if current length is greater than previous length
-                    {
-                        ans=k;//update length
-                        start=i;//update starting idx
-                    }
+                    dp[j][j+i][0]=1;//start
+                    dp[j][j+i][1]=1;//end
+                    ans=i+1;//length
+                    start=j;//start index
                 }
             }
         }
-        return s.substr(start,ans);  
+        return s.substr(start,ans);
     }
 };
