@@ -1,6 +1,7 @@
 class Solution {
 public:
     long long minimumReplacement(vector<int>& nums) {
+        // question:https://codeforces.com/contest/1898/problem/B
         // https://codeforces.com/contest/1898/submission/233445630
         long long n=nums.size();
         long long last=nums[n-1];
