@@ -5,7 +5,7 @@ public:
         vector<vector<int>>arr(n,vector<int>(3,0));//0->ans,1->reward1,2->reward2
         for(int i=0;i<n;++i)
         {
-            int &ans=arr[i][0];//ans
+            int& ans=arr[i][0];//ans
             int& R1=arr[i][1];//reward1
             int& R2=arr[i][2];//reward2
             
