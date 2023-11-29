@@ -35,7 +35,11 @@ public:
                     int row=current.first+dx[i];
                     int col=current.second+dy[i];
                     
-                    if(row>=0 && row<n && col>=0 && col<m && grid[row][col]==1)
+                    auto isValid=[&](int row,int col)->bool
+                    {
+                        return (row>=0 && row<n && col>=0 && col<m && grid[row][col]==1)?true:false;
+                    };
+                    if(isValid(row,col))
                     {
                         grid[row][col]=2;
                         rotten.emplace(make_pair(row,col));
