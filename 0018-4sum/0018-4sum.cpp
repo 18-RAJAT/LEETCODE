@@ -23,7 +23,7 @@ public:
                         unique_element.insert(four_element);
                         left++,right--;
                     }
-                    else if(sum<=target)
+                    else if(sum<target)
                     {
                         left++;
                     }
@@ -35,9 +35,10 @@ public:
             }
         }
         // vector<vector<int>>ans(unique_element.begin(),unique_element.end());
-        vector<vector<int>> ans;
-        for (auto& it : unique_element) {
-            ans.push_back(vector<int>(it.begin(), it.end())); // convert long long int to int
+        vector<vector<int>>ans;
+        for (auto& it:unique_element)
+        {
+            ans.push_back(vector<int>(it.begin(),it.end()));//convert long long int to int
         }
         return ans;
     }
