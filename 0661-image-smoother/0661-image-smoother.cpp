@@ -15,7 +15,11 @@ public:
                     for(int y=-1;y<=1;++y)//vice versa
                     {
                         int nx=i+x,ny=j+y;
-                        if(nx>=0 && nx<n && ny>=0 && ny<m)
+                        auto is_valid=[&](int x,int y)->bool
+                        {
+                            return x>=0 && x<n && y>=0 && y<m?true:false;
+                        };
+                        if(is_valid(nx,ny))
                         {
                             sum+=img[nx][ny];
                             cnt++;
