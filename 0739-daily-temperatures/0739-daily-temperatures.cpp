@@ -2,18 +2,19 @@ class Solution {
 public:
     vector<int> dailyTemperatures(vector<int>& temperatures) {
         int n=temperatures.size();
-        vector<int>res(n,0);
-        stack<int>stk;
-        
+        vector<int>ans(n);
+        deque<int>q;
         for(int i=0;i<n;++i)
         {
-            while(!stk.empty() and temperatures[i]>temperatures[stk.top()])
+            while(!q.empty() && temperatures[q.back()]<temperatures[i])
             {
-                res[stk.top()]=abs(i-stk.top());
-                stk.pop();
+                ans[q.back()]=i-q.back();
+                // cout<<i<<endl;
+                q.pop_back();
             }
-            stk.push(i);
+            q.push_back(i);
+            // cout<<q.front()<<" ";
         }
-        return res;      
+        return ans;
     }
 };
