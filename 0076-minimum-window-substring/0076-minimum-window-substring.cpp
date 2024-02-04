@@ -1,55 +1,48 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        
         int n=s.size();
         int m=t.size();
-        string res="";
-        
         if(n<m)
         {
-            return res;
+            return "";
         }
-        map<char,int>patternHash,stringHash;
-        for(auto it:t) patternHash[it]++;
-        
-        int i=0;
-        int j=0;
-        int count=0;
-        int len=INT_MAX;
-        int startIndex=-1;
-        
-        while(j<n)
+        vector<int>mp(256,0);
+        for(int i=0;i<m;++i)
         {
-            stringHash[s[j]]++;
-            
-            if(stringHash[s[j]]<=patternHash[s[j]])
+            mp[t[i]]++;
+        }
+        int start=0;
+        int end=0;
+        int min_len=INT_MAX;
+        int count=0;
+        int start_index=-1;
+        for(int i=0;i<n;++i)
+        {
+            mp[s[i]]--;
+            if(mp[s[i]]>=0)
             {
                 count++;
             }
             if(count==m)
-            {                
-                while(stringHash[s[i]]>patternHash[s[i]] or patternHash[s[i]]==0)
+            {
+                while(mp[s[start]]<0)
                 {
-                    
-                    if(stringHash[s[i]]>patternHash[s[i]])
-                    stringHash[s[i]]--;
-                    i++;
-                    
+                    mp[s[start]]++;
+                    start++;
                 }
-                int found=j-i+1;
-                if(len>found)
+                int len=i-start+1;
+                if(len<min_len)
                 {
-                    len=found;
-                    startIndex=i;
+                    min_len=len;
+                    start_index=start;
                 }
             }
-            j++;
         }
-        if(startIndex==-1)
+        if(start_index==-1)
         {
             return "";
         }
-        return s.substr(startIndex,len);
+        return s.substr(start_index,min_len);
     }
 };
