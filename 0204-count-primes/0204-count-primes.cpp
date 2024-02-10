@@ -1,49 +1,35 @@
 class Solution {
 public:
     int countPrimes(int n) {
-        // function<bool(int)>isPrime=[&](int n)->bool
-        // {
-        //     for(int i=2;i*i<=n;++i)
-        //     {
-        //         if(n%i==0)
-        //         {
-        //             return false;
-        //         }
-        //     }
-        //     return true;
-        // };
-        // int cntPrimes=0;
-        // for(int i=2;i<n;++i)
-        // {
-        //     if(isPrime(i))
-        //     {
-        //         cntPrimes++;
-        //     }
-        // }
-        // return cntPrimes;
-        
-        //using Sieve of Eratosthenes O(n log log n)
-        bool prime[n+1];
-        memset(prime,true,sizeof(prime));
-        
-        for(int i=2;i*i<n;++i)
+        if(n<=1)
+        {
+            return 0;
+        }
+        int prime[n];
+        for(int i=0;i<n;++i)
+        {
+            prime[i]=1;
+        }
+        prime[0]=0;
+        prime[1]=0;
+        for(int i=2;i*i<=n;++i)
         {
             if(prime[i])
             {
-                for(int j=i*i;j<n;j+=i)
+                for(int j=i*i;j<n;j+=i)//for optimization we can start from i*i instead of 2*i because all the numbers before i*i are already marked as false by the previous numbers
                 {
-                    prime[j]=false;
+                    prime[j]=0;
                 }
             }
         }
-        int cnt=0;
+        int count=0;
         for(int i=2;i<n;++i)
         {
             if(prime[i])
             {
-                cnt++;
+                count++;
             }
         }
-        return cnt;
+        return count;
     }
 };
