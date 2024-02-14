@@ -1,28 +1,20 @@
 class Solution {
 public:
-    Solution()
-    {
-        ios_base::sync_with_stdio(false);
-        cin.tie(NULL);
-        cout.tie(NULL);
-    }
     vector<int> rearrangeArray(vector<int>& nums) {
         int n=nums.size();
+        int negative=1,positive=0;
         vector<int>ans(n,0);
-        
-        int ctr=0,mve=1;
-        
         for(int i=0;i<n;++i)
         {
-            if(nums[i]>=0)
+            if(nums[i]<0)
             {
-                ans[ctr]=nums[i];
-                ctr+=2;
+                ans[negative]=nums[i];
+                negative+=2;
             }
             else
             {
-                ans[mve]=nums[i];
-                mve+=2;
+                ans[positive]=nums[i];
+                positive+=2;
             }
         }
         return ans;
