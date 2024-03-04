@@ -16,6 +16,6 @@ public:
                 i++;
             }
         }
-        return j+1;//j+1 is the length of the array after removing the elements
+        return j+1;
     }
 };
