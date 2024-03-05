@@ -11,14 +11,14 @@
 <p>Return <em>the <strong>minimum length</strong> of </em><code>s</code> <em>after performing the above operation any number of times (possibly zero times)</em>.</p>
 
 <p>&nbsp;</p>
-<p><strong>Example 1:</strong></p>
+<p><strong class="example">Example 1:</strong></p>
 
 <pre><strong>Input:</strong> s = "ca"
 <strong>Output:</strong> 2
 <strong>Explanation: </strong>You can't remove any characters, so the string stays as is.
 </pre>
 
-<p><strong>Example 2:</strong></p>
+<p><strong class="example">Example 2:</strong></p>
 
 <pre><strong>Input:</strong> s = "cabaabac"
 <strong>Output:</strong> 0
@@ -28,7 +28,7 @@
 - Take prefix = "b" and suffix = "b" and remove them, s = "aa".
 - Take prefix = "a" and suffix = "a" and remove them, s = "".</pre>
 
-<p><strong>Example 3:</strong></p>
+<p><strong class="example">Example 3:</strong></p>
 
 <pre><strong>Input:</strong> s = "aabccabba"
 <strong>Output:</strong> 3
