@@ -2,23 +2,20 @@ class Solution {
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
         int n=nums.size();
-        vector<vector<int>>ans;
-        
-        for(int i=0;i<pow(2,n);++i)
+        int count_subsets=(1<<n);
+        vector<vector<int>>subsets;
+        for(int mask=0;mask<count_subsets;++mask)
         {
-            vector<int>temp;
-            for(int j=0;j<n;++j)
+            vector<int>subset;
+            for(int i=0;i<n;++i)
             {
-                /*1<<j is a number with jth bit 1 so when we 'and' them with the subset 
-                number we get which numbers are present in the subset and which are not*/
-                
-                if(i&(1<<j))
+                if(mask&(1<<i))
                 {
-                    temp.push_back(nums[j]);
+                    subset.push_back(nums[i]);
                 }
             }
-            ans.push_back(temp);
+            subsets.push_back(subset);
         }
-        return ans;
+        return subsets;
     }
 };
