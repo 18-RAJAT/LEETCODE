@@ -1,25 +1,25 @@
 class Solution {
 public:
     string makeGood(string s) {
-        string result;
-        int n=s.length();
-        
-        for(int i=0;i<n;++i)
+        stack<char>st;
+        for(auto& i:s)
         {
-            if(abs(s[i]-s[i+1])==abs('a'-'A'))
+            if(st.empty())
             {
-                i++;
+                st.push(i);
             }
             else
             {
-                result+=s[i];
+                (abs(st.top()-i)==32)?st.pop():st.push(i);
             }
         }
-        int m=result.size();
-        if(n==m)
+        string ans="";
+        while(!st.empty())
         {
-            return result;
+            ans+=st.top();
+            st.pop();
         }
-        return makeGood(result);
+        reverse(ans.begin(),ans.end());
+        return ans;
     }
 };
