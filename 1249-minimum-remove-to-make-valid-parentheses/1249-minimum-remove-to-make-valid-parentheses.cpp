@@ -1,30 +1,35 @@
 class Solution {
 public:
     string minRemoveToMakeValid(string s) {
-        
-        stack<pair<char,int>>stk;
-        
-        for(int i=0;i<s.length();++i)
+        int c=0;
+        string ans="";
+        for(int i=0;i<(int)s.size();++i)
         {
-            if(s[i] == '(')
+            if(s[i]=='(')
             {
-                stk.push({s[i],i});
-            } 
-            else if(!stk.empty() and stk.top().first == '(' and s[i] == ')')
-            {
-                stk.pop();
+                c++;
             }
-            else if(s[i] == ')')
+            else if(s[i]==')')
             {
-                stk.push({s[i],i});
+                if(c==0)
+                {
+                    continue;
+                }
+                c--;
             }
+            ans+=s[i];
         }
-        
-        while(!stk.empty())
+        string res="";
+        for(int i=(int)ans.size()-1;~i;--i)
         {
-            s.erase(s.begin() + stk.top().second);
-            stk.pop();
+            if(ans[i]=='(' && c>0)
+            {
+                c--;
+                continue;
+            }
+            res+=ans[i];
         }
-        return s;
+        reverse(res.begin(),res.end());
+        return res;
     }
 };
