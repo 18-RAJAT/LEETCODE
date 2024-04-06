@@ -11,20 +11,20 @@
 </ul>
 
 <p>&nbsp;</p>
-<p><strong>Example 1:</strong></p>
+<p><strong class="example">Example 1:</strong></p>
 
 <pre><strong>Input:</strong> s = "lee(t(c)o)de)"
 <strong>Output:</strong> "lee(t(c)o)de"
 <strong>Explanation:</strong> "lee(t(co)de)" , "lee(t(c)ode)" would also be accepted.
 </pre>
 
-<p><strong>Example 2:</strong></p>
+<p><strong class="example">Example 2:</strong></p>
 
 <pre><strong>Input:</strong> s = "a)b(c)d"
 <strong>Output:</strong> "ab(c)d"
 </pre>
 
-<p><strong>Example 3:</strong></p>
+<p><strong class="example">Example 3:</strong></p>
 
 <pre><strong>Input:</strong> s = "))(("
 <strong>Output:</strong> ""
@@ -35,7 +35,7 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= s.length &lt;= 10<sup style="">5</sup></code></li>
+	<li><code>1 &lt;= s.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>s[i]</code> is either<code>'('</code> , <code>')'</code>, or lowercase English letter<code>.</code></li>
 </ul>
 </div>
