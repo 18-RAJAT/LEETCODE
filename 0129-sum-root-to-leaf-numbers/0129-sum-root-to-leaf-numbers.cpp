@@ -11,20 +11,20 @@
  */
 class Solution {
 public:
-    int sumNumbers(TreeNode* root) {
-		function<int(TreeNode*,int)>dfs=[&](TreeNode* root,int sum)->int
+    int dfs(TreeNode* root,int sum=0)
+    {
+        if(!root)
         {
-			if(not root)
-            {
-                return 0;
-            }
-			sum=sum*10+root->val;
-			if(not root->left and not root->right)
-            {
-                return sum;
-            }
-			return dfs(root->left,sum)+dfs(root->right,sum);
-		};
-		return dfs(root,0);
-	}
+            return 0;
+        }
+        sum=sum*10+root->val;
+        if(!root->left && !root->right)
+        {
+            return sum;
+        }
+        return dfs(root->left,sum)+dfs(root->right,sum);
+    }
+    int sumNumbers(TreeNode* root) {
+        return dfs(root);
+    }
 };
