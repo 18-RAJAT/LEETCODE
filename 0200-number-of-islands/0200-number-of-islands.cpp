@@ -6,16 +6,10 @@ public:
         {
             return;
         }
-        //marked as VISITED
         grid[x][y]='2';
-        
-        //TOP
         dfs(grid,x-1,y,row,col);
-        //DOWN
         dfs(grid,x+1,y,row,col);
-        //LEFT
         dfs(grid,x,y-1,row,col);
-        //RIGHT
         dfs(grid,x,y+1,row,col);
     }
     int numIslands(vector<vector<char>>& grid) {
@@ -30,10 +24,8 @@ public:
         {
             for(int j=0;j<col;++j)
             {
-                //CHECK
                 if(grid[i][j]=='1')
                 {
-                    //CALL
                     dfs(grid,i,j,row,col);
                     total_island++;
                 }
