@@ -1,39 +1,29 @@
 class Solution {
 public:
-    
-    bool answer = 0;
-    void dfs(vector<int>adj[],vector<int>& visited,int source,int destination)
+    void dfs(int source,vector<vector<int>>& adj,vector<bool>& visited)
     {
-         visited[source] = true;
-        if(source == destination)
+        visited[source]=true;
+        for(auto& it:adj[source])
         {
-            answer = 1;
-            return;
-        }
-        
-        for(auto V : adj[source])
-        {
-            if(!visited[V])
-            
-            dfs(adj,visited,V,destination);
+            if(visited[it])
+            {
+                continue;
+            }
+            else
+            {
+                dfs(it,adj,visited);
+            }
         }
     }
-        
-    
-    bool validPath(int n, vector<vector<int>>& edges, int start, int destination) {
-        
-        vector<int>adj[n];
-        
-        for(auto edge :  edges)
+    bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
+        vector<vector<int>>adj(n);
+        for(auto& it:edges)
         {
-           adj[edge[0]].push_back(edge[1]);
-           adj[edge[1]].push_back(edge[0]);
+            adj[it[0]].push_back(it[1]);
+            adj[it[1]].push_back(it[0]);
         }
-        
-        vector<int>visited(n,0);
-        dfs(adj,visited,start,destination);
-        
-        return answer;
-       
+        vector<bool>visited(n);
+        dfs(source,adj,visited);
+        return(visited[destination]?true:false);
     }
 };
