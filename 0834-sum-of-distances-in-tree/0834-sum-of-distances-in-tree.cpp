@@ -1,50 +1,36 @@
 class Solution {
 public:
-    vector<vector<int>>v;
-    vector<int>ct;
-    vector<int>ans;
-    
-    void dfs(int i,int parent=-1)
-    {
-        for(auto &it:v[i])
-        {
-            if(it==parent)
-            {
-                continue;
-            }
-            dfs(it,i);
-            ct[i]+=ct[it];
-            ans[i]+=ans[it]+ct[it];
-       }
-       ct[i]+=1;
-    }
-    
-    void dfs1(int i,int n,int parent=-1)
-    {
-        for(auto &it:v[i])
-        {
-            if(it==parent)
-            {
-                continue;
-            }
-            ans[it]=ans[i]-ct[it]+n-ct[it];
-            
-            dfs1(it,n,i);
-        }
-    }
     vector<int> sumOfDistancesInTree(int n, vector<vector<int>>& edges) {
-        v.resize(n);
-        for(int i=0;i<n-1;++i)
+        vector<vector<int>> g(n);
+        for(auto &e:edges)
         {
-            v[edges[i][0]].push_back(edges[i][1]);
-            v[edges[i][1]].push_back(edges[i][0]);
+            g[e[0]].push_back(e[1]);
+            g[e[1]].push_back(e[0]);
         }
-        ans.resize(n);
-        ct.resize(n);
-        
-        dfs(0);
-        dfs1(0,n);
-        
-        return ans;
+        vector<int> count(n,1),res(n,0);
+        function<void(int,int)> dfs1=[&](int u,int f)
+        {
+            for(auto v:g[u])
+            {
+                if(v==f)
+                    continue;
+                dfs1(v,u);
+                count[u]+=count[v];
+                res[u]+=res[v]+count[v];
+            }
+        };
+        function<void(int,int)> dfs2=[&](int u,int f)
+        {
+            for(auto v:g[u])
+            {
+                if(v==f)
+                    continue;
+                res[v]=res[u]-count[v]+n-count[v];
+                dfs2(v,u);
+            }
+        };
+        dfs1(0,-1);
+        dfs2(0,-1);
+        return res;
     }
 };
