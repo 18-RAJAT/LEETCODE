@@ -11,22 +11,26 @@
  */
 class Solution {
 public:
-    bool evaluateTree(TreeNode* root) {
-         if(!root){ return true;}
-        evaluateTree(root->left);
-        evaluateTree(root->right);
-        
-        if(root->left&&root->right)
+    bool dfs(TreeNode* root)
+    {
+        if(root->left==0 || root->right==0)
         {
-            if(root->val==3)
+            return root->val;
+        }
+        else
+        {
+            if(root->val==2)
             {
-                root->val=(root->left->val and root->right->val);
+                return dfs(root->right)|dfs(root->left);
             }
             else
             {
-                root->val=(root->left->val or root->right->val);
+                return dfs(root->right)&dfs(root->left);
             }
         }
-        return root->val;
+        return true;
+    }
+    bool evaluateTree(TreeNode* root) {
+        return dfs(root);
     }
 };
