@@ -41,13 +41,6 @@ public:
             }
             ans+=b[i]/2;
         }
-        if(check)
-        {
-            return 2*ans+1;
-        }
-        else
-        {
-            return 2*ans;
-        }
+        return (check)?2*ans+1:2*ans;
     }
 };
