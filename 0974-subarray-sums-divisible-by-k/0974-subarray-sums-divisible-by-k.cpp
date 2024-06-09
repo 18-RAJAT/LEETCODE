@@ -5,7 +5,6 @@ public:
         int sum=0,ans=0;
         map<int,int>mp;
         mp[0]=1;
-        
         for(int i=0;i<n;++i)
         {
             sum+=nums[i];
@@ -14,7 +13,7 @@ public:
             {
                 rem+=k;
             }
-            if(mp.find(rem)!=mp.end())
+            if(mp.count(rem))
             {
                 ans+=mp[rem];
             }
