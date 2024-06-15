@@ -1,9 +1,9 @@
 class Solution {
 public:
     int findMaximizedCapital(int k, int w, vector<int>& profits, vector<int>& capital) {
-        auto cmp=[](pair<int,int>a,pair<int,int>b)
+        auto cmp=[&](pair<int,int>a,pair<int,int>b)->int
         {
-            return a.first<b.first;
+            return a.first<b.first?1:0;
         };
         int n=profits.size();
         vector<pair<int,int>>projects;
@@ -16,12 +16,12 @@ public:
         int i=0;
         while(k--)
         {
-            while(i<n and w>=projects[i].first)
+            while(i<n && w>=projects[i].first)
             {
                 maxProfit.push(projects[i].second);
                 i++;
             }
-            if(not maxProfit.empty())
+            if(!maxProfit.empty())
             {
                 w+=maxProfit.top();
                 maxProfit.pop();
