@@ -11,38 +11,28 @@
  */
 class Solution {
 public:
-    TreeNode* balanceBST(TreeNode* root) {
-        function<void(TreeNode*,vector<int>&)>inorder=[&](TreeNode*node,vector<int>&db)->void
-        {
-            if(node==nullptr)
-            {
-                return;
-            }
-            inorder(node->left,db);
-            db.push_back(node->val);
-            inorder(node->right,db);
-        };
-        
-        function<TreeNode*(int,int,const vector<int>&)>buildBST=[&](int start,int end,const vector<int>&db)->TreeNode*
-        {
-            if(start>end)
-            {
-                // return nullptr;
-                return static_cast<TreeNode*>(nullptr);
-            }
-            int mid=start+(end-start)/2;
-            TreeNode*root=new TreeNode(db[mid]);
-            root->left=buildBST(start,mid-1,db);
-            root->right=buildBST(mid+1,end,db);
-            return root;
-        };
-        
-        //build in trav
-        vector<int>INORDER;
-        inorder(root,INORDER);
-        
-        //in arr build BST(balance)
-        return buildBST(0,size(INORDER)-1,INORDER);
-        
-    }
+	vector<int>arr;
+	void dfs(TreeNode* root)
+    {
+			if(not root) return;
+			dfs(root->left);
+			arr.push_back(root->val);
+			dfs(root->right);
+	}
+
+	TreeNode* recur(int left,int right)
+    {
+		if(left>right) return nullptr;
+		int mid=(left+right)/2;
+		int val=arr[mid]; 
+		TreeNode* temp=new TreeNode(val);
+		temp->left=recur(left,mid-1);
+		temp->right=recur(mid+1,right);
+		return temp;
+	}
+
+	TreeNode* balanceBST(TreeNode* root) {
+		dfs(root);
+		return recur(0,arr.size()-1);
+	}
 };
