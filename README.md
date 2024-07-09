@@ -20,4 +20,8 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1803-average-waiting-time](https://github.com/18-RAJAT/LEETCODE/tree/master/1803-average-waiting-time) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/18-RAJAT/LEETCODE/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
