@@ -12,4 +12,12 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/18-RAJAT/LEETCODE/tree/master/1908-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [1803-average-waiting-time](https://github.com/18-RAJAT/LEETCODE/tree/master/1803-average-waiting-time) |
+## Simulation
+|  |
+| ------- |
+| [1803-average-waiting-time](https://github.com/18-RAJAT/LEETCODE/tree/master/1803-average-waiting-time) |
 <!---LeetCode Topics End-->
