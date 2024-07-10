@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1803-average-waiting-time](https://github.com/18-RAJAT/LEETCODE/tree/master/1803-average-waiting-time) |
+| [1720-crawler-log-folder](https://github.com/18-RAJAT/LEETCODE/tree/master/1720-crawler-log-folder) |
 ## Simulation
 |  |
 | ------- |
@@ -24,4 +25,12 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/18-RAJAT/LEETCODE/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/18-RAJAT/LEETCODE/tree/master/1720-crawler-log-folder) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/18-RAJAT/LEETCODE/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
