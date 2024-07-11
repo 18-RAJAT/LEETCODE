@@ -29,8 +29,10 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/18-RAJAT/LEETCODE/tree/master/1720-crawler-log-folder) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/18-RAJAT/LEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/18-RAJAT/LEETCODE/tree/master/1720-crawler-log-folder) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/18-RAJAT/LEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
