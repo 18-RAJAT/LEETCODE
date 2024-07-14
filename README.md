@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1720-crawler-log-folder](https://github.com/18-RAJAT/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/18-RAJAT/LEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
+| [0726-number-of-atoms](https://github.com/18-RAJAT/LEETCODE/tree/master/0726-number-of-atoms) |
 ## Stack
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/18-RAJAT/LEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/18-RAJAT/LEETCODE/tree/master/2846-robot-collisions) |
+| [0726-number-of-atoms](https://github.com/18-RAJAT/LEETCODE/tree/master/0726-number-of-atoms) |
 ## Greedy
 |  |
 | ------- |
@@ -48,4 +50,9 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [2846-robot-collisions](https://github.com/18-RAJAT/LEETCODE/tree/master/2846-robot-collisions) |
+| [0726-number-of-atoms](https://github.com/18-RAJAT/LEETCODE/tree/master/0726-number-of-atoms) |
+## Hash Table
+|  |
+| ------- |
+| [0726-number-of-atoms](https://github.com/18-RAJAT/LEETCODE/tree/master/0726-number-of-atoms) |
 <!---LeetCode Topics End-->
