@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1720-crawler-log-folder](https://github.com/18-RAJAT/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [2846-robot-collisions](https://github.com/18-RAJAT/LEETCODE/tree/master/2846-robot-collisions) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/18-RAJAT/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
+| [1207-delete-nodes-and-return-forest](https://github.com/18-RAJAT/LEETCODE/tree/master/1207-delete-nodes-and-return-forest) |
 ## Simulation
 |  |
 | ------- |
@@ -58,18 +59,22 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0726-number-of-atoms](https://github.com/18-RAJAT/LEETCODE/tree/master/0726-number-of-atoms) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/18-RAJAT/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
+| [1207-delete-nodes-and-return-forest](https://github.com/18-RAJAT/LEETCODE/tree/master/1207-delete-nodes-and-return-forest) |
 ## Tree
 |  |
 | ------- |
 | [2306-create-binary-tree-from-descriptions](https://github.com/18-RAJAT/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/18-RAJAT/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [1207-delete-nodes-and-return-forest](https://github.com/18-RAJAT/LEETCODE/tree/master/1207-delete-nodes-and-return-forest) |
 ## Binary Tree
 |  |
 | ------- |
 | [2306-create-binary-tree-from-descriptions](https://github.com/18-RAJAT/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/18-RAJAT/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [1207-delete-nodes-and-return-forest](https://github.com/18-RAJAT/LEETCODE/tree/master/1207-delete-nodes-and-return-forest) |
 ## Depth-First Search
 |  |
 | ------- |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/18-RAJAT/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [1207-delete-nodes-and-return-forest](https://github.com/18-RAJAT/LEETCODE/tree/master/1207-delete-nodes-and-return-forest) |
 <!---LeetCode Topics End-->
