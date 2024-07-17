@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1818-maximum-score-from-removing-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
 | [0726-number-of-atoms](https://github.com/18-RAJAT/LEETCODE/tree/master/0726-number-of-atoms) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/18-RAJAT/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [0125-valid-palindrome](https://github.com/18-RAJAT/LEETCODE/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -77,4 +78,8 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/18-RAJAT/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [1207-delete-nodes-and-return-forest](https://github.com/18-RAJAT/LEETCODE/tree/master/1207-delete-nodes-and-return-forest) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/18-RAJAT/LEETCODE/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
