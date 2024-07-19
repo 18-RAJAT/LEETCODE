@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2846-robot-collisions](https://github.com/18-RAJAT/LEETCODE/tree/master/2846-robot-collisions) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/18-RAJAT/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 | [1207-delete-nodes-and-return-forest](https://github.com/18-RAJAT/LEETCODE/tree/master/1207-delete-nodes-and-return-forest) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -85,4 +86,8 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/18-RAJAT/LEETCODE/tree/master/0125-valid-palindrome) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
