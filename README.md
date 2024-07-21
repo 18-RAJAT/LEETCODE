@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1207-delete-nodes-and-return-forest](https://github.com/18-RAJAT/LEETCODE/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/18-RAJAT/LEETCODE/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/18-RAJAT/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 ## Simulation
 |  |
 | ------- |
@@ -93,4 +94,13 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/18-RAJAT/LEETCODE/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/18-RAJAT/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
+## Graph
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/18-RAJAT/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
+## Topological Sort
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/18-RAJAT/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
