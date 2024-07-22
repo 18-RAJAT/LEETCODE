@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1496-lucky-numbers-in-a-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/18-RAJAT/LEETCODE/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/18-RAJAT/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/18-RAJAT/LEETCODE/tree/master/2502-sort-the-people) |
 ## Simulation
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0726-number-of-atoms](https://github.com/18-RAJAT/LEETCODE/tree/master/0726-number-of-atoms) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/18-RAJAT/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [0125-valid-palindrome](https://github.com/18-RAJAT/LEETCODE/tree/master/0125-valid-palindrome) |
+| [2502-sort-the-people](https://github.com/18-RAJAT/LEETCODE/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
@@ -59,12 +61,14 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [2846-robot-collisions](https://github.com/18-RAJAT/LEETCODE/tree/master/2846-robot-collisions) |
 | [0726-number-of-atoms](https://github.com/18-RAJAT/LEETCODE/tree/master/0726-number-of-atoms) |
+| [2502-sort-the-people](https://github.com/18-RAJAT/LEETCODE/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/18-RAJAT/LEETCODE/tree/master/0726-number-of-atoms) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/18-RAJAT/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 | [1207-delete-nodes-and-return-forest](https://github.com/18-RAJAT/LEETCODE/tree/master/1207-delete-nodes-and-return-forest) |
+| [2502-sort-the-people](https://github.com/18-RAJAT/LEETCODE/tree/master/2502-sort-the-people) |
 ## Tree
 |  |
 | ------- |
