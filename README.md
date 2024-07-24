@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2472-build-a-matrix-with-conditions](https://github.com/18-RAJAT/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/18-RAJAT/LEETCODE/tree/master/2502-sort-the-people) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/18-RAJAT/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1333-sort-the-jumbled-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1333-sort-the-jumbled-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0726-number-of-atoms](https://github.com/18-RAJAT/LEETCODE/tree/master/0726-number-of-atoms) |
 | [2502-sort-the-people](https://github.com/18-RAJAT/LEETCODE/tree/master/2502-sort-the-people) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/18-RAJAT/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1333-sort-the-jumbled-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1333-sort-the-jumbled-numbers) |
 ## Hash Table
 |  |
 | ------- |
