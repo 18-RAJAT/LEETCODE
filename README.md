@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1333-sort-the-jumbled-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1333-sort-the-jumbled-numbers) |
 | [0948-sort-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0948-sort-an-array) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [1511-count-number-of-teams](https://github.com/18-RAJAT/LEETCODE/tree/master/1511-count-number-of-teams) |
 ## Simulation
 |  |
 | ------- |
@@ -146,9 +147,14 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/18-RAJAT/LEETCODE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/18-RAJAT/LEETCODE/tree/master/1511-count-number-of-teams) |
 ## Shortest Path
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/18-RAJAT/LEETCODE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/18-RAJAT/LEETCODE/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
