@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0125-valid-palindrome](https://github.com/18-RAJAT/LEETCODE/tree/master/0125-valid-palindrome) |
 | [2502-sort-the-people](https://github.com/18-RAJAT/LEETCODE/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/18-RAJAT/LEETCODE/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1818-maximum-score-from-removing-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/18-RAJAT/LEETCODE/tree/master/2846-robot-collisions) |
 | [0726-number-of-atoms](https://github.com/18-RAJAT/LEETCODE/tree/master/0726-number-of-atoms) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/18-RAJAT/LEETCODE/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Greedy
 |  |
 | ------- |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/18-RAJAT/LEETCODE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/18-RAJAT/LEETCODE/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/18-RAJAT/LEETCODE/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Shortest Path
 |  |
 | ------- |
