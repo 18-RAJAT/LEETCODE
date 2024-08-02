@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3235-minimum-cost-to-convert-string-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [1511-count-number-of-teams](https://github.com/18-RAJAT/LEETCODE/tree/master/1511-count-number-of-teams) |
 | [2727-number-of-senior-citizens](https://github.com/18-RAJAT/LEETCODE/tree/master/2727-number-of-senior-citizens) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -162,4 +163,8 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/18-RAJAT/LEETCODE/tree/master/1511-count-number-of-teams) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
