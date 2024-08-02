@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0584-find-customer-referee](https://github.com/18-RAJAT/LEETCODE/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/18-RAJAT/LEETCODE/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/18-RAJAT/LEETCODE/tree/master/1258-article-views-i) |
+| [1827-invalid-tweets](https://github.com/18-RAJAT/LEETCODE/tree/master/1827-invalid-tweets) |
 ## Array
 |  |
 | ------- |
