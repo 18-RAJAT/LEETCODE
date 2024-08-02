@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/18-RAJAT/LEETCODE/tree/master/1908-recyclable-and-low-fat-products) |
+| [0584-find-customer-referee](https://github.com/18-RAJAT/LEETCODE/tree/master/0584-find-customer-referee) |
 ## Array
 |  |
 | ------- |
