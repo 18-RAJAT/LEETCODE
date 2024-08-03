@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1511-count-number-of-teams](https://github.com/18-RAJAT/LEETCODE/tree/master/1511-count-number-of-teams) |
 | [2727-number-of-senior-citizens](https://github.com/18-RAJAT/LEETCODE/tree/master/2727-number-of-senior-citizens) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Simulation
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1741-sort-array-by-increasing-frequency](https://github.com/18-RAJAT/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1333-sort-the-jumbled-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1333-sort-the-jumbled-numbers) |
 | [0948-sort-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0948-sort-an-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1207-delete-nodes-and-return-forest](https://github.com/18-RAJAT/LEETCODE/tree/master/1207-delete-nodes-and-return-forest) |
 | [2502-sort-the-people](https://github.com/18-RAJAT/LEETCODE/tree/master/2502-sort-the-people) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/18-RAJAT/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Tree
 |  |
 | ------- |
