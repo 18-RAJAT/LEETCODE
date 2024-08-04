@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2727-number-of-senior-citizens](https://github.com/18-RAJAT/LEETCODE/tree/master/2727-number-of-senior-citizens) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/18-RAJAT/LEETCODE/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Simulation
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1333-sort-the-jumbled-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1333-sort-the-jumbled-numbers) |
 | [0948-sort-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/18-RAJAT/LEETCODE/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/18-RAJAT/LEETCODE/tree/master/0125-valid-palindrome) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/18-RAJAT/LEETCODE/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Matrix
 |  |
 | ------- |
@@ -174,4 +177,8 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Binary Search
+|  |
+| ------- |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/18-RAJAT/LEETCODE/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->
