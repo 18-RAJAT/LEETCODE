@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/18-RAJAT/LEETCODE/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3235-minimum-cost-to-convert-string-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/18-RAJAT/LEETCODE/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2727-number-of-senior-citizens](https://github.com/18-RAJAT/LEETCODE/tree/master/2727-number-of-senior-citizens) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2502-sort-the-people](https://github.com/18-RAJAT/LEETCODE/tree/master/2502-sort-the-people) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/18-RAJAT/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -158,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0948-sort-an-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
