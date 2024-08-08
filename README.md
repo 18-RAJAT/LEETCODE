@@ -38,11 +38,13 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/18-RAJAT/LEETCODE/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
+| [0921-spiral-matrix-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/0921-spiral-matrix-iii) |
 ## Simulation
 |  |
 | ------- |
 | [1803-average-waiting-time](https://github.com/18-RAJAT/LEETCODE/tree/master/1803-average-waiting-time) |
 | [2846-robot-collisions](https://github.com/18-RAJAT/LEETCODE/tree/master/2846-robot-collisions) |
+| [0921-spiral-matrix-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/0921-spiral-matrix-iii) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1496-lucky-numbers-in-a-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/18-RAJAT/LEETCODE/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/18-RAJAT/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
+| [0921-spiral-matrix-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/0921-spiral-matrix-iii) |
 ## Graph
 |  |
 | ------- |
