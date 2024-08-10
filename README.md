@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2163-kth-distinct-string-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [0921-spiral-matrix-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/0921-spiral-matrix-iii) |
 | [0870-magic-squares-in-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/18-RAJAT/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
 ## Simulation
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2163-kth-distinct-string-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [0870-magic-squares-in-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/18-RAJAT/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
 ## Tree
 |  |
 | ------- |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/18-RAJAT/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [1207-delete-nodes-and-return-forest](https://github.com/18-RAJAT/LEETCODE/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [0999-regions-cut-by-slashes](https://github.com/18-RAJAT/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2472-build-a-matrix-with-conditions](https://github.com/18-RAJAT/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 | [0921-spiral-matrix-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/0921-spiral-matrix-iii) |
 | [0870-magic-squares-in-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/18-RAJAT/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
 ## Graph
 |  |
 | ------- |
@@ -203,4 +207,12 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/18-RAJAT/LEETCODE/tree/master/0273-integer-to-english-words) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/18-RAJAT/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/18-RAJAT/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
