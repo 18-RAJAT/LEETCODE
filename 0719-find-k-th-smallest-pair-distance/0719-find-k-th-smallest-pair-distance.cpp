@@ -20,6 +20,6 @@ public:
             }
             (count>=k)?r=mid-1:l=mid+1;
         }
-        return l;  
+        return l;
     }
 };
