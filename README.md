@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0999-regions-cut-by-slashes](https://github.com/18-RAJAT/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/18-RAJAT/LEETCODE/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [0040-combination-sum-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0040-combination-sum-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/18-RAJAT/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Simulation
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/18-RAJAT/LEETCODE/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/18-RAJAT/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0125-valid-palindrome](https://github.com/18-RAJAT/LEETCODE/tree/master/0125-valid-palindrome) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/18-RAJAT/LEETCODE/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/18-RAJAT/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Matrix
 |  |
 | ------- |
@@ -210,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/18-RAJAT/LEETCODE/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/18-RAJAT/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Recursion
 |  |
 | ------- |
