@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/18-RAJAT/LEETCODE/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [0040-combination-sum-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/18-RAJAT/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0890-lemonade-change](https://github.com/18-RAJAT/LEETCODE/tree/master/0890-lemonade-change) |
 ## Simulation
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1818-maximum-score-from-removing-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/18-RAJAT/LEETCODE/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [0890-lemonade-change](https://github.com/18-RAJAT/LEETCODE/tree/master/0890-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
