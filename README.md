@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0009-palindrome-number](https://github.com/18-RAJAT/LEETCODE/tree/master/0009-palindrome-number) |
 | [0273-integer-to-english-words](https://github.com/18-RAJAT/LEETCODE/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/0870-magic-squares-in-grid) |
+| [0264-ugly-number-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0264-ugly-number-ii) |
 ## String
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [0870-magic-squares-in-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/18-RAJAT/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
+| [0264-ugly-number-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0264-ugly-number-ii) |
 ## Tree
 |  |
 | ------- |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0948-sort-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0948-sort-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/18-RAJAT/LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0264-ugly-number-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0264-ugly-number-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -202,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1511-count-number-of-teams](https://github.com/18-RAJAT/LEETCODE/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/18-RAJAT/LEETCODE/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/18-RAJAT/LEETCODE/tree/master/2067-maximum-number-of-points-with-cost) |
+| [0264-ugly-number-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0264-ugly-number-ii) |
 ## Shortest Path
 |  |
 | ------- |
