@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0273-integer-to-english-words](https://github.com/18-RAJAT/LEETCODE/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [0264-ugly-number-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/18-RAJAT/LEETCODE/tree/master/0650-2-keys-keyboard) |
 ## String
 |  |
 | ------- |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/18-RAJAT/LEETCODE/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/18-RAJAT/LEETCODE/tree/master/2067-maximum-number-of-points-with-cost) |
 | [0264-ugly-number-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/18-RAJAT/LEETCODE/tree/master/0650-2-keys-keyboard) |
 ## Shortest Path
 |  |
 | ------- |
