@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0890-lemonade-change](https://github.com/18-RAJAT/LEETCODE/tree/master/0890-lemonade-change) |
 | [0624-maximum-distance-in-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/0624-maximum-distance-in-arrays) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/18-RAJAT/LEETCODE/tree/master/2067-maximum-number-of-points-with-cost) |
+| [1240-stone-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1240-stone-game-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0870-magic-squares-in-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [0264-ugly-number-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/18-RAJAT/LEETCODE/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1240-stone-game-ii) |
 ## String
 |  |
 | ------- |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2067-maximum-number-of-points-with-cost](https://github.com/18-RAJAT/LEETCODE/tree/master/2067-maximum-number-of-points-with-cost) |
 | [0264-ugly-number-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/18-RAJAT/LEETCODE/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1240-stone-game-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -259,4 +262,12 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0040-combination-sum-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
