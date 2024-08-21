@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2163-kth-distinct-string-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [0273-integer-to-english-words](https://github.com/18-RAJAT/LEETCODE/tree/master/0273-integer-to-english-words) |
+| [0664-strange-printer](https://github.com/18-RAJAT/LEETCODE/tree/master/0664-strange-printer) |
 ## Stack
 |  |
 | ------- |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0264-ugly-number-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/18-RAJAT/LEETCODE/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1240-stone-game-ii) |
+| [0664-strange-printer](https://github.com/18-RAJAT/LEETCODE/tree/master/0664-strange-printer) |
 ## Shortest Path
 |  |
 | ------- |
