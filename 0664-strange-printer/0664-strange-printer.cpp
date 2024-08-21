@@ -5,7 +5,7 @@ public:
         if(l>r) return 0;
         if(dp[l][r]!=-1) return dp[l][r];
         int ans=1+f(l+1,r,s,dp);
-        for(int i=l+1;i<=r;i++)
+        for(int i=l+1;i<=r;++i)
         {
             if(s[i]==s[l]) ans=min(ans,f(l+1,i-1,s,dp)+f(i,r,s,dp));
         }
