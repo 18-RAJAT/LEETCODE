@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0650-2-keys-keyboard](https://github.com/18-RAJAT/LEETCODE/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1240-stone-game-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/18-RAJAT/LEETCODE/tree/master/0592-fraction-addition-and-subtraction) |
+| [0564-find-the-closest-palindrome](https://github.com/18-RAJAT/LEETCODE/tree/master/0564-find-the-closest-palindrome) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0273-integer-to-english-words](https://github.com/18-RAJAT/LEETCODE/tree/master/0273-integer-to-english-words) |
 | [0664-strange-printer](https://github.com/18-RAJAT/LEETCODE/tree/master/0664-strange-printer) |
 | [0592-fraction-addition-and-subtraction](https://github.com/18-RAJAT/LEETCODE/tree/master/0592-fraction-addition-and-subtraction) |
+| [0564-find-the-closest-palindrome](https://github.com/18-RAJAT/LEETCODE/tree/master/0564-find-the-closest-palindrome) |
 ## Stack
 |  |
 | ------- |
