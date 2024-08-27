@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0624-maximum-distance-in-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/0624-maximum-distance-in-arrays) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/18-RAJAT/LEETCODE/tree/master/2067-maximum-number-of-points-with-cost) |
 | [1240-stone-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1240-stone-game-ii) |
+| [1325-path-with-maximum-probability](https://github.com/18-RAJAT/LEETCODE/tree/master/1325-path-with-maximum-probability) |
 ## Simulation
 |  |
 | ------- |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2472-build-a-matrix-with-conditions](https://github.com/18-RAJAT/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/18-RAJAT/LEETCODE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [1325-path-with-maximum-probability](https://github.com/18-RAJAT/LEETCODE/tree/master/1325-path-with-maximum-probability) |
 ## Topological Sort
 |  |
 | ------- |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0948-sort-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0948-sort-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/18-RAJAT/LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0264-ugly-number-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0264-ugly-number-ii) |
+| [1325-path-with-maximum-probability](https://github.com/18-RAJAT/LEETCODE/tree/master/1325-path-with-maximum-probability) |
 ## Merge Sort
 |  |
 | ------- |
@@ -230,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/18-RAJAT/LEETCODE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [1325-path-with-maximum-probability](https://github.com/18-RAJAT/LEETCODE/tree/master/1325-path-with-maximum-probability) |
 ## Binary Indexed Tree
 |  |
 | ------- |
