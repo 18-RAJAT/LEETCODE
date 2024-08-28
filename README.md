@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2067-maximum-number-of-points-with-cost](https://github.com/18-RAJAT/LEETCODE/tree/master/2067-maximum-number-of-points-with-cost) |
 | [1240-stone-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/18-RAJAT/LEETCODE/tree/master/1325-path-with-maximum-probability) |
+| [2035-count-sub-islands](https://github.com/18-RAJAT/LEETCODE/tree/master/2035-count-sub-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/18-RAJAT/LEETCODE/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [0145-binary-tree-postorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2035-count-sub-islands](https://github.com/18-RAJAT/LEETCODE/tree/master/2035-count-sub-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0870-magic-squares-in-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/18-RAJAT/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/18-RAJAT/LEETCODE/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/18-RAJAT/LEETCODE/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
 | ------- |
@@ -256,10 +259,12 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/18-RAJAT/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/18-RAJAT/LEETCODE/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/18-RAJAT/LEETCODE/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/18-RAJAT/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
+| [2035-count-sub-islands](https://github.com/18-RAJAT/LEETCODE/tree/master/2035-count-sub-islands) |
 ## Strongly Connected Component
 |  |
 | ------- |
