@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1240-stone-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/18-RAJAT/LEETCODE/tree/master/1325-path-with-maximum-probability) |
 | [2035-count-sub-islands](https://github.com/18-RAJAT/LEETCODE/tree/master/2035-count-sub-islands) |
+| [0909-stone-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0909-stone-game) |
 ## Simulation
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1240-stone-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1240-stone-game-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/18-RAJAT/LEETCODE/tree/master/0592-fraction-addition-and-subtraction) |
 | [0564-find-the-closest-palindrome](https://github.com/18-RAJAT/LEETCODE/tree/master/0564-find-the-closest-palindrome) |
+| [0909-stone-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0909-stone-game) |
 ## String
 |  |
 | ------- |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0650-2-keys-keyboard](https://github.com/18-RAJAT/LEETCODE/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1240-stone-game-ii) |
 | [0664-strange-printer](https://github.com/18-RAJAT/LEETCODE/tree/master/0664-strange-printer) |
+| [0909-stone-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0909-stone-game) |
 ## Shortest Path
 |  |
 | ------- |
@@ -300,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1240-stone-game-ii) |
+| [0909-stone-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0909-stone-game) |
 ## Bit Manipulation
 |  |
 | ------- |
