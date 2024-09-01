@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1325-path-with-maximum-probability](https://github.com/18-RAJAT/LEETCODE/tree/master/1325-path-with-maximum-probability) |
 | [2035-count-sub-islands](https://github.com/18-RAJAT/LEETCODE/tree/master/2035-count-sub-islands) |
 | [0909-stone-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0909-stone-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2846-robot-collisions](https://github.com/18-RAJAT/LEETCODE/tree/master/2846-robot-collisions) |
 | [0921-spiral-matrix-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/0921-spiral-matrix-iii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/18-RAJAT/LEETCODE/tree/master/0592-fraction-addition-and-subtraction) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Math
 |  |
 | ------- |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0999-regions-cut-by-slashes](https://github.com/18-RAJAT/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/18-RAJAT/LEETCODE/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/18-RAJAT/LEETCODE/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Graph
 |  |
 | ------- |
