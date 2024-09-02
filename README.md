@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2035-count-sub-islands](https://github.com/18-RAJAT/LEETCODE/tree/master/2035-count-sub-islands) |
 | [0909-stone-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0909-stone-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/18-RAJAT/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0921-spiral-matrix-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/0921-spiral-matrix-iii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/18-RAJAT/LEETCODE/tree/master/0592-fraction-addition-and-subtraction) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/18-RAJAT/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Math
 |  |
 | ------- |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/18-RAJAT/LEETCODE/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/18-RAJAT/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/18-RAJAT/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Recursion
 |  |
 | ------- |
@@ -302,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1240-stone-game-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/18-RAJAT/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
 | ------- |
