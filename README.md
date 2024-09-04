@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0909-stone-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0909-stone-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/18-RAJAT/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [0906-walking-robot-simulation](https://github.com/18-RAJAT/LEETCODE/tree/master/0906-walking-robot-simulation) |
 ## Simulation
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2132-convert-1d-array-into-2d-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/18-RAJAT/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/18-RAJAT/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [0906-walking-robot-simulation](https://github.com/18-RAJAT/LEETCODE/tree/master/0906-walking-robot-simulation) |
 ## Math
 |  |
 | ------- |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0999-regions-cut-by-slashes](https://github.com/18-RAJAT/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
 | [0264-ugly-number-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/18-RAJAT/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0906-walking-robot-simulation](https://github.com/18-RAJAT/LEETCODE/tree/master/0906-walking-robot-simulation) |
 ## Tree
 |  |
 | ------- |
