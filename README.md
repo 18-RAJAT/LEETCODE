@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0789-kth-largest-element-in-a-stream](https://github.com/18-RAJAT/LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0145-binary-tree-postorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/18-RAJAT/LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0145-binary-tree-postorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0776-n-ary-tree-postorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2035-count-sub-islands](https://github.com/18-RAJAT/LEETCODE/tree/master/2035-count-sub-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/18-RAJAT/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1484-linked-list-in-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -283,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0999-regions-cut-by-slashes](https://github.com/18-RAJAT/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/18-RAJAT/LEETCODE/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/18-RAJAT/LEETCODE/tree/master/2035-count-sub-islands) |
+| [1484-linked-list-in-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -323,4 +327,8 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/18-RAJAT/LEETCODE/tree/master/0476-number-complement) |
+## Linked List
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
