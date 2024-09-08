@@ -331,4 +331,5 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
+| [0725-split-linked-list-in-parts](https://github.com/18-RAJAT/LEETCODE/tree/master/0725-split-linked-list-in-parts) |
 <!---LeetCode Topics End-->
