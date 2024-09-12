@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0906-walking-robot-simulation](https://github.com/18-RAJAT/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [2155-find-missing-observations](https://github.com/18-RAJAT/LEETCODE/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/2411-spiral-matrix-iv) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Simulation
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0592-fraction-addition-and-subtraction](https://github.com/18-RAJAT/LEETCODE/tree/master/0592-fraction-addition-and-subtraction) |
 | [0564-find-the-closest-palindrome](https://github.com/18-RAJAT/LEETCODE/tree/master/0564-find-the-closest-palindrome) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/18-RAJAT/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Stack
 |  |
 | ------- |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0264-ugly-number-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/18-RAJAT/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0906-walking-robot-simulation](https://github.com/18-RAJAT/LEETCODE/tree/master/0906-walking-robot-simulation) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Tree
 |  |
 | ------- |
@@ -247,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0948-sort-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -332,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0476-number-complement](https://github.com/18-RAJAT/LEETCODE/tree/master/0476-number-complement) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/18-RAJAT/LEETCODE/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Linked List
 |  |
 | ------- |
