@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2155-find-missing-observations](https://github.com/18-RAJAT/LEETCODE/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/2411-spiral-matrix-iv) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1435-xor-queries-of-a-subarray](https://github.com/18-RAJAT/LEETCODE/tree/master/1435-xor-queries-of-a-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [1240-stone-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1240-stone-game-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/18-RAJAT/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [1435-xor-queries-of-a-subarray](https://github.com/18-RAJAT/LEETCODE/tree/master/1435-xor-queries-of-a-subarray) |
 ## Game Theory
 |  |
 | ------- |
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0476-number-complement](https://github.com/18-RAJAT/LEETCODE/tree/master/0476-number-complement) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/18-RAJAT/LEETCODE/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1435-xor-queries-of-a-subarray](https://github.com/18-RAJAT/LEETCODE/tree/master/1435-xor-queries-of-a-subarray) |
 ## Linked List
 |  |
 | ------- |
