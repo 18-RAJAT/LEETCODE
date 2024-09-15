@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0564-find-the-closest-palindrome](https://github.com/18-RAJAT/LEETCODE/tree/master/0564-find-the-closest-palindrome) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/18-RAJAT/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/18-RAJAT/LEETCODE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Stack
 |  |
 | ------- |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/18-RAJAT/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0906-walking-robot-simulation](https://github.com/18-RAJAT/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/18-RAJAT/LEETCODE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Tree
 |  |
 | ------- |
@@ -328,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1240-stone-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1240-stone-game-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/18-RAJAT/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [1435-xor-queries-of-a-subarray](https://github.com/18-RAJAT/LEETCODE/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/18-RAJAT/LEETCODE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Game Theory
 |  |
 | ------- |
@@ -340,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/18-RAJAT/LEETCODE/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1435-xor-queries-of-a-subarray](https://github.com/18-RAJAT/LEETCODE/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/18-RAJAT/LEETCODE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Linked List
 |  |
 | ------- |
