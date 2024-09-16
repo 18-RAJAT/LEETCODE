@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2411-spiral-matrix-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/2411-spiral-matrix-iv) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1435-xor-queries-of-a-subarray](https://github.com/18-RAJAT/LEETCODE/tree/master/1435-xor-queries-of-a-subarray) |
+| [0539-minimum-time-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/0539-minimum-time-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0909-stone-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0909-stone-game) |
 | [2155-find-missing-observations](https://github.com/18-RAJAT/LEETCODE/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/18-RAJAT/LEETCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [0539-minimum-time-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/0539-minimum-time-difference) |
 ## String
 |  |
 | ------- |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/18-RAJAT/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/18-RAJAT/LEETCODE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [0539-minimum-time-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/0539-minimum-time-difference) |
 ## Stack
 |  |
 | ------- |
@@ -139,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/18-RAJAT/LEETCODE/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/18-RAJAT/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0539-minimum-time-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/0539-minimum-time-difference) |
 ## Hash Table
 |  |
 | ------- |
