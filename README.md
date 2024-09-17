@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1786-count-the-number-of-consistent-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/18-RAJAT/LEETCODE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [0539-minimum-time-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/0539-minimum-time-difference) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/18-RAJAT/LEETCODE/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Stack
 |  |
 | ------- |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0906-walking-robot-simulation](https://github.com/18-RAJAT/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/18-RAJAT/LEETCODE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/18-RAJAT/LEETCODE/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Tree
 |  |
 | ------- |
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2163-kth-distinct-string-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/18-RAJAT/LEETCODE/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Dynamic Programming
 |  |
 | ------- |
