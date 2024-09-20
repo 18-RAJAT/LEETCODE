@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0539-minimum-time-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/18-RAJAT/LEETCODE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0179-largest-number](https://github.com/18-RAJAT/LEETCODE/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/18-RAJAT/LEETCODE/tree/master/0214-shortest-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -366,4 +367,16 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/18-RAJAT/LEETCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/18-RAJAT/LEETCODE/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/18-RAJAT/LEETCODE/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/18-RAJAT/LEETCODE/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
