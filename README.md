@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2035-count-sub-islands](https://github.com/18-RAJAT/LEETCODE/tree/master/2035-count-sub-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/18-RAJAT/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1484-linked-list-in-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/0386-lexicographical-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -379,4 +380,8 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/18-RAJAT/LEETCODE/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
