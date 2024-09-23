@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1435-xor-queries-of-a-subarray](https://github.com/18-RAJAT/LEETCODE/tree/master/1435-xor-queries-of-a-subarray) |
 | [0539-minimum-time-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0179-largest-number](https://github.com/18-RAJAT/LEETCODE/tree/master/0179-largest-number) |
+| [2755-extra-characters-in-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0920-uncommon-words-from-two-sentences](https://github.com/18-RAJAT/LEETCODE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0179-largest-number](https://github.com/18-RAJAT/LEETCODE/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/18-RAJAT/LEETCODE/tree/master/0214-shortest-palindrome) |
+| [2755-extra-characters-in-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1786-count-the-number-of-consistent-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/18-RAJAT/LEETCODE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/18-RAJAT/LEETCODE/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2755-extra-characters-in-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -279,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1240-stone-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1240-stone-game-ii) |
 | [0664-strange-printer](https://github.com/18-RAJAT/LEETCODE/tree/master/0664-strange-printer) |
 | [0909-stone-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0909-stone-game) |
+| [2755-extra-characters-in-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 ## Shortest Path
 |  |
 | ------- |
@@ -385,4 +389,5 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/18-RAJAT/LEETCODE/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
