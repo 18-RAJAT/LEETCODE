@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2755-extra-characters-in-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/18-RAJAT/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [0729-my-calendar-i](https://github.com/18-RAJAT/LEETCODE/tree/master/0729-my-calendar-i) |
 ## Simulation
 |  |
 | ------- |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/18-RAJAT/LEETCODE/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/18-RAJAT/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/18-RAJAT/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [0729-my-calendar-i](https://github.com/18-RAJAT/LEETCODE/tree/master/0729-my-calendar-i) |
 ## Recursion
 |  |
 | ------- |
@@ -335,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/18-RAJAT/LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0729-my-calendar-i](https://github.com/18-RAJAT/LEETCODE/tree/master/0729-my-calendar-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -398,4 +401,12 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2755-extra-characters-in-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/18-RAJAT/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/18-RAJAT/LEETCODE/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/18-RAJAT/LEETCODE/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
