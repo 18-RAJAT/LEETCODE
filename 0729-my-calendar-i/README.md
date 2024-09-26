@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/my-calendar-i/">729. My Calendar I</a></h2><h3>Medium</h3><hr><div><p>You are implementing a program to use as your calendar. We can add a new event if adding the event will not cause a <strong>double booking</strong>.</p>
+<h2><a href="https://leetcode.com/problems/my-calendar-i">729. My Calendar I</a></h2><h3>Medium</h3><hr><p>You are implementing a program to use as your calendar. We can add a new event if adding the event will not cause a <strong>double booking</strong>.</p>
 
 <p>A <strong>double booking</strong> happens when two events have some non-empty intersection (i.e., some moment is common to both events.).</p>
 
@@ -14,8 +14,9 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input</strong>
-["MyCalendar", "book", "book", "book"]
+<pre>
+<strong>Input</strong>
+[&quot;MyCalendar&quot;, &quot;book&quot;, &quot;book&quot;, &quot;book&quot;]
 [[], [10, 20], [15, 25], [20, 30]]
 <strong>Output</strong>
 [null, true, false, true]
@@ -33,4 +34,3 @@ myCalendar.book(20, 30); // return True, The event can be booked, as the first e
 	<li><code>0 &lt;= start &lt; end &lt;= 10<sup>9</sup></code></li>
 	<li>At most <code>1000</code> calls will be made to <code>book</code>.</li>
 </ul>
-</div>
