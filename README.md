@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/18-RAJAT/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [0729-my-calendar-i](https://github.com/18-RAJAT/LEETCODE/tree/master/0729-my-calendar-i) |
+| [0859-design-circular-deque](https://github.com/18-RAJAT/LEETCODE/tree/master/0859-design-circular-deque) |
 ## Simulation
 |  |
 | ------- |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/18-RAJAT/LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0729-my-calendar-i](https://github.com/18-RAJAT/LEETCODE/tree/master/0729-my-calendar-i) |
+| [0859-design-circular-deque](https://github.com/18-RAJAT/LEETCODE/tree/master/0859-design-circular-deque) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -377,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0725-split-linked-list-in-parts](https://github.com/18-RAJAT/LEETCODE/tree/master/0725-split-linked-list-in-parts) |
 | [2411-spiral-matrix-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/18-RAJAT/LEETCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [0859-design-circular-deque](https://github.com/18-RAJAT/LEETCODE/tree/master/0859-design-circular-deque) |
 ## Number Theory
 |  |
 | ------- |
@@ -409,4 +412,8 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/18-RAJAT/LEETCODE/tree/master/0729-my-calendar-i) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/18-RAJAT/LEETCODE/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
