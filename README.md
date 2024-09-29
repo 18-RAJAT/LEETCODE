@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0920-uncommon-words-from-two-sentences](https://github.com/18-RAJAT/LEETCODE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2755-extra-characters-in-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/18-RAJAT/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [0432-all-oone-data-structure](https://github.com/18-RAJAT/LEETCODE/tree/master/0432-all-oone-data-structure) |
 ## Tree
 |  |
 | ------- |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0789-kth-largest-element-in-a-stream](https://github.com/18-RAJAT/LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0729-my-calendar-i](https://github.com/18-RAJAT/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/18-RAJAT/LEETCODE/tree/master/0859-design-circular-deque) |
+| [0432-all-oone-data-structure](https://github.com/18-RAJAT/LEETCODE/tree/master/0432-all-oone-data-structure) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -380,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2411-spiral-matrix-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/18-RAJAT/LEETCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [0859-design-circular-deque](https://github.com/18-RAJAT/LEETCODE/tree/master/0859-design-circular-deque) |
+| [0432-all-oone-data-structure](https://github.com/18-RAJAT/LEETCODE/tree/master/0432-all-oone-data-structure) |
 ## Number Theory
 |  |
 | ------- |
@@ -416,4 +419,8 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/18-RAJAT/LEETCODE/tree/master/0859-design-circular-deque) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/18-RAJAT/LEETCODE/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
