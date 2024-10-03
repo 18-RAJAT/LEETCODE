@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1497-design-a-stack-with-increment-operation](https://github.com/18-RAJAT/LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
+| [1694-make-sum-divisible-by-p](https://github.com/18-RAJAT/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 ## Simulation
 |  |
 | ------- |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0432-all-oone-data-structure](https://github.com/18-RAJAT/LEETCODE/tree/master/0432-all-oone-data-structure) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
+| [1694-make-sum-divisible-by-p](https://github.com/18-RAJAT/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 ## Tree
 |  |
 | ------- |
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/18-RAJAT/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [1435-xor-queries-of-a-subarray](https://github.com/18-RAJAT/LEETCODE/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/18-RAJAT/LEETCODE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1694-make-sum-divisible-by-p](https://github.com/18-RAJAT/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 ## Game Theory
 |  |
 | ------- |
