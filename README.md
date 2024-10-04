@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2155-find-missing-observations](https://github.com/18-RAJAT/LEETCODE/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/18-RAJAT/LEETCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [0539-minimum-time-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/0539-minimum-time-difference) |
+| [0002-add-two-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/0002-add-two-numbers) |
 ## String
 |  |
 | ------- |
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/18-RAJAT/LEETCODE/tree/master/0273-integer-to-english-words) |
+| [0002-add-two-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/0002-add-two-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -399,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/18-RAJAT/LEETCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [0859-design-circular-deque](https://github.com/18-RAJAT/LEETCODE/tree/master/0859-design-circular-deque) |
 | [0432-all-oone-data-structure](https://github.com/18-RAJAT/LEETCODE/tree/master/0432-all-oone-data-structure) |
+| [0002-add-two-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/0002-add-two-numbers) |
 ## Number Theory
 |  |
 | ------- |
