@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/18-RAJAT/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/18-RAJAT/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Simulation
 |  |
 | ------- |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0539-minimum-time-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0179-largest-number](https://github.com/18-RAJAT/LEETCODE/tree/master/0179-largest-number) |
 | [1256-rank-transform-of-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/18-RAJAT/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
 | ------- |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/18-RAJAT/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/18-RAJAT/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Tree
 |  |
 | ------- |
@@ -229,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0125-valid-palindrome](https://github.com/18-RAJAT/LEETCODE/tree/master/0125-valid-palindrome) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/18-RAJAT/LEETCODE/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/18-RAJAT/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/18-RAJAT/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Matrix
 |  |
 | ------- |
