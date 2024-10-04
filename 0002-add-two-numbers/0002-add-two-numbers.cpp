@@ -11,36 +11,28 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode*head=new ListNode(0);
-        ListNode*temp=head;
-        int carry=0;
-        int sum;
-        while(l1 or l2 or carry)
+        int sum1=l1->val,sum2=l2->val;
+        int total=sum1+sum2,current=total/10;
+        l1->val=total%10;
+        ListNode* head=l1;
+        while(l1->next!=nullptr && l2->next!=nullptr)
         {
-            sum=0;
-            if(l1)
-            {
-                sum+=l1->val;
-                l1=l1->next;
-            }
-            if(l2)
-            {
-                sum+=l2->val;
-                l2=l2->next;
-            }
-            /*
-                cases
-                1.If carry is 1 then it will add 1 to sum and carry will be 0 again
-                2.If sum is 10 then carry will be 1 and sum will be 0
-                3.if sum is 10 then tmp will be 0 and carry will be 1
-            */
-            sum+=carry;
-            carry=sum/10;
-            ListNode*tmp=new ListNode(sum%10);
-            temp->next=tmp;
-            temp=temp->next;
+            total=l1->next->val+l2->next->val+current;
+            current=total/10;
+            
+            l1->next->val=total%10;
+            l1=l1->next;l2=l2->next;
         }
-        return head->next;
+        
+        if(l1->next==nullptr){l1->next=l2->next;}
+        
+        while(l1->next!=nullptr)
+        {
+            total=l1->next->val+current;current=total/10;
+            l1->next->val=total%10;
+            l1=l1->next;
+        }
+        if(current!=0){l1->next=new ListNode(current);}
+        return head;
     }
 };
-//Time Complexity is O(max(l1,l2))
