@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1256-rank-transform-of-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/18-RAJAT/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/18-RAJAT/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [1923-sentence-similarity-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1923-sentence-similarity-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/18-RAJAT/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [0567-permutation-in-string](https://github.com/18-RAJAT/LEETCODE/tree/master/0567-permutation-in-string) |
+| [1923-sentence-similarity-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1923-sentence-similarity-iii) |
 ## Stack
 |  |
 | ------- |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0719-find-k-th-smallest-pair-distance](https://github.com/18-RAJAT/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/18-RAJAT/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [0567-permutation-in-string](https://github.com/18-RAJAT/LEETCODE/tree/master/0567-permutation-in-string) |
+| [1923-sentence-similarity-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1923-sentence-similarity-iii) |
 ## Matrix
 |  |
 | ------- |
