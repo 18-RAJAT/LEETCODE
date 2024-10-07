@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0906-walking-robot-simulation](https://github.com/18-RAJAT/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [2155-find-missing-observations](https://github.com/18-RAJAT/LEETCODE/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/2411-spiral-matrix-iv) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
 | ------- |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [0567-permutation-in-string](https://github.com/18-RAJAT/LEETCODE/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1923-sentence-similarity-iii) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0145-binary-tree-postorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/18-RAJAT/LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
 | ------- |
