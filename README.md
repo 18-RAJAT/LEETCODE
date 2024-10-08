@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0567-permutation-in-string](https://github.com/18-RAJAT/LEETCODE/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1923-sentence-similarity-iii) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/18-RAJAT/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
 |  |
 | ------- |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0776-n-ary-tree-postorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/18-RAJAT/LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/18-RAJAT/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
 | ------- |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0890-lemonade-change](https://github.com/18-RAJAT/LEETCODE/tree/master/0890-lemonade-change) |
 | [0624-maximum-distance-in-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/0624-maximum-distance-in-arrays) |
 | [0179-largest-number](https://github.com/18-RAJAT/LEETCODE/tree/master/0179-largest-number) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/18-RAJAT/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sorting
 |  |
 | ------- |
@@ -243,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/18-RAJAT/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [0567-permutation-in-string](https://github.com/18-RAJAT/LEETCODE/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/18-RAJAT/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Matrix
 |  |
 | ------- |
