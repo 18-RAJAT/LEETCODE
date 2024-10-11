@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/18-RAJAT/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [1923-sentence-similarity-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1923-sentence-similarity-iii) |
 | [1002-maximum-width-ramp](https://github.com/18-RAJAT/LEETCODE/tree/master/1002-maximum-width-ramp) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/18-RAJAT/LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Simulation
 |  |
 | ------- |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1694-make-sum-divisible-by-p](https://github.com/18-RAJAT/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/18-RAJAT/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [0567-permutation-in-string](https://github.com/18-RAJAT/LEETCODE/tree/master/0567-permutation-in-string) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/18-RAJAT/LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Tree
 |  |
 | ------- |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0264-ugly-number-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [1325-path-with-maximum-probability](https://github.com/18-RAJAT/LEETCODE/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/18-RAJAT/LEETCODE/tree/master/2803-modify-graph-edge-weights) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/18-RAJAT/LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Merge Sort
 |  |
 | ------- |
