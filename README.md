@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2155-find-missing-observations](https://github.com/18-RAJAT/LEETCODE/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Math
 |  |
 | ------- |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/18-RAJAT/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [3195-separate-black-and-white-balls](https://github.com/18-RAJAT/LEETCODE/tree/master/3195-separate-black-and-white-balls) |
 | [1304-longest-happy-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1304-longest-happy-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Stack
 |  |
 | ------- |
@@ -377,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0273-integer-to-english-words](https://github.com/18-RAJAT/LEETCODE/tree/master/0273-integer-to-english-words) |
 | [0002-add-two-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/0002-add-two-numbers) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Breadth-First Search
 |  |
 | ------- |
