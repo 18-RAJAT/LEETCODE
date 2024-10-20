@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3195-separate-black-and-white-balls](https://github.com/18-RAJAT/LEETCODE/tree/master/3195-separate-black-and-white-balls) |
 | [1304-longest-happy-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1197-parsing-a-boolean-expression](https://github.com/18-RAJAT/LEETCODE/tree/master/1197-parsing-a-boolean-expression) |
 ## Stack
 |  |
 | ------- |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/18-RAJAT/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/18-RAJAT/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/18-RAJAT/LEETCODE/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/18-RAJAT/LEETCODE/tree/master/1197-parsing-a-boolean-expression) |
 ## Greedy
 |  |
 | ------- |
@@ -380,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0273-integer-to-english-words](https://github.com/18-RAJAT/LEETCODE/tree/master/0273-integer-to-english-words) |
 | [0002-add-two-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/0002-add-two-numbers) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1197-parsing-a-boolean-expression](https://github.com/18-RAJAT/LEETCODE/tree/master/1197-parsing-a-boolean-expression) |
 ## Breadth-First Search
 |  |
 | ------- |
