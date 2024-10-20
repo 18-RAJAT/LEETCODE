@@ -38,7 +38,7 @@ public:
                     }
                     else if(ch=='!')
                     {
-                        s.push(!Or ? 't' : 'f');
+                        s.push(!Or?'t':'f');
                         break;
                     }
                 }
