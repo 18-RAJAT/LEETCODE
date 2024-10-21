@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1304-longest-happy-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/18-RAJAT/LEETCODE/tree/master/1197-parsing-a-boolean-expression) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0567-permutation-in-string](https://github.com/18-RAJAT/LEETCODE/tree/master/0567-permutation-in-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/18-RAJAT/LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/18-RAJAT/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -421,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0040-combination-sum-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/18-RAJAT/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
