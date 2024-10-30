@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/18-RAJAT/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/18-RAJAT/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Simulation
 |  |
 | ------- |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2616-maximal-score-after-applying-k-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/18-RAJAT/LEETCODE/tree/master/3195-separate-black-and-white-balls) |
 | [1304-longest-happy-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1304-longest-happy-string) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Sorting
 |  |
 | ------- |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0664-strange-printer](https://github.com/18-RAJAT/LEETCODE/tree/master/0664-strange-printer) |
 | [0909-stone-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0909-stone-game) |
 | [2755-extra-characters-in-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Shortest Path
 |  |
 | ------- |
@@ -381,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0719-find-k-th-smallest-pair-distance](https://github.com/18-RAJAT/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/18-RAJAT/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [0729-my-calendar-i](https://github.com/18-RAJAT/LEETCODE/tree/master/0729-my-calendar-i) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Recursion
 |  |
 | ------- |
