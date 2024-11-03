@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1197-parsing-a-boolean-expression](https://github.com/18-RAJAT/LEETCODE/tree/master/1197-parsing-a-boolean-expression) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [0812-rotate-string](https://github.com/18-RAJAT/LEETCODE/tree/master/0812-rotate-string) |
 ## Stack
 |  |
 | ------- |
@@ -478,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/18-RAJAT/LEETCODE/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/18-RAJAT/LEETCODE/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
