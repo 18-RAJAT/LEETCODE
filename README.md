@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1302-delete-characters-to-make-fancy-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [0812-rotate-string](https://github.com/18-RAJAT/LEETCODE/tree/master/0812-rotate-string) |
 | [3451-string-compression-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/3451-string-compression-iii) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/18-RAJAT/LEETCODE/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Stack
 |  |
 | ------- |
