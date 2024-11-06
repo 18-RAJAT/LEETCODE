@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2616-maximal-score-after-applying-k-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/18-RAJAT/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [3291-find-if-array-can-be-sorted](https://github.com/18-RAJAT/LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
 ## Simulation
 |  |
 | ------- |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/18-RAJAT/LEETCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/18-RAJAT/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3291-find-if-array-can-be-sorted](https://github.com/18-RAJAT/LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -459,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1435-xor-queries-of-a-subarray](https://github.com/18-RAJAT/LEETCODE/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/18-RAJAT/LEETCODE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/18-RAJAT/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3291-find-if-array-can-be-sorted](https://github.com/18-RAJAT/LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
 ## Linked List
 |  |
 | ------- |
