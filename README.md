@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/18-RAJAT/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/18-RAJAT/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Simulation
 |  |
 | ------- |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0729-my-calendar-i](https://github.com/18-RAJAT/LEETCODE/tree/master/0729-my-calendar-i) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/18-RAJAT/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/18-RAJAT/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Recursion
 |  |
 | ------- |
