@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/18-RAJAT/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/18-RAJAT/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Simulation
 |  |
 | ------- |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/18-RAJAT/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [1304-longest-happy-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1304-longest-happy-string) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Merge Sort
 |  |
 | ------- |
@@ -391,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0567-permutation-in-string](https://github.com/18-RAJAT/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/18-RAJAT/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -401,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/18-RAJAT/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/18-RAJAT/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Recursion
 |  |
 | ------- |
@@ -457,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/18-RAJAT/LEETCODE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/18-RAJAT/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/18-RAJAT/LEETCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Game Theory
 |  |
 | ------- |
@@ -521,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/18-RAJAT/LEETCODE/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -533,4 +539,8 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/18-RAJAT/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
