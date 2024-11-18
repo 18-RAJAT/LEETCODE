@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2179-most-beautiful-item-for-each-query](https://github.com/18-RAJAT/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/18-RAJAT/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1755-defuse-the-bomb](https://github.com/18-RAJAT/LEETCODE/tree/master/1755-defuse-the-bomb) |
 ## Simulation
 |  |
 | ------- |
@@ -394,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/18-RAJAT/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1755-defuse-the-bomb](https://github.com/18-RAJAT/LEETCODE/tree/master/1755-defuse-the-bomb) |
 ## Binary Search
 |  |
 | ------- |
