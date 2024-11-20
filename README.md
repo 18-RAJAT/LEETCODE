@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0812-rotate-string](https://github.com/18-RAJAT/LEETCODE/tree/master/0812-rotate-string) |
 | [3451-string-compression-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/3451-string-compression-iii) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/18-RAJAT/LEETCODE/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/18-RAJAT/LEETCODE/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Stack
 |  |
 | ------- |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/18-RAJAT/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/18-RAJAT/LEETCODE/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Tree
 |  |
 | ------- |
@@ -396,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/18-RAJAT/LEETCODE/tree/master/1755-defuse-the-bomb) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/18-RAJAT/LEETCODE/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Binary Search
 |  |
 | ------- |
