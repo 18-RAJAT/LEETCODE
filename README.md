@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/18-RAJAT/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/18-RAJAT/LEETCODE/tree/master/1755-defuse-the-bomb) |
+| [1972-rotating-the-box](https://github.com/18-RAJAT/LEETCODE/tree/master/1972-rotating-the-box) |
 ## Simulation
 |  |
 | ------- |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/18-RAJAT/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/18-RAJAT/LEETCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/18-RAJAT/LEETCODE/tree/master/3195-separate-black-and-white-balls) |
+| [1972-rotating-the-box](https://github.com/18-RAJAT/LEETCODE/tree/master/1972-rotating-the-box) |
 ## Matrix
 |  |
 | ------- |
@@ -310,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2035-count-sub-islands](https://github.com/18-RAJAT/LEETCODE/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/2411-spiral-matrix-iv) |
+| [1972-rotating-the-box](https://github.com/18-RAJAT/LEETCODE/tree/master/1972-rotating-the-box) |
 ## Graph
 |  |
 | ------- |
