@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1755-defuse-the-bomb](https://github.com/18-RAJAT/LEETCODE/tree/master/1755-defuse-the-bomb) |
 | [1972-rotating-the-box](https://github.com/18-RAJAT/LEETCODE/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/2089-maximum-matrix-sum) |
+| [0787-sliding-puzzle](https://github.com/18-RAJAT/LEETCODE/tree/master/0787-sliding-puzzle) |
 ## Simulation
 |  |
 | ------- |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2411-spiral-matrix-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/2411-spiral-matrix-iv) |
 | [1972-rotating-the-box](https://github.com/18-RAJAT/LEETCODE/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/2089-maximum-matrix-sum) |
+| [0787-sliding-puzzle](https://github.com/18-RAJAT/LEETCODE/tree/master/0787-sliding-puzzle) |
 ## Graph
 |  |
 | ------- |
@@ -431,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2035-count-sub-islands](https://github.com/18-RAJAT/LEETCODE/tree/master/2035-count-sub-islands) |
 | [1484-linked-list-in-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [0787-sliding-puzzle](https://github.com/18-RAJAT/LEETCODE/tree/master/0787-sliding-puzzle) |
 ## Union Find
 |  |
 | ------- |
