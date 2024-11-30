@@ -289,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/18-RAJAT/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1484-linked-list-in-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/0386-lexicographical-numbers) |
+| [2201-valid-arrangement-of-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2201-valid-arrangement-of-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -327,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1325-path-with-maximum-probability](https://github.com/18-RAJAT/LEETCODE/tree/master/1325-path-with-maximum-probability) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/18-RAJAT/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2803-modify-graph-edge-weights](https://github.com/18-RAJAT/LEETCODE/tree/master/2803-modify-graph-edge-weights) |
+| [2201-valid-arrangement-of-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2201-valid-arrangement-of-pairs) |
 ## Topological Sort
 |  |
 | ------- |
@@ -557,4 +559,8 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
