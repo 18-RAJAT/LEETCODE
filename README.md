@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1972-rotating-the-box](https://github.com/18-RAJAT/LEETCODE/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/2089-maximum-matrix-sum) |
 | [0787-sliding-puzzle](https://github.com/18-RAJAT/LEETCODE/tree/master/0787-sliding-puzzle) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/18-RAJAT/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Simulation
 |  |
 | ------- |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3291-find-if-array-can-be-sorted](https://github.com/18-RAJAT/LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/18-RAJAT/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/18-RAJAT/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/18-RAJAT/LEETCODE/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/18-RAJAT/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Tree
 |  |
 | ------- |
@@ -303,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/18-RAJAT/LEETCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/18-RAJAT/LEETCODE/tree/master/3195-separate-black-and-white-balls) |
 | [1972-rotating-the-box](https://github.com/18-RAJAT/LEETCODE/tree/master/1972-rotating-the-box) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/18-RAJAT/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Matrix
 |  |
 | ------- |
@@ -420,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2179-most-beautiful-item-for-each-query](https://github.com/18-RAJAT/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/18-RAJAT/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/18-RAJAT/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Recursion
 |  |
 | ------- |
