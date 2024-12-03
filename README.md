@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2089-maximum-matrix-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/2089-maximum-matrix-sum) |
 | [0787-sliding-puzzle](https://github.com/18-RAJAT/LEETCODE/tree/master/0787-sliding-puzzle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/18-RAJAT/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2232-adding-spaces-to-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2411-spiral-matrix-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2232-adding-spaces-to-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3451-string-compression-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/3451-string-compression-iii) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/18-RAJAT/LEETCODE/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/18-RAJAT/LEETCODE/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2232-adding-spaces-to-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -307,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3195-separate-black-and-white-balls](https://github.com/18-RAJAT/LEETCODE/tree/master/3195-separate-black-and-white-balls) |
 | [1972-rotating-the-box](https://github.com/18-RAJAT/LEETCODE/tree/master/1972-rotating-the-box) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/18-RAJAT/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2232-adding-spaces-to-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 ## Matrix
 |  |
 | ------- |
