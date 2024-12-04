@@ -1,91 +1,39 @@
-#define MP make_pair
-#define INF (int)1e9
-#define EPS 1e-9
-#define MOD 1000000007
-#define PI 3.1415926535897932384626433832795
-#define ll long long
-#define all(x) sort(x.begin(), x.end())
-#define ff(a,b) for(int i=a;i<b;i++)
-#define f1(i,s,e) for(long long int i=s;i<e;i++)
-#define cf(i,s,e) for(long long int i=s;i<=e;i++)
-#define FOREACH(n) for(auto it:n)
-#define rf(i,e,s) for(long long int i=e-1;i>=s;i--)
-#define pb push_back
-#define eb emplace_back
-typedef pair<int, int> PII;
-typedef vector<int> VI;
-typedef vector<vector<int>>vii;
-typedef vector<vector<char>>vvc;
-typedef vector<string> VS;
-typedef vector<vector<string>> VVS;
-typedef vector<PII> VIII;
-typedef vector<VI> VVI;
-typedef map<int,int> MPII;
-typedef priority_queue<pair<int,pair<int,int>>> PQVI;
-typedef unordered_map<string,vector<string>> MPSVS;
-typedef set<int> SETI;
-typedef multiset<int> MSETI;
-
-
 class Solution {
 public:
-    bool helper(vvc& grid)
+    bool isValidSudoku(vector<vector<char>>& board,int i,int j,char ch)
     {
-        f1(i,0,9)
+        for(int k=0;k<9;++k)
         {
-            f1(j,0,9)
+            if(board[i][k]==ch || board[k][j]==ch)return false;
+            if(board[3*(i/3)+k/3][3*(j/3)+k%3]==ch)return false;
+        }
+        return true;
+    }
+    int solve(vector<vector<char>>& board)
+    {
+        int n=board.size(),m=board[0].size();
+        for(int i=0;i<n;++i)
+        {
+            for(int j=0;j<m;++j)
             {
-                
-                if(grid[i][j]=='.')
+                if(board[i][j]=='.')
                 {
-                    for(char c='1';c<='9';c++)
+                    for(char ch='1';ch<='9';++ch)
                     {
-                        
-                        if(isValid(c,i,j,grid))
+                        if(isValidSudoku(board,i,j,ch))
                         {
-                            grid[i][j]=c;
-                        
-                        
-                        if(helper(grid)==true)
-                        {
-                            return true;
-                        }
-                        else
-                        {
-                            grid[i][j]='.';
-                        }
-                            
+                            board[i][j]=ch;
+                            if(solve(board))return true;
+                            board[i][j]='.';
                         }
                     }
-                return false;
+                    return false;
                 }
             }
         }
         return true;
     }
-    bool isValid(char c,int row,int col,vvc grid){
-        f1(i,0,9)
-        {
-            
-            if(grid[row][i]==c)
-            {
-                return false;
-            }
-            
-            if(grid[i][col]==c)
-            {
-                return false;
-            }
-            
-            if(grid[3*(row/3)+i/3][3*(col/3)+i%3]==c)
-            {
-                return false;
-            }
-        }
-        return true;
-    }
-    void solveSudoku(vvc& board) 
-    {
-        helper(board);
+    void solveSudoku(vector<vector<char>>& board) {
+        solve(board);
     }
 };
