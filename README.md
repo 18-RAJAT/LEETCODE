@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2232-adding-spaces-to-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [0037-sudoku-solver](https://github.com/18-RAJAT/LEETCODE/tree/master/0037-sudoku-solver) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/18-RAJAT/LEETCODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/18-RAJAT/LEETCODE/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 ## Simulation
 |  |
 | ------- |
@@ -437,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/18-RAJAT/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/18-RAJAT/LEETCODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/18-RAJAT/LEETCODE/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 ## Recursion
 |  |
 | ------- |
