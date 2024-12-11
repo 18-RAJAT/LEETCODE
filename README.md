@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/18-RAJAT/LEETCODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/18-RAJAT/LEETCODE/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [3427-special-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3427-special-array-ii) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/18-RAJAT/LEETCODE/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Simulation
 |  |
 | ------- |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2179-most-beautiful-item-for-each-query](https://github.com/18-RAJAT/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/18-RAJAT/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/18-RAJAT/LEETCODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/18-RAJAT/LEETCODE/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -430,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1755-defuse-the-bomb](https://github.com/18-RAJAT/LEETCODE/tree/master/1755-defuse-the-bomb) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/18-RAJAT/LEETCODE/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/18-RAJAT/LEETCODE/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Binary Search
 |  |
 | ------- |
@@ -446,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/18-RAJAT/LEETCODE/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [3427-special-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3427-special-array-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/18-RAJAT/LEETCODE/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Recursion
 |  |
 | ------- |
