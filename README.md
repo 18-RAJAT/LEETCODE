@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/18-RAJAT/LEETCODE/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [3427-special-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3427-special-array-ii) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/18-RAJAT/LEETCODE/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/18-RAJAT/LEETCODE/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Simulation
 |  |
 | ------- |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/18-RAJAT/LEETCODE/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Math
 |  |
 | ------- |
@@ -372,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2616-maximal-score-after-applying-k-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [1304-longest-happy-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1304-longest-happy-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/18-RAJAT/LEETCODE/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Merge Sort
 |  |
 | ------- |
