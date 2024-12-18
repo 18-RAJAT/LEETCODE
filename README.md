@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2692-take-gifts-from-the-richest-pile](https://github.com/18-RAJAT/LEETCODE/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2868-continuous-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2868-continuous-subarrays) |
 | [1917-maximum-average-pass-ratio](https://github.com/18-RAJAT/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/18-RAJAT/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
 | ------- |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/18-RAJAT/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/18-RAJAT/LEETCODE/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/18-RAJAT/LEETCODE/tree/master/1197-parsing-a-boolean-expression) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/18-RAJAT/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Greedy
 |  |
 | ------- |
@@ -594,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/18-RAJAT/LEETCODE/tree/master/1002-maximum-width-ramp) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/18-RAJAT/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Enumeration
 |  |
 | ------- |
