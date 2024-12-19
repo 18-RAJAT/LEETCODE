@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2868-continuous-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2868-continuous-subarrays) |
 | [1917-maximum-average-pass-ratio](https://github.com/18-RAJAT/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/18-RAJAT/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [0780-max-chunks-to-make-sorted](https://github.com/18-RAJAT/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 ## Simulation
 |  |
 | ------- |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1002-maximum-width-ramp](https://github.com/18-RAJAT/LEETCODE/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/18-RAJAT/LEETCODE/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/18-RAJAT/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [0780-max-chunks-to-make-sorted](https://github.com/18-RAJAT/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 ## Greedy
 |  |
 | ------- |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2089-maximum-matrix-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/2089-maximum-matrix-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/18-RAJAT/LEETCODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [1917-maximum-average-pass-ratio](https://github.com/18-RAJAT/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
+| [0780-max-chunks-to-make-sorted](https://github.com/18-RAJAT/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -241,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1468-check-if-n-and-its-double-exist](https://github.com/18-RAJAT/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/18-RAJAT/LEETCODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/18-RAJAT/LEETCODE/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [0780-max-chunks-to-make-sorted](https://github.com/18-RAJAT/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -597,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/18-RAJAT/LEETCODE/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/18-RAJAT/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [0780-max-chunks-to-make-sorted](https://github.com/18-RAJAT/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 ## Enumeration
 |  |
 | ------- |
