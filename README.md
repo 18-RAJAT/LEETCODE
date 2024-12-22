@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/18-RAJAT/LEETCODE/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2232-adding-spaces-to-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [0022-generate-parentheses](https://github.com/18-RAJAT/LEETCODE/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -427,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0909-stone-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0909-stone-game) |
 | [2755-extra-characters-in-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [0022-generate-parentheses](https://github.com/18-RAJAT/LEETCODE/tree/master/0022-generate-parentheses) |
 ## Shortest Path
 |  |
 | ------- |
@@ -519,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/18-RAJAT/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [0037-sudoku-solver](https://github.com/18-RAJAT/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0022-generate-parentheses](https://github.com/18-RAJAT/LEETCODE/tree/master/0022-generate-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
