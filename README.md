@@ -296,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0776-n-ary-tree-postorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/18-RAJAT/LEETCODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
 | ------- |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0145-binary-tree-postorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/18-RAJAT/LEETCODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -488,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1484-linked-list-in-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [0787-sliding-puzzle](https://github.com/18-RAJAT/LEETCODE/tree/master/0787-sliding-puzzle) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/18-RAJAT/LEETCODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Union Find
 |  |
 | ------- |
