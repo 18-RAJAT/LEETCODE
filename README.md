@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/18-RAJAT/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [0780-max-chunks-to-make-sorted](https://github.com/18-RAJAT/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/18-RAJAT/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [0494-target-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0494-target-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -434,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2755-extra-characters-in-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [0022-generate-parentheses](https://github.com/18-RAJAT/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0494-target-sum) |
 ## Shortest Path
 |  |
 | ------- |
@@ -529,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [0037-sudoku-solver](https://github.com/18-RAJAT/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0022-generate-parentheses](https://github.com/18-RAJAT/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0494-target-sum) |
 ## Prefix Sum
 |  |
 | ------- |
