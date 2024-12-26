@@ -4,11 +4,7 @@ public:
     {
         if(nums.size()<=index)
         {
-            if(sum==target)
-            {
-                return 1;
-            }
-            return 0;
+            return(sum==target)?1:0;
         }
         return recur(nums,target,sum-nums[index],index+1)+recur(nums,target,sum+nums[index],index+1);
     }
