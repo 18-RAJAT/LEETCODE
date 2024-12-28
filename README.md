@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/18-RAJAT/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [0494-target-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0494-target-sum) |
 | [1063-best-sightseeing-pair](https://github.com/18-RAJAT/LEETCODE/tree/master/1063-best-sightseeing-pair) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Simulation
 |  |
 | ------- |
@@ -438,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0022-generate-parentheses](https://github.com/18-RAJAT/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0494-target-sum) |
 | [1063-best-sightseeing-pair](https://github.com/18-RAJAT/LEETCODE/tree/master/1063-best-sightseeing-pair) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Shortest Path
 |  |
 | ------- |
