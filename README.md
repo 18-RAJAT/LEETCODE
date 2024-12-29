@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1063-best-sightseeing-pair](https://github.com/18-RAJAT/LEETCODE/tree/master/1063-best-sightseeing-pair) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/18-RAJAT/LEETCODE/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [0064-minimum-path-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0064-minimum-path-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2089-maximum-matrix-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/2089-maximum-matrix-sum) |
 | [0787-sliding-puzzle](https://github.com/18-RAJAT/LEETCODE/tree/master/0787-sliding-puzzle) |
 | [0037-sudoku-solver](https://github.com/18-RAJAT/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0064-minimum-path-sum) |
 ## Graph
 |  |
 | ------- |
@@ -443,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1063-best-sightseeing-pair](https://github.com/18-RAJAT/LEETCODE/tree/master/1063-best-sightseeing-pair) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/18-RAJAT/LEETCODE/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [0064-minimum-path-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0064-minimum-path-sum) |
 ## Shortest Path
 |  |
 | ------- |
