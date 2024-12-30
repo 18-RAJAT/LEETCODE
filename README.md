@@ -448,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/18-RAJAT/LEETCODE/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [0064-minimum-path-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [2562-count-ways-to-build-good-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/2562-count-ways-to-build-good-strings) |
 ## Shortest Path
 |  |
 | ------- |
