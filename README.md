@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0022-generate-parentheses](https://github.com/18-RAJAT/LEETCODE/tree/master/0022-generate-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/18-RAJAT/LEETCODE/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [0481-magical-string](https://github.com/18-RAJAT/LEETCODE/tree/master/0481-magical-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -558,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/18-RAJAT/LEETCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3427-special-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3427-special-array-ii) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Game Theory
 |  |
 | ------- |
