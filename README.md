@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/18-RAJAT/LEETCODE/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [0064-minimum-path-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/18-RAJAT/LEETCODE/tree/master/1025-minimum-cost-for-tickets) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/18-RAJAT/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Simulation
 |  |
 | ------- |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/18-RAJAT/LEETCODE/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [0481-magical-string](https://github.com/18-RAJAT/LEETCODE/tree/master/0481-magical-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/18-RAJAT/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Stack
 |  |
 | ------- |
@@ -560,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3427-special-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3427-special-array-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/18-RAJAT/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Game Theory
 |  |
 | ------- |
