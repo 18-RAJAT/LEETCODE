@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0481-magical-string](https://github.com/18-RAJAT/LEETCODE/tree/master/0481-magical-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/18-RAJAT/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/18-RAJAT/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Stack
 |  |
 | ------- |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0037-sudoku-solver](https://github.com/18-RAJAT/LEETCODE/tree/master/0037-sudoku-solver) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/18-RAJAT/LEETCODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/18-RAJAT/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Tree
 |  |
 | ------- |
@@ -565,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1537-maximum-score-after-splitting-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/18-RAJAT/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2358-number-of-ways-to-split-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/18-RAJAT/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Game Theory
 |  |
 | ------- |
@@ -582,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3291-find-if-array-can-be-sorted](https://github.com/18-RAJAT/LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/18-RAJAT/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Linked List
 |  |
 | ------- |
