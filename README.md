@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1025-minimum-cost-for-tickets](https://github.com/18-RAJAT/LEETCODE/tree/master/1025-minimum-cost-for-tickets) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/18-RAJAT/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2358-number-of-ways-to-split-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/2465-shifting-letters-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1537-maximum-score-after-splitting-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/18-RAJAT/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/18-RAJAT/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/2465-shifting-letters-ii) |
 ## Stack
 |  |
 | ------- |
@@ -568,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2691-count-vowel-strings-in-ranges](https://github.com/18-RAJAT/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2358-number-of-ways-to-split-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/18-RAJAT/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/2465-shifting-letters-ii) |
 ## Game Theory
 |  |
 | ------- |
