@@ -320,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/18-RAJAT/LEETCODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/18-RAJAT/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/18-RAJAT/LEETCODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/18-RAJAT/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -349,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0386-lexicographical-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/0386-lexicographical-numbers) |
 | [2201-valid-arrangement-of-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2201-valid-arrangement-of-pairs) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/18-RAJAT/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -465,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0064-minimum-path-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [2562-count-ways-to-build-good-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/2562-count-ways-to-build-good-strings) |
 | [1025-minimum-cost-for-tickets](https://github.com/18-RAJAT/LEETCODE/tree/master/1025-minimum-cost-for-tickets) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Shortest Path
 |  |
 | ------- |
