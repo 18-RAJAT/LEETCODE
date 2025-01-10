@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1524-string-matching-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/18-RAJAT/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
+| [0952-word-subsets](https://github.com/18-RAJAT/LEETCODE/tree/master/0952-word-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1524-string-matching-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/18-RAJAT/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
+| [0952-word-subsets](https://github.com/18-RAJAT/LEETCODE/tree/master/0952-word-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -308,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/18-RAJAT/LEETCODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/18-RAJAT/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [0952-word-subsets](https://github.com/18-RAJAT/LEETCODE/tree/master/0952-word-subsets) |
 ## Tree
 |  |
 | ------- |
