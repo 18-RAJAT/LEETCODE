@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/18-RAJAT/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [0952-word-subsets](https://github.com/18-RAJAT/LEETCODE/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
 ## Stack
 |  |
 | ------- |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/18-RAJAT/LEETCODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [1917-maximum-average-pass-ratio](https://github.com/18-RAJAT/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [0780-max-chunks-to-make-sorted](https://github.com/18-RAJAT/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
+| [1502-construct-k-palindrome-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/18-RAJAT/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [0952-word-subsets](https://github.com/18-RAJAT/LEETCODE/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
 ## Tree
 |  |
 | ------- |
@@ -451,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [1502-construct-k-palindrome-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
