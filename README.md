@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2292-counting-words-with-a-given-prefix](https://github.com/18-RAJAT/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [0952-word-subsets](https://github.com/18-RAJAT/LEETCODE/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/18-RAJAT/LEETCODE/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Stack
 |  |
 | ------- |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/18-RAJAT/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [0780-max-chunks-to-make-sorted](https://github.com/18-RAJAT/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/18-RAJAT/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/18-RAJAT/LEETCODE/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Greedy
 |  |
 | ------- |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1917-maximum-average-pass-ratio](https://github.com/18-RAJAT/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [0780-max-chunks-to-make-sorted](https://github.com/18-RAJAT/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/18-RAJAT/LEETCODE/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Sorting
 |  |
 | ------- |
