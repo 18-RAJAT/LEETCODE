@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0952-word-subsets](https://github.com/18-RAJAT/LEETCODE/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/18-RAJAT/LEETCODE/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
 | ------- |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/18-RAJAT/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [0952-word-subsets](https://github.com/18-RAJAT/LEETCODE/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Tree
 |  |
 | ------- |
@@ -458,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [1502-construct-k-palindrome-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
