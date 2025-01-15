@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0780-max-chunks-to-make-sorted](https://github.com/18-RAJAT/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/18-RAJAT/LEETCODE/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/18-RAJAT/LEETCODE/tree/master/2509-minimize-xor) |
 ## Sorting
 |  |
 | ------- |
@@ -618,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/18-RAJAT/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2509-minimize-xor](https://github.com/18-RAJAT/LEETCODE/tree/master/2509-minimize-xor) |
 ## Linked List
 |  |
 | ------- |
