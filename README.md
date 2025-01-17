@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0952-word-subsets](https://github.com/18-RAJAT/LEETCODE/tree/master/0952-word-subsets) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/18-RAJAT/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2792-neighboring-bitwise-xor](https://github.com/18-RAJAT/LEETCODE/tree/master/2792-neighboring-bitwise-xor) |
 ## Simulation
 |  |
 | ------- |
@@ -622,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2509-minimize-xor](https://github.com/18-RAJAT/LEETCODE/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/18-RAJAT/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2792-neighboring-bitwise-xor](https://github.com/18-RAJAT/LEETCODE/tree/master/2792-neighboring-bitwise-xor) |
 ## Linked List
 |  |
 | ------- |
