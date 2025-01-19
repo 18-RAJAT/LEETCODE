@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2533-bitwise-xor-of-all-pairings](https://github.com/18-RAJAT/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/18-RAJAT/LEETCODE/tree/master/2792-neighboring-bitwise-xor) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [0407-trapping-rain-water-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0037-sudoku-solver](https://github.com/18-RAJAT/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [0407-trapping-rain-water-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 ## Graph
 |  |
 | ------- |
@@ -444,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1917-maximum-average-pass-ratio](https://github.com/18-RAJAT/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/18-RAJAT/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [0407-trapping-rain-water-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -556,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/18-RAJAT/LEETCODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/18-RAJAT/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [0407-trapping-rain-water-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 ## Union Find
 |  |
 | ------- |
