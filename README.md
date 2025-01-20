@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2792-neighboring-bitwise-xor](https://github.com/18-RAJAT/LEETCODE/tree/master/2792-neighboring-bitwise-xor) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [0407-trapping-rain-water-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
+| [2685-first-completely-painted-row-or-column](https://github.com/18-RAJAT/LEETCODE/tree/master/2685-first-completely-painted-row-or-column) |
 ## Simulation
 |  |
 | ------- |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1502-construct-k-palindrome-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3455-minimum-length-of-string-after-operations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2685-first-completely-painted-row-or-column](https://github.com/18-RAJAT/LEETCODE/tree/master/2685-first-completely-painted-row-or-column) |
 ## Tree
 |  |
 | ------- |
@@ -408,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0064-minimum-path-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [0407-trapping-rain-water-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
+| [2685-first-completely-painted-row-or-column](https://github.com/18-RAJAT/LEETCODE/tree/master/2685-first-completely-painted-row-or-column) |
 ## Graph
 |  |
 | ------- |
