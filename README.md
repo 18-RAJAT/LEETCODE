@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0407-trapping-rain-water-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/18-RAJAT/LEETCODE/tree/master/2685-first-completely-painted-row-or-column) |
 | [2145-grid-game](https://github.com/18-RAJAT/LEETCODE/tree/master/2145-grid-game) |
+| [1876-map-of-highest-peak](https://github.com/18-RAJAT/LEETCODE/tree/master/1876-map-of-highest-peak) |
 ## Simulation
 |  |
 | ------- |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0407-trapping-rain-water-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/18-RAJAT/LEETCODE/tree/master/2685-first-completely-painted-row-or-column) |
 | [2145-grid-game](https://github.com/18-RAJAT/LEETCODE/tree/master/2145-grid-game) |
+| [1876-map-of-highest-peak](https://github.com/18-RAJAT/LEETCODE/tree/master/1876-map-of-highest-peak) |
 ## Graph
 |  |
 | ------- |
@@ -565,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/18-RAJAT/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [0407-trapping-rain-water-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
+| [1876-map-of-highest-peak](https://github.com/18-RAJAT/LEETCODE/tree/master/1876-map-of-highest-peak) |
 ## Union Find
 |  |
 | ------- |
