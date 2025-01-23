@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2685-first-completely-painted-row-or-column](https://github.com/18-RAJAT/LEETCODE/tree/master/2685-first-completely-painted-row-or-column) |
 | [2145-grid-game](https://github.com/18-RAJAT/LEETCODE/tree/master/2145-grid-game) |
 | [1876-map-of-highest-peak](https://github.com/18-RAJAT/LEETCODE/tree/master/1876-map-of-highest-peak) |
+| [1396-count-servers-that-communicate](https://github.com/18-RAJAT/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 ## Simulation
 |  |
 | ------- |
@@ -376,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2201-valid-arrangement-of-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2201-valid-arrangement-of-pairs) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/18-RAJAT/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1396-count-servers-that-communicate](https://github.com/18-RAJAT/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -415,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2685-first-completely-painted-row-or-column](https://github.com/18-RAJAT/LEETCODE/tree/master/2685-first-completely-painted-row-or-column) |
 | [2145-grid-game](https://github.com/18-RAJAT/LEETCODE/tree/master/2145-grid-game) |
 | [1876-map-of-highest-peak](https://github.com/18-RAJAT/LEETCODE/tree/master/1876-map-of-highest-peak) |
+| [1396-count-servers-that-communicate](https://github.com/18-RAJAT/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 ## Graph
 |  |
 | ------- |
@@ -480,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [1502-construct-k-palindrome-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3455-minimum-length-of-string-after-operations) |
+| [1396-count-servers-that-communicate](https://github.com/18-RAJAT/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -568,12 +572,14 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [0407-trapping-rain-water-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [1876-map-of-highest-peak](https://github.com/18-RAJAT/LEETCODE/tree/master/1876-map-of-highest-peak) |
+| [1396-count-servers-that-communicate](https://github.com/18-RAJAT/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 ## Union Find
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/18-RAJAT/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
 | [2035-count-sub-islands](https://github.com/18-RAJAT/LEETCODE/tree/master/2035-count-sub-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/18-RAJAT/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1396-count-servers-that-communicate](https://github.com/18-RAJAT/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 ## Strongly Connected Component
 |  |
 | ------- |
