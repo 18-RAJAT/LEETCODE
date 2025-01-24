@@ -378,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/18-RAJAT/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1396-count-servers-that-communicate](https://github.com/18-RAJAT/LEETCODE/tree/master/1396-count-servers-that-communicate) |
+| [0820-find-eventual-safe-states](https://github.com/18-RAJAT/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 ## Two Pointers
 |  |
 | ------- |
@@ -429,10 +430,12 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2803-modify-graph-edge-weights](https://github.com/18-RAJAT/LEETCODE/tree/master/2803-modify-graph-edge-weights) |
 | [2201-valid-arrangement-of-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2201-valid-arrangement-of-pairs) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [0820-find-eventual-safe-states](https://github.com/18-RAJAT/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/18-RAJAT/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
+| [0820-find-eventual-safe-states](https://github.com/18-RAJAT/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -573,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0407-trapping-rain-water-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [1876-map-of-highest-peak](https://github.com/18-RAJAT/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [1396-count-servers-that-communicate](https://github.com/18-RAJAT/LEETCODE/tree/master/1396-count-servers-that-communicate) |
+| [0820-find-eventual-safe-states](https://github.com/18-RAJAT/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 ## Union Find
 |  |
 | ------- |
