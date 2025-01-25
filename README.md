@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2145-grid-game](https://github.com/18-RAJAT/LEETCODE/tree/master/2145-grid-game) |
 | [1876-map-of-highest-peak](https://github.com/18-RAJAT/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [1396-count-servers-that-communicate](https://github.com/18-RAJAT/LEETCODE/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/18-RAJAT/LEETCODE/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/18-RAJAT/LEETCODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/18-RAJAT/LEETCODE/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [0780-max-chunks-to-make-sorted](https://github.com/18-RAJAT/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/18-RAJAT/LEETCODE/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -584,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2035-count-sub-islands](https://github.com/18-RAJAT/LEETCODE/tree/master/2035-count-sub-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/18-RAJAT/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/18-RAJAT/LEETCODE/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/18-RAJAT/LEETCODE/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Strongly Connected Component
 |  |
 | ------- |
