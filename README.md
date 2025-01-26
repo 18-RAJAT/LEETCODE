@@ -381,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0124-binary-tree-maximum-path-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1396-count-servers-that-communicate](https://github.com/18-RAJAT/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [0820-find-eventual-safe-states](https://github.com/18-RAJAT/LEETCODE/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/18-RAJAT/LEETCODE/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Two Pointers
 |  |
 | ------- |
@@ -433,11 +434,13 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2201-valid-arrangement-of-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2201-valid-arrangement-of-pairs) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [0820-find-eventual-safe-states](https://github.com/18-RAJAT/LEETCODE/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/18-RAJAT/LEETCODE/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Topological Sort
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/18-RAJAT/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 | [0820-find-eventual-safe-states](https://github.com/18-RAJAT/LEETCODE/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/18-RAJAT/LEETCODE/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Divide and Conquer
 |  |
 | ------- |
