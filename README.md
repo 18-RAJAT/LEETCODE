@@ -382,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1396-count-servers-that-communicate](https://github.com/18-RAJAT/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [0820-find-eventual-safe-states](https://github.com/18-RAJAT/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/18-RAJAT/LEETCODE/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [1558-course-schedule-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1558-course-schedule-iv) |
 ## Two Pointers
 |  |
 | ------- |
@@ -435,12 +436,14 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [0820-find-eventual-safe-states](https://github.com/18-RAJAT/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/18-RAJAT/LEETCODE/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [1558-course-schedule-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1558-course-schedule-iv) |
 ## Topological Sort
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/18-RAJAT/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 | [0820-find-eventual-safe-states](https://github.com/18-RAJAT/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/18-RAJAT/LEETCODE/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [1558-course-schedule-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1558-course-schedule-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -582,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1876-map-of-highest-peak](https://github.com/18-RAJAT/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [1396-count-servers-that-communicate](https://github.com/18-RAJAT/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [0820-find-eventual-safe-states](https://github.com/18-RAJAT/LEETCODE/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1558-course-schedule-iv) |
 ## Union Find
 |  |
 | ------- |
