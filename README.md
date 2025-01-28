@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1876-map-of-highest-peak](https://github.com/18-RAJAT/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [1396-count-servers-that-communicate](https://github.com/18-RAJAT/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/18-RAJAT/LEETCODE/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0820-find-eventual-safe-states](https://github.com/18-RAJAT/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/18-RAJAT/LEETCODE/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [1558-course-schedule-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1558-course-schedule-iv) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -423,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2145-grid-game](https://github.com/18-RAJAT/LEETCODE/tree/master/2145-grid-game) |
 | [1876-map-of-highest-peak](https://github.com/18-RAJAT/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [1396-count-servers-that-communicate](https://github.com/18-RAJAT/LEETCODE/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -586,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1396-count-servers-that-communicate](https://github.com/18-RAJAT/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [0820-find-eventual-safe-states](https://github.com/18-RAJAT/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1558-course-schedule-iv) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -594,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/18-RAJAT/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/18-RAJAT/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/18-RAJAT/LEETCODE/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Strongly Connected Component
 |  |
 | ------- |
