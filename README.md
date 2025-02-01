@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/18-RAJAT/LEETCODE/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [0854-making-a-large-island](https://github.com/18-RAJAT/LEETCODE/tree/master/0854-making-a-large-island) |
+| [3429-special-array-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3429-special-array-i) |
 ## Simulation
 |  |
 | ------- |
