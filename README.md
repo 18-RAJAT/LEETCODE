@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3429-special-array-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3429-special-array-i) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/18-RAJAT/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/18-RAJAT/LEETCODE/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Simulation
 |  |
 | ------- |
