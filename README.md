@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/18-RAJAT/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/18-RAJAT/LEETCODE/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1364-tuple-with-same-product](https://github.com/18-RAJAT/LEETCODE/tree/master/1364-tuple-with-same-product) |
 ## Simulation
 |  |
 | ------- |
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/18-RAJAT/LEETCODE/tree/master/2685-first-completely-painted-row-or-column) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/18-RAJAT/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1364-tuple-with-same-product](https://github.com/18-RAJAT/LEETCODE/tree/master/1364-tuple-with-same-product) |
 ## Tree
 |  |
 | ------- |
@@ -511,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3455-minimum-length-of-string-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3455-minimum-length-of-string-after-operations) |
 | [1396-count-servers-that-communicate](https://github.com/18-RAJAT/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/18-RAJAT/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1364-tuple-with-same-product](https://github.com/18-RAJAT/LEETCODE/tree/master/1364-tuple-with-same-product) |
 ## Dynamic Programming
 |  |
 | ------- |
