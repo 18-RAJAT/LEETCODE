@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/18-RAJAT/LEETCODE/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1364-tuple-with-same-product](https://github.com/18-RAJAT/LEETCODE/tree/master/1364-tuple-with-same-product) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/18-RAJAT/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Simulation
 |  |
 | ------- |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/18-RAJAT/LEETCODE/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/18-RAJAT/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
 |  |
 | ------- |
@@ -343,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2685-first-completely-painted-row-or-column](https://github.com/18-RAJAT/LEETCODE/tree/master/2685-first-completely-painted-row-or-column) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/18-RAJAT/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1364-tuple-with-same-product](https://github.com/18-RAJAT/LEETCODE/tree/master/1364-tuple-with-same-product) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/18-RAJAT/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Tree
 |  |
 | ------- |
