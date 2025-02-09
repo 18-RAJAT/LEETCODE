@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1927-maximum-ascending-subarray-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1364-tuple-with-same-product](https://github.com/18-RAJAT/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/18-RAJAT/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [2448-count-number-of-bad-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2448-count-number-of-bad-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/18-RAJAT/LEETCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [0539-minimum-time-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0002-add-two-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/0002-add-two-numbers) |
+| [2448-count-number-of-bad-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2448-count-number-of-bad-pairs) |
 ## String
 |  |
 | ------- |
@@ -347,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1364-tuple-with-same-product](https://github.com/18-RAJAT/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/18-RAJAT/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [2434-design-a-number-container-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2448-count-number-of-bad-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -519,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1396-count-servers-that-communicate](https://github.com/18-RAJAT/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/18-RAJAT/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1364-tuple-with-same-product](https://github.com/18-RAJAT/LEETCODE/tree/master/1364-tuple-with-same-product) |
+| [2448-count-number-of-bad-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2448-count-number-of-bad-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
