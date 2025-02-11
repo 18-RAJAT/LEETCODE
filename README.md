@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2692-take-gifts-from-the-richest-pile](https://github.com/18-RAJAT/LEETCODE/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/18-RAJAT/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/3447-clear-digits) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/18-RAJAT/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Math
 |  |
 | ------- |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3455-minimum-length-of-string-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3455-minimum-length-of-string-after-operations) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/18-RAJAT/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3447-clear-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/3447-clear-digits) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/18-RAJAT/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/18-RAJAT/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/18-RAJAT/LEETCODE/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/3447-clear-digits) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/18-RAJAT/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Greedy
 |  |
 | ------- |
