@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1364-tuple-with-same-product](https://github.com/18-RAJAT/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/18-RAJAT/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [2448-count-number-of-bad-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/18-RAJAT/LEETCODE/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [0780-max-chunks-to-make-sorted](https://github.com/18-RAJAT/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/18-RAJAT/LEETCODE/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -356,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/18-RAJAT/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [2434-design-a-number-container-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Tree
 |  |
 | ------- |
@@ -499,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [0407-trapping-rain-water-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [2434-design-a-number-container-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Merge Sort
 |  |
 | ------- |
