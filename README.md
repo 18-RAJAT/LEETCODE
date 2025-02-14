@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2448-count-number-of-bad-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0539-minimum-time-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0002-add-two-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/0002-add-two-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2448-count-number-of-bad-pairs) |
+| [1477-product-of-the-last-k-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 ## String
 |  |
 | ------- |
@@ -656,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0432-all-oone-data-structure](https://github.com/18-RAJAT/LEETCODE/tree/master/0432-all-oone-data-structure) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/18-RAJAT/LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2434-design-a-number-container-system) |
+| [1477-product-of-the-last-k-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -664,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/18-RAJAT/LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -691,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2465-shifting-letters-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/2465-shifting-letters-ii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/18-RAJAT/LEETCODE/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/18-RAJAT/LEETCODE/tree/master/2145-grid-game) |
+| [1477-product-of-the-last-k-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 ## Game Theory
 |  |
 | ------- |
