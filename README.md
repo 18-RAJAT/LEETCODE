@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0002-add-two-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/0002-add-two-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2448-count-number-of-bad-pairs) |
 | [1477-product-of-the-last-k-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## String
 |  |
 | ------- |
@@ -677,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0037-sudoku-solver](https://github.com/18-RAJAT/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0022-generate-parentheses](https://github.com/18-RAJAT/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0494-target-sum) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Prefix Sum
 |  |
 | ------- |
