@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/18-RAJAT/LEETCODE/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Simulation
 |  |
 | ------- |
@@ -679,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0022-generate-parentheses](https://github.com/18-RAJAT/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0494-target-sum) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/18-RAJAT/LEETCODE/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Prefix Sum
 |  |
 | ------- |
