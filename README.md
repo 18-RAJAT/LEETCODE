@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/18-RAJAT/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [1160-letter-tile-possibilities](https://github.com/18-RAJAT/LEETCODE/tree/master/1160-letter-tile-possibilities) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2456-construct-smallest-number-from-di-string) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/18-RAJAT/LEETCODE/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Stack
 |  |
 | ------- |
@@ -689,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/18-RAJAT/LEETCODE/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1160-letter-tile-possibilities](https://github.com/18-RAJAT/LEETCODE/tree/master/1160-letter-tile-possibilities) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2456-construct-smallest-number-from-di-string) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/18-RAJAT/LEETCODE/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Prefix Sum
 |  |
 | ------- |
