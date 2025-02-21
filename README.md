@@ -374,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [1160-letter-tile-possibilities](https://github.com/18-RAJAT/LEETCODE/tree/master/1160-letter-tile-possibilities) |
 | [2107-find-unique-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2107-find-unique-binary-string) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Tree
 |  |
 | ------- |
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/18-RAJAT/LEETCODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/18-RAJAT/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -403,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/18-RAJAT/LEETCODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/18-RAJAT/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -427,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [0684-redundant-connection](https://github.com/18-RAJAT/LEETCODE/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/18-RAJAT/LEETCODE/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -645,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0684-redundant-connection](https://github.com/18-RAJAT/LEETCODE/tree/master/0684-redundant-connection) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/18-RAJAT/LEETCODE/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [0854-making-a-large-island](https://github.com/18-RAJAT/LEETCODE/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -671,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1497-design-a-stack-with-increment-operation](https://github.com/18-RAJAT/LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2434-design-a-number-container-system) |
 | [1477-product-of-the-last-k-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
