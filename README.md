@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2456-construct-smallest-number-from-di-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2456-construct-smallest-number-from-di-string) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/18-RAJAT/LEETCODE/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2107-find-unique-binary-string) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Stack
 |  |
 | ------- |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/18-RAJAT/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -406,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/18-RAJAT/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -431,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0684-redundant-connection](https://github.com/18-RAJAT/LEETCODE/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/18-RAJAT/LEETCODE/tree/master/0854-making-a-large-island) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
