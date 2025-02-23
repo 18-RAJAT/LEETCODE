@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1477-product-of-the-last-k-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/18-RAJAT/LEETCODE/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2107-find-unique-binary-string) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Simulation
 |  |
 | ------- |
@@ -376,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1160-letter-tile-possibilities](https://github.com/18-RAJAT/LEETCODE/tree/master/1160-letter-tile-possibilities) |
 | [2107-find-unique-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2107-find-unique-binary-string) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -393,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0124-binary-tree-maximum-path-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -409,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0124-binary-tree-maximum-path-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -504,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0948-sort-an-array) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
