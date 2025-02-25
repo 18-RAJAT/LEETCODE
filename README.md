@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2107-find-unique-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2107-find-unique-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2564-most-profitable-path-in-a-tree) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2448-count-number-of-bad-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2448-count-number-of-bad-pairs) |
 | [1477-product-of-the-last-k-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## String
 |  |
 | ------- |
@@ -590,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2562-count-ways-to-build-good-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/2562-count-ways-to-build-good-strings) |
 | [1025-minimum-cost-for-tickets](https://github.com/18-RAJAT/LEETCODE/tree/master/1025-minimum-cost-for-tickets) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Shortest Path
 |  |
 | ------- |
@@ -734,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/18-RAJAT/LEETCODE/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/18-RAJAT/LEETCODE/tree/master/2145-grid-game) |
 | [1477-product-of-the-last-k-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Game Theory
 |  |
 | ------- |
