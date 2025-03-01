@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/18-RAJAT/LEETCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/18-RAJAT/LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [2551-apply-operations-to-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3447-clear-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/3447-clear-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/18-RAJAT/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [2551-apply-operations-to-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 ## Math
 |  |
 | ------- |
@@ -464,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1468-check-if-n-and-its-double-exist](https://github.com/18-RAJAT/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [0481-magical-string](https://github.com/18-RAJAT/LEETCODE/tree/master/0481-magical-string) |
+| [2551-apply-operations-to-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 ## Matrix
 |  |
 | ------- |
