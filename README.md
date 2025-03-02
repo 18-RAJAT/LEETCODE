@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/18-RAJAT/LEETCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/18-RAJAT/LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2551-apply-operations-to-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/18-RAJAT/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
 |  |
 | ------- |
@@ -387,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/18-RAJAT/LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/18-RAJAT/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Tree
 |  |
 | ------- |
@@ -467,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2232-adding-spaces-to-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [0481-magical-string](https://github.com/18-RAJAT/LEETCODE/tree/master/0481-magical-string) |
 | [2551-apply-operations-to-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/18-RAJAT/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Matrix
 |  |
 | ------- |
