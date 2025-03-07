@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/18-RAJAT/LEETCODE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/18-RAJAT/LEETCODE/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/18-RAJAT/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
+| [2610-closest-prime-numbers-in-range](https://github.com/18-RAJAT/LEETCODE/tree/master/2610-closest-prime-numbers-in-range) |
 ## String
 |  |
 | ------- |
@@ -796,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/18-RAJAT/LEETCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2610-closest-prime-numbers-in-range](https://github.com/18-RAJAT/LEETCODE/tree/master/2610-closest-prime-numbers-in-range) |
 ## Rolling Hash
 |  |
 | ------- |
