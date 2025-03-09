@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/18-RAJAT/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/18-RAJAT/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3227-find-missing-and-repeated-values](https://github.com/18-RAJAT/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
+| [3483-alternating-groups-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3483-alternating-groups-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -644,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/18-RAJAT/LEETCODE/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2868-continuous-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2868-continuous-subarrays) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/18-RAJAT/LEETCODE/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3483-alternating-groups-ii) |
 ## Binary Search
 |  |
 | ------- |
