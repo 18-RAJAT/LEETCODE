@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/18-RAJAT/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/18-RAJAT/LEETCODE/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Stack
 |  |
 | ------- |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/18-RAJAT/LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/18-RAJAT/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/18-RAJAT/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Tree
 |  |
 | ------- |
@@ -646,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2868-continuous-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2868-continuous-subarrays) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/18-RAJAT/LEETCODE/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Binary Search
 |  |
 | ------- |
