@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2265-partition-array-according-to-given-pivot](https://github.com/18-RAJAT/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3227-find-missing-and-repeated-values](https://github.com/18-RAJAT/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3483-alternating-groups-ii) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
 | ------- |
@@ -595,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1364-tuple-with-same-product](https://github.com/18-RAJAT/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [2448-count-number-of-bad-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2448-count-number-of-bad-pairs) |
 | [1160-letter-tile-possibilities](https://github.com/18-RAJAT/LEETCODE/tree/master/1160-letter-tile-possibilities) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -670,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/18-RAJAT/LEETCODE/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/18-RAJAT/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Recursion
 |  |
 | ------- |
