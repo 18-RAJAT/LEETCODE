@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3227-find-missing-and-repeated-values](https://github.com/18-RAJAT/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3483-alternating-groups-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -673,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/18-RAJAT/LEETCODE/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/18-RAJAT/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -774,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2145-grid-game](https://github.com/18-RAJAT/LEETCODE/tree/master/2145-grid-game) |
 | [1477-product-of-the-last-k-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3643-zero-array-transformation-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
 ## Game Theory
 |  |
 | ------- |
