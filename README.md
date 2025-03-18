@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2690-house-robber-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/2690-house-robber-iv) |
 | [2665-minimum-time-to-repair-cars](https://github.com/18-RAJAT/LEETCODE/tree/master/2665-minimum-time-to-repair-cars) |
 | [2308-divide-array-into-equal-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/18-RAJAT/LEETCODE/tree/master/2478-longest-nice-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -661,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3483-alternating-groups-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2478-longest-nice-subarray](https://github.com/18-RAJAT/LEETCODE/tree/master/2478-longest-nice-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -809,6 +811,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2533-bitwise-xor-of-all-pairings](https://github.com/18-RAJAT/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/18-RAJAT/LEETCODE/tree/master/2792-neighboring-bitwise-xor) |
 | [2308-divide-array-into-equal-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/18-RAJAT/LEETCODE/tree/master/2478-longest-nice-subarray) |
 ## Linked List
 |  |
 | ------- |
