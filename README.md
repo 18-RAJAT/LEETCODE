@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2308-divide-array-into-equal-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/18-RAJAT/LEETCODE/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/18-RAJAT/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Simulation
 |  |
 | ------- |
@@ -538,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0684-redundant-connection](https://github.com/18-RAJAT/LEETCODE/tree/master/0684-redundant-connection) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/18-RAJAT/LEETCODE/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/18-RAJAT/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -730,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0684-redundant-connection](https://github.com/18-RAJAT/LEETCODE/tree/master/0684-redundant-connection) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/18-RAJAT/LEETCODE/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [0854-making-a-large-island](https://github.com/18-RAJAT/LEETCODE/tree/master/0854-making-a-large-island) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/18-RAJAT/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -816,6 +819,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2308-divide-array-into-equal-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/18-RAJAT/LEETCODE/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/18-RAJAT/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Linked List
 |  |
 | ------- |
