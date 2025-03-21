@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2478-longest-nice-subarray](https://github.com/18-RAJAT/LEETCODE/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/18-RAJAT/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/18-RAJAT/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Simulation
 |  |
 | ------- |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/18-RAJAT/LEETCODE/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/18-RAJAT/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Stack
 |  |
 | ------- |
@@ -413,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2308-divide-array-into-equal-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/18-RAJAT/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Tree
 |  |
 | ------- |
@@ -540,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/18-RAJAT/LEETCODE/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/18-RAJAT/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/18-RAJAT/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Topological Sort
 |  |
 | ------- |
@@ -547,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0820-find-eventual-safe-states](https://github.com/18-RAJAT/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/18-RAJAT/LEETCODE/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [1558-course-schedule-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/18-RAJAT/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Divide and Conquer
 |  |
 | ------- |
