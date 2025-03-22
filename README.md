@@ -479,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/18-RAJAT/LEETCODE/tree/master/2793-count-the-number-of-complete-components) |
 ## Two Pointers
 |  |
 | ------- |
@@ -544,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2564-most-profitable-path-in-a-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/18-RAJAT/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/18-RAJAT/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/18-RAJAT/LEETCODE/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
@@ -725,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0854-making-a-large-island](https://github.com/18-RAJAT/LEETCODE/tree/master/0854-making-a-large-island) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/18-RAJAT/LEETCODE/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
@@ -738,6 +741,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/18-RAJAT/LEETCODE/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [0854-making-a-large-island](https://github.com/18-RAJAT/LEETCODE/tree/master/0854-making-a-large-island) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/18-RAJAT/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/18-RAJAT/LEETCODE/tree/master/2793-count-the-number-of-complete-components) |
 ## Strongly Connected Component
 |  |
 | ------- |
