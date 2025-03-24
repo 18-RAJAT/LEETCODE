@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/18-RAJAT/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/18-RAJAT/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3430-count-days-without-meetings](https://github.com/18-RAJAT/LEETCODE/tree/master/3430-count-days-without-meetings) |
 ## Simulation
 |  |
 | ------- |
@@ -357,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0780-max-chunks-to-make-sorted](https://github.com/18-RAJAT/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/18-RAJAT/LEETCODE/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3430-count-days-without-meetings](https://github.com/18-RAJAT/LEETCODE/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
 |  |
 | ------- |
