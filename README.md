@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/18-RAJAT/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3430-count-days-without-meetings](https://github.com/18-RAJAT/LEETCODE/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/18-RAJAT/LEETCODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2649-count-total-number-of-colored-cells](https://github.com/18-RAJAT/LEETCODE/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/18-RAJAT/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [2610-closest-prime-numbers-in-range](https://github.com/18-RAJAT/LEETCODE/tree/master/2610-closest-prime-numbers-in-range) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## String
 |  |
 | ------- |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3430-count-days-without-meetings](https://github.com/18-RAJAT/LEETCODE/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/18-RAJAT/LEETCODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -530,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [0854-making-a-large-island](https://github.com/18-RAJAT/LEETCODE/tree/master/0854-making-a-large-island) |
 | [3227-find-missing-and-repeated-values](https://github.com/18-RAJAT/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Graph
 |  |
 | ------- |
