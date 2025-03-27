@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3430-count-days-without-meetings](https://github.com/18-RAJAT/LEETCODE/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/18-RAJAT/LEETCODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/18-RAJAT/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Simulation
 |  |
 | ------- |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3430-count-days-without-meetings](https://github.com/18-RAJAT/LEETCODE/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/18-RAJAT/LEETCODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/18-RAJAT/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Hash Table
 |  |
 | ------- |
@@ -423,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2308-divide-array-into-equal-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/18-RAJAT/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/18-RAJAT/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Tree
 |  |
 | ------- |
