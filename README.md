@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/18-RAJAT/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [0768-partition-labels](https://github.com/18-RAJAT/LEETCODE/tree/master/0768-partition-labels) |
 ## Stack
 |  |
 | ------- |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/18-RAJAT/LEETCODE/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/18-RAJAT/LEETCODE/tree/master/2509-minimize-xor) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2456-construct-smallest-number-from-di-string) |
+| [0768-partition-labels](https://github.com/18-RAJAT/LEETCODE/tree/master/0768-partition-labels) |
 ## Sorting
 |  |
 | ------- |
@@ -428,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2308-divide-array-into-equal-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/18-RAJAT/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/18-RAJAT/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
+| [0768-partition-labels](https://github.com/18-RAJAT/LEETCODE/tree/master/0768-partition-labels) |
 ## Tree
 |  |
 | ------- |
@@ -512,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/18-RAJAT/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/18-RAJAT/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [0768-partition-labels](https://github.com/18-RAJAT/LEETCODE/tree/master/0768-partition-labels) |
 ## Matrix
 |  |
 | ------- |
