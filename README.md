@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2888-minimum-index-of-a-valid-split](https://github.com/18-RAJAT/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/18-RAJAT/LEETCODE/tree/master/2681-put-marbles-in-bags) |
+| [2262-solving-questions-with-brainpower](https://github.com/18-RAJAT/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
 ## Simulation
 |  |
 | ------- |
@@ -669,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/18-RAJAT/LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/18-RAJAT/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/18-RAJAT/LEETCODE/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/18-RAJAT/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
 ## Shortest Path
 |  |
 | ------- |
