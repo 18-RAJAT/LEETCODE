@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2681-put-marbles-in-bags](https://github.com/18-RAJAT/LEETCODE/tree/master/2681-put-marbles-in-bags) |
 | [2262-solving-questions-with-brainpower](https://github.com/18-RAJAT/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 ## Simulation
 |  |
 | ------- |
