@@ -437,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/18-RAJAT/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/18-RAJAT/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [0768-partition-labels](https://github.com/18-RAJAT/LEETCODE/tree/master/0768-partition-labels) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/18-RAJAT/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Tree
 |  |
 | ------- |
@@ -456,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2564-most-profitable-path-in-a-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/18-RAJAT/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -473,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/18-RAJAT/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -501,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/18-RAJAT/LEETCODE/tree/master/2793-count-the-number-of-complete-components) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/18-RAJAT/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Two Pointers
 |  |
 | ------- |
@@ -761,6 +765,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2564-most-profitable-path-in-a-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/18-RAJAT/LEETCODE/tree/master/2793-count-the-number-of-complete-components) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/18-RAJAT/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Union Find
 |  |
 | ------- |
