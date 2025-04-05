@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2262-solving-questions-with-brainpower](https://github.com/18-RAJAT/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/18-RAJAT/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Simulation
 |  |
 | ------- |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3227-find-missing-and-repeated-values](https://github.com/18-RAJAT/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [2610-closest-prime-numbers-in-range](https://github.com/18-RAJAT/LEETCODE/tree/master/2610-closest-prime-numbers-in-range) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/18-RAJAT/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## String
 |  |
 | ------- |
@@ -820,6 +822,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2456-construct-smallest-number-from-di-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2456-construct-smallest-number-from-di-string) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/18-RAJAT/LEETCODE/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2107-find-unique-binary-string) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/18-RAJAT/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -868,6 +871,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2478-longest-nice-subarray](https://github.com/18-RAJAT/LEETCODE/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/18-RAJAT/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/18-RAJAT/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Linked List
 |  |
 | ------- |
@@ -943,6 +947,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/18-RAJAT/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/18-RAJAT/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -956,4 +961,8 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/18-RAJAT/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/18-RAJAT/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
