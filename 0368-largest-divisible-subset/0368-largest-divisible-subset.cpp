@@ -23,14 +23,12 @@ public:
                     }
                 }
             }
-            //finding the index of the largest divisible subset
             if(dp[i]>dp[maxIndex])
             {
                 maxIndex=i;
             }
         }
         vector<int>res;
-        //for printing the subset of the largest divisible subset
         while(~maxIndex)
         {
             res.push_back(nums[maxIndex]);
