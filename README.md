@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/18-RAJAT/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [0368-largest-divisible-subset](https://github.com/18-RAJAT/LEETCODE/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -683,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/18-RAJAT/LEETCODE/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/18-RAJAT/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
 | [0368-largest-divisible-subset](https://github.com/18-RAJAT/LEETCODE/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 ## Shortest Path
 |  |
 | ------- |
