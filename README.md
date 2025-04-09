@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0368-largest-divisible-subset](https://github.com/18-RAJAT/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/18-RAJAT/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Simulation
 |  |
 | ------- |
@@ -446,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0768-partition-labels](https://github.com/18-RAJAT/LEETCODE/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/18-RAJAT/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/18-RAJAT/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Tree
 |  |
 | ------- |
