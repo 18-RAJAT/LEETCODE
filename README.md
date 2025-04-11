@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1993-sum-of-all-subset-xor-totals](https://github.com/18-RAJAT/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [0368-largest-divisible-subset](https://github.com/18-RAJAT/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/18-RAJAT/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
+| [2998-count-symmetric-integers](https://github.com/18-RAJAT/LEETCODE/tree/master/2998-count-symmetric-integers) |
 ## String
 |  |
 | ------- |
@@ -961,6 +962,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/18-RAJAT/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/18-RAJAT/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/18-RAJAT/LEETCODE/tree/master/2998-count-symmetric-integers) |
 ## Monotonic Queue
 |  |
 | ------- |
