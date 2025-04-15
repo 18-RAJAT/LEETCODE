@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0416-partition-equal-subset-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/18-RAJAT/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [2280-count-good-triplets-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -606,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0948-sort-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0948-sort-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [2280-count-good-triplets-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -635,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0948-sort-an-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -710,6 +713,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [1511-count-number-of-teams](https://github.com/18-RAJAT/LEETCODE/tree/master/1511-count-number-of-teams) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/18-RAJAT/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [2280-count-good-triplets-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -752,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/18-RAJAT/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2690-house-robber-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/2690-house-robber-iv) |
 | [2665-minimum-time-to-repair-cars](https://github.com/18-RAJAT/LEETCODE/tree/master/2665-minimum-time-to-repair-cars) |
+| [2280-count-good-triplets-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -937,12 +942,14 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0729-my-calendar-i](https://github.com/18-RAJAT/LEETCODE/tree/master/0729-my-calendar-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/18-RAJAT/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [2280-count-good-triplets-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/18-RAJAT/LEETCODE/tree/master/0729-my-calendar-i) |
 | [2868-continuous-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2868-continuous-subarrays) |
 | [2434-design-a-number-container-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2434-design-a-number-container-system) |
+| [2280-count-good-triplets-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 ## Queue
 |  |
 | ------- |
