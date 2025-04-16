@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/18-RAJAT/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [2280-count-good-triplets-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Simulation
 |  |
 | ------- |
@@ -455,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/18-RAJAT/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Tree
 |  |
 | ------- |
@@ -733,6 +735,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2478-longest-nice-subarray](https://github.com/18-RAJAT/LEETCODE/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Binary Search
 |  |
 | ------- |
