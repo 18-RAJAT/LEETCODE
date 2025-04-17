@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [2280-count-good-triplets-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Simulation
 |  |
 | ------- |
