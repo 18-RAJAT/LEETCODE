@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/18-RAJAT/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [0768-partition-labels](https://github.com/18-RAJAT/LEETCODE/tree/master/0768-partition-labels) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/18-RAJAT/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
+| [0038-count-and-say](https://github.com/18-RAJAT/LEETCODE/tree/master/0038-count-and-say) |
 ## Stack
 |  |
 | ------- |
