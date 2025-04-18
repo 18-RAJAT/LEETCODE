@@ -1,29 +1,25 @@
 class Solution {
 public:
     string countAndSay(int n) {
-        if(n==1)
-        {
-            return "1";
-        }
-        auto s=countAndSay(n-1);
+        if(n==1)return "1";
+        string str=countAndSay(n-1);
         string ans="";
-        int x=s.size();
-        if(x==1)
+        if(str.size()==1)
         {
             ans+="1";
-            ans+=s[0];
+            ans+=str[0];
         }
-        if(x>1)
+        if(str.size()>=2)
         {
-            for(int i=0;i<x;++i)
+            for(int i=0;i<str.size();++i)
             {
-                int ct=1;
-                while(i<x-1 and s[i]==s[i+1])
+                int count=1;
+                while(i<str.size()-1 && str[i]==str[i+1])
                 {
-                    ct++;i++;
+                    count++,i++;
                 }
-                ans+=('0'+ct);
-                ans+=s[i];
+                ans+=(char)('0'+count);
+                ans+=str[i];
             }
         }
         return ans;
