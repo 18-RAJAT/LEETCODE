@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2626-count-the-number-of-good-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
+| [0797-rabbits-in-forest](https://github.com/18-RAJAT/LEETCODE/tree/master/0797-rabbits-in-forest) |
 ## Simulation
 |  |
 | ------- |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2998-count-symmetric-integers](https://github.com/18-RAJAT/LEETCODE/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
 | [2050-count-good-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/2050-count-good-numbers) |
+| [0797-rabbits-in-forest](https://github.com/18-RAJAT/LEETCODE/tree/master/0797-rabbits-in-forest) |
 ## String
 |  |
 | ------- |
@@ -359,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2456-construct-smallest-number-from-di-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2456-construct-smallest-number-from-di-string) |
 | [0768-partition-labels](https://github.com/18-RAJAT/LEETCODE/tree/master/0768-partition-labels) |
 | [2681-put-marbles-in-bags](https://github.com/18-RAJAT/LEETCODE/tree/master/2681-put-marbles-in-bags) |
+| [0797-rabbits-in-forest](https://github.com/18-RAJAT/LEETCODE/tree/master/0797-rabbits-in-forest) |
 ## Sorting
 |  |
 | ------- |
@@ -461,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
+| [0797-rabbits-in-forest](https://github.com/18-RAJAT/LEETCODE/tree/master/0797-rabbits-in-forest) |
 ## Tree
 |  |
 | ------- |
