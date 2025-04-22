@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3548-find-the-count-of-good-integers](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
 | [2050-count-good-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/2050-count-good-numbers) |
 | [0797-rabbits-in-forest](https://github.com/18-RAJAT/LEETCODE/tree/master/0797-rabbits-in-forest) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## String
 |  |
 | ------- |
@@ -711,6 +712,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0368-largest-divisible-subset](https://github.com/18-RAJAT/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/18-RAJAT/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Shortest Path
 |  |
 | ------- |
@@ -925,6 +927,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/18-RAJAT/LEETCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2610-closest-prime-numbers-in-range](https://github.com/18-RAJAT/LEETCODE/tree/master/2610-closest-prime-numbers-in-range) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1008,4 +1011,5 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/18-RAJAT/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->
