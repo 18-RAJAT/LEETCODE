@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2249-count-the-hidden-sequences](https://github.com/18-RAJAT/LEETCODE/tree/master/2249-count-the-hidden-sequences) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/18-RAJAT/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Simulation
 |  |
 | ------- |
@@ -755,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/18-RAJAT/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Binary Search
 |  |
 | ------- |
@@ -983,6 +985,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2868-continuous-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/18-RAJAT/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1006,6 +1009,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2868-continuous-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2868-continuous-subarrays) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/18-RAJAT/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Eulerian Circuit
 |  |
 | ------- |
