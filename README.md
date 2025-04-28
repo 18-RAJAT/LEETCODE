@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2915-count-of-interesting-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/18-RAJAT/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/18-RAJAT/LEETCODE/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Simulation
 |  |
 | ------- |
@@ -758,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2626-count-the-number-of-good-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/18-RAJAT/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -783,6 +785,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2665-minimum-time-to-repair-cars](https://github.com/18-RAJAT/LEETCODE/tree/master/2665-minimum-time-to-repair-cars) |
 | [2280-count-good-triplets-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Recursion
 |  |
 | ------- |
@@ -896,6 +899,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [2249-count-the-hidden-sequences](https://github.com/18-RAJAT/LEETCODE/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Game Theory
 |  |
 | ------- |
