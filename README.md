@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/18-RAJAT/LEETCODE/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/18-RAJAT/LEETCODE/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0797-rabbits-in-forest](https://github.com/18-RAJAT/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [1500-count-largest-group](https://github.com/18-RAJAT/LEETCODE/tree/master/1500-count-largest-group) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
 | ------- |
