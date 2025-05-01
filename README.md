@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/18-RAJAT/LEETCODE/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/18-RAJAT/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Simulation
 |  |
 | ------- |
@@ -373,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0768-partition-labels](https://github.com/18-RAJAT/LEETCODE/tree/master/0768-partition-labels) |
 | [2681-put-marbles-in-bags](https://github.com/18-RAJAT/LEETCODE/tree/master/2681-put-marbles-in-bags) |
 | [0797-rabbits-in-forest](https://github.com/18-RAJAT/LEETCODE/tree/master/0797-rabbits-in-forest) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/18-RAJAT/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Sorting
 |  |
 | ------- |
@@ -409,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2681-put-marbles-in-bags](https://github.com/18-RAJAT/LEETCODE/tree/master/2681-put-marbles-in-bags) |
 | [0368-largest-divisible-subset](https://github.com/18-RAJAT/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/18-RAJAT/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Hash Table
 |  |
 | ------- |
@@ -790,6 +793,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2280-count-good-triplets-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/18-RAJAT/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Recursion
 |  |
 | ------- |
@@ -995,6 +999,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2868-continuous-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/18-RAJAT/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/18-RAJAT/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1019,6 +1024,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2868-continuous-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2868-continuous-subarrays) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/18-RAJAT/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/18-RAJAT/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Eulerian Circuit
 |  |
 | ------- |
