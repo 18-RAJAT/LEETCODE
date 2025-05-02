@@ -322,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0768-partition-labels](https://github.com/18-RAJAT/LEETCODE/tree/master/0768-partition-labels) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/18-RAJAT/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
 | [0038-count-and-say](https://github.com/18-RAJAT/LEETCODE/tree/master/0038-count-and-say) |
+| [0868-push-dominoes](https://github.com/18-RAJAT/LEETCODE/tree/master/0868-push-dominoes) |
 ## Stack
 |  |
 | ------- |
@@ -571,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [0768-partition-labels](https://github.com/18-RAJAT/LEETCODE/tree/master/0768-partition-labels) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
+| [0868-push-dominoes](https://github.com/18-RAJAT/LEETCODE/tree/master/0868-push-dominoes) |
 ## Matrix
 |  |
 | ------- |
@@ -728,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0416-partition-equal-subset-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/18-RAJAT/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [0868-push-dominoes](https://github.com/18-RAJAT/LEETCODE/tree/master/0868-push-dominoes) |
 ## Shortest Path
 |  |
 | ------- |
