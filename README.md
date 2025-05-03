@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/18-RAJAT/LEETCODE/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/18-RAJAT/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/18-RAJAT/LEETCODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 ## Simulation
 |  |
 | ------- |
@@ -376,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2681-put-marbles-in-bags](https://github.com/18-RAJAT/LEETCODE/tree/master/2681-put-marbles-in-bags) |
 | [0797-rabbits-in-forest](https://github.com/18-RAJAT/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/18-RAJAT/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/18-RAJAT/LEETCODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 ## Sorting
 |  |
 | ------- |
