@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/18-RAJAT/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/18-RAJAT/LEETCODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -485,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1500-count-largest-group](https://github.com/18-RAJAT/LEETCODE/tree/master/1500-count-largest-group) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -699,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1160-letter-tile-possibilities](https://github.com/18-RAJAT/LEETCODE/tree/master/1160-letter-tile-possibilities) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2308-divide-array-into-equal-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
