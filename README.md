@@ -736,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3243-count-the-number-of-powerful-integers](https://github.com/18-RAJAT/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [0868-push-dominoes](https://github.com/18-RAJAT/LEETCODE/tree/master/0868-push-dominoes) |
+| [0806-domino-and-tromino-tiling](https://github.com/18-RAJAT/LEETCODE/tree/master/0806-domino-and-tromino-tiling) |
 ## Shortest Path
 |  |
 | ------- |
