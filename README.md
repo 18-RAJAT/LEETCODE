@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/18-RAJAT/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/18-RAJAT/LEETCODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2048-build-array-from-permutation](https://github.com/18-RAJAT/LEETCODE/tree/master/2048-build-array-from-permutation) |
 ## Simulation
 |  |
 | ------- |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/18-RAJAT/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2048-build-array-from-permutation](https://github.com/18-RAJAT/LEETCODE/tree/master/2048-build-array-from-permutation) |
 ## Math
 |  |
 | ------- |
