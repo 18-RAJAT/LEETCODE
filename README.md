@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/18-RAJAT/LEETCODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2048-build-array-from-permutation](https://github.com/18-RAJAT/LEETCODE/tree/master/2048-build-array-from-permutation) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Simulation
 |  |
 | ------- |
@@ -608,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3227-find-missing-and-repeated-values](https://github.com/18-RAJAT/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Graph
 |  |
 | ------- |
@@ -629,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/18-RAJAT/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/18-RAJAT/LEETCODE/tree/master/2793-count-the-number-of-complete-components) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/18-RAJAT/LEETCODE/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -669,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/18-RAJAT/LEETCODE/tree/master/2681-put-marbles-in-bags) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -748,6 +752,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2803-modify-graph-edge-weights](https://github.com/18-RAJAT/LEETCODE/tree/master/2803-modify-graph-edge-weights) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/18-RAJAT/LEETCODE/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
