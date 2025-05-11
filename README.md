@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2048-build-array-from-permutation](https://github.com/18-RAJAT/LEETCODE/tree/master/2048-build-array-from-permutation) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/18-RAJAT/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [1293-three-consecutive-odds](https://github.com/18-RAJAT/LEETCODE/tree/master/1293-three-consecutive-odds) |
 ## Simulation
 |  |
 | ------- |
