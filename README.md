@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/18-RAJAT/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [1293-three-consecutive-odds](https://github.com/18-RAJAT/LEETCODE/tree/master/1293-three-consecutive-odds) |
+| [2215-finding-3-digit-even-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -424,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0368-largest-divisible-subset](https://github.com/18-RAJAT/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/18-RAJAT/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -495,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2856-count-complete-subarrays-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2215-finding-3-digit-even-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 ## Tree
 |  |
 | ------- |
@@ -1040,6 +1043,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1993-sum-of-all-subset-xor-totals](https://github.com/18-RAJAT/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/18-RAJAT/LEETCODE/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
+| [2215-finding-3-digit-even-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 ## Monotonic Queue
 |  |
 | ------- |
