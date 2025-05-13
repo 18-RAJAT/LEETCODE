@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1500-count-largest-group](https://github.com/18-RAJAT/LEETCODE/tree/master/1500-count-largest-group) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3637-count-number-of-balanced-permutations](https://github.com/18-RAJAT/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
 | ------- |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0038-count-and-say](https://github.com/18-RAJAT/LEETCODE/tree/master/0038-count-and-say) |
 | [0868-push-dominoes](https://github.com/18-RAJAT/LEETCODE/tree/master/0868-push-dominoes) |
 | [3637-count-number-of-balanced-permutations](https://github.com/18-RAJAT/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Stack
 |  |
 | ------- |
@@ -498,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2915-count-of-interesting-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Tree
 |  |
 | ------- |
@@ -716,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2308-divide-array-into-equal-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -752,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0868-push-dominoes](https://github.com/18-RAJAT/LEETCODE/tree/master/0868-push-dominoes) |
 | [0806-domino-and-tromino-tiling](https://github.com/18-RAJAT/LEETCODE/tree/master/0806-domino-and-tromino-tiling) |
 | [3637-count-number-of-balanced-permutations](https://github.com/18-RAJAT/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Shortest Path
 |  |
 | ------- |
