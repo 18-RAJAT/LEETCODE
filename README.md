@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/18-RAJAT/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [1293-three-consecutive-odds](https://github.com/18-RAJAT/LEETCODE/tree/master/1293-three-consecutive-odds) |
 | [2215-finding-3-digit-even-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Simulation
 |  |
 | ------- |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3637-count-number-of-balanced-permutations](https://github.com/18-RAJAT/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Stack
 |  |
 | ------- |
@@ -392,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/18-RAJAT/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/18-RAJAT/LEETCODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/18-RAJAT/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sorting
 |  |
 | ------- |
@@ -762,6 +765,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3637-count-number-of-balanced-permutations](https://github.com/18-RAJAT/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Shortest Path
 |  |
 | ------- |
