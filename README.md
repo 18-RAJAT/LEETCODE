@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2215-finding-3-digit-even-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [0075-sort-colors](https://github.com/18-RAJAT/LEETCODE/tree/master/0075-sort-colors) |
 ## Simulation
 |  |
 | ------- |
@@ -435,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2699-count-the-number-of-fair-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/18-RAJAT/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
+| [0075-sort-colors](https://github.com/18-RAJAT/LEETCODE/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -599,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0768-partition-labels](https://github.com/18-RAJAT/LEETCODE/tree/master/0768-partition-labels) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [0868-push-dominoes](https://github.com/18-RAJAT/LEETCODE/tree/master/0868-push-dominoes) |
+| [0075-sort-colors](https://github.com/18-RAJAT/LEETCODE/tree/master/0075-sort-colors) |
 ## Matrix
 |  |
 | ------- |
