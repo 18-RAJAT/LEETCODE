@@ -7,13 +7,11 @@ public:
         
         for(int i=0;i<n;i++)
         {
-            //counting
             cnt[nums[i]]++;
         }
         int idx=0;
         for(int i=0;i<3;i++)
         {
-            //placing
             while(cnt[i]--)
             {
                 nums[idx]=i;idx++;
