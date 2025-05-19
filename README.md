@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [0075-sort-colors](https://github.com/18-RAJAT/LEETCODE/tree/master/0075-sort-colors) |
+| [3321-type-of-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/3321-type-of-triangle) |
 ## Simulation
 |  |
 | ------- |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3637-count-number-of-balanced-permutations](https://github.com/18-RAJAT/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3321-type-of-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/3321-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -437,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/18-RAJAT/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [0075-sort-colors](https://github.com/18-RAJAT/LEETCODE/tree/master/0075-sort-colors) |
+| [3321-type-of-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
