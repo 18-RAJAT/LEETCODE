@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [0075-sort-colors](https://github.com/18-RAJAT/LEETCODE/tree/master/0075-sort-colors) |
 | [3321-type-of-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/3321-type-of-triangle) |
+| [3639-zero-array-transformation-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3639-zero-array-transformation-i) |
 ## Simulation
 |  |
 | ------- |
@@ -957,6 +958,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2249-count-the-hidden-sequences](https://github.com/18-RAJAT/LEETCODE/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3639-zero-array-transformation-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3639-zero-array-transformation-i) |
 ## Game Theory
 |  |
 | ------- |
