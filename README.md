@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0075-sort-colors](https://github.com/18-RAJAT/LEETCODE/tree/master/0075-sort-colors) |
 | [3321-type-of-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3639-zero-array-transformation-i) |
+| [0073-set-matrix-zeroes](https://github.com/18-RAJAT/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
@@ -515,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2215-finding-3-digit-even-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [0073-set-matrix-zeroes](https://github.com/18-RAJAT/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 ## Tree
 |  |
 | ------- |
@@ -636,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [0073-set-matrix-zeroes](https://github.com/18-RAJAT/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 ## Graph
 |  |
 | ------- |
