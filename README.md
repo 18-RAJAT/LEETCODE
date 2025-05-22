@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3321-type-of-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3639-zero-array-transformation-i) |
 | [0073-set-matrix-zeroes](https://github.com/18-RAJAT/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [3647-zero-array-transformation-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -402,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/18-RAJAT/LEETCODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/18-RAJAT/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3647-zero-array-transformation-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -442,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2215-finding-3-digit-even-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [0075-sort-colors](https://github.com/18-RAJAT/LEETCODE/tree/master/0075-sort-colors) |
 | [3321-type-of-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -702,6 +705,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/18-RAJAT/LEETCODE/tree/master/2681-put-marbles-in-bags) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3647-zero-array-transformation-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -962,6 +966,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2915-count-of-interesting-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3639-zero-array-transformation-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 ## Game Theory
 |  |
 | ------- |
