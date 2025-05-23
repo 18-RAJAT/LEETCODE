@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3639-zero-array-transformation-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3639-zero-array-transformation-i) |
 | [0073-set-matrix-zeroes](https://github.com/18-RAJAT/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [3647-zero-array-transformation-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/18-RAJAT/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Simulation
 |  |
 | ------- |
@@ -404,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/18-RAJAT/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3647-zero-array-transformation-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/18-RAJAT/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Sorting
 |  |
 | ------- |
@@ -445,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0075-sort-colors](https://github.com/18-RAJAT/LEETCODE/tree/master/0075-sort-colors) |
 | [3321-type-of-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/18-RAJAT/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -540,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2564-most-profitable-path-in-a-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/18-RAJAT/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/18-RAJAT/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
 |  |
 | ------- |
@@ -784,6 +788,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/18-RAJAT/LEETCODE/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/18-RAJAT/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Shortest Path
 |  |
 | ------- |
@@ -994,6 +999,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/18-RAJAT/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/18-RAJAT/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/18-RAJAT/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Linked List
 |  |
 | ------- |
