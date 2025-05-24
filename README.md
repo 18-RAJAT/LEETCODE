@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0073-set-matrix-zeroes](https://github.com/18-RAJAT/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [3647-zero-array-transformation-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/18-RAJAT/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3194-find-words-containing-character](https://github.com/18-RAJAT/LEETCODE/tree/master/3194-find-words-containing-character) |
 ## Simulation
 |  |
 | ------- |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3194-find-words-containing-character](https://github.com/18-RAJAT/LEETCODE/tree/master/3194-find-words-containing-character) |
 ## Stack
 |  |
 | ------- |
