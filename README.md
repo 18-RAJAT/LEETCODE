@@ -552,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2564-most-profitable-path-in-a-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2564-most-profitable-path-in-a-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/18-RAJAT/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/18-RAJAT/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -599,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2564-most-profitable-path-in-a-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/18-RAJAT/LEETCODE/tree/master/2793-count-the-number-of-complete-components) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/18-RAJAT/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -903,6 +905,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2793-count-the-number-of-complete-components](https://github.com/18-RAJAT/LEETCODE/tree/master/2793-count-the-number-of-complete-components) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/18-RAJAT/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Union Find
 |  |
 | ------- |
