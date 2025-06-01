@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3321-type-of-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/3321-type-of-triangle) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3201-distribute-candies-among-children-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3201-distribute-candies-among-children-ii) |
 ## String
 |  |
 | ------- |
@@ -1108,6 +1109,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2998-count-symmetric-integers](https://github.com/18-RAJAT/LEETCODE/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3201-distribute-candies-among-children-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1130,6 +1132,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3548-find-the-count-of-good-integers](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/18-RAJAT/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
+| [3201-distribute-candies-among-children-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3201-distribute-candies-among-children-ii) |
 ## Memoization
 |  |
 | ------- |
