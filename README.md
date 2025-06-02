@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3194-find-words-containing-character](https://github.com/18-RAJAT/LEETCODE/tree/master/3194-find-words-containing-character) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/18-RAJAT/LEETCODE/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [0945-snakes-and-ladders](https://github.com/18-RAJAT/LEETCODE/tree/master/0945-snakes-and-ladders) |
+| [0135-candy](https://github.com/18-RAJAT/LEETCODE/tree/master/0135-candy) |
 ## Simulation
 |  |
 | ------- |
@@ -414,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3647-zero-array-transformation-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/18-RAJAT/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/18-RAJAT/LEETCODE/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [0135-candy](https://github.com/18-RAJAT/LEETCODE/tree/master/0135-candy) |
 ## Sorting
 |  |
 | ------- |
