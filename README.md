@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/18-RAJAT/LEETCODE/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [0945-snakes-and-ladders](https://github.com/18-RAJAT/LEETCODE/tree/master/0945-snakes-and-ladders) |
 | [0135-candy](https://github.com/18-RAJAT/LEETCODE/tree/master/0135-candy) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/18-RAJAT/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Simulation
 |  |
 | ------- |
@@ -688,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/18-RAJAT/LEETCODE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/18-RAJAT/LEETCODE/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/18-RAJAT/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Topological Sort
 |  |
 | ------- |
@@ -917,6 +919,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [0945-snakes-and-ladders](https://github.com/18-RAJAT/LEETCODE/tree/master/0945-snakes-and-ladders) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/18-RAJAT/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Union Find
 |  |
 | ------- |
