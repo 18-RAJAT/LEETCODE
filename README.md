@@ -357,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/18-RAJAT/LEETCODE/tree/master/3194-find-words-containing-character) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/18-RAJAT/LEETCODE/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Stack
 |  |
 | ------- |
@@ -633,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2699-count-the-number-of-fair-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [0868-push-dominoes](https://github.com/18-RAJAT/LEETCODE/tree/master/0868-push-dominoes) |
 | [0075-sort-colors](https://github.com/18-RAJAT/LEETCODE/tree/master/0075-sort-colors) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Matrix
 |  |
 | ------- |
@@ -1115,6 +1117,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3548-find-the-count-of-good-integers](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Monotonic Queue
 |  |
 | ------- |
