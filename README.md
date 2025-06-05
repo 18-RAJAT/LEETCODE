@@ -358,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3194-find-words-containing-character](https://github.com/18-RAJAT/LEETCODE/tree/master/3194-find-words-containing-character) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/18-RAJAT/LEETCODE/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Stack
 |  |
 | ------- |
@@ -937,6 +938,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/18-RAJAT/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/18-RAJAT/LEETCODE/tree/master/2793-count-the-number-of-complete-components) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Strongly Connected Component
 |  |
 | ------- |
