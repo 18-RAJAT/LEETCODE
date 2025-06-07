@@ -360,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/18-RAJAT/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Stack
 |  |
 | ------- |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/18-RAJAT/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/18-RAJAT/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Greedy
 |  |
 | ------- |
@@ -422,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/18-RAJAT/LEETCODE/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [0135-candy](https://github.com/18-RAJAT/LEETCODE/tree/master/0135-candy) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/18-RAJAT/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Sorting
 |  |
 | ------- |
@@ -542,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/18-RAJAT/LEETCODE/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/18-RAJAT/LEETCODE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/18-RAJAT/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Tree
 |  |
 | ------- |
