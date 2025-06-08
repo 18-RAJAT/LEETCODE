@@ -1,16 +1,14 @@
 class Solution {
 public:
-    void recur(vector<int>& result,int n,int nums)
+    void recur(int i,int n,vector<int>& ans)
     {
-        if(n<nums)return;
-        result.push_back(nums);
-        recur(result,n,nums*10);
-        if(nums%10!=9)recur(result,n,nums+1);
+        if(n<i)return;
+        ans.push_back(i);
+        for(int j=0;j<=9;++j)recur(i*10+j,n,ans);
     }
-    vector<int>lexicalOrder(int n)
-    {
-        vector<int> result;
-        recur(result,n,1);
-        return result;
+    vector<int> lexicalOrder(int n) {
+        vector<int>ans;
+        for(int i=1;i<=9;++i)recur(i,n,ans);
+        return ans;
     }
 };
