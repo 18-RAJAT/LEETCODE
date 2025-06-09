@@ -11,16 +11,13 @@ public:
                 check+=(second>n+1)?(n+1-first):(second-first);
                 first*=10,second*=10;
             }
-            // ans+=(check<=k)?1:0,k-=(check<=k)?check:0,ans*=(check>k)?10:ans,k-=(check>k)?1:0;
             if(check<=k)
             {
-                ans++;
-                k-=check;
+                ans++,k-=check;
             }
             else
             {
-                if(ans<=n/10)ans*=10;
-                k-=1;
+                if(ans<=n/10)ans*=10,k-=1;
             }
         }
         return ans;
