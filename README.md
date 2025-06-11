@@ -362,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/18-RAJAT/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
 | ------- |
@@ -870,6 +871,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/18-RAJAT/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/18-RAJAT/LEETCODE/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -1018,6 +1020,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3639-zero-array-transformation-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -1132,6 +1135,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2215-finding-3-digit-even-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
