@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0135-candy](https://github.com/18-RAJAT/LEETCODE/tree/master/0135-candy) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/18-RAJAT/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/18-RAJAT/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -428,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0135-candy](https://github.com/18-RAJAT/LEETCODE/tree/master/0135-candy) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/18-RAJAT/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -900,6 +902,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2699-count-the-number-of-fair-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/18-RAJAT/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Recursion
 |  |
 | ------- |
