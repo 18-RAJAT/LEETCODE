@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3201-distribute-candies-among-children-ii) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/18-RAJAT/LEETCODE/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 ## String
 |  |
 | ------- |
@@ -432,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/18-RAJAT/LEETCODE/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 ## Sorting
 |  |
 | ------- |
