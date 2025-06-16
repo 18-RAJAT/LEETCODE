@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/18-RAJAT/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/18-RAJAT/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/18-RAJAT/LEETCODE/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Simulation
 |  |
 | ------- |
