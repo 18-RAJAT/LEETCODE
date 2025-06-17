@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3201-distribute-candies-among-children-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3201-distribute-candies-among-children-ii) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/18-RAJAT/LEETCODE/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/18-RAJAT/LEETCODE/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## String
 |  |
 | ------- |
@@ -1168,6 +1169,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2415-count-the-number-of-ideal-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/18-RAJAT/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 | [3201-distribute-candies-among-children-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3201-distribute-candies-among-children-ii) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/18-RAJAT/LEETCODE/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Memoization
 |  |
 | ------- |
