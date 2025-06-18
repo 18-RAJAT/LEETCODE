@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/18-RAJAT/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/18-RAJAT/LEETCODE/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -436,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/18-RAJAT/LEETCODE/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -478,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3321-type-of-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/18-RAJAT/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Hash Table
 |  |
 | ------- |
