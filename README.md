@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/18-RAJAT/LEETCODE/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Simulation
 |  |
 | ------- |
@@ -438,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/18-RAJAT/LEETCODE/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Sorting
 |  |
 | ------- |
@@ -481,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3647-zero-array-transformation-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/18-RAJAT/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Hash Table
 |  |
 | ------- |
