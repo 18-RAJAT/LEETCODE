@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/18-RAJAT/LEETCODE/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/18-RAJAT/LEETCODE/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/18-RAJAT/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/18-RAJAT/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Stack
 |  |
 | ------- |
@@ -564,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/18-RAJAT/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/18-RAJAT/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Tree
 |  |
 | ------- |
@@ -803,6 +806,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/18-RAJAT/LEETCODE/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/18-RAJAT/LEETCODE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/18-RAJAT/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
