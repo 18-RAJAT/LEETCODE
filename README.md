@@ -373,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/18-RAJAT/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/18-RAJAT/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Stack
 |  |
 | ------- |
@@ -442,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/18-RAJAT/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Sorting
 |  |
 | ------- |
@@ -486,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/18-RAJAT/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/18-RAJAT/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Hash Table
 |  |
 | ------- |
@@ -567,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/18-RAJAT/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/18-RAJAT/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Tree
 |  |
 | ------- |
@@ -807,6 +811,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/18-RAJAT/LEETCODE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/18-RAJAT/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/18-RAJAT/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Dynamic Programming
 |  |
 | ------- |
