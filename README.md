@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2551-apply-operations-to-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/18-RAJAT/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2048-build-array-from-permutation](https://github.com/18-RAJAT/LEETCODE/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Math
 |  |
 | ------- |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/18-RAJAT/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/18-RAJAT/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Stack
 |  |
 | ------- |
