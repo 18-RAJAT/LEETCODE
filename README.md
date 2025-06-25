@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -929,6 +930,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/18-RAJAT/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Recursion
 |  |
 | ------- |
