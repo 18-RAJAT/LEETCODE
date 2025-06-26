@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0015-3sum) |
 ## Simulation
 |  |
 | ------- |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/18-RAJAT/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [0015-3sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -681,6 +683,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0075-sort-colors](https://github.com/18-RAJAT/LEETCODE/tree/master/0075-sort-colors) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [0015-3sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0015-3sum) |
 ## Matrix
 |  |
 | ------- |
