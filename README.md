@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0015-3sum) |
 | [0011-container-with-most-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -687,6 +688,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [0015-3sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0015-3sum) |
 | [0011-container-with-most-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Matrix
 |  |
 | ------- |
