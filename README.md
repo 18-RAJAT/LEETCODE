@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0015-3sum) |
+| [0011-container-with-most-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0011-container-with-most-water) |
 ## Simulation
 |  |
 | ------- |
@@ -454,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/18-RAJAT/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [0011-container-with-most-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0011-container-with-most-water) |
 ## Sorting
 |  |
 | ------- |
@@ -684,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [0015-3sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0015-3sum) |
+| [0011-container-with-most-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0011-container-with-most-water) |
 ## Matrix
 |  |
 | ------- |
