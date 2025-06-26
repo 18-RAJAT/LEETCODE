@@ -1,17 +1,15 @@
 class Solution {
 public:
     int maxArea(vector<int>& height) {
-        int n=height.size();
-        int left=0,right=n-1;
-        int answer=0;
-        while(left<right)
+        int maxArea=0;
+        int l=0,r=height.size()-1;
+        while(l<r)
         {
-            int minimum_height=min(height[left],height[right]);
-            int width=right-left;
-            answer=max(answer,minimum_height*width);//area of reactangle is length*width
-            
-            height[left]<height[right]?left++:right--;
+            int currentArea=min(height[l],height[r])*(r-l);
+            if(maxArea<currentArea)maxArea=currentArea;
+            if(height[l]<height[r])l++;
+            else r--;
         }
-        return answer;
+        return maxArea;
     }
 };
