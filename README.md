@@ -385,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0003-longest-substring-without-repeating-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/18-RAJAT/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/18-RAJAT/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Stack
 |  |
 | ------- |
@@ -457,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/18-RAJAT/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [0011-container-with-most-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0011-container-with-most-water) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/18-RAJAT/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Sorting
 |  |
 | ------- |
@@ -832,6 +834,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/18-RAJAT/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/18-RAJAT/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/18-RAJAT/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1042,6 +1045,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/18-RAJAT/LEETCODE/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2107-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/18-RAJAT/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/18-RAJAT/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1186,6 +1190,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/18-RAJAT/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Monotonic Queue
 |  |
 | ------- |
