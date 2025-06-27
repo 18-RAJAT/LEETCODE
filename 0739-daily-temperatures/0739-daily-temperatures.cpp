@@ -9,11 +9,9 @@ public:
             while(!q.empty() && temperatures[q.back()]<temperatures[i])
             {
                 ans[q.back()]=i-q.back();
-                // cout<<i<<endl;
                 q.pop_back();
             }
             q.push_back(i);
-            // cout<<q.front()<<" ";
         }
         return ans;
     }
