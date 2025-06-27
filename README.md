@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0015-3sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0015-3sum) |
 | [0011-container-with-most-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/18-RAJAT/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 ## Simulation
 |  |
 | ------- |
@@ -412,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2456-construct-smallest-number-from-di-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/18-RAJAT/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [0084-largest-rectangle-in-histogram](https://github.com/18-RAJAT/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 ## Greedy
 |  |
 | ------- |
@@ -1178,6 +1180,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/18-RAJAT/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [0780-max-chunks-to-make-sorted](https://github.com/18-RAJAT/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/18-RAJAT/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [0084-largest-rectangle-in-histogram](https://github.com/18-RAJAT/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 ## Enumeration
 |  |
 | ------- |
