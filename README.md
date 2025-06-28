@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0739-daily-temperatures](https://github.com/18-RAJAT/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0503-next-greater-element-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -597,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0003-longest-substring-without-repeating-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/18-RAJAT/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0560-subarray-sum-equals-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
@@ -1083,6 +1085,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3647-zero-array-transformation-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Game Theory
 |  |
 | ------- |
