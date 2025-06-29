@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/18-RAJAT/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [0907-koko-eating-bananas](https://github.com/18-RAJAT/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/18-RAJAT/LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/18-RAJAT/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Simulation
 |  |
 | ------- |
@@ -969,6 +970,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/18-RAJAT/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [0907-koko-eating-bananas](https://github.com/18-RAJAT/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/18-RAJAT/LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/18-RAJAT/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Recursion
 |  |
 | ------- |
