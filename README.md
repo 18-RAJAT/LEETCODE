@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/18-RAJAT/LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/18-RAJAT/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [0525-contiguous-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0525-contiguous-array) |
 ## Simulation
 |  |
 | ------- |
@@ -606,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0076-minimum-window-substring](https://github.com/18-RAJAT/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0560-subarray-sum-equals-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/1016-subarray-sums-divisible-by-k) |
+| [0525-contiguous-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0525-contiguous-array) |
 ## Tree
 |  |
 | ------- |
@@ -1099,6 +1101,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/1016-subarray-sums-divisible-by-k) |
+| [0525-contiguous-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0525-contiguous-array) |
 ## Game Theory
 |  |
 | ------- |
