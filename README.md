@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1016-subarray-sums-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/18-RAJAT/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [0907-koko-eating-bananas](https://github.com/18-RAJAT/LEETCODE/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/18-RAJAT/LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Simulation
 |  |
 | ------- |
@@ -967,6 +968,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/18-RAJAT/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [0907-koko-eating-bananas](https://github.com/18-RAJAT/LEETCODE/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/18-RAJAT/LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Recursion
 |  |
 | ------- |
