@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0560-subarray-sum-equals-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/18-RAJAT/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [0907-koko-eating-bananas](https://github.com/18-RAJAT/LEETCODE/tree/master/0907-koko-eating-bananas) |
 ## Simulation
 |  |
 | ------- |
@@ -965,6 +966,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/18-RAJAT/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [0907-koko-eating-bananas](https://github.com/18-RAJAT/LEETCODE/tree/master/0907-koko-eating-bananas) |
 ## Recursion
 |  |
 | ------- |
