@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0239-sliding-window-maximum](https://github.com/18-RAJAT/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0523-continuous-subarray-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0753-open-the-lock](https://github.com/18-RAJAT/LEETCODE/tree/master/0753-open-the-lock) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -753,6 +754,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [0073-set-matrix-zeroes](https://github.com/18-RAJAT/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/18-RAJAT/LEETCODE/tree/master/0945-snakes-and-ladders) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Graph
 |  |
 | ------- |
@@ -1028,6 +1030,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0945-snakes-and-ladders](https://github.com/18-RAJAT/LEETCODE/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/18-RAJAT/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [0753-open-the-lock](https://github.com/18-RAJAT/LEETCODE/tree/master/0753-open-the-lock) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Union Find
 |  |
 | ------- |
