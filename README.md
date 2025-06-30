@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0525-contiguous-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/18-RAJAT/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0239-sliding-window-maximum](https://github.com/18-RAJAT/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0523-continuous-subarray-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/18-RAJAT/LEETCODE/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/18-RAJAT/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/2202-sum-of-k-mirror-numbers) |
+| [0523-continuous-subarray-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 ## String
 |  |
 | ------- |
@@ -612,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1016-subarray-sums-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/1016-subarray-sums-divisible-by-k) |
 | [0525-contiguous-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/18-RAJAT/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [0523-continuous-subarray-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 ## Tree
 |  |
 | ------- |
@@ -1110,6 +1113,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0560-subarray-sum-equals-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/1016-subarray-sums-divisible-by-k) |
 | [0525-contiguous-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0525-contiguous-array) |
+| [0523-continuous-subarray-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 ## Game Theory
 |  |
 | ------- |
