@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [0525-contiguous-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/18-RAJAT/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [0239-sliding-window-maximum](https://github.com/18-RAJAT/LEETCODE/tree/master/0239-sliding-window-maximum) |
 ## Simulation
 |  |
 | ------- |
@@ -815,6 +816,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3647-zero-array-transformation-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/18-RAJAT/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [0239-sliding-window-maximum](https://github.com/18-RAJAT/LEETCODE/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -947,6 +949,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0003-longest-substring-without-repeating-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/18-RAJAT/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0594-longest-harmonious-subsequence](https://github.com/18-RAJAT/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [0239-sliding-window-maximum](https://github.com/18-RAJAT/LEETCODE/tree/master/0239-sliding-window-maximum) |
 ## Binary Search
 |  |
 | ------- |
@@ -1201,6 +1204,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/18-RAJAT/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/18-RAJAT/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [0239-sliding-window-maximum](https://github.com/18-RAJAT/LEETCODE/tree/master/0239-sliding-window-maximum) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1235,6 +1239,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2868-continuous-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2868-continuous-subarrays) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/18-RAJAT/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/18-RAJAT/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [0239-sliding-window-maximum](https://github.com/18-RAJAT/LEETCODE/tree/master/0239-sliding-window-maximum) |
 ## Eulerian Circuit
 |  |
 | ------- |
