@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/18-RAJAT/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [0525-contiguous-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0525-contiguous-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/18-RAJAT/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -521,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/18-RAJAT/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [0015-3sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0015-3sum) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/18-RAJAT/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [0594-longest-harmonious-subsequence](https://github.com/18-RAJAT/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -608,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0560-subarray-sum-equals-k](https://github.com/18-RAJAT/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/1016-subarray-sums-divisible-by-k) |
 | [0525-contiguous-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0525-contiguous-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/18-RAJAT/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 ## Tree
 |  |
 | ------- |
@@ -855,6 +858,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/18-RAJAT/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/18-RAJAT/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/18-RAJAT/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [0594-longest-harmonious-subsequence](https://github.com/18-RAJAT/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -942,6 +946,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/18-RAJAT/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0594-longest-harmonious-subsequence](https://github.com/18-RAJAT/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 ## Binary Search
 |  |
 | ------- |
