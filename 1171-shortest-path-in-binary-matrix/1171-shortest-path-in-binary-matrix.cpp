@@ -1,45 +1,33 @@
 class Solution {
 public:
+    vector<vector<int>>dir={{1,0},{-1,0},{0,-1},{0,1},{1,1},{-1,-1},{-1,1},{1,-1}};
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
-        
-        int n = grid.size();
-        
-        if(grid[0][0] == 1 or grid[n-1][n-1] == 1)
-            return -1;
-        
-        queue<pair<int,int>>q;
-        
-        //Insert starting cell
-        q.push(make_pair(0,0));
-        
-        vector<vector<int>> directions = {{1,1},{0,1},{1,0},{0,-1},{-1,0},{-1,-1},{1,-1},{-1,1}};
-        
-        grid[0][0] = 1;
-        
+        int n=grid.size(),m=grid[0].size();
+        queue<pair<int,pair<int,int>>>q;
+        vector<vector<int>>ans(n,vector<int>(m,INT_MAX));
+        if(grid[0][0]==0)
+        {
+            q.push({1,{0,0}});
+            ans[0][0]=1;
+        }
         while(!q.empty())
         {
-            int row = q.front().first;
-            int column = q.front().second;
-            
-            if(row == n-1 and column == n-1)
-            {return grid[row][column];}
-                
-                for(auto direction : directions)
+            auto F=q.front().second.first;
+            auto S=q.front().second.second;
+            int dist=q.front().first;
+            q.pop();
+            for(auto& it:dir)
+            {
+                int x=it[0],y=it[1];
+                int ni=F+x,nj=S+y;
+                if(ni>=0 && nj>=0 && ni<n && nj<m && grid[ni][nj]==0 && dist+1<ans[ni][nj])
                 {
-                    int new_row = row + direction[0];
-                    int new_column = column + direction[1];
-                    
-                    if(new_row >= 0 and new_row < n and new_column >= 0 and new_column < n and grid[new_row][new_column] == 0)
-                           
-                    {
-                        q.push(make_pair(new_row,new_column));
-                        
-                        grid[new_row][new_column] = grid[row][column] + 1;
-                    }
-         }
-        q.pop();
-}
-         return -1;
-        
+                    ans[ni][nj]=dist+1;
+                    q.push({dist+1,{ni,nj}});
+                }
+            }
+        }
+        if(ans[n-1][m-1]==INT_MAX)return -1;
+        return ans[n-1][m-1];
     }
 };
