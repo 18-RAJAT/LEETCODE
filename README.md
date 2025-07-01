@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0523-continuous-subarray-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0753-open-the-lock](https://github.com/18-RAJAT/LEETCODE/tree/master/0753-open-the-lock) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
+| [0721-accounts-merge](https://github.com/18-RAJAT/LEETCODE/tree/master/0721-accounts-merge) |
 ## Simulation
 |  |
 | ------- |
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [0753-open-the-lock](https://github.com/18-RAJAT/LEETCODE/tree/master/0753-open-the-lock) |
 | [3617-find-the-original-typed-string-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3617-find-the-original-typed-string-i) |
+| [0721-accounts-merge](https://github.com/18-RAJAT/LEETCODE/tree/master/0721-accounts-merge) |
 ## Stack
 |  |
 | ------- |
@@ -530,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0015-3sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0015-3sum) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/18-RAJAT/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [0594-longest-harmonious-subsequence](https://github.com/18-RAJAT/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [0721-accounts-merge](https://github.com/18-RAJAT/LEETCODE/tree/master/0721-accounts-merge) |
 ## Hash Table
 |  |
 | ------- |
@@ -620,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0594-longest-harmonious-subsequence](https://github.com/18-RAJAT/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0523-continuous-subarray-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0753-open-the-lock](https://github.com/18-RAJAT/LEETCODE/tree/master/0753-open-the-lock) |
+| [0721-accounts-merge](https://github.com/18-RAJAT/LEETCODE/tree/master/0721-accounts-merge) |
 ## Tree
 |  |
 | ------- |
@@ -694,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/18-RAJAT/LEETCODE/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [0547-number-of-provinces](https://github.com/18-RAJAT/LEETCODE/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/18-RAJAT/LEETCODE/tree/master/0721-accounts-merge) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1035,6 +1040,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0753-open-the-lock](https://github.com/18-RAJAT/LEETCODE/tree/master/0753-open-the-lock) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
 | [0547-number-of-provinces](https://github.com/18-RAJAT/LEETCODE/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/18-RAJAT/LEETCODE/tree/master/0721-accounts-merge) |
 ## Union Find
 |  |
 | ------- |
@@ -1052,6 +1058,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [0547-number-of-provinces](https://github.com/18-RAJAT/LEETCODE/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/18-RAJAT/LEETCODE/tree/master/0721-accounts-merge) |
 ## Strongly Connected Component
 |  |
 | ------- |
