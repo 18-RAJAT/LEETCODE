@@ -693,6 +693,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/18-RAJAT/LEETCODE/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [0547-number-of-provinces](https://github.com/18-RAJAT/LEETCODE/tree/master/0547-number-of-provinces) |
 ## Two Pointers
 |  |
 | ------- |
@@ -781,6 +782,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/18-RAJAT/LEETCODE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/18-RAJAT/LEETCODE/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/18-RAJAT/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [0547-number-of-provinces](https://github.com/18-RAJAT/LEETCODE/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1032,6 +1034,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/18-RAJAT/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [0753-open-the-lock](https://github.com/18-RAJAT/LEETCODE/tree/master/0753-open-the-lock) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
+| [0547-number-of-provinces](https://github.com/18-RAJAT/LEETCODE/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
 | ------- |
@@ -1048,6 +1051,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2793-count-the-number-of-complete-components](https://github.com/18-RAJAT/LEETCODE/tree/master/2793-count-the-number-of-complete-components) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [0547-number-of-provinces](https://github.com/18-RAJAT/LEETCODE/tree/master/0547-number-of-provinces) |
 ## Strongly Connected Component
 |  |
 | ------- |
