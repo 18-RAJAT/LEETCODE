@@ -405,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2140-longest-subsequence-repeated-k-times](https://github.com/18-RAJAT/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [0753-open-the-lock](https://github.com/18-RAJAT/LEETCODE/tree/master/0753-open-the-lock) |
+| [3617-find-the-original-typed-string-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
 | ------- |
