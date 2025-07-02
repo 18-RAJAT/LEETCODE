@@ -700,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/18-RAJAT/LEETCODE/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [0547-number-of-provinces](https://github.com/18-RAJAT/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/18-RAJAT/LEETCODE/tree/master/0721-accounts-merge) |
+| [0207-course-schedule](https://github.com/18-RAJAT/LEETCODE/tree/master/0207-course-schedule) |
 ## Two Pointers
 |  |
 | ------- |
@@ -789,6 +790,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/18-RAJAT/LEETCODE/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/18-RAJAT/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [0547-number-of-provinces](https://github.com/18-RAJAT/LEETCODE/tree/master/0547-number-of-provinces) |
+| [0207-course-schedule](https://github.com/18-RAJAT/LEETCODE/tree/master/0207-course-schedule) |
 ## Topological Sort
 |  |
 | ------- |
@@ -799,6 +801,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/18-RAJAT/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/18-RAJAT/LEETCODE/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/18-RAJAT/LEETCODE/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [0207-course-schedule](https://github.com/18-RAJAT/LEETCODE/tree/master/0207-course-schedule) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1043,6 +1046,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1171-shortest-path-in-binary-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
 | [0547-number-of-provinces](https://github.com/18-RAJAT/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/18-RAJAT/LEETCODE/tree/master/0721-accounts-merge) |
+| [0207-course-schedule](https://github.com/18-RAJAT/LEETCODE/tree/master/0207-course-schedule) |
 ## Union Find
 |  |
 | ------- |
