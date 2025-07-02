@@ -1,53 +1,35 @@
 class Solution {
 public:
+    int topoSort(int node,vector<int>& visited,vector<int>& topo,vector<int>adj[])
+    {
+        visited[node]=1;
+        topo[node]=1;
+        for(auto& it:adj[node])
+        {
+            if(!visited[it])
+            {
+                if(topoSort(it,visited,topo,adj))return true;
+            }
+            else if(topo[it])return true;
+        }
+        topo[node]=0;
+        return 0;
+    }
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>>adj(numCourses);
-        vector<int>indegree(numCourses,0);
-        queue<int>q;
-
-        for(vector<int>&edge:prerequisites)
+        vector<int>adj[numCourses];
+        for(int i=0;i<prerequisites.size();++i)
         {
-            int u=edge[1];
-            int v=edge[0];
-
+            int u=prerequisites[i][1],v=prerequisites[i][0];
             adj[u].push_back(v);
-            indegree[v]++;
-
-            // cout<<"Degree: "<<indegree[v]<<"\n";
         }
+        vector<int>visited(numCourses,0),topo(numCourses,0);
         for(int i=0;i<numCourses;++i)
         {
-            if(indegree[i]==0)
+            if(!visited[i])
             {
-                q.push(i);
+                if(topoSort(i,visited,topo,adj))return 0;
             }
         }
-        
-        //topo sort
-        while(not q.empty())
-        {
-            int tp=q.front();
-            q.pop();
-
-            for(auto it:adj[tp])
-            {
-                indegree[it]--;
-
-                if(indegree[it]==0)
-                {
-                    q.push(it);
-                }
-            }
-        }
-        
-        //if indegree of all nodes is 0,then all courses are finished else we will not finish
-        for(int i=0;i<numCourses;++i)
-        {
-            if(indegree[i])
-            {
-                 return false;
-            }
-        }
-        return true;
+        return 1;
     }
 };
