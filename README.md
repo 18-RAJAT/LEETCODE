@@ -408,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0753-open-the-lock](https://github.com/18-RAJAT/LEETCODE/tree/master/0753-open-the-lock) |
 | [3617-find-the-original-typed-string-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3617-find-the-original-typed-string-i) |
 | [0721-accounts-merge](https://github.com/18-RAJAT/LEETCODE/tree/master/0721-accounts-merge) |
+| [3618-find-the-original-typed-string-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3618-find-the-original-typed-string-ii) |
 ## Stack
 |  |
 | ------- |
@@ -921,6 +922,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/18-RAJAT/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/18-RAJAT/LEETCODE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3618-find-the-original-typed-string-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3618-find-the-original-typed-string-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1133,6 +1135,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1016-subarray-sums-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/1016-subarray-sums-divisible-by-k) |
 | [0525-contiguous-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0525-contiguous-array) |
 | [0523-continuous-subarray-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0523-continuous-subarray-sum) |
+| [3618-find-the-original-typed-string-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3618-find-the-original-typed-string-ii) |
 ## Game Theory
 |  |
 | ------- |
