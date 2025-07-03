@@ -652,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [0337-house-robber-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -672,6 +673,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/18-RAJAT/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [0337-house-robber-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -710,6 +712,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0210-course-schedule-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0337-house-robber-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
