@@ -651,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [0337-house-robber-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -670,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/18-RAJAT/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [0337-house-robber-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -707,6 +709,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0207-course-schedule](https://github.com/18-RAJAT/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0337-house-robber-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
