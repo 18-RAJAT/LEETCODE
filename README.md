@@ -308,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2202-sum-of-k-mirror-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/2202-sum-of-k-mirror-numbers) |
 | [0523-continuous-subarray-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
 |  |
 | ------- |
@@ -1028,6 +1029,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1197-parsing-a-boolean-expression](https://github.com/18-RAJAT/LEETCODE/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1187,6 +1189,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/18-RAJAT/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Linked List
 |  |
 | ------- |
