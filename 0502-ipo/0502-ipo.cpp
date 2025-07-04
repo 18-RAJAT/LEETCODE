@@ -12,6 +12,7 @@ public:
             projects.emplace_back(capital[i],profits[i]);
         }
         sort(projects.begin(),projects.end(),cmp);
+        //max heap to choose the best profit available
         priority_queue<int>maxProfit;
         int i=0;
         while(k--)
