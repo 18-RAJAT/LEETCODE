@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0753-open-the-lock](https://github.com/18-RAJAT/LEETCODE/tree/master/0753-open-the-lock) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
 | [0721-accounts-merge](https://github.com/18-RAJAT/LEETCODE/tree/master/0721-accounts-merge) |
+| [0502-ipo](https://github.com/18-RAJAT/LEETCODE/tree/master/0502-ipo) |
 ## Simulation
 |  |
 | ------- |
@@ -488,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [0011-container-with-most-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0011-container-with-most-water) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/18-RAJAT/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [0502-ipo](https://github.com/18-RAJAT/LEETCODE/tree/master/0502-ipo) |
 ## Sorting
 |  |
 | ------- |
@@ -537,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/18-RAJAT/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [0594-longest-harmonious-subsequence](https://github.com/18-RAJAT/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0721-accounts-merge](https://github.com/18-RAJAT/LEETCODE/tree/master/0721-accounts-merge) |
+| [0502-ipo](https://github.com/18-RAJAT/LEETCODE/tree/master/0502-ipo) |
 ## Hash Table
 |  |
 | ------- |
@@ -854,6 +857,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/18-RAJAT/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [0239-sliding-window-maximum](https://github.com/18-RAJAT/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0023-merge-k-sorted-lists](https://github.com/18-RAJAT/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0502-ipo](https://github.com/18-RAJAT/LEETCODE/tree/master/0502-ipo) |
 ## Merge Sort
 |  |
 | ------- |
