@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1171-shortest-path-in-binary-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
 | [0721-accounts-merge](https://github.com/18-RAJAT/LEETCODE/tree/master/0721-accounts-merge) |
 | [0502-ipo](https://github.com/18-RAJAT/LEETCODE/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/18-RAJAT/LEETCODE/tree/master/0621-task-scheduler) |
 ## Simulation
 |  |
 | ------- |
@@ -490,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0011-container-with-most-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0011-container-with-most-water) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/18-RAJAT/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [0502-ipo](https://github.com/18-RAJAT/LEETCODE/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/18-RAJAT/LEETCODE/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
@@ -540,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0594-longest-harmonious-subsequence](https://github.com/18-RAJAT/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0721-accounts-merge](https://github.com/18-RAJAT/LEETCODE/tree/master/0721-accounts-merge) |
 | [0502-ipo](https://github.com/18-RAJAT/LEETCODE/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/18-RAJAT/LEETCODE/tree/master/0621-task-scheduler) |
 ## Hash Table
 |  |
 | ------- |
@@ -631,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0523-continuous-subarray-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0753-open-the-lock](https://github.com/18-RAJAT/LEETCODE/tree/master/0753-open-the-lock) |
 | [0721-accounts-merge](https://github.com/18-RAJAT/LEETCODE/tree/master/0721-accounts-merge) |
+| [0621-task-scheduler](https://github.com/18-RAJAT/LEETCODE/tree/master/0621-task-scheduler) |
 ## Tree
 |  |
 | ------- |
@@ -858,6 +862,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0239-sliding-window-maximum](https://github.com/18-RAJAT/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0023-merge-k-sorted-lists](https://github.com/18-RAJAT/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0502-ipo](https://github.com/18-RAJAT/LEETCODE/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/18-RAJAT/LEETCODE/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
 | ------- |
@@ -903,6 +908,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/18-RAJAT/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/18-RAJAT/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [0594-longest-harmonious-subsequence](https://github.com/18-RAJAT/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/18-RAJAT/LEETCODE/tree/master/0621-task-scheduler) |
 ## Dynamic Programming
 |  |
 | ------- |
