@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0721-accounts-merge](https://github.com/18-RAJAT/LEETCODE/tree/master/0721-accounts-merge) |
 | [0502-ipo](https://github.com/18-RAJAT/LEETCODE/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/18-RAJAT/LEETCODE/tree/master/0621-task-scheduler) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -635,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0753-open-the-lock](https://github.com/18-RAJAT/LEETCODE/tree/master/0753-open-the-lock) |
 | [0721-accounts-merge](https://github.com/18-RAJAT/LEETCODE/tree/master/0721-accounts-merge) |
 | [0621-task-scheduler](https://github.com/18-RAJAT/LEETCODE/tree/master/0621-task-scheduler) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -909,6 +911,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2140-longest-subsequence-repeated-k-times](https://github.com/18-RAJAT/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [0594-longest-harmonious-subsequence](https://github.com/18-RAJAT/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/18-RAJAT/LEETCODE/tree/master/0621-task-scheduler) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
