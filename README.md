@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1510-find-lucky-integer-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [0042-trapping-rain-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -641,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0621-task-scheduler](https://github.com/18-RAJAT/LEETCODE/tree/master/0621-task-scheduler) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -1213,6 +1215,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -1257,6 +1260,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/18-RAJAT/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
