@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0621-task-scheduler](https://github.com/18-RAJAT/LEETCODE/tree/master/0621-task-scheduler) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [0042-trapping-rain-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -639,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0721-accounts-merge](https://github.com/18-RAJAT/LEETCODE/tree/master/0721-accounts-merge) |
 | [0621-task-scheduler](https://github.com/18-RAJAT/LEETCODE/tree/master/0621-task-scheduler) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Tree
 |  |
 | ------- |
@@ -1119,6 +1121,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2434-design-a-number-container-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2434-design-a-number-container-system) |
 | [1477-product-of-the-last-k-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
