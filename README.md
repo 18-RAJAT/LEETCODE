@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0042-trapping-rain-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/18-RAJAT/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Simulation
 |  |
 | ------- |
@@ -497,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2140-longest-subsequence-repeated-k-times](https://github.com/18-RAJAT/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [0502-ipo](https://github.com/18-RAJAT/LEETCODE/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/18-RAJAT/LEETCODE/tree/master/0621-task-scheduler) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/18-RAJAT/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Sorting
 |  |
 | ------- |
@@ -548,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0721-accounts-merge](https://github.com/18-RAJAT/LEETCODE/tree/master/0721-accounts-merge) |
 | [0502-ipo](https://github.com/18-RAJAT/LEETCODE/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/18-RAJAT/LEETCODE/tree/master/0621-task-scheduler) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/18-RAJAT/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Hash Table
 |  |
 | ------- |
@@ -872,6 +875,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0023-merge-k-sorted-lists](https://github.com/18-RAJAT/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0502-ipo](https://github.com/18-RAJAT/LEETCODE/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/18-RAJAT/LEETCODE/tree/master/0621-task-scheduler) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/18-RAJAT/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Merge Sort
 |  |
 | ------- |
