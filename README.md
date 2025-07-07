@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/18-RAJAT/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [0472-concatenated-words](https://github.com/18-RAJAT/LEETCODE/tree/master/0472-concatenated-words) |
 ## Simulation
 |  |
 | ------- |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3617-find-the-original-typed-string-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3617-find-the-original-typed-string-i) |
 | [0721-accounts-merge](https://github.com/18-RAJAT/LEETCODE/tree/master/0721-accounts-merge) |
 | [3618-find-the-original-typed-string-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3618-find-the-original-typed-string-ii) |
+| [0472-concatenated-words](https://github.com/18-RAJAT/LEETCODE/tree/master/0472-concatenated-words) |
 ## Stack
 |  |
 | ------- |
@@ -732,6 +734,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0337-house-robber-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [0472-concatenated-words](https://github.com/18-RAJAT/LEETCODE/tree/master/0472-concatenated-words) |
 ## Two Pointers
 |  |
 | ------- |
@@ -970,6 +973,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3618-find-the-original-typed-string-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3618-find-the-original-typed-string-ii) |
 | [0337-house-robber-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/0337-house-robber-iii) |
 | [0042-trapping-rain-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0472-concatenated-words](https://github.com/18-RAJAT/LEETCODE/tree/master/0472-concatenated-words) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1265,6 +1269,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0472-concatenated-words](https://github.com/18-RAJAT/LEETCODE/tree/master/0472-concatenated-words) |
 ## Segment Tree
 |  |
 | ------- |
