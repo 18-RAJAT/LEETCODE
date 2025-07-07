@@ -1,62 +1,43 @@
-class Node {
-public:
-    bool word;
-    map<char,Node*>children;
-    Node():word(false) {};
+struct TrieNode
+{
+    TrieNode* child[26]={};
+    bool isEnd=false;
 };
-
-class Trie {
-public:
-    Node*root;
-    Trie() 
-    {
-        root=new Node();
-    }
+class Trie
+{
+    TrieNode* root;
+    public:
+    Trie(){root=new TrieNode();}
     
     void insert(string word) {
-        auto* cur=root;
-        for(auto c:word) 
+        TrieNode* cur=root;
+        for(char& it:word)
         {
-            auto& childMap=cur->children;
-            if (childMap.find(c)==childMap.end()) 
-            {
-                childMap[c]=new Node();
-            }
-            cur=childMap[c];
+            int i=it-'a';
+            if(!cur->child[i])cur->child[i]=new TrieNode();
+            cur=cur->child[i];
         }
-        cur->word=true;
+        cur->isEnd=true;
     }
-    
+
     bool search(string word) {
-        auto* cur=root;
-        for(auto c:word) 
+        TrieNode* cur=root;
+        for(char& it:word)
         {
-            auto& childMap=cur->children;
-            if(childMap.find(c)!=childMap.end()) 
-            {
-                cur=childMap[c];
-            } 
-            else 
-            {
-                return false;
-            }
+            int i=it-'a';
+            if(!cur->child[i])return false;
+            cur=cur->child[i];
         }
-        return cur->word;
+        return cur->isEnd;
     }
-    
+
     bool startsWith(string prefix) {
-        auto* cur=root;
-        for(auto c:prefix) 
+        TrieNode* cur=root;
+        for(char& it:prefix)
         {
-            auto& childMap=cur->children;
-            if (childMap.find(c)!=childMap.end()) 
-            {
-                cur=childMap[c];
-            } 
-            else 
-            {
-                return false;
-            }
+            int i=it-'a';
+            if(!cur->child[i])return false;
+            cur=cur->child[i];
         }
         return true;
     }
