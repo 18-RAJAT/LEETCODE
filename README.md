@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/18-RAJAT/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [0472-concatenated-words](https://github.com/18-RAJAT/LEETCODE/tree/master/0472-concatenated-words) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -554,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0502-ipo](https://github.com/18-RAJAT/LEETCODE/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/18-RAJAT/LEETCODE/tree/master/0621-task-scheduler) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/18-RAJAT/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -976,6 +978,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0337-house-robber-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/0337-house-robber-iii) |
 | [0042-trapping-rain-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0472-concatenated-words](https://github.com/18-RAJAT/LEETCODE/tree/master/0472-concatenated-words) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1054,6 +1057,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0907-koko-eating-bananas](https://github.com/18-RAJAT/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/18-RAJAT/LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/18-RAJAT/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Recursion
 |  |
 | ------- |
