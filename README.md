@@ -981,6 +981,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0042-trapping-rain-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0472-concatenated-words](https://github.com/18-RAJAT/LEETCODE/tree/master/0472-concatenated-words) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/18-RAJAT/LEETCODE/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1362,4 +1363,5 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/18-RAJAT/LEETCODE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/18-RAJAT/LEETCODE/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 <!---LeetCode Topics End-->
