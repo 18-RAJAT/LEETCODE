@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0472-concatenated-words](https://github.com/18-RAJAT/LEETCODE/tree/master/0472-concatenated-words) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/18-RAJAT/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Simulation
 |  |
 | ------- |
@@ -505,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0621-task-scheduler](https://github.com/18-RAJAT/LEETCODE/tree/master/0621-task-scheduler) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/18-RAJAT/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/18-RAJAT/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
@@ -558,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0621-task-scheduler](https://github.com/18-RAJAT/LEETCODE/tree/master/0621-task-scheduler) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/18-RAJAT/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/18-RAJAT/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
 | ------- |
@@ -772,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/18-RAJAT/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [0042-trapping-rain-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/18-RAJAT/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Matrix
 |  |
 | ------- |
