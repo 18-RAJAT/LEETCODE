@@ -320,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0523-continuous-subarray-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
 | ------- |
@@ -1249,6 +1250,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0432-all-oone-data-structure](https://github.com/18-RAJAT/LEETCODE/tree/master/0432-all-oone-data-structure) |
 | [0002-add-two-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/18-RAJAT/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Number Theory
 |  |
 | ------- |
