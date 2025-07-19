@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/18-RAJAT/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/18-RAJAT/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Simulation
 |  |
 | ------- |
@@ -429,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0472-concatenated-words](https://github.com/18-RAJAT/LEETCODE/tree/master/0472-concatenated-words) |
 | [0208-implement-trie-prefix-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [3396-valid-word](https://github.com/18-RAJAT/LEETCODE/tree/master/3396-valid-word) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/18-RAJAT/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Stack
 |  |
 | ------- |
@@ -748,6 +750,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0543-diameter-of-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [0472-concatenated-words](https://github.com/18-RAJAT/LEETCODE/tree/master/0472-concatenated-words) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/18-RAJAT/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1292,6 +1295,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0472-concatenated-words](https://github.com/18-RAJAT/LEETCODE/tree/master/0472-concatenated-words) |
 | [0208-implement-trie-prefix-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/18-RAJAT/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Segment Tree
 |  |
 | ------- |
