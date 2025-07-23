@@ -1,9 +1,10 @@
 class Solution {
 public:
-    pair<string, int> solve(bool handleAB, string s, int x) {
+    pair<string,int>recur(bool ok,string s,int x)
+    {
         stack<char>st;
         int chA='a',chB='b';
-        if(!handleAB)swap(chA,chB);
+        if(!ok)swap(chA,chB);
         int ans=0;
         for(auto& it:s)
         {
@@ -30,13 +31,13 @@ public:
         int ans=0;
         if(x>y)
         {
-            pair<string,int>p=solve(true,s,x);
-            ans+=p.second+solve(false,p.first,y).second;
+            pair<string,int>p=recur(true,s,x);
+            ans+=p.second+recur(false,p.first,y).second;
         }
         else
         {
-            pair<string,int>p=solve(false,s,y);
-            ans+=p.second+solve(true,p.first,x).second;
+            pair<string,int>p=recur(false,s,y);
+            ans+=p.second+recur(true,p.first,x).second;
         }
         return ans;
     }
