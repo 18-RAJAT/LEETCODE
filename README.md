@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/18-RAJAT/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2079-delete-duplicate-folders-in-system) |
 | [1813-maximum-erasure-value](https://github.com/18-RAJAT/LEETCODE/tree/master/1813-maximum-erasure-value) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -694,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0337-house-robber-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -756,6 +758,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [0472-concatenated-words](https://github.com/18-RAJAT/LEETCODE/tree/master/0472-concatenated-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/18-RAJAT/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1253,6 +1256,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Linked List
 |  |
 | ------- |
