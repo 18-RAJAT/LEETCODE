@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2079-delete-duplicate-folders-in-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2079-delete-duplicate-folders-in-system) |
 | [1813-maximum-erasure-value](https://github.com/18-RAJAT/LEETCODE/tree/master/1813-maximum-erasure-value) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Simulation
 |  |
 | ------- |
