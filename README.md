@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/18-RAJAT/LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/18-RAJAT/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Simulation
 |  |
 | ------- |
@@ -1262,6 +1263,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/18-RAJAT/LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/18-RAJAT/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Linked List
 |  |
 | ------- |
@@ -1381,6 +1383,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/18-RAJAT/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/18-RAJAT/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Combinatorics
 |  |
 | ------- |
