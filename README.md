@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/18-RAJAT/LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/18-RAJAT/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [0118-pascals-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/0118-pascals-triangle) |
 ## Simulation
 |  |
 | ------- |
@@ -1006,6 +1007,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/18-RAJAT/LEETCODE/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [0118-pascals-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/0118-pascals-triangle) |
 ## Shortest Path
 |  |
 | ------- |
