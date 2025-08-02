@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/18-RAJAT/LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/18-RAJAT/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [0118-pascals-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/0118-pascals-triangle) |
+| [2689-rearranging-fruits](https://github.com/18-RAJAT/LEETCODE/tree/master/2689-rearranging-fruits) |
 ## Simulation
 |  |
 | ------- |
@@ -521,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/18-RAJAT/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/18-RAJAT/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/18-RAJAT/LEETCODE/tree/master/2689-rearranging-fruits) |
 ## Sorting
 |  |
 | ------- |
@@ -575,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/18-RAJAT/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/18-RAJAT/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/18-RAJAT/LEETCODE/tree/master/2689-rearranging-fruits) |
 ## Hash Table
 |  |
 | ------- |
@@ -673,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0208-implement-trie-prefix-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2079-delete-duplicate-folders-in-system) |
 | [1813-maximum-erasure-value](https://github.com/18-RAJAT/LEETCODE/tree/master/1813-maximum-erasure-value) |
+| [2689-rearranging-fruits](https://github.com/18-RAJAT/LEETCODE/tree/master/2689-rearranging-fruits) |
 ## Tree
 |  |
 | ------- |
