@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/18-RAJAT/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [0118-pascals-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/0118-pascals-triangle) |
 | [2689-rearranging-fruits](https://github.com/18-RAJAT/LEETCODE/tree/master/2689-rearranging-fruits) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/18-RAJAT/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Simulation
 |  |
 | ------- |
@@ -1059,6 +1060,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0239-sliding-window-maximum](https://github.com/18-RAJAT/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [1813-maximum-erasure-value](https://github.com/18-RAJAT/LEETCODE/tree/master/1813-maximum-erasure-value) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/18-RAJAT/LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/18-RAJAT/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Binary Search
 |  |
 | ------- |
@@ -1094,6 +1096,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/18-RAJAT/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/18-RAJAT/LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/18-RAJAT/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Recursion
 |  |
 | ------- |
@@ -1235,6 +1238,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0525-contiguous-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0525-contiguous-array) |
 | [0523-continuous-subarray-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [3618-find-the-original-typed-string-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3618-find-the-original-typed-string-ii) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/18-RAJAT/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Game Theory
 |  |
 | ------- |
