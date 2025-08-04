@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0118-pascals-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/0118-pascals-triangle) |
 | [2689-rearranging-fruits](https://github.com/18-RAJAT/LEETCODE/tree/master/2689-rearranging-fruits) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/18-RAJAT/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [0940-fruit-into-baskets](https://github.com/18-RAJAT/LEETCODE/tree/master/0940-fruit-into-baskets) |
 ## Simulation
 |  |
 | ------- |
@@ -678,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2079-delete-duplicate-folders-in-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2079-delete-duplicate-folders-in-system) |
 | [1813-maximum-erasure-value](https://github.com/18-RAJAT/LEETCODE/tree/master/1813-maximum-erasure-value) |
 | [2689-rearranging-fruits](https://github.com/18-RAJAT/LEETCODE/tree/master/2689-rearranging-fruits) |
+| [0940-fruit-into-baskets](https://github.com/18-RAJAT/LEETCODE/tree/master/0940-fruit-into-baskets) |
 ## Tree
 |  |
 | ------- |
@@ -1061,6 +1063,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1813-maximum-erasure-value](https://github.com/18-RAJAT/LEETCODE/tree/master/1813-maximum-erasure-value) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/18-RAJAT/LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/18-RAJAT/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [0940-fruit-into-baskets](https://github.com/18-RAJAT/LEETCODE/tree/master/0940-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
