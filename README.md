@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2689-rearranging-fruits](https://github.com/18-RAJAT/LEETCODE/tree/master/2689-rearranging-fruits) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/18-RAJAT/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [0940-fruit-into-baskets](https://github.com/18-RAJAT/LEETCODE/tree/master/0940-fruit-into-baskets) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/18-RAJAT/LEETCODE/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Simulation
 |  |
 | ------- |
@@ -835,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0073-set-matrix-zeroes](https://github.com/18-RAJAT/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/18-RAJAT/LEETCODE/tree/master/0945-snakes-and-ladders) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/18-RAJAT/LEETCODE/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Graph
 |  |
 | ------- |
@@ -1015,6 +1017,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [0118-pascals-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/0118-pascals-triangle) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/18-RAJAT/LEETCODE/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Shortest Path
 |  |
 | ------- |
