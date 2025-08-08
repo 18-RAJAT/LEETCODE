@@ -335,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [0826-soup-servings](https://github.com/18-RAJAT/LEETCODE/tree/master/0826-soup-servings) |
 ## String
 |  |
 | ------- |
@@ -1018,6 +1019,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [0118-pascals-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/0118-pascals-triangle) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/18-RAJAT/LEETCODE/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [0826-soup-servings](https://github.com/18-RAJAT/LEETCODE/tree/master/0826-soup-servings) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1415,4 +1417,8 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/18-RAJAT/LEETCODE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/18-RAJAT/LEETCODE/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/18-RAJAT/LEETCODE/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
