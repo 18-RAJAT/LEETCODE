@@ -336,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [0826-soup-servings](https://github.com/18-RAJAT/LEETCODE/tree/master/0826-soup-servings) |
+| [0231-power-of-two](https://github.com/18-RAJAT/LEETCODE/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -1115,6 +1116,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2050-count-good-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [0231-power-of-two](https://github.com/18-RAJAT/LEETCODE/tree/master/0231-power-of-two) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1282,6 +1284,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/18-RAJAT/LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/18-RAJAT/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [0231-power-of-two](https://github.com/18-RAJAT/LEETCODE/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
