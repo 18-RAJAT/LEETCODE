@@ -337,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [0826-soup-servings](https://github.com/18-RAJAT/LEETCODE/tree/master/0826-soup-servings) |
 | [0231-power-of-two](https://github.com/18-RAJAT/LEETCODE/tree/master/0231-power-of-two) |
+| [0900-reordered-power-of-2](https://github.com/18-RAJAT/LEETCODE/tree/master/0900-reordered-power-of-2) |
 ## String
 |  |
 | ------- |
@@ -583,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/18-RAJAT/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/18-RAJAT/LEETCODE/tree/master/2689-rearranging-fruits) |
+| [0900-reordered-power-of-2](https://github.com/18-RAJAT/LEETCODE/tree/master/0900-reordered-power-of-2) |
 ## Hash Table
 |  |
 | ------- |
@@ -683,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1813-maximum-erasure-value](https://github.com/18-RAJAT/LEETCODE/tree/master/1813-maximum-erasure-value) |
 | [2689-rearranging-fruits](https://github.com/18-RAJAT/LEETCODE/tree/master/2689-rearranging-fruits) |
 | [0940-fruit-into-baskets](https://github.com/18-RAJAT/LEETCODE/tree/master/0940-fruit-into-baskets) |
+| [0900-reordered-power-of-2](https://github.com/18-RAJAT/LEETCODE/tree/master/0900-reordered-power-of-2) |
 ## Tree
 |  |
 | ------- |
@@ -966,6 +969,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0594-longest-harmonious-subsequence](https://github.com/18-RAJAT/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/18-RAJAT/LEETCODE/tree/master/0621-task-scheduler) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
+| [0900-reordered-power-of-2](https://github.com/18-RAJAT/LEETCODE/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1388,6 +1392,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2202-sum-of-k-mirror-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/18-RAJAT/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [0900-reordered-power-of-2](https://github.com/18-RAJAT/LEETCODE/tree/master/0900-reordered-power-of-2) |
 ## Monotonic Queue
 |  |
 | ------- |
