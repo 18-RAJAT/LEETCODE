@@ -338,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0826-soup-servings](https://github.com/18-RAJAT/LEETCODE/tree/master/0826-soup-servings) |
 | [0231-power-of-two](https://github.com/18-RAJAT/LEETCODE/tree/master/0231-power-of-two) |
 | [0900-reordered-power-of-2](https://github.com/18-RAJAT/LEETCODE/tree/master/0900-reordered-power-of-2) |
+| [0326-power-of-three](https://github.com/18-RAJAT/LEETCODE/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
@@ -1121,6 +1122,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [0231-power-of-two](https://github.com/18-RAJAT/LEETCODE/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/18-RAJAT/LEETCODE/tree/master/0326-power-of-three) |
 ## Breadth-First Search
 |  |
 | ------- |
