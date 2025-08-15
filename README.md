@@ -339,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0231-power-of-two](https://github.com/18-RAJAT/LEETCODE/tree/master/0231-power-of-two) |
 | [0900-reordered-power-of-2](https://github.com/18-RAJAT/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [0326-power-of-three](https://github.com/18-RAJAT/LEETCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/18-RAJAT/LEETCODE/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -1123,6 +1124,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [0231-power-of-two](https://github.com/18-RAJAT/LEETCODE/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/18-RAJAT/LEETCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/18-RAJAT/LEETCODE/tree/master/0342-power-of-four) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1291,6 +1293,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/18-RAJAT/LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/18-RAJAT/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [0231-power-of-two](https://github.com/18-RAJAT/LEETCODE/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/18-RAJAT/LEETCODE/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
