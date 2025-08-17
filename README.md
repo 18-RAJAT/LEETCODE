@@ -341,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0326-power-of-three](https://github.com/18-RAJAT/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/18-RAJAT/LEETCODE/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/18-RAJAT/LEETCODE/tree/master/1448-maximum-69-number) |
+| [0867-new-21-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0867-new-21-game) |
 ## String
 |  |
 | ------- |
@@ -1029,6 +1030,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0118-pascals-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/0118-pascals-triangle) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/18-RAJAT/LEETCODE/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [0826-soup-servings](https://github.com/18-RAJAT/LEETCODE/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0867-new-21-game) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1078,6 +1080,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/18-RAJAT/LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/18-RAJAT/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [0940-fruit-into-baskets](https://github.com/18-RAJAT/LEETCODE/tree/master/0940-fruit-into-baskets) |
+| [0867-new-21-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0867-new-21-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -1436,4 +1439,5 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/18-RAJAT/LEETCODE/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
