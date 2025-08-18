@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/18-RAJAT/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [0940-fruit-into-baskets](https://github.com/18-RAJAT/LEETCODE/tree/master/0940-fruit-into-baskets) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/18-RAJAT/LEETCODE/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [0679-24-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0679-24-game) |
 ## Simulation
 |  |
 | ------- |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0342-power-of-four](https://github.com/18-RAJAT/LEETCODE/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/18-RAJAT/LEETCODE/tree/master/1448-maximum-69-number) |
 | [0867-new-21-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0867-new-21-game) |
+| [0679-24-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0679-24-game) |
 ## String
 |  |
 | ------- |
@@ -1228,6 +1230,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1993-sum-of-all-subset-xor-totals](https://github.com/18-RAJAT/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/18-RAJAT/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [0679-24-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0679-24-game) |
 ## Prefix Sum
 |  |
 | ------- |
