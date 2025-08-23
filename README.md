@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/18-RAJAT/LEETCODE/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [0679-24-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0679-24-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -851,6 +852,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0945-snakes-and-ladders](https://github.com/18-RAJAT/LEETCODE/tree/master/0945-snakes-and-ladders) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/18-RAJAT/LEETCODE/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Graph
 |  |
 | ------- |
@@ -1408,6 +1410,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2140-longest-subsequence-repeated-k-times](https://github.com/18-RAJAT/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [0900-reordered-power-of-2](https://github.com/18-RAJAT/LEETCODE/tree/master/0900-reordered-power-of-2) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
