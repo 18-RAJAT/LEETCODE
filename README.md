@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0679-24-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0679-24-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [0498-diagonal-traverse](https://github.com/18-RAJAT/LEETCODE/tree/master/0498-diagonal-traverse) |
 ## Simulation
 |  |
 | ------- |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2048-build-array-from-permutation](https://github.com/18-RAJAT/LEETCODE/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [0498-diagonal-traverse](https://github.com/18-RAJAT/LEETCODE/tree/master/0498-diagonal-traverse) |
 ## Math
 |  |
 | ------- |
@@ -853,6 +855,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1171-shortest-path-in-binary-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/18-RAJAT/LEETCODE/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [0498-diagonal-traverse](https://github.com/18-RAJAT/LEETCODE/tree/master/0498-diagonal-traverse) |
 ## Graph
 |  |
 | ------- |
