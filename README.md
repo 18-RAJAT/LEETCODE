@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2432-number-of-zero-filled-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [0498-diagonal-traverse](https://github.com/18-RAJAT/LEETCODE/tree/master/0498-diagonal-traverse) |
+| [3748-sort-matrix-by-diagonals](https://github.com/18-RAJAT/LEETCODE/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
 |  |
 | ------- |
@@ -597,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/18-RAJAT/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/18-RAJAT/LEETCODE/tree/master/2689-rearranging-fruits) |
 | [0900-reordered-power-of-2](https://github.com/18-RAJAT/LEETCODE/tree/master/0900-reordered-power-of-2) |
+| [3748-sort-matrix-by-diagonals](https://github.com/18-RAJAT/LEETCODE/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
 | ------- |
@@ -856,6 +858,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/18-RAJAT/LEETCODE/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [0498-diagonal-traverse](https://github.com/18-RAJAT/LEETCODE/tree/master/0498-diagonal-traverse) |
+| [3748-sort-matrix-by-diagonals](https://github.com/18-RAJAT/LEETCODE/tree/master/3748-sort-matrix-by-diagonals) |
 ## Graph
 |  |
 | ------- |
