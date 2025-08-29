@@ -350,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0867-new-21-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0867-new-21-game) |
 | [0679-24-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0679-24-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/18-RAJAT/LEETCODE/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## String
 |  |
 | ------- |
