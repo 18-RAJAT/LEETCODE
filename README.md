@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3748-sort-matrix-by-diagonals](https://github.com/18-RAJAT/LEETCODE/tree/master/3748-sort-matrix-by-diagonals) |
 | [0036-valid-sudoku](https://github.com/18-RAJAT/LEETCODE/tree/master/0036-valid-sudoku) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2432-number-of-zero-filled-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/18-RAJAT/LEETCODE/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## String
 |  |
 | ------- |
@@ -604,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0900-reordered-power-of-2](https://github.com/18-RAJAT/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [3748-sort-matrix-by-diagonals](https://github.com/18-RAJAT/LEETCODE/tree/master/3748-sort-matrix-by-diagonals) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -1425,6 +1428,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0900-reordered-power-of-2](https://github.com/18-RAJAT/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1466,4 +1470,5 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 <!---LeetCode Topics End-->
