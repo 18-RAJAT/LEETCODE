@@ -356,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3279-alice-and-bob-playing-flower-game](https://github.com/18-RAJAT/LEETCODE/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3830-find-closest-person](https://github.com/18-RAJAT/LEETCODE/tree/master/3830-find-closest-person) |
 ## String
 |  |
 | ------- |
