@@ -1323,6 +1323,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/18-RAJAT/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [0231-power-of-two](https://github.com/18-RAJAT/LEETCODE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/18-RAJAT/LEETCODE/tree/master/0342-power-of-four) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Linked List
 |  |
 | ------- |
@@ -1430,6 +1431,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1447,6 +1449,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/18-RAJAT/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/18-RAJAT/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Combinatorics
 |  |
 | ------- |
