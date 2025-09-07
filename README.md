@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0036-valid-sudoku](https://github.com/18-RAJAT/LEETCODE/tree/master/0036-valid-sudoku) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -357,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3830-find-closest-person](https://github.com/18-RAJAT/LEETCODE/tree/master/3830-find-closest-person) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## String
 |  |
 | ------- |
