@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3830-find-closest-person](https://github.com/18-RAJAT/LEETCODE/tree/master/3830-find-closest-person) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/18-RAJAT/LEETCODE/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## String
 |  |
 | ------- |
