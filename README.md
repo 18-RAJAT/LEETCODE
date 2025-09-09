@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [0498-diagonal-traverse](https://github.com/18-RAJAT/LEETCODE/tree/master/0498-diagonal-traverse) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/18-RAJAT/LEETCODE/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Math
 |  |
 | ------- |
@@ -1057,6 +1058,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/18-RAJAT/LEETCODE/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [0826-soup-servings](https://github.com/18-RAJAT/LEETCODE/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0867-new-21-game) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/18-RAJAT/LEETCODE/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1401,6 +1403,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/18-RAJAT/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/18-RAJAT/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [0239-sliding-window-maximum](https://github.com/18-RAJAT/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/18-RAJAT/LEETCODE/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Doubly-Linked List
 |  |
 | ------- |
