@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/18-RAJAT/LEETCODE/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Simulation
 |  |
 | ------- |
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/18-RAJAT/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/18-RAJAT/LEETCODE/tree/master/2689-rearranging-fruits) |
 | [1448-maximum-69-number](https://github.com/18-RAJAT/LEETCODE/tree/master/1448-maximum-69-number) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/18-RAJAT/LEETCODE/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Sorting
 |  |
 | ------- |
@@ -714,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0940-fruit-into-baskets](https://github.com/18-RAJAT/LEETCODE/tree/master/0940-fruit-into-baskets) |
 | [0900-reordered-power-of-2](https://github.com/18-RAJAT/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [0036-valid-sudoku](https://github.com/18-RAJAT/LEETCODE/tree/master/0036-valid-sudoku) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/18-RAJAT/LEETCODE/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Tree
 |  |
 | ------- |
