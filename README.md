@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/18-RAJAT/LEETCODE/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1006-vowel-spellchecker](https://github.com/18-RAJAT/LEETCODE/tree/master/1006-vowel-spellchecker) |
 ## Simulation
 |  |
 | ------- |
@@ -471,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/18-RAJAT/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
+| [1006-vowel-spellchecker](https://github.com/18-RAJAT/LEETCODE/tree/master/1006-vowel-spellchecker) |
 ## Stack
 |  |
 | ------- |
@@ -719,6 +721,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0900-reordered-power-of-2](https://github.com/18-RAJAT/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [0036-valid-sudoku](https://github.com/18-RAJAT/LEETCODE/tree/master/0036-valid-sudoku) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/18-RAJAT/LEETCODE/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1006-vowel-spellchecker](https://github.com/18-RAJAT/LEETCODE/tree/master/1006-vowel-spellchecker) |
 ## Tree
 |  |
 | ------- |
