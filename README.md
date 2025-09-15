@@ -473,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2079-delete-duplicate-folders-in-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 | [1006-vowel-spellchecker](https://github.com/18-RAJAT/LEETCODE/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/18-RAJAT/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Stack
 |  |
 | ------- |
@@ -722,6 +723,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0036-valid-sudoku](https://github.com/18-RAJAT/LEETCODE/tree/master/0036-valid-sudoku) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/18-RAJAT/LEETCODE/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1006-vowel-spellchecker](https://github.com/18-RAJAT/LEETCODE/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/18-RAJAT/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Tree
 |  |
 | ------- |
