@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/18-RAJAT/LEETCODE/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1006-vowel-spellchecker](https://github.com/18-RAJAT/LEETCODE/tree/master/1006-vowel-spellchecker) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Simulation
 |  |
 | ------- |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3830-find-closest-person](https://github.com/18-RAJAT/LEETCODE/tree/master/3830-find-closest-person) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/18-RAJAT/LEETCODE/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## String
 |  |
 | ------- |
@@ -504,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0739-daily-temperatures](https://github.com/18-RAJAT/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0503-next-greater-element-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0042-trapping-rain-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -1357,6 +1360,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/18-RAJAT/LEETCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2610-closest-prime-numbers-in-range](https://github.com/18-RAJAT/LEETCODE/tree/master/2610-closest-prime-numbers-in-range) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Rolling Hash
 |  |
 | ------- |
