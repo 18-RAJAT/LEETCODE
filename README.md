@@ -727,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1834-minimum-number-of-people-to-teach](https://github.com/18-RAJAT/LEETCODE/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1006-vowel-spellchecker](https://github.com/18-RAJAT/LEETCODE/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/18-RAJAT/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [3678-design-task-manager](https://github.com/18-RAJAT/LEETCODE/tree/master/3678-design-task-manager) |
 ## Tree
 |  |
 | ------- |
@@ -967,6 +968,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0502-ipo](https://github.com/18-RAJAT/LEETCODE/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/18-RAJAT/LEETCODE/tree/master/0621-task-scheduler) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/18-RAJAT/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [3678-design-task-manager](https://github.com/18-RAJAT/LEETCODE/tree/master/3678-design-task-manager) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1242,6 +1244,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [0208-implement-trie-prefix-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [3678-design-task-manager](https://github.com/18-RAJAT/LEETCODE/tree/master/3678-design-task-manager) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1407,6 +1410,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2868-continuous-subarrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2868-continuous-subarrays) |
 | [2434-design-a-number-container-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2434-design-a-number-container-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
+| [3678-design-task-manager](https://github.com/18-RAJAT/LEETCODE/tree/master/3678-design-task-manager) |
 ## Queue
 |  |
 | ------- |
