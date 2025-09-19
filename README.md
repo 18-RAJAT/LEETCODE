@@ -271,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1834-minimum-number-of-people-to-teach](https://github.com/18-RAJAT/LEETCODE/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1006-vowel-spellchecker](https://github.com/18-RAJAT/LEETCODE/tree/master/1006-vowel-spellchecker) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3797-design-spreadsheet](https://github.com/18-RAJAT/LEETCODE/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
 | ------- |
@@ -476,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2887-sort-vowels-in-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 | [1006-vowel-spellchecker](https://github.com/18-RAJAT/LEETCODE/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/18-RAJAT/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [3797-design-spreadsheet](https://github.com/18-RAJAT/LEETCODE/tree/master/3797-design-spreadsheet) |
 ## Stack
 |  |
 | ------- |
@@ -728,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1006-vowel-spellchecker](https://github.com/18-RAJAT/LEETCODE/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/18-RAJAT/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3678-design-task-manager](https://github.com/18-RAJAT/LEETCODE/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/18-RAJAT/LEETCODE/tree/master/3797-design-spreadsheet) |
 ## Tree
 |  |
 | ------- |
@@ -888,6 +891,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0498-diagonal-traverse](https://github.com/18-RAJAT/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [3748-sort-matrix-by-diagonals](https://github.com/18-RAJAT/LEETCODE/tree/master/3748-sort-matrix-by-diagonals) |
 | [0036-valid-sudoku](https://github.com/18-RAJAT/LEETCODE/tree/master/0036-valid-sudoku) |
+| [3797-design-spreadsheet](https://github.com/18-RAJAT/LEETCODE/tree/master/3797-design-spreadsheet) |
 ## Graph
 |  |
 | ------- |
@@ -1245,6 +1249,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [0208-implement-trie-prefix-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [3678-design-task-manager](https://github.com/18-RAJAT/LEETCODE/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/18-RAJAT/LEETCODE/tree/master/3797-design-spreadsheet) |
 ## Binary Search Tree
 |  |
 | ------- |
