@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1006-vowel-spellchecker](https://github.com/18-RAJAT/LEETCODE/tree/master/1006-vowel-spellchecker) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3797-design-spreadsheet](https://github.com/18-RAJAT/LEETCODE/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/18-RAJAT/LEETCODE/tree/master/3827-implement-router) |
 ## Simulation
 |  |
 | ------- |
@@ -731,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1264-maximum-number-of-words-you-can-type](https://github.com/18-RAJAT/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3678-design-task-manager](https://github.com/18-RAJAT/LEETCODE/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/18-RAJAT/LEETCODE/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/18-RAJAT/LEETCODE/tree/master/3827-implement-router) |
 ## Tree
 |  |
 | ------- |
@@ -1164,6 +1166,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/18-RAJAT/LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/18-RAJAT/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3827-implement-router](https://github.com/18-RAJAT/LEETCODE/tree/master/3827-implement-router) |
 ## Recursion
 |  |
 | ------- |
@@ -1250,6 +1253,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0208-implement-trie-prefix-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [3678-design-task-manager](https://github.com/18-RAJAT/LEETCODE/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/18-RAJAT/LEETCODE/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/18-RAJAT/LEETCODE/tree/master/3827-implement-router) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1416,6 +1420,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2434-design-a-number-container-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2434-design-a-number-container-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [3678-design-task-manager](https://github.com/18-RAJAT/LEETCODE/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/18-RAJAT/LEETCODE/tree/master/3827-implement-router) |
 ## Queue
 |  |
 | ------- |
@@ -1427,6 +1432,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/18-RAJAT/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [0239-sliding-window-maximum](https://github.com/18-RAJAT/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/18-RAJAT/LEETCODE/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/18-RAJAT/LEETCODE/tree/master/3827-implement-router) |
 ## Doubly-Linked List
 |  |
 | ------- |
