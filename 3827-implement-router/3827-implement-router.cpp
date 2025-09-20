@@ -51,7 +51,7 @@ public:
         destFreq[destination].insert({timestamp,p.id});
         return true;
     }
-    vector<int> forwardPacket()
+    vector<int>forwardPacket()
     {
         if(q.empty())return {};
         Packet p=q.front(); q.pop();
