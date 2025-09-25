@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3797-design-spreadsheet](https://github.com/18-RAJAT/LEETCODE/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/18-RAJAT/LEETCODE/tree/master/3827-implement-router) |
 | [2023-design-movie-rental-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2023-design-movie-rental-system) |
+| [0120-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/0120-triangle) |
 ## Simulation
 |  |
 | ------- |
@@ -1086,6 +1087,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0826-soup-servings](https://github.com/18-RAJAT/LEETCODE/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0867-new-21-game) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/18-RAJAT/LEETCODE/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [0120-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/0120-triangle) |
 ## Shortest Path
 |  |
 | ------- |
