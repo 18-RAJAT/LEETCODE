@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3827-implement-router](https://github.com/18-RAJAT/LEETCODE/tree/master/3827-implement-router) |
 | [2023-design-movie-rental-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2023-design-movie-rental-system) |
 | [0120-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/0120-triangle) |
+| [0830-largest-triangle-area](https://github.com/18-RAJAT/LEETCODE/tree/master/0830-largest-triangle-area) |
 ## Simulation
 |  |
 | ------- |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/18-RAJAT/LEETCODE/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [0166-fraction-to-recurring-decimal](https://github.com/18-RAJAT/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
+| [0830-largest-triangle-area](https://github.com/18-RAJAT/LEETCODE/tree/master/0830-largest-triangle-area) |
 ## String
 |  |
 | ------- |
@@ -1520,4 +1522,5 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [0830-largest-triangle-area](https://github.com/18-RAJAT/LEETCODE/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
