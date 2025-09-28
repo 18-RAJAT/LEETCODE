@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2023-design-movie-rental-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2023-design-movie-rental-system) |
 | [0120-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/0120-triangle) |
 | [0830-largest-triangle-area](https://github.com/18-RAJAT/LEETCODE/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 ## Simulation
 |  |
 | ------- |
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [0166-fraction-to-recurring-decimal](https://github.com/18-RAJAT/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/18-RAJAT/LEETCODE/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 ## String
 |  |
 | ------- |
@@ -571,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2689-rearranging-fruits](https://github.com/18-RAJAT/LEETCODE/tree/master/2689-rearranging-fruits) |
 | [1448-maximum-69-number](https://github.com/18-RAJAT/LEETCODE/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/18-RAJAT/LEETCODE/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1018-largest-perimeter-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 ## Sorting
 |  |
 | ------- |
@@ -631,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
+| [1018-largest-perimeter-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 ## Hash Table
 |  |
 | ------- |
