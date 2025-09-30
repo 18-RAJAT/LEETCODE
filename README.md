@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0830-largest-triangle-area](https://github.com/18-RAJAT/LEETCODE/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/18-RAJAT/LEETCODE/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [0498-diagonal-traverse](https://github.com/18-RAJAT/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/18-RAJAT/LEETCODE/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Math
 |  |
 | ------- |
@@ -375,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0166-fraction-to-recurring-decimal](https://github.com/18-RAJAT/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/18-RAJAT/LEETCODE/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -1512,6 +1515,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3637-count-number-of-balanced-permutations](https://github.com/18-RAJAT/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 | [3201-distribute-candies-among-children-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3201-distribute-candies-among-children-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/18-RAJAT/LEETCODE/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Memoization
 |  |
 | ------- |
