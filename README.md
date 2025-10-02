@@ -308,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0498-diagonal-traverse](https://github.com/18-RAJAT/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/18-RAJAT/LEETCODE/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3336-water-bottles-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3336-water-bottles-ii) |
 ## Math
 |  |
 | ------- |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0830-largest-triangle-area](https://github.com/18-RAJAT/LEETCODE/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3336-water-bottles-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3336-water-bottles-ii) |
 ## String
 |  |
 | ------- |
