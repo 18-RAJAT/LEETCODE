@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/18-RAJAT/LEETCODE/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [0417-pacific-atlantic-water-flow](https://github.com/18-RAJAT/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0794-swim-in-rising-water) |
 ## Simulation
 |  |
 | ------- |
@@ -843,6 +844,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/18-RAJAT/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/18-RAJAT/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0794-swim-in-rising-water) |
 ## Two Pointers
 |  |
 | ------- |
@@ -915,6 +917,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0036-valid-sudoku](https://github.com/18-RAJAT/LEETCODE/tree/master/0036-valid-sudoku) |
 | [3797-design-spreadsheet](https://github.com/18-RAJAT/LEETCODE/tree/master/3797-design-spreadsheet) |
 | [0417-pacific-atlantic-water-flow](https://github.com/18-RAJAT/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0794-swim-in-rising-water) |
 ## Graph
 |  |
 | ------- |
@@ -997,6 +1000,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/18-RAJAT/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3678-design-task-manager](https://github.com/18-RAJAT/LEETCODE/tree/master/3678-design-task-manager) |
 | [2023-design-movie-rental-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2023-design-movie-rental-system) |
+| [0794-swim-in-rising-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0794-swim-in-rising-water) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1191,6 +1195,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/18-RAJAT/LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/18-RAJAT/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3827-implement-router](https://github.com/18-RAJAT/LEETCODE/tree/master/3827-implement-router) |
+| [0794-swim-in-rising-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0794-swim-in-rising-water) |
 ## Recursion
 |  |
 | ------- |
@@ -1241,6 +1246,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0207-course-schedule](https://github.com/18-RAJAT/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/18-RAJAT/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0794-swim-in-rising-water) |
 ## Union Find
 |  |
 | ------- |
@@ -1259,6 +1265,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [0547-number-of-provinces](https://github.com/18-RAJAT/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/18-RAJAT/LEETCODE/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0794-swim-in-rising-water) |
 ## Strongly Connected Component
 |  |
 | ------- |
