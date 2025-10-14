@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/18-RAJAT/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/18-RAJAT/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/18-RAJAT/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Simulation
 |  |
 | ------- |
