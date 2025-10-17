@@ -502,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1264-maximum-number-of-words-you-can-type](https://github.com/18-RAJAT/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3797-design-spreadsheet](https://github.com/18-RAJAT/LEETCODE/tree/master/3797-design-spreadsheet) |
 | [0166-fraction-to-recurring-decimal](https://github.com/18-RAJAT/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Stack
 |  |
 | ------- |
@@ -1118,6 +1119,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0120-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/0120-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/18-RAJAT/LEETCODE/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/18-RAJAT/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1401,6 +1403,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0342-power-of-four](https://github.com/18-RAJAT/LEETCODE/tree/master/0342-power-of-four) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/18-RAJAT/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -1565,4 +1568,5 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/18-RAJAT/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
