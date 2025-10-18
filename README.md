@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/18-RAJAT/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/18-RAJAT/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -590,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1448-maximum-69-number](https://github.com/18-RAJAT/LEETCODE/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/18-RAJAT/LEETCODE/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1018-largest-perimeter-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -652,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2887-sort-vowels-in-a-string](https://github.com/18-RAJAT/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 | [1018-largest-perimeter-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/18-RAJAT/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Hash Table
 |  |
 | ------- |
