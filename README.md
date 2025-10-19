@@ -504,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3797-design-spreadsheet](https://github.com/18-RAJAT/LEETCODE/tree/master/3797-design-spreadsheet) |
 | [0166-fraction-to-recurring-decimal](https://github.com/18-RAJAT/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Stack
 |  |
 | ------- |
@@ -857,6 +858,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/18-RAJAT/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0794-swim-in-rising-water) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1263,6 +1265,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0210-course-schedule-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/18-RAJAT/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0794-swim-in-rising-water) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Union Find
 |  |
 | ------- |
@@ -1521,6 +1524,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
