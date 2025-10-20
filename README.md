@@ -287,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/18-RAJAT/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2324-find-triangular-sum-of-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3336-water-bottles-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/18-RAJAT/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
 | ------- |
@@ -505,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0166-fraction-to-recurring-decimal](https://github.com/18-RAJAT/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Stack
 |  |
 | ------- |
