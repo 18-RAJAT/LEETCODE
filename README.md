@@ -289,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -661,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/18-RAJAT/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -1181,6 +1183,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0940-fruit-into-baskets](https://github.com/18-RAJAT/LEETCODE/tree/master/0940-fruit-into-baskets) |
 | [0867-new-21-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0867-new-21-game) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -1221,6 +1224,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0794-swim-in-rising-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/18-RAJAT/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -1378,6 +1382,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/18-RAJAT/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/18-RAJAT/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Game Theory
 |  |
 | ------- |
