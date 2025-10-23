@@ -322,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3336-water-bottles-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3336-water-bottles-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/18-RAJAT/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -394,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2324-find-triangular-sum-of-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3336-water-bottles-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/18-RAJAT/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
 | ------- |
@@ -510,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -1442,6 +1445,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2610-closest-prime-numbers-in-range](https://github.com/18-RAJAT/LEETCODE/tree/master/2610-closest-prime-numbers-in-range) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1567,6 +1571,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/18-RAJAT/LEETCODE/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/18-RAJAT/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Memoization
 |  |
 | ------- |
