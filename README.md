@@ -396,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3336-water-bottles-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3336-water-bottles-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/18-RAJAT/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/18-RAJAT/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 ## String
 |  |
 | ------- |
@@ -776,6 +777,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3827-implement-router](https://github.com/18-RAJAT/LEETCODE/tree/master/3827-implement-router) |
 | [2023-design-movie-rental-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2023-design-movie-rental-system) |
 | [0166-fraction-to-recurring-decimal](https://github.com/18-RAJAT/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/18-RAJAT/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Tree
 |  |
 | ------- |
@@ -1074,6 +1076,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0621-task-scheduler](https://github.com/18-RAJAT/LEETCODE/tree/master/0621-task-scheduler) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [0900-reordered-power-of-2](https://github.com/18-RAJAT/LEETCODE/tree/master/0900-reordered-power-of-2) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/18-RAJAT/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1348,6 +1351,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2140-longest-subsequence-repeated-k-times](https://github.com/18-RAJAT/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [0679-24-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0679-24-game) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/18-RAJAT/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1542,6 +1546,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/18-RAJAT/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Monotonic Queue
 |  |
 | ------- |
