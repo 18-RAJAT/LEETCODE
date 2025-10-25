@@ -397,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/18-RAJAT/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/18-RAJAT/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/18-RAJAT/LEETCODE/tree/master/1817-calculate-money-in-leetcode-bank) |
 ## String
 |  |
 | ------- |
