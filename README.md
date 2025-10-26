@@ -290,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [2169-simple-bank-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2169-simple-bank-system) |
 ## Simulation
 |  |
 | ------- |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/18-RAJAT/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [2169-simple-bank-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2169-simple-bank-system) |
 ## Math
 |  |
 | ------- |
@@ -779,6 +781,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2023-design-movie-rental-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2023-design-movie-rental-system) |
 | [0166-fraction-to-recurring-decimal](https://github.com/18-RAJAT/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/18-RAJAT/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2169-simple-bank-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2169-simple-bank-system) |
 ## Tree
 |  |
 | ------- |
@@ -1324,6 +1327,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3797-design-spreadsheet](https://github.com/18-RAJAT/LEETCODE/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/18-RAJAT/LEETCODE/tree/master/3827-implement-router) |
 | [2023-design-movie-rental-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2169-simple-bank-system) |
 ## Binary Search Tree
 |  |
 | ------- |
