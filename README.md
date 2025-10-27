@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [2169-simple-bank-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2169-simple-bank-system) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/18-RAJAT/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Simulation
 |  |
 | ------- |
@@ -400,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/18-RAJAT/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/18-RAJAT/LEETCODE/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/18-RAJAT/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## String
 |  |
 | ------- |
@@ -517,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/18-RAJAT/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Stack
 |  |
 | ------- |
@@ -949,6 +952,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3797-design-spreadsheet](https://github.com/18-RAJAT/LEETCODE/tree/master/3797-design-spreadsheet) |
 | [0417-pacific-atlantic-water-flow](https://github.com/18-RAJAT/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0794-swim-in-rising-water) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/18-RAJAT/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Graph
 |  |
 | ------- |
