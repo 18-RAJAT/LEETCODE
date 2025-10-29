@@ -404,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2174-next-greater-numerically-balanced-number](https://github.com/18-RAJAT/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/18-RAJAT/LEETCODE/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/18-RAJAT/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/18-RAJAT/LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
 |  |
 | ------- |
@@ -1442,6 +1443,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/18-RAJAT/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/18-RAJAT/LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Linked List
 |  |
 | ------- |
