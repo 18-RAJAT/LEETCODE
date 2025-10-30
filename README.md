@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2169-simple-bank-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/18-RAJAT/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/3616-make-array-elements-equal-to-zero) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Simulation
 |  |
 | ------- |
@@ -554,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0503-next-greater-element-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0042-trapping-rain-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Greedy
 |  |
 | ------- |
@@ -611,6 +613,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1834-minimum-number-of-people-to-teach](https://github.com/18-RAJAT/LEETCODE/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1018-largest-perimeter-triangle](https://github.com/18-RAJAT/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Sorting
 |  |
 | ------- |
@@ -1149,6 +1152,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/18-RAJAT/LEETCODE/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/18-RAJAT/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1540,6 +1544,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0739-daily-temperatures](https://github.com/18-RAJAT/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0503-next-greater-element-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0042-trapping-rain-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Enumeration
 |  |
 | ------- |
