@@ -294,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/18-RAJAT/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/3616-make-array-elements-equal-to-zero) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/18-RAJAT/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Simulation
 |  |
 | ------- |
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1817-calculate-money-in-leetcode-bank](https://github.com/18-RAJAT/LEETCODE/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/18-RAJAT/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/18-RAJAT/LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/18-RAJAT/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
@@ -791,6 +793,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0166-fraction-to-recurring-decimal](https://github.com/18-RAJAT/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/18-RAJAT/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2169-simple-bank-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2169-simple-bank-system) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/18-RAJAT/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Tree
 |  |
 | ------- |
