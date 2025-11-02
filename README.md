@@ -296,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/18-RAJAT/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [2169-simple-bank-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2169-simple-bank-system) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/3616-make-array-elements-equal-to-zero) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Math
 |  |
 | ------- |
@@ -964,6 +966,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0417-pacific-atlantic-water-flow](https://github.com/18-RAJAT/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/18-RAJAT/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Graph
 |  |
 | ------- |
