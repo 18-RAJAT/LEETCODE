@@ -299,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/18-RAJAT/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -803,6 +804,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/18-RAJAT/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Tree
 |  |
 | ------- |
@@ -1056,6 +1058,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2023-design-movie-rental-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2023-design-movie-rental-system) |
 | [0794-swim-in-rising-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1221,6 +1224,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Binary Search
 |  |
 | ------- |
