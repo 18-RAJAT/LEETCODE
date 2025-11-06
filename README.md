@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/18-RAJAT/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3863-power-grid-maintenance](https://github.com/18-RAJAT/LEETCODE/tree/master/3863-power-grid-maintenance) |
 ## Simulation
 |  |
 | ------- |
@@ -805,6 +806,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3863-power-grid-maintenance](https://github.com/18-RAJAT/LEETCODE/tree/master/3863-power-grid-maintenance) |
 ## Tree
 |  |
 | ------- |
@@ -898,6 +900,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0417-pacific-atlantic-water-flow](https://github.com/18-RAJAT/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/18-RAJAT/LEETCODE/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1002,6 +1005,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0547-number-of-provinces](https://github.com/18-RAJAT/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0207-course-schedule](https://github.com/18-RAJAT/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0210-course-schedule-ii) |
+| [3863-power-grid-maintenance](https://github.com/18-RAJAT/LEETCODE/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1059,6 +1063,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0794-swim-in-rising-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3863-power-grid-maintenance](https://github.com/18-RAJAT/LEETCODE/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1318,6 +1323,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0417-pacific-atlantic-water-flow](https://github.com/18-RAJAT/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/18-RAJAT/LEETCODE/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
@@ -1337,6 +1343,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0547-number-of-provinces](https://github.com/18-RAJAT/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/18-RAJAT/LEETCODE/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/18-RAJAT/LEETCODE/tree/master/3863-power-grid-maintenance) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -1538,6 +1545,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3678-design-task-manager](https://github.com/18-RAJAT/LEETCODE/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/18-RAJAT/LEETCODE/tree/master/3827-implement-router) |
 | [2023-design-movie-rental-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2023-design-movie-rental-system) |
+| [3863-power-grid-maintenance](https://github.com/18-RAJAT/LEETCODE/tree/master/3863-power-grid-maintenance) |
 ## Queue
 |  |
 | ------- |
