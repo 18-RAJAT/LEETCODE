@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3863-power-grid-maintenance](https://github.com/18-RAJAT/LEETCODE/tree/master/3863-power-grid-maintenance) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/18-RAJAT/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Simulation
 |  |
 | ------- |
@@ -625,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/18-RAJAT/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/18-RAJAT/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Sorting
 |  |
 | ------- |
@@ -1230,6 +1232,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/18-RAJAT/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Binary Search
 |  |
 | ------- |
@@ -1271,6 +1274,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/18-RAJAT/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/18-RAJAT/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Recursion
 |  |
 | ------- |
@@ -1434,6 +1438,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/3616-make-array-elements-equal-to-zero) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/18-RAJAT/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Game Theory
 |  |
 | ------- |
@@ -1558,6 +1563,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0239-sliding-window-maximum](https://github.com/18-RAJAT/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/18-RAJAT/LEETCODE/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3827-implement-router](https://github.com/18-RAJAT/LEETCODE/tree/master/3827-implement-router) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/18-RAJAT/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Doubly-Linked List
 |  |
 | ------- |
