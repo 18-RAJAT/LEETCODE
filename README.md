@@ -1178,6 +1178,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/18-RAJAT/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1480,6 +1481,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/18-RAJAT/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/18-RAJAT/LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Linked List
 |  |
 | ------- |
@@ -1637,6 +1639,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/18-RAJAT/LEETCODE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/18-RAJAT/LEETCODE/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Probability and Statistics
 |  |
 | ------- |
