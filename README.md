@@ -338,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2169-simple-bank-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2169-simple-bank-system) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/3616-make-array-elements-equal-to-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2288-count-operations-to-obtain-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/2288-count-operations-to-obtain-zero) |
 ## Math
 |  |
 | ------- |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/18-RAJAT/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/18-RAJAT/LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/18-RAJAT/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [2288-count-operations-to-obtain-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/2288-count-operations-to-obtain-zero) |
 ## String
 |  |
 | ------- |
