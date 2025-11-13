@@ -542,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/18-RAJAT/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/18-RAJAT/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [0474-ones-and-zeroes](https://github.com/18-RAJAT/LEETCODE/tree/master/0474-ones-and-zeroes) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/18-RAJAT/LEETCODE/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Stack
 |  |
 | ------- |
@@ -636,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/18-RAJAT/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/18-RAJAT/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/18-RAJAT/LEETCODE/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sorting
 |  |
 | ------- |
@@ -1125,6 +1127,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1510-find-lucky-integer-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [0900-reordered-power-of-2](https://github.com/18-RAJAT/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/18-RAJAT/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/18-RAJAT/LEETCODE/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Dynamic Programming
 |  |
 | ------- |
