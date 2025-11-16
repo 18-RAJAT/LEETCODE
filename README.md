@@ -423,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/18-RAJAT/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [2288-count-operations-to-obtain-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/18-RAJAT/LEETCODE/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/18-RAJAT/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
 ## String
 |  |
 | ------- |
@@ -545,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0474-ones-and-zeroes](https://github.com/18-RAJAT/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/18-RAJAT/LEETCODE/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/18-RAJAT/LEETCODE/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/18-RAJAT/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
 ## Stack
 |  |
 | ------- |
