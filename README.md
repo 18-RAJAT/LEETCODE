@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0474-ones-and-zeroes](https://github.com/18-RAJAT/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/18-RAJAT/LEETCODE/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2625-increment-submatrices-by-one](https://github.com/18-RAJAT/LEETCODE/tree/master/2625-increment-submatrices-by-one) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/18-RAJAT/LEETCODE/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 ## Simulation
 |  |
 | ------- |
