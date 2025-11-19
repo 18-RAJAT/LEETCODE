@@ -308,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2625-increment-submatrices-by-one](https://github.com/18-RAJAT/LEETCODE/tree/master/2625-increment-submatrices-by-one) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/18-RAJAT/LEETCODE/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/0717-1-bit-and-2-bit-characters) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/18-RAJAT/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Simulation
 |  |
 | ------- |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3616-make-array-elements-equal-to-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/3616-make-array-elements-equal-to-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2288-count-operations-to-obtain-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/2288-count-operations-to-obtain-zero) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/18-RAJAT/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Math
 |  |
 | ------- |
@@ -709,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/18-RAJAT/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -827,6 +830,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3863-power-grid-maintenance](https://github.com/18-RAJAT/LEETCODE/tree/master/3863-power-grid-maintenance) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/18-RAJAT/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Tree
 |  |
 | ------- |
