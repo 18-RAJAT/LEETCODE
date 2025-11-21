@@ -1,8 +1,7 @@
 class Solution {
 public:
     int countPalindromicSubsequence(string s) {
-        int n=s.size();
-        int ans=0;
+        int n=s.size(),ans=0;
         for(char ch='a';ch<='z';++ch)
         {
             int i=0,j=n-1;
