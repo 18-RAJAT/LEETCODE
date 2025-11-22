@@ -310,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0717-1-bit-and-2-bit-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/0717-1-bit-and-2-bit-characters) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/18-RAJAT/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [0759-set-intersection-size-at-least-two](https://github.com/18-RAJAT/LEETCODE/tree/master/0759-set-intersection-size-at-least-two) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/18-RAJAT/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
 |  |
 | ------- |
@@ -429,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2288-count-operations-to-obtain-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/18-RAJAT/LEETCODE/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/18-RAJAT/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/18-RAJAT/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
 | ------- |
