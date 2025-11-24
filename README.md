@@ -312,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0759-set-intersection-size-at-least-two](https://github.com/18-RAJAT/LEETCODE/tree/master/0759-set-intersection-size-at-least-two) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/18-RAJAT/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/18-RAJAT/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/18-RAJAT/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Simulation
 |  |
 | ------- |
@@ -1518,6 +1519,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/18-RAJAT/LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/18-RAJAT/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Linked List
 |  |
 | ------- |
