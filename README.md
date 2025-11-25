@@ -433,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/18-RAJAT/LEETCODE/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/18-RAJAT/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/18-RAJAT/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -840,6 +841,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3863-power-grid-maintenance](https://github.com/18-RAJAT/LEETCODE/tree/master/3863-power-grid-maintenance) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/18-RAJAT/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
