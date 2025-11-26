@@ -313,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/18-RAJAT/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/18-RAJAT/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/18-RAJAT/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -1013,6 +1014,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/18-RAJAT/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/18-RAJAT/LEETCODE/tree/master/2625-increment-submatrices-by-one) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Graph
 |  |
 | ------- |
@@ -1216,6 +1218,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [0474-ones-and-zeroes](https://github.com/18-RAJAT/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/18-RAJAT/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Shortest Path
 |  |
 | ------- |
