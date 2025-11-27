@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1262-greatest-sum-divisible-by-three](https://github.com/18-RAJAT/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/18-RAJAT/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -843,6 +844,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/18-RAJAT/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
@@ -1482,6 +1484,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3616-make-array-elements-equal-to-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/3616-make-array-elements-equal-to-zero) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/18-RAJAT/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/18-RAJAT/LEETCODE/tree/master/2625-increment-submatrices-by-one) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Game Theory
 |  |
 | ------- |
