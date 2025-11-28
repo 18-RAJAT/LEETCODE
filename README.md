@@ -872,6 +872,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0543-diameter-of-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/18-RAJAT/LEETCODE/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -939,6 +940,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0794-swim-in-rising-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/18-RAJAT/LEETCODE/tree/master/3863-power-grid-maintenance) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/18-RAJAT/LEETCODE/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Two Pointers
 |  |
 | ------- |
