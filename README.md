@@ -316,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [1590-make-sum-divisible-by-p](https://github.com/18-RAJAT/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 ## Simulation
 |  |
 | ------- |
@@ -847,6 +848,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2274-keep-multiplying-found-values-by-two](https://github.com/18-RAJAT/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [1590-make-sum-divisible-by-p](https://github.com/18-RAJAT/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 ## Tree
 |  |
 | ------- |
@@ -1489,6 +1491,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2618-maximize-the-minimum-powered-city](https://github.com/18-RAJAT/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/18-RAJAT/LEETCODE/tree/master/2625-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [1590-make-sum-divisible-by-p](https://github.com/18-RAJAT/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 ## Game Theory
 |  |
 | ------- |
