@@ -317,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/18-RAJAT/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/18-RAJAT/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Simulation
 |  |
 | ------- |
@@ -659,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/18-RAJAT/LEETCODE/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [0759-set-intersection-size-at-least-two](https://github.com/18-RAJAT/LEETCODE/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/18-RAJAT/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/18-RAJAT/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Sorting
 |  |
 | ------- |
@@ -727,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2274-keep-multiplying-found-values-by-two](https://github.com/18-RAJAT/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [0759-set-intersection-size-at-least-two](https://github.com/18-RAJAT/LEETCODE/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/18-RAJAT/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/18-RAJAT/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Hash Table
 |  |
 | ------- |
@@ -1325,6 +1328,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/18-RAJAT/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/18-RAJAT/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Recursion
 |  |
 | ------- |
