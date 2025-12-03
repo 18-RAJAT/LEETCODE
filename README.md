@@ -319,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1590-make-sum-divisible-by-p](https://github.com/18-RAJAT/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/18-RAJAT/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3623-count-number-of-trapezoids-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -442,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1015-smallest-integer-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3625-count-number-of-trapezoids-ii) |
 ## String
 |  |
 | ------- |
@@ -855,6 +857,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/18-RAJAT/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [3623-count-number-of-trapezoids-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Tree
 |  |
 | ------- |
@@ -1715,6 +1718,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [0830-largest-triangle-area](https://github.com/18-RAJAT/LEETCODE/tree/master/0830-largest-triangle-area) |
 | [3623-count-number-of-trapezoids-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Bitmask
 |  |
 | ------- |
