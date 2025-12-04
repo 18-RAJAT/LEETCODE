@@ -358,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2288-count-operations-to-obtain-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/2288-count-operations-to-obtain-zero) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/18-RAJAT/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2211-count-collisions-on-a-road](https://github.com/18-RAJAT/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 ## Math
 |  |
 | ------- |
@@ -567,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/18-RAJAT/LEETCODE/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/18-RAJAT/LEETCODE/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/18-RAJAT/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
+| [2211-count-collisions-on-a-road](https://github.com/18-RAJAT/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 ## Stack
 |  |
 | ------- |
@@ -600,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [2211-count-collisions-on-a-road](https://github.com/18-RAJAT/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 ## Greedy
 |  |
 | ------- |
