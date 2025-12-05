@@ -320,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2141-maximum-running-time-of-n-computers](https://github.com/18-RAJAT/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3623-count-number-of-trapezoids-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -445,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## String
 |  |
 | ------- |
@@ -1505,6 +1507,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2625-increment-submatrices-by-one](https://github.com/18-RAJAT/LEETCODE/tree/master/2625-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/18-RAJAT/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Game Theory
 |  |
 | ------- |
