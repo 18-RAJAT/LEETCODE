@@ -1,8 +1,19 @@
 class Solution {
 public:
-    int countOdds(int low, int high) {
-       int result=(high-low)/2;
-            if(low%2!=0 or high%2!=0){result++;}
-         return result;
+    int ans;
+    int countOdds(int l,int h) {
+        if(l%2==0)
+        {
+            l++;
+        }
+        if(h%2==0)
+        {
+            h--;
+        }
+        if(l<=h)
+        {
+            ans=((h-l)/2)+1;
+        }
+        return ans;
     }
 };
