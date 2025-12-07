@@ -448,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3623-count-number-of-trapezoids-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/18-RAJAT/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## String
 |  |
 | ------- |
