@@ -324,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/18-RAJAT/LEETCODE/tree/master/3583-count-special-triplets) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/18-RAJAT/LEETCODE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3531-count-covered-buildings](https://github.com/18-RAJAT/LEETCODE/tree/master/3531-count-covered-buildings) |
 ## Simulation
 |  |
 | ------- |
@@ -745,6 +746,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0759-set-intersection-size-at-least-two](https://github.com/18-RAJAT/LEETCODE/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/18-RAJAT/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/18-RAJAT/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3531-count-covered-buildings](https://github.com/18-RAJAT/LEETCODE/tree/master/3531-count-covered-buildings) |
 ## Hash Table
 |  |
 | ------- |
@@ -870,6 +872,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3623-count-number-of-trapezoids-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3583-count-special-triplets](https://github.com/18-RAJAT/LEETCODE/tree/master/3583-count-special-triplets) |
+| [3531-count-covered-buildings](https://github.com/18-RAJAT/LEETCODE/tree/master/3531-count-covered-buildings) |
 ## Tree
 |  |
 | ------- |
