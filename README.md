@@ -325,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3583-count-special-triplets](https://github.com/18-RAJAT/LEETCODE/tree/master/3583-count-special-triplets) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/18-RAJAT/LEETCODE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3531-count-covered-buildings](https://github.com/18-RAJAT/LEETCODE/tree/master/3531-count-covered-buildings) |
+| [3433-count-mentions-per-user](https://github.com/18-RAJAT/LEETCODE/tree/master/3433-count-mentions-per-user) |
 ## Simulation
 |  |
 | ------- |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2288-count-operations-to-obtain-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/2288-count-operations-to-obtain-zero) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/18-RAJAT/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2211-count-collisions-on-a-road](https://github.com/18-RAJAT/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
+| [3433-count-mentions-per-user](https://github.com/18-RAJAT/LEETCODE/tree/master/3433-count-mentions-per-user) |
 ## Math
 |  |
 | ------- |
@@ -454,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/18-RAJAT/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/18-RAJAT/LEETCODE/tree/master/1925-count-square-sum-triples) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/18-RAJAT/LEETCODE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3433-count-mentions-per-user](https://github.com/18-RAJAT/LEETCODE/tree/master/3433-count-mentions-per-user) |
 ## String
 |  |
 | ------- |
@@ -747,6 +750,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1262-greatest-sum-divisible-by-three](https://github.com/18-RAJAT/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/18-RAJAT/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3531-count-covered-buildings](https://github.com/18-RAJAT/LEETCODE/tree/master/3531-count-covered-buildings) |
+| [3433-count-mentions-per-user](https://github.com/18-RAJAT/LEETCODE/tree/master/3433-count-mentions-per-user) |
 ## Hash Table
 |  |
 | ------- |
