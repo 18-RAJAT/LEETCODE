@@ -327,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3531-count-covered-buildings](https://github.com/18-RAJAT/LEETCODE/tree/master/3531-count-covered-buildings) |
 | [3433-count-mentions-per-user](https://github.com/18-RAJAT/LEETCODE/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/18-RAJAT/LEETCODE/tree/master/3606-coupon-code-validator) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/18-RAJAT/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Simulation
 |  |
 | ------- |
@@ -459,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/18-RAJAT/LEETCODE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3433-count-mentions-per-user](https://github.com/18-RAJAT/LEETCODE/tree/master/3433-count-mentions-per-user) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/18-RAJAT/LEETCODE/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/18-RAJAT/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## String
 |  |
 | ------- |
@@ -1264,6 +1266,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/18-RAJAT/LEETCODE/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/18-RAJAT/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Shortest Path
 |  |
 | ------- |
