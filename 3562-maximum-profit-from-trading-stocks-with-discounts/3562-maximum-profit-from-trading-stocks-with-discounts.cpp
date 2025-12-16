@@ -34,6 +34,7 @@ public:
                     vector<int>temp(x+1,0);
                     for(int j=0;j<=x;++j)
                     {
+                        if(tmp[j]==0 && j!=0)continue;
                         for(int k=0;j+k<=x;++k)
                         {
                             temp[j+k]=max(temp[j+k],tmp[j]+it1.second[k]);
