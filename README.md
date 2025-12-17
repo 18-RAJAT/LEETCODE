@@ -329,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3606-coupon-code-validator](https://github.com/18-RAJAT/LEETCODE/tree/master/3606-coupon-code-validator) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/18-RAJAT/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/18-RAJAT/LEETCODE/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/18-RAJAT/LEETCODE/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Simulation
 |  |
 | ------- |
@@ -1271,6 +1272,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/18-RAJAT/LEETCODE/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/18-RAJAT/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/18-RAJAT/LEETCODE/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/18-RAJAT/LEETCODE/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Shortest Path
 |  |
 | ------- |
