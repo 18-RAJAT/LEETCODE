@@ -330,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/18-RAJAT/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/18-RAJAT/LEETCODE/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/18-RAJAT/LEETCODE/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/18-RAJAT/LEETCODE/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Simulation
 |  |
 | ------- |
@@ -1330,6 +1331,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2618-maximize-the-minimum-powered-city](https://github.com/18-RAJAT/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/18-RAJAT/LEETCODE/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/18-RAJAT/LEETCODE/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Binary Search
 |  |
 | ------- |
@@ -1542,6 +1544,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1590-make-sum-divisible-by-p](https://github.com/18-RAJAT/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/18-RAJAT/LEETCODE/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Game Theory
 |  |
 | ------- |
