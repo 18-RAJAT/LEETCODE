@@ -761,6 +761,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3531-count-covered-buildings](https://github.com/18-RAJAT/LEETCODE/tree/master/3531-count-covered-buildings) |
 | [3433-count-mentions-per-user](https://github.com/18-RAJAT/LEETCODE/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/18-RAJAT/LEETCODE/tree/master/3606-coupon-code-validator) |
+| [2092-find-all-people-with-secret](https://github.com/18-RAJAT/LEETCODE/tree/master/2092-find-all-people-with-secret) |
 ## Hash Table
 |  |
 | ------- |
@@ -986,6 +987,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3863-power-grid-maintenance](https://github.com/18-RAJAT/LEETCODE/tree/master/3863-power-grid-maintenance) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/18-RAJAT/LEETCODE/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/18-RAJAT/LEETCODE/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [2092-find-all-people-with-secret](https://github.com/18-RAJAT/LEETCODE/tree/master/2092-find-all-people-with-secret) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1093,6 +1095,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0207-course-schedule](https://github.com/18-RAJAT/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [3863-power-grid-maintenance](https://github.com/18-RAJAT/LEETCODE/tree/master/3863-power-grid-maintenance) |
+| [2092-find-all-people-with-secret](https://github.com/18-RAJAT/LEETCODE/tree/master/2092-find-all-people-with-secret) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1428,6 +1431,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0794-swim-in-rising-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/18-RAJAT/LEETCODE/tree/master/3863-power-grid-maintenance) |
+| [2092-find-all-people-with-secret](https://github.com/18-RAJAT/LEETCODE/tree/master/2092-find-all-people-with-secret) |
 ## Union Find
 |  |
 | ------- |
@@ -1448,6 +1452,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0721-accounts-merge](https://github.com/18-RAJAT/LEETCODE/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [3863-power-grid-maintenance](https://github.com/18-RAJAT/LEETCODE/tree/master/3863-power-grid-maintenance) |
+| [2092-find-all-people-with-secret](https://github.com/18-RAJAT/LEETCODE/tree/master/2092-find-all-people-with-secret) |
 ## Strongly Connected Component
 |  |
 | ------- |
