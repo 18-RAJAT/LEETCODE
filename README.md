@@ -333,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/18-RAJAT/LEETCODE/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [0944-delete-columns-to-make-sorted](https://github.com/18-RAJAT/LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -594,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/18-RAJAT/LEETCODE/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [0944-delete-columns-to-make-sorted](https://github.com/18-RAJAT/LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 ## Stack
 |  |
 | ------- |
@@ -1282,6 +1284,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/18-RAJAT/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/18-RAJAT/LEETCODE/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/18-RAJAT/LEETCODE/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 ## Shortest Path
 |  |
 | ------- |
