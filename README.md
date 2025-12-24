@@ -335,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [2054-two-best-non-overlapping-events](https://github.com/18-RAJAT/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
+| [3074-apple-redistribution-into-boxes](https://github.com/18-RAJAT/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 ## Simulation
 |  |
 | ------- |
@@ -697,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1262-greatest-sum-divisible-by-three](https://github.com/18-RAJAT/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/18-RAJAT/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [3074-apple-redistribution-into-boxes](https://github.com/18-RAJAT/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 ## Sorting
 |  |
 | ------- |
@@ -771,6 +773,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3606-coupon-code-validator](https://github.com/18-RAJAT/LEETCODE/tree/master/3606-coupon-code-validator) |
 | [2092-find-all-people-with-secret](https://github.com/18-RAJAT/LEETCODE/tree/master/2092-find-all-people-with-secret) |
 | [2054-two-best-non-overlapping-events](https://github.com/18-RAJAT/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
+| [3074-apple-redistribution-into-boxes](https://github.com/18-RAJAT/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
 |  |
 | ------- |
