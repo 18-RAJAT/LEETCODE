@@ -5,7 +5,7 @@ public:
         long long int sum=0;
         for(int i=0;i<k;++i)
         {
-            sum+=max<signed>(0LL,happiness[i]-i);
+            sum+=max<int>(0LL,happiness[i]-i);
         }
         return sum;
     }
