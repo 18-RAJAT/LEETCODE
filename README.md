@@ -599,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0944-delete-columns-to-make-sorted](https://github.com/18-RAJAT/LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/18-RAJAT/LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Stack
 |  |
 | ------- |
@@ -1569,6 +1570,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3432-count-partitions-with-even-sum-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/18-RAJAT/LEETCODE/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/18-RAJAT/LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Game Theory
 |  |
 | ------- |
