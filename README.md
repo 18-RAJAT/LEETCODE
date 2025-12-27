@@ -337,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2054-two-best-non-overlapping-events](https://github.com/18-RAJAT/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
 | [3074-apple-redistribution-into-boxes](https://github.com/18-RAJAT/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/18-RAJAT/LEETCODE/tree/master/3075-maximize-happiness-of-selected-children) |
+| [2402-meeting-rooms-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/2402-meeting-rooms-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -377,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2274-keep-multiplying-found-values-by-two](https://github.com/18-RAJAT/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2211-count-collisions-on-a-road](https://github.com/18-RAJAT/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 | [3433-count-mentions-per-user](https://github.com/18-RAJAT/LEETCODE/tree/master/3433-count-mentions-per-user) |
+| [2402-meeting-rooms-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/2402-meeting-rooms-iii) |
 ## Math
 |  |
 | ------- |
@@ -778,6 +780,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2054-two-best-non-overlapping-events](https://github.com/18-RAJAT/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
 | [3074-apple-redistribution-into-boxes](https://github.com/18-RAJAT/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/18-RAJAT/LEETCODE/tree/master/3075-maximize-happiness-of-selected-children) |
+| [2402-meeting-rooms-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/2402-meeting-rooms-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -905,6 +908,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3583-count-special-triplets](https://github.com/18-RAJAT/LEETCODE/tree/master/3583-count-special-triplets) |
 | [3531-count-covered-buildings](https://github.com/18-RAJAT/LEETCODE/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/18-RAJAT/LEETCODE/tree/master/3606-coupon-code-validator) |
+| [2402-meeting-rooms-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/2402-meeting-rooms-iii) |
 ## Tree
 |  |
 | ------- |
@@ -1171,6 +1175,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3863-power-grid-maintenance](https://github.com/18-RAJAT/LEETCODE/tree/master/3863-power-grid-maintenance) |
 | [2054-two-best-non-overlapping-events](https://github.com/18-RAJAT/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
+| [2402-meeting-rooms-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/2402-meeting-rooms-iii) |
 ## Merge Sort
 |  |
 | ------- |
