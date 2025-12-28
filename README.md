@@ -338,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3074-apple-redistribution-into-boxes](https://github.com/18-RAJAT/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/18-RAJAT/LEETCODE/tree/master/3075-maximize-happiness-of-selected-children) |
 | [2402-meeting-rooms-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/2402-meeting-rooms-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -1086,6 +1087,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/18-RAJAT/LEETCODE/tree/master/2625-increment-submatrices-by-one) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Graph
 |  |
 | ------- |
@@ -1403,6 +1405,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2618-maximize-the-minimum-powered-city](https://github.com/18-RAJAT/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/18-RAJAT/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2054-two-best-non-overlapping-events](https://github.com/18-RAJAT/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Recursion
 |  |
 | ------- |
