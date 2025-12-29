@@ -603,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/18-RAJAT/LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
+| [0756-pyramid-transition-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -910,6 +911,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3531-count-covered-buildings](https://github.com/18-RAJAT/LEETCODE/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/18-RAJAT/LEETCODE/tree/master/3606-coupon-code-validator) |
 | [2402-meeting-rooms-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/2402-meeting-rooms-iii) |
+| [0756-pyramid-transition-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -1532,6 +1534,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [0679-24-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0679-24-game) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/18-RAJAT/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
+| [0756-pyramid-transition-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1622,6 +1625,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3676-smallest-number-with-all-set-bits](https://github.com/18-RAJAT/LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/18-RAJAT/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
+| [0756-pyramid-transition-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 ## Linked List
 |  |
 | ------- |
