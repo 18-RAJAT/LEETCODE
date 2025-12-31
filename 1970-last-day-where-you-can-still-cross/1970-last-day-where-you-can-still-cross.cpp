@@ -1,10 +1,8 @@
 class Solution {
 public:
-    
     int latestDayToCross(int row, int col, vector<vector<int>>& cells) {
         int n=cells.size();
-        int move=0;
-        int ans=-1;
+        int move=0,ans=-1;
         int dx[4]={-1,1,0,0};
         int dy[4]={0,0,-1,1};
         
@@ -37,12 +35,11 @@ public:
             };
             for(int i=0;i<day;++i)
             {
-                int R=cells[i][0];//row
-                int C=cells[i][1];//col
+                int R=cells[i][0];
+                int C=cells[i][1];
                 R--;C--;
                 adj[R][C]=true;
             }
-            //dfs call
             for(int i=0;i<col;++i)
             {
                 if(!visited[0][i] && adj[0][i]==0)
@@ -61,7 +58,6 @@ public:
         };
         while(move<=n)
         {
-            //binary search
             int mid=move+(n-move)/2;
             if(check(mid))
             {
