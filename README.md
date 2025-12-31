@@ -340,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2402-meeting-rooms-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/2402-meeting-rooms-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/0840-magic-squares-in-grid) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/18-RAJAT/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Simulation
 |  |
 | ------- |
@@ -1014,6 +1015,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2872-maximum-number-of-k-divisible-components](https://github.com/18-RAJAT/LEETCODE/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/18-RAJAT/LEETCODE/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [2092-find-all-people-with-secret](https://github.com/18-RAJAT/LEETCODE/tree/master/2092-find-all-people-with-secret) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/18-RAJAT/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1094,6 +1096,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/18-RAJAT/LEETCODE/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/0840-magic-squares-in-grid) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/18-RAJAT/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Graph
 |  |
 | ------- |
@@ -1412,6 +1415,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2141-maximum-running-time-of-n-computers](https://github.com/18-RAJAT/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2054-two-best-non-overlapping-events](https://github.com/18-RAJAT/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/18-RAJAT/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Recursion
 |  |
 | ------- |
@@ -1466,6 +1470,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/18-RAJAT/LEETCODE/tree/master/3863-power-grid-maintenance) |
 | [2092-find-all-people-with-secret](https://github.com/18-RAJAT/LEETCODE/tree/master/2092-find-all-people-with-secret) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/18-RAJAT/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union Find
 |  |
 | ------- |
@@ -1487,6 +1492,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0794-swim-in-rising-water](https://github.com/18-RAJAT/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [3863-power-grid-maintenance](https://github.com/18-RAJAT/LEETCODE/tree/master/3863-power-grid-maintenance) |
 | [2092-find-all-people-with-secret](https://github.com/18-RAJAT/LEETCODE/tree/master/2092-find-all-people-with-secret) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/18-RAJAT/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Strongly Connected Component
 |  |
 | ------- |
