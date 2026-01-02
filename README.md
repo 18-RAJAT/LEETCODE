@@ -342,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0840-magic-squares-in-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/0840-magic-squares-in-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/18-RAJAT/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [0066-plus-one](https://github.com/18-RAJAT/LEETCODE/tree/master/0066-plus-one) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Simulation
 |  |
 | ------- |
@@ -918,6 +919,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2402-meeting-rooms-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/2402-meeting-rooms-iii) |
 | [0756-pyramid-transition-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/0840-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Tree
 |  |
 | ------- |
