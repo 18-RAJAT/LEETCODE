@@ -1316,6 +1316,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/18-RAJAT/LEETCODE/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [2054-two-best-non-overlapping-events](https://github.com/18-RAJAT/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Shortest Path
 |  |
 | ------- |
