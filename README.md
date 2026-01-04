@@ -343,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1970-last-day-where-you-can-still-cross](https://github.com/18-RAJAT/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [0066-plus-one](https://github.com/18-RAJAT/LEETCODE/tree/master/0066-plus-one) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1390-four-divisors](https://github.com/18-RAJAT/LEETCODE/tree/master/1390-four-divisors) |
 ## Simulation
 |  |
 | ------- |
@@ -479,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/18-RAJAT/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [0840-magic-squares-in-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/0840-magic-squares-in-grid) |
 | [0066-plus-one](https://github.com/18-RAJAT/LEETCODE/tree/master/0066-plus-one) |
+| [1390-four-divisors](https://github.com/18-RAJAT/LEETCODE/tree/master/1390-four-divisors) |
 ## String
 |  |
 | ------- |
