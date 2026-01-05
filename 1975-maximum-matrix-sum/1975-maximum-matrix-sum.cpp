@@ -1,39 +1,18 @@
 class Solution {
 public:
     long long maxMatrixSum(vector<vector<int>>& matrix) {
-     
-        int row=matrix.size();
-        int column=matrix[0].size();
-        
-        int small = INT_MAX,count=0;
-        
-        long long int sum=0;
-        
-        for(int i=0;i<row;++i)
+        long long sum=0;
+        int mn=INT_MAX,res=0;
+        for(auto& it:matrix)
         {
-            for(int j=0;j<column;++j)
+            for(auto& it1:it)
             {
-                int value = matrix[i][j];
-                
-                small = min(small,abs(value));
-                
-                //Check for small values....!!
-                if(value < 0)
-                    count++;
-                
-                //Finding the sum of all values
-                sum += abs(value);
+                sum+=abs(it1);
+                if(it1<0)res++;
+                mn=min(mn,abs(it1));
             }
         }
-        
-        if(count % 2 == 0)
-        {
-            return sum;
-        }
-        else
-        {
-            return sum - 2*small;
-        }
-        
+        if(res%2==0)return sum;
+        return sum-2*mn;
     }
 };
