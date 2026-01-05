@@ -344,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0066-plus-one](https://github.com/18-RAJAT/LEETCODE/tree/master/0066-plus-one) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/18-RAJAT/LEETCODE/tree/master/1390-four-divisors) |
+| [1975-maximum-matrix-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -714,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/18-RAJAT/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/18-RAJAT/LEETCODE/tree/master/3075-maximize-happiness-of-selected-children) |
+| [1975-maximum-matrix-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -1103,6 +1105,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/0840-magic-squares-in-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/18-RAJAT/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 ## Graph
 |  |
 | ------- |
