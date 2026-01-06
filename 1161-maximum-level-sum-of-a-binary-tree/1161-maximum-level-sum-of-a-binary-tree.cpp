@@ -12,7 +12,7 @@
 class Solution {
 public:
     int maxLevelSum(TreeNode* root) {
-        if(root==nullptr)
+        if(root==NULL)
         {
             return 0;
         }
@@ -21,8 +21,7 @@ public:
         q.push(root);
         while(!q.empty())
         {
-            int sza=q.size();
-            int tempSum=0;
+            int sza=q.size(),tempSum=0;
             while(sza--)
             {
                 TreeNode*tmp=q.front();
