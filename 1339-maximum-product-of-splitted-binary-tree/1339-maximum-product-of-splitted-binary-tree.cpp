@@ -10,23 +10,20 @@
  * };
  */
 class Solution {
-private:
-    int dfs(TreeNode* root, vector<int> &res) {
-        if (!root) return 0;
-        int sum = root->val + dfs(root->left, res) + dfs(root->right, res);
+public:
+    int recur(TreeNode* root,vector<int>& res)
+    {
+        if(root==NULL)return 0;
+        int l=recur(root->left,res),r=recur(root->right,res);
+        int sum=root->val+l+r;
         res.push_back(sum);
         return sum;
     }
-public:
     int maxProduct(TreeNode* root) {
-        vector<int> bottomUpValues;
-        dfs(root, bottomUpValues);
-        int sum = bottomUpValues.back();
-        long res = INT_MIN, mod = 1e9+7;
-        for (int i = 0; i < bottomUpValues.size()-1;++i) 
-        {
-            res = max(res, (long)bottomUpValues[i] * (sum-bottomUpValues[i]));
-        }
-        return res % mod;
+        long long ans=0;
+        vector<int>res;
+        int tot=recur(root,res);
+        for(auto& it:res)ans=max(ans,(long long)it*(tot-it));
+        return ans%1000000007;
     }
 };
