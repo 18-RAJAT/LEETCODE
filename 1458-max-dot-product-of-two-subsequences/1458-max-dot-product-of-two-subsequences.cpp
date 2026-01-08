@@ -2,12 +2,10 @@ class Solution {
 public:
     int recur(vector<int>&nums1,vector<int>&nums2,int i,int j,vector<vector<int>>&dp)
     {
-        //base case
-        if(i>=nums1.size() or j>=nums2.size())
+        if(i>=nums1.size() || j>=nums2.size())
         {
             return 0;
         }
-        //memoization/pruning
         int& ans=dp[i][j];
         if(~ans)
         {
@@ -27,7 +25,6 @@ public:
         int ans=recur(nums1,nums2,0,0,dp);
         if(ans==0)
         {
-            //if the answer is zero then we have to return the maximum product of the elements of the two arrays
             int a=*max_element(nums1.begin(),nums1.end());
             int b=*min_element(nums1.begin(),nums1.end());
             int c=*max_element(nums2.begin(),nums2.end());
