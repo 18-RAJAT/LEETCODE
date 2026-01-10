@@ -614,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/18-RAJAT/LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [0756-pyramid-transition-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Stack
 |  |
 | ------- |
@@ -1334,6 +1335,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2054-two-best-non-overlapping-events](https://github.com/18-RAJAT/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/18-RAJAT/LEETCODE/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Shortest Path
 |  |
 | ------- |
