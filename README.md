@@ -348,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1458-max-dot-product-of-two-subsequences](https://github.com/18-RAJAT/LEETCODE/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [0085-maximal-rectangle](https://github.com/18-RAJAT/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/18-RAJAT/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
+| [3453-separate-squares-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3453-separate-squares-i) |
 ## Simulation
 |  |
 | ------- |
@@ -1446,6 +1447,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2054-two-best-non-overlapping-events](https://github.com/18-RAJAT/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/18-RAJAT/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3453-separate-squares-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3453-separate-squares-i) |
 ## Recursion
 |  |
 | ------- |
