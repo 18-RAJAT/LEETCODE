@@ -349,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0085-maximal-rectangle](https://github.com/18-RAJAT/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/18-RAJAT/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [3453-separate-squares-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3454-separate-squares-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -1448,6 +1449,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/18-RAJAT/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3453-separate-squares-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3454-separate-squares-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -1731,6 +1733,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0729-my-calendar-i](https://github.com/18-RAJAT/LEETCODE/tree/master/0729-my-calendar-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/18-RAJAT/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [2280-count-good-triplets-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
+| [3454-separate-squares-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3454-separate-squares-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1856,4 +1859,8 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/18-RAJAT/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
