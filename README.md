@@ -350,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1266-minimum-time-visiting-all-points](https://github.com/18-RAJAT/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [3453-separate-squares-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3454-separate-squares-ii) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -801,6 +802,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3074-apple-redistribution-into-boxes](https://github.com/18-RAJAT/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/18-RAJAT/LEETCODE/tree/master/3075-maximize-happiness-of-selected-children) |
 | [2402-meeting-rooms-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/2402-meeting-rooms-iii) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Hash Table
 |  |
 | ------- |
