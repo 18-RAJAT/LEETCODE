@@ -351,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3453-separate-squares-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3454-separate-squares-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/18-RAJAT/LEETCODE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Simulation
 |  |
 | ------- |
@@ -935,6 +936,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0840-magic-squares-in-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/18-RAJAT/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/18-RAJAT/LEETCODE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Tree
 |  |
 | ------- |
@@ -1802,6 +1804,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2174-next-greater-numerically-balanced-number](https://github.com/18-RAJAT/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/18-RAJAT/LEETCODE/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [1925-count-square-sum-triples](https://github.com/18-RAJAT/LEETCODE/tree/master/1925-count-square-sum-triples) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/18-RAJAT/LEETCODE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Monotonic Queue
 |  |
 | ------- |
