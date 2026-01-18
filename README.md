@@ -353,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/18-RAJAT/LEETCODE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/18-RAJAT/LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [1895-largest-magic-square](https://github.com/18-RAJAT/LEETCODE/tree/master/1895-largest-magic-square) |
 ## Simulation
 |  |
 | ------- |
@@ -1131,6 +1132,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1970-last-day-where-you-can-still-cross](https://github.com/18-RAJAT/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [0085-maximal-rectangle](https://github.com/18-RAJAT/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [1895-largest-magic-square](https://github.com/18-RAJAT/LEETCODE/tree/master/1895-largest-magic-square) |
 ## Graph
 |  |
 | ------- |
@@ -1634,6 +1636,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/18-RAJAT/LEETCODE/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/18-RAJAT/LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
+| [1895-largest-magic-square](https://github.com/18-RAJAT/LEETCODE/tree/master/1895-largest-magic-square) |
 ## Game Theory
 |  |
 | ------- |
