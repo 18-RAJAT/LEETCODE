@@ -354,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/18-RAJAT/LEETCODE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/18-RAJAT/LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [1895-largest-magic-square](https://github.com/18-RAJAT/LEETCODE/tree/master/1895-largest-magic-square) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/18-RAJAT/LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Simulation
 |  |
 | ------- |
@@ -1133,6 +1134,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1975-maximum-matrix-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [0085-maximal-rectangle](https://github.com/18-RAJAT/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [1895-largest-magic-square](https://github.com/18-RAJAT/LEETCODE/tree/master/1895-largest-magic-square) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/18-RAJAT/LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Graph
 |  |
 | ------- |
@@ -1458,6 +1460,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1970-last-day-where-you-can-still-cross](https://github.com/18-RAJAT/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3453-separate-squares-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3454-separate-squares-ii) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/18-RAJAT/LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Recursion
 |  |
 | ------- |
@@ -1637,6 +1640,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/18-RAJAT/LEETCODE/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/18-RAJAT/LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [1895-largest-magic-square](https://github.com/18-RAJAT/LEETCODE/tree/master/1895-largest-magic-square) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/18-RAJAT/LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Game Theory
 |  |
 | ------- |
