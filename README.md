@@ -356,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1895-largest-magic-square](https://github.com/18-RAJAT/LEETCODE/tree/master/1895-largest-magic-square) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/18-RAJAT/LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -1687,6 +1688,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1018-binary-prefix-divisible-by-5](https://github.com/18-RAJAT/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [0756-pyramid-transition-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Linked List
 |  |
 | ------- |
