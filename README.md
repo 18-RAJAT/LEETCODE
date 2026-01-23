@@ -358,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -400,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3433-count-mentions-per-user](https://github.com/18-RAJAT/LEETCODE/tree/master/3433-count-mentions-per-user) |
 | [2402-meeting-rooms-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/2402-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -946,6 +948,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/18-RAJAT/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/18-RAJAT/LEETCODE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Tree
 |  |
 | ------- |
@@ -1231,6 +1234,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2054-two-best-non-overlapping-events](https://github.com/18-RAJAT/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/2402-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1707,6 +1711,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -1768,6 +1773,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2023-design-movie-rental-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2023-design-movie-rental-system) |
 | [3863-power-grid-maintenance](https://github.com/18-RAJAT/LEETCODE/tree/master/3863-power-grid-maintenance) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Queue
 |  |
 | ------- |
@@ -1787,6 +1793,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/18-RAJAT/LEETCODE/tree/master/0432-all-oone-data-structure) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
