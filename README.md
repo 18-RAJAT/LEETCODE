@@ -360,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/18-RAJAT/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Simulation
 |  |
 | ------- |
@@ -817,6 +818,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2402-meeting-rooms-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/18-RAJAT/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
 | ------- |
@@ -1426,6 +1428,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/18-RAJAT/LEETCODE/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/18-RAJAT/LEETCODE/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/18-RAJAT/LEETCODE/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/18-RAJAT/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Binary Search
 |  |
 | ------- |
