@@ -361,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/18-RAJAT/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1200-minimum-absolute-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -819,6 +820,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/18-RAJAT/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1200-minimum-absolute-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
 | ------- |
