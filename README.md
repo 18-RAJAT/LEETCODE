@@ -1243,6 +1243,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2402-meeting-rooms-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/2402-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/18-RAJAT/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1382,6 +1383,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/18-RAJAT/LEETCODE/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/18-RAJAT/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1905,4 +1907,8 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3454-separate-squares-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/18-RAJAT/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
