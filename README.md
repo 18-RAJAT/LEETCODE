@@ -362,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/18-RAJAT/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1200-minimum-absolute-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/1200-minimum-absolute-difference) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/18-RAJAT/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Simulation
 |  |
 | ------- |
@@ -1151,6 +1152,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0085-maximal-rectangle](https://github.com/18-RAJAT/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [1895-largest-magic-square](https://github.com/18-RAJAT/LEETCODE/tree/master/1895-largest-magic-square) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/18-RAJAT/LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/18-RAJAT/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Graph
 |  |
 | ------- |
@@ -1373,6 +1375,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1458-max-dot-product-of-two-subsequences](https://github.com/18-RAJAT/LEETCODE/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0085-maximal-rectangle](https://github.com/18-RAJAT/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/18-RAJAT/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Shortest Path
 |  |
 | ------- |
