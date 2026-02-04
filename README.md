@@ -364,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1200-minimum-absolute-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/18-RAJAT/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/18-RAJAT/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [3640-trionic-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3640-trionic-array-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -1377,6 +1378,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0085-maximal-rectangle](https://github.com/18-RAJAT/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/18-RAJAT/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3640-trionic-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3640-trionic-array-ii) |
 ## Shortest Path
 |  |
 | ------- |
