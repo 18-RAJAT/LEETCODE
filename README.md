@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3651-minimum-cost-path-with-teleportations](https://github.com/18-RAJAT/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/18-RAJAT/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3640-trionic-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3640-trionic-array-ii) |
+| [3379-transformed-array](https://github.com/18-RAJAT/LEETCODE/tree/master/3379-transformed-array) |
 ## Simulation
 |  |
 | ------- |
@@ -408,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2402-meeting-rooms-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/2402-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3379-transformed-array](https://github.com/18-RAJAT/LEETCODE/tree/master/3379-transformed-array) |
 ## Math
 |  |
 | ------- |
