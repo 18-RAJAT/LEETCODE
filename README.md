@@ -745,6 +745,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3075-maximize-happiness-of-selected-children](https://github.com/18-RAJAT/LEETCODE/tree/master/3075-maximize-happiness-of-selected-children) |
 | [1975-maximum-matrix-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -993,6 +994,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/18-RAJAT/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1382-balance-a-binary-search-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1017,6 +1019,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/18-RAJAT/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1382-balance-a-binary-search-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1070,6 +1073,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/18-RAJAT/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1382-balance-a-binary-search-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1206,6 +1210,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/18-RAJAT/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [0023-merge-k-sorted-lists](https://github.com/18-RAJAT/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [1382-balance-a-binary-search-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1596,6 +1601,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/18-RAJAT/LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1382-balance-a-binary-search-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Data Stream
 |  |
 | ------- |
