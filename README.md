@@ -366,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0744-find-smallest-letter-greater-than-target](https://github.com/18-RAJAT/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3640-trionic-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3640-trionic-array-ii) |
 | [3379-transformed-array](https://github.com/18-RAJAT/LEETCODE/tree/master/3379-transformed-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 ## Simulation
 |  |
 | ------- |
@@ -962,6 +963,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/18-RAJAT/LEETCODE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 ## Tree
 |  |
 | ------- |
@@ -1211,6 +1213,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2280-count-good-triplets-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [0023-merge-k-sorted-lists](https://github.com/18-RAJAT/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [1382-balance-a-binary-search-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1677,6 +1680,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2483-minimum-penalty-for-a-shop](https://github.com/18-RAJAT/LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [1895-largest-magic-square](https://github.com/18-RAJAT/LEETCODE/tree/master/1895-largest-magic-square) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/18-RAJAT/LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [3719-longest-balanced-subarray-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -1787,6 +1791,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/18-RAJAT/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [2280-count-good-triplets-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [3454-separate-squares-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 ## Ordered Set
 |  |
 | ------- |
