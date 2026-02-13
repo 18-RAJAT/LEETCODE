@@ -643,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0756-pyramid-transition-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [3713-longest-balanced-substring-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3714-longest-balanced-substring-ii) |
 ## Stack
 |  |
 | ------- |
@@ -968,6 +969,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3719-longest-balanced-subarray-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3721-longest-balanced-subarray-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3714-longest-balanced-substring-ii) |
 ## Tree
 |  |
 | ------- |
@@ -1688,6 +1690,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/18-RAJAT/LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3719-longest-balanced-subarray-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3721-longest-balanced-subarray-ii) |
+| [3714-longest-balanced-substring-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3714-longest-balanced-substring-ii) |
 ## Game Theory
 |  |
 | ------- |
