@@ -1,26 +1,17 @@
 class Solution {
 public:
     double champagneTower(int poured, int query_row, int query_glass) {
-        if(poured==0)
+        vector<double>ans(105);
+        ans[0]=poured;
+        for(int row=1;row<=query_row;++row)
         {
-            return 0;
-        }
-        vector<double>row(1,poured);
-        for(int i=0;i<query_row;++i)
-        {
-            vector<double>next(i+2,0);
-            for(int j=0;j<=i;++j)
+            for(int i=row;~i;--i)
             {
-                if(row[j]<=1)
-                {
-                    continue;
-                }
-                double excess=(row[j]-1)/2.0;
-                next[j]+=excess;
-                next[j+1]+=excess;
+                ans[i]=max(0.0,(ans[i]-1)/2);
+                ans[i+1]+=ans[i];
             }
-            row=next;
         }
-        return min(1.0,row[query_glass]);
+        return min(ans[query_glass],1.0);
+        
     }
 };
