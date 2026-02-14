@@ -1397,6 +1397,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0085-maximal-rectangle](https://github.com/18-RAJAT/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/18-RAJAT/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3640-trionic-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3640-trionic-array-ii) |
+| [0799-champagne-tower](https://github.com/18-RAJAT/LEETCODE/tree/master/0799-champagne-tower) |
 ## Shortest Path
 |  |
 | ------- |
