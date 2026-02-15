@@ -412,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3379-transformed-array](https://github.com/18-RAJAT/LEETCODE/tree/master/3379-transformed-array) |
+| [0067-add-binary](https://github.com/18-RAJAT/LEETCODE/tree/master/0067-add-binary) |
 ## Math
 |  |
 | ------- |
@@ -510,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1390-four-divisors](https://github.com/18-RAJAT/LEETCODE/tree/master/1390-four-divisors) |
 | [1266-minimum-time-visiting-all-points](https://github.com/18-RAJAT/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/18-RAJAT/LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [0067-add-binary](https://github.com/18-RAJAT/LEETCODE/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
@@ -644,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [3713-longest-balanced-substring-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3714-longest-balanced-substring-ii) |
+| [0067-add-binary](https://github.com/18-RAJAT/LEETCODE/tree/master/0067-add-binary) |
 ## Stack
 |  |
 | ------- |
@@ -1738,6 +1741,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0756-pyramid-transition-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [0067-add-binary](https://github.com/18-RAJAT/LEETCODE/tree/master/0067-add-binary) |
 ## Linked List
 |  |
 | ------- |
