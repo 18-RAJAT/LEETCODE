@@ -1644,6 +1644,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0679-24-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0679-24-game) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/18-RAJAT/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [0756-pyramid-transition-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
+| [0401-binary-watch](https://github.com/18-RAJAT/LEETCODE/tree/master/0401-binary-watch) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1744,6 +1745,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [0067-add-binary](https://github.com/18-RAJAT/LEETCODE/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/18-RAJAT/LEETCODE/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/18-RAJAT/LEETCODE/tree/master/0401-binary-watch) |
 ## Linked List
 |  |
 | ------- |
