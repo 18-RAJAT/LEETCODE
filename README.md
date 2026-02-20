@@ -648,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3714-longest-balanced-substring-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3714-longest-balanced-substring-ii) |
 | [0067-add-binary](https://github.com/18-RAJAT/LEETCODE/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/0761-special-binary-string) |
 ## Stack
 |  |
 | ------- |
@@ -835,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/18-RAJAT/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1200-minimum-absolute-difference](https://github.com/18-RAJAT/LEETCODE/tree/master/1200-minimum-absolute-difference) |
+| [0761-special-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/0761-special-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -1227,6 +1229,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3719-longest-balanced-subarray-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3721-longest-balanced-subarray-ii) |
 | [0190-reverse-bits](https://github.com/18-RAJAT/LEETCODE/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/0761-special-binary-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
