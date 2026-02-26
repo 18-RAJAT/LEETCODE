@@ -413,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3379-transformed-array](https://github.com/18-RAJAT/LEETCODE/tree/master/3379-transformed-array) |
 | [0067-add-binary](https://github.com/18-RAJAT/LEETCODE/tree/master/0067-add-binary) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/18-RAJAT/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Math
 |  |
 | ------- |
@@ -650,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0067-add-binary](https://github.com/18-RAJAT/LEETCODE/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/0761-special-binary-string) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/18-RAJAT/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Stack
 |  |
 | ------- |
@@ -1754,6 +1756,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0401-binary-watch](https://github.com/18-RAJAT/LEETCODE/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/18-RAJAT/LEETCODE/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/18-RAJAT/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/18-RAJAT/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Linked List
 |  |
 | ------- |
