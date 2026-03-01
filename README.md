@@ -656,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0761-special-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/18-RAJAT/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -762,6 +763,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1975-maximum-matrix-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Sorting
 |  |
 | ------- |
