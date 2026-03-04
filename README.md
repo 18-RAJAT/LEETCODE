@@ -369,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3719-longest-balanced-subarray-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3721-longest-balanced-subarray-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -1190,6 +1191,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/18-RAJAT/LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/18-RAJAT/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Graph
 |  |
 | ------- |
