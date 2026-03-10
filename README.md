@@ -1430,6 +1430,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3640-trionic-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3640-trionic-array-ii) |
 | [0799-champagne-tower](https://github.com/18-RAJAT/LEETCODE/tree/master/0799-champagne-tower) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/18-RAJAT/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1729,6 +1730,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3719-longest-balanced-subarray-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3721-longest-balanced-subarray-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3714-longest-balanced-substring-ii) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Game Theory
 |  |
 | ------- |
