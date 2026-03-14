@@ -666,6 +666,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/18-RAJAT/LEETCODE/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/18-RAJAT/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1980-find-unique-binary-string) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/18-RAJAT/LEETCODE/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Stack
 |  |
 | ------- |
@@ -1678,6 +1679,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0756-pyramid-transition-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [0401-binary-watch](https://github.com/18-RAJAT/LEETCODE/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1980-find-unique-binary-string) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/18-RAJAT/LEETCODE/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Prefix Sum
 |  |
 | ------- |
