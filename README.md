@@ -521,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/18-RAJAT/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1622-fancy-sequence](https://github.com/18-RAJAT/LEETCODE/tree/master/1622-fancy-sequence) |
 ## String
 |  |
 | ------- |
@@ -1646,6 +1647,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3827-implement-router](https://github.com/18-RAJAT/LEETCODE/tree/master/3827-implement-router) |
 | [2023-design-movie-rental-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2169-simple-bank-system) |
+| [1622-fancy-sequence](https://github.com/18-RAJAT/LEETCODE/tree/master/1622-fancy-sequence) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1853,6 +1855,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3454-separate-squares-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3721-longest-balanced-subarray-ii) |
+| [1622-fancy-sequence](https://github.com/18-RAJAT/LEETCODE/tree/master/1622-fancy-sequence) |
 ## Ordered Set
 |  |
 | ------- |
