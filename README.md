@@ -374,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/18-RAJAT/LEETCODE/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/18-RAJAT/LEETCODE/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/18-RAJAT/LEETCODE/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
 |  |
 | ------- |
@@ -1151,6 +1152,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/18-RAJAT/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [0696-count-binary-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/0696-count-binary-substrings) |
+| [3643-flip-square-submatrix-vertically](https://github.com/18-RAJAT/LEETCODE/tree/master/3643-flip-square-submatrix-vertically) |
 ## Matrix
 |  |
 | ------- |
@@ -1209,6 +1211,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/18-RAJAT/LEETCODE/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/18-RAJAT/LEETCODE/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/18-RAJAT/LEETCODE/tree/master/3643-flip-square-submatrix-vertically) |
 ## Graph
 |  |
 | ------- |
