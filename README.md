@@ -375,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/18-RAJAT/LEETCODE/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/18-RAJAT/LEETCODE/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/18-RAJAT/LEETCODE/tree/master/3643-flip-square-submatrix-vertically) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/18-RAJAT/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
 |  |
 | ------- |
@@ -1212,6 +1213,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/18-RAJAT/LEETCODE/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/18-RAJAT/LEETCODE/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/18-RAJAT/LEETCODE/tree/master/3643-flip-square-submatrix-vertically) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/18-RAJAT/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Graph
 |  |
 | ------- |
