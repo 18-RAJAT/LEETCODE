@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/18-RAJAT/LEETCODE/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/18-RAJAT/LEETCODE/tree/master/3643-flip-square-submatrix-vertically) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/18-RAJAT/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -1214,6 +1215,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/18-RAJAT/LEETCODE/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/18-RAJAT/LEETCODE/tree/master/3643-flip-square-submatrix-vertically) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/18-RAJAT/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Graph
 |  |
 | ------- |
@@ -1448,6 +1450,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0799-champagne-tower](https://github.com/18-RAJAT/LEETCODE/tree/master/0799-champagne-tower) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/18-RAJAT/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Shortest Path
 |  |
 | ------- |
