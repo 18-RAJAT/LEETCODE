@@ -377,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3643-flip-square-submatrix-vertically](https://github.com/18-RAJAT/LEETCODE/tree/master/3643-flip-square-submatrix-vertically) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/18-RAJAT/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2906-construct-product-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/2906-construct-product-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -1216,6 +1217,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3643-flip-square-submatrix-vertically](https://github.com/18-RAJAT/LEETCODE/tree/master/3643-flip-square-submatrix-vertically) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/18-RAJAT/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2906-construct-product-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/2906-construct-product-matrix) |
 ## Graph
 |  |
 | ------- |
@@ -1755,6 +1757,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/18-RAJAT/LEETCODE/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [2906-construct-product-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/2906-construct-product-matrix) |
 ## Game Theory
 |  |
 | ------- |
