@@ -379,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2906-construct-product-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -1009,6 +1010,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3713-longest-balanced-substring-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3714-longest-balanced-substring-ii) |
 | [1980-find-unique-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1980-find-unique-binary-string) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Tree
 |  |
 | ------- |
@@ -1220,6 +1222,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2906-construct-product-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Graph
 |  |
 | ------- |
@@ -1761,6 +1764,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/18-RAJAT/LEETCODE/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [2906-construct-product-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -1956,6 +1960,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/18-RAJAT/LEETCODE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3713-longest-balanced-substring-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
