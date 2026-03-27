@@ -380,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2906-construct-product-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-equal-sum-grid-partition-ii) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/18-RAJAT/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Simulation
 |  |
 | ------- |
@@ -428,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/18-RAJAT/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/18-RAJAT/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Math
 |  |
 | ------- |
@@ -532,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1622-fancy-sequence](https://github.com/18-RAJAT/LEETCODE/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/18-RAJAT/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## String
 |  |
 | ------- |
@@ -1223,6 +1226,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2906-construct-product-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-equal-sum-grid-partition-ii) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/18-RAJAT/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Graph
 |  |
 | ------- |
