@@ -381,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3546-equal-sum-grid-partition-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-equal-sum-grid-partition-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/18-RAJAT/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2573-find-the-string-with-lcp](https://github.com/18-RAJAT/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 ## Simulation
 |  |
 | ------- |
@@ -681,6 +682,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/18-RAJAT/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/18-RAJAT/LEETCODE/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2573-find-the-string-with-lcp](https://github.com/18-RAJAT/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 ## Stack
 |  |
 | ------- |
@@ -789,6 +791,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1382-balance-a-binary-search-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [2573-find-the-string-with-lcp](https://github.com/18-RAJAT/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 ## Sorting
 |  |
 | ------- |
@@ -1227,6 +1230,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3546-equal-sum-grid-partition-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-equal-sum-grid-partition-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/18-RAJAT/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2573-find-the-string-with-lcp](https://github.com/18-RAJAT/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 ## Graph
 |  |
 | ------- |
@@ -1462,6 +1466,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/18-RAJAT/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2573-find-the-string-with-lcp](https://github.com/18-RAJAT/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 ## Shortest Path
 |  |
 | ------- |
@@ -2037,4 +2042,5 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [2573-find-the-string-with-lcp](https://github.com/18-RAJAT/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->
