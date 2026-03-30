@@ -684,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/18-RAJAT/LEETCODE/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2573-find-the-string-with-lcp](https://github.com/18-RAJAT/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Stack
 |  |
 | ------- |
@@ -877,6 +878,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0761-special-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/0761-special-binary-string) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/18-RAJAT/LEETCODE/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -1018,6 +1020,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3714-longest-balanced-substring-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3714-longest-balanced-substring-ii) |
 | [1980-find-unique-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-equal-sum-grid-partition-ii) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Tree
 |  |
 | ------- |
