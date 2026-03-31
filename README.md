@@ -685,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2573-find-the-string-with-lcp](https://github.com/18-RAJAT/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/18-RAJAT/LEETCODE/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Stack
 |  |
 | ------- |
@@ -794,6 +795,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/18-RAJAT/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/18-RAJAT/LEETCODE/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sorting
 |  |
 | ------- |
@@ -1869,6 +1871,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1524-string-matching-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/18-RAJAT/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/18-RAJAT/LEETCODE/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Hash Function
 |  |
 | ------- |
