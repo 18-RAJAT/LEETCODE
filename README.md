@@ -382,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3548-equal-sum-grid-partition-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-equal-sum-grid-partition-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/18-RAJAT/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2573-find-the-string-with-lcp](https://github.com/18-RAJAT/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
+| [2751-robot-collisions](https://github.com/18-RAJAT/LEETCODE/tree/master/2751-robot-collisions) |
 ## Simulation
 |  |
 | ------- |
@@ -431,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/18-RAJAT/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2751-robot-collisions](https://github.com/18-RAJAT/LEETCODE/tree/master/2751-robot-collisions) |
 ## Math
 |  |
 | ------- |
@@ -721,6 +723,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/18-RAJAT/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [2211-count-collisions-on-a-road](https://github.com/18-RAJAT/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 | [0085-maximal-rectangle](https://github.com/18-RAJAT/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [2751-robot-collisions](https://github.com/18-RAJAT/LEETCODE/tree/master/2751-robot-collisions) |
 ## Greedy
 |  |
 | ------- |
@@ -881,6 +884,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/18-RAJAT/LEETCODE/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2751-robot-collisions](https://github.com/18-RAJAT/LEETCODE/tree/master/2751-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
