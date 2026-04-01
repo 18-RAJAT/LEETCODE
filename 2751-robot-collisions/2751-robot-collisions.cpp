@@ -15,7 +15,6 @@ public:
             v[i][3]=i;
         }
         sort(v.begin(),v.end());
-        //[idvals,health]
         vector<pair<int,int>>ans;
         int i=0;
         stack<pair<int,int>>s;
