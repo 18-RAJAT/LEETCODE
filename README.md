@@ -383,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/18-RAJAT/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2573-find-the-string-with-lcp](https://github.com/18-RAJAT/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/18-RAJAT/LEETCODE/tree/master/2751-robot-collisions) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/18-RAJAT/LEETCODE/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Simulation
 |  |
 | ------- |
@@ -1241,6 +1242,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3548-equal-sum-grid-partition-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-equal-sum-grid-partition-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/18-RAJAT/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2573-find-the-string-with-lcp](https://github.com/18-RAJAT/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/18-RAJAT/LEETCODE/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Graph
 |  |
 | ------- |
@@ -1477,6 +1479,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/18-RAJAT/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/18-RAJAT/LEETCODE/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Shortest Path
 |  |
 | ------- |
