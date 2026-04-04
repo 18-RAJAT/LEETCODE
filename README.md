@@ -435,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/18-RAJAT/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2751-robot-collisions](https://github.com/18-RAJAT/LEETCODE/tree/master/2751-robot-collisions) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/18-RAJAT/LEETCODE/tree/master/2075-decode-the-slanted-ciphertext) |
 ## Math
 |  |
 | ------- |
@@ -690,6 +691,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/18-RAJAT/LEETCODE/tree/master/3474-lexicographically-smallest-generated-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/18-RAJAT/LEETCODE/tree/master/2075-decode-the-slanted-ciphertext) |
 ## Stack
 |  |
 | ------- |
