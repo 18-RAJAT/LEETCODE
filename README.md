@@ -439,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2075-decode-the-slanted-ciphertext](https://github.com/18-RAJAT/LEETCODE/tree/master/2075-decode-the-slanted-ciphertext) |
 | [0657-robot-return-to-origin](https://github.com/18-RAJAT/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/18-RAJAT/LEETCODE/tree/master/0874-walking-robot-simulation) |
+| [2069-walking-robot-simulation-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/2069-walking-robot-simulation-ii) |
 ## Math
 |  |
 | ------- |
@@ -1706,6 +1707,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2023-design-movie-rental-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2169-simple-bank-system) |
 | [1622-fancy-sequence](https://github.com/18-RAJAT/LEETCODE/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/2069-walking-robot-simulation-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
