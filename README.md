@@ -386,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/18-RAJAT/LEETCODE/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/18-RAJAT/LEETCODE/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [0874-walking-robot-simulation](https://github.com/18-RAJAT/LEETCODE/tree/master/0874-walking-robot-simulation) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Simulation
 |  |
 | ------- |
@@ -440,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0657-robot-return-to-origin](https://github.com/18-RAJAT/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/18-RAJAT/LEETCODE/tree/master/0874-walking-robot-simulation) |
 | [2069-walking-robot-simulation-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/2069-walking-robot-simulation-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Math
 |  |
 | ------- |
@@ -1307,6 +1309,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3721-longest-balanced-subarray-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3721-longest-balanced-subarray-ii) |
 | [0190-reverse-bits](https://github.com/18-RAJAT/LEETCODE/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/0761-special-binary-string) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
