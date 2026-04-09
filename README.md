@@ -387,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/18-RAJAT/LEETCODE/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [0874-walking-robot-simulation](https://github.com/18-RAJAT/LEETCODE/tree/master/0874-walking-robot-simulation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -1310,6 +1311,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0190-reverse-bits](https://github.com/18-RAJAT/LEETCODE/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/0761-special-binary-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
