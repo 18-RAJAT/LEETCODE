@@ -702,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3474-lexicographically-smallest-generated-string](https://github.com/18-RAJAT/LEETCODE/tree/master/3474-lexicographically-smallest-generated-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/18-RAJAT/LEETCODE/tree/master/2075-decode-the-slanted-ciphertext) |
 | [0657-robot-return-to-origin](https://github.com/18-RAJAT/LEETCODE/tree/master/0657-robot-return-to-origin) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/18-RAJAT/LEETCODE/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 ## Stack
 |  |
 | ------- |
@@ -1500,6 +1501,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2573-find-the-string-with-lcp](https://github.com/18-RAJAT/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/18-RAJAT/LEETCODE/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/18-RAJAT/LEETCODE/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/18-RAJAT/LEETCODE/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 ## Shortest Path
 |  |
 | ------- |
