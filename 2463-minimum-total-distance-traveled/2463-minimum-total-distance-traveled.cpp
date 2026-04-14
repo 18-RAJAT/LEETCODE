@@ -1,28 +1,31 @@
-#define ll long long
 class Solution {
 public:
-    ll dp[101][101][101],pos[101][101],n,m;
-    ll func(int i,int j,int x,vector<int>& r, vector<vector<int>>& f)
-    {
-        if(i==n)
-            return (j==m) ? 1e15 : 1 ;
-        if(j==m)
-            return 0;
-        if(dp[i][j][x]!=-1)
-            return dp[i][j][x];
-        ll ans = 1e18;
-        if(i+1<n)
-            ans=func(i+1,j,f[i+1][1],r,f);
-        if(x)
-            ans=min(ans,pos[i][j] + func(i,j+1,x-1,r,f));
-        return dp[i][j][x]=ans;
-    }
-    
-    long long minimumTotalDistance(vector<int>& r, vector<vector<int>>& f) {
-        n=f.size(),m=r.size(),sort(begin(r),end(r)),sort(begin(f),end(f)),memset(dp,-1,sizeof(dp));
-        for(int i=0;i<n;i++)
-            for(int j=0;j<m;j++)
-                pos[i][j] = max(f[i][0],r[j]) - min(f[i][0],r[j]);
-        return func(0,0,f[0][1],r,f);
+    long long minimumTotalDistance(vector<int>& robot, vector<vector<int>>& factory) {
+        sort(robot.begin(),robot.end());
+        sort(factory.begin(),factory.end());
+        vector<int> res;
+        for(auto& it:factory)
+        {
+            for(int i=0;i<it[1];++i)
+            {
+                res.push_back(it[0]);
+            }
+        }
+        int rc=robot.size(),fc=res.size();
+        vector<vector<long long int>>dp(rc+1,vector<long long int>(fc+1,0));
+        for(int i=0;i<rc;++i)
+        {
+            dp[i][fc]=1e12;
+        }
+        for(int i=rc-1;~i;--i)
+        {
+            for(int j=fc-1;~j;--j)
+            {
+                long long int take=abs(robot[i]-res[j])+dp[i+1][j+1];
+                long long int leave=dp[i][j+1];
+                dp[i][j]=min(take,leave);
+            }
+        }
+        return dp[0][0];
     }
 };
