@@ -390,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [2463-minimum-total-distance-traveled](https://github.com/18-RAJAT/LEETCODE/tree/master/2463-minimum-total-distance-traveled) |
 ## Simulation
 |  |
 | ------- |
@@ -901,6 +902,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2751-robot-collisions](https://github.com/18-RAJAT/LEETCODE/tree/master/2751-robot-collisions) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/18-RAJAT/LEETCODE/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [2463-minimum-total-distance-traveled](https://github.com/18-RAJAT/LEETCODE/tree/master/2463-minimum-total-distance-traveled) |
 ## Hash Table
 |  |
 | ------- |
@@ -1502,6 +1504,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/18-RAJAT/LEETCODE/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/18-RAJAT/LEETCODE/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/18-RAJAT/LEETCODE/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [2463-minimum-total-distance-traveled](https://github.com/18-RAJAT/LEETCODE/tree/master/2463-minimum-total-distance-traveled) |
 ## Shortest Path
 |  |
 | ------- |
