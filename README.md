@@ -392,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [2463-minimum-total-distance-traveled](https://github.com/18-RAJAT/LEETCODE/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3488-closest-equal-element-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/3488-closest-equal-element-queries) |
 ## Simulation
 |  |
 | ------- |
@@ -1050,6 +1051,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0874-walking-robot-simulation](https://github.com/18-RAJAT/LEETCODE/tree/master/0874-walking-robot-simulation) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3488-closest-equal-element-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/3488-closest-equal-element-queries) |
 ## Tree
 |  |
 | ------- |
@@ -1619,6 +1621,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/18-RAJAT/LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/18-RAJAT/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/18-RAJAT/LEETCODE/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3488-closest-equal-element-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/3488-closest-equal-element-queries) |
 ## Recursion
 |  |
 | ------- |
