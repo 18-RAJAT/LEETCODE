@@ -393,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2463-minimum-total-distance-traveled](https://github.com/18-RAJAT/LEETCODE/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3488-closest-equal-element-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/3488-closest-equal-element-queries) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1622-fancy-sequence](https://github.com/18-RAJAT/LEETCODE/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/18-RAJAT/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -1052,6 +1054,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3488-closest-equal-element-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/3488-closest-equal-element-queries) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Tree
 |  |
 | ------- |
