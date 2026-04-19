@@ -394,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3488-closest-equal-element-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/3488-closest-equal-element-queries) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/18-RAJAT/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Simulation
 |  |
 | ------- |
@@ -1204,6 +1205,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [0696-count-binary-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [3643-flip-square-submatrix-vertically](https://github.com/18-RAJAT/LEETCODE/tree/master/3643-flip-square-submatrix-vertically) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/18-RAJAT/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Matrix
 |  |
 | ------- |
@@ -1626,6 +1628,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0744-find-smallest-letter-greater-than-target](https://github.com/18-RAJAT/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/18-RAJAT/LEETCODE/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3488-closest-equal-element-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/3488-closest-equal-element-queries) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/18-RAJAT/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Recursion
 |  |
 | ------- |
