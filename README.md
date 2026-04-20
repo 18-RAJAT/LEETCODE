@@ -395,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3488-closest-equal-element-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/3488-closest-equal-element-queries) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/18-RAJAT/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/18-RAJAT/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Simulation
 |  |
 | ------- |
@@ -822,6 +823,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/18-RAJAT/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/18-RAJAT/LEETCODE/tree/master/3474-lexicographically-smallest-generated-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/18-RAJAT/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Sorting
 |  |
 | ------- |
