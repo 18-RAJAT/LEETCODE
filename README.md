@@ -396,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/18-RAJAT/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/18-RAJAT/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -1171,6 +1172,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/18-RAJAT/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -2098,4 +2100,5 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/18-RAJAT/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
