@@ -397,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/18-RAJAT/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/18-RAJAT/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/18-RAJAT/LEETCODE/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Simulation
 |  |
 | ------- |
@@ -713,6 +714,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0657-robot-return-to-origin](https://github.com/18-RAJAT/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/18-RAJAT/LEETCODE/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/18-RAJAT/LEETCODE/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Stack
 |  |
 | ------- |
@@ -1942,6 +1944,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0208-implement-trie-prefix-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/18-RAJAT/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/18-RAJAT/LEETCODE/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Segment Tree
 |  |
 | ------- |
