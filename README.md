@@ -398,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2078-two-furthest-houses-with-different-colors](https://github.com/18-RAJAT/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/18-RAJAT/LEETCODE/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2615-sum-of-distances](https://github.com/18-RAJAT/LEETCODE/tree/master/2615-sum-of-distances) |
 ## Simulation
 |  |
 | ------- |
@@ -1062,6 +1063,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3488-closest-equal-element-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/3488-closest-equal-element-queries) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [2615-sum-of-distances](https://github.com/18-RAJAT/LEETCODE/tree/master/2615-sum-of-distances) |
 ## Tree
 |  |
 | ------- |
@@ -1832,6 +1834,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2906-construct-product-matrix](https://github.com/18-RAJAT/LEETCODE/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-equal-sum-grid-partition-ii) |
+| [2615-sum-of-distances](https://github.com/18-RAJAT/LEETCODE/tree/master/2615-sum-of-distances) |
 ## Game Theory
 |  |
 | ------- |
