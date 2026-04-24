@@ -716,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/18-RAJAT/LEETCODE/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/18-RAJAT/LEETCODE/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2833-furthest-point-from-origin](https://github.com/18-RAJAT/LEETCODE/tree/master/2833-furthest-point-from-origin) |
 ## Stack
 |  |
 | ------- |
@@ -1434,6 +1435,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/18-RAJAT/LEETCODE/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/18-RAJAT/LEETCODE/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
+| [2833-furthest-point-from-origin](https://github.com/18-RAJAT/LEETCODE/tree/master/2833-furthest-point-from-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
