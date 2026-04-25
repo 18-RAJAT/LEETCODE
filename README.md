@@ -399,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/18-RAJAT/LEETCODE/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/18-RAJAT/LEETCODE/tree/master/2615-sum-of-distances) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/18-RAJAT/LEETCODE/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Simulation
 |  |
 | ------- |
@@ -561,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/18-RAJAT/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/3783-mirror-distance-of-an-integer) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/18-RAJAT/LEETCODE/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## String
 |  |
 | ------- |
@@ -917,6 +919,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2751-robot-collisions](https://github.com/18-RAJAT/LEETCODE/tree/master/2751-robot-collisions) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/18-RAJAT/LEETCODE/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [2463-minimum-total-distance-traveled](https://github.com/18-RAJAT/LEETCODE/tree/master/2463-minimum-total-distance-traveled) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/18-RAJAT/LEETCODE/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Hash Table
 |  |
 | ------- |
@@ -1639,6 +1642,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/18-RAJAT/LEETCODE/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3488-closest-equal-element-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/3488-closest-equal-element-queries) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/18-RAJAT/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/18-RAJAT/LEETCODE/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Recursion
 |  |
 | ------- |
@@ -2090,6 +2094,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3625-count-number-of-trapezoids-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3625-count-number-of-trapezoids-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/18-RAJAT/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/18-RAJAT/LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/18-RAJAT/LEETCODE/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Bitmask
 |  |
 | ------- |
