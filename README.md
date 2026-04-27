@@ -400,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2452-words-within-two-edits-of-dictionary](https://github.com/18-RAJAT/LEETCODE/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/18-RAJAT/LEETCODE/tree/master/2615-sum-of-distances) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/18-RAJAT/LEETCODE/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -1181,6 +1182,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/18-RAJAT/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1285,6 +1287,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/18-RAJAT/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2573-find-the-string-with-lcp](https://github.com/18-RAJAT/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/18-RAJAT/LEETCODE/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -1702,6 +1705,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/18-RAJAT/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -2114,4 +2118,5 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/18-RAJAT/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
