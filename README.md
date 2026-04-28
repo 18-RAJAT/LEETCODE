@@ -401,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2615-sum-of-distances](https://github.com/18-RAJAT/LEETCODE/tree/master/2615-sum-of-distances) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/18-RAJAT/LEETCODE/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -564,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/3783-mirror-distance-of-an-integer) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/18-RAJAT/LEETCODE/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## String
 |  |
 | ------- |
@@ -921,6 +923,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/18-RAJAT/LEETCODE/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [2463-minimum-total-distance-traveled](https://github.com/18-RAJAT/LEETCODE/tree/master/2463-minimum-total-distance-traveled) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/18-RAJAT/LEETCODE/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -1288,6 +1291,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2573-find-the-string-with-lcp](https://github.com/18-RAJAT/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/18-RAJAT/LEETCODE/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Graph
 |  |
 | ------- |
