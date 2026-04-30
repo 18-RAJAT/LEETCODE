@@ -403,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3225-maximum-score-from-grid-operations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -1294,6 +1295,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3225-maximum-score-from-grid-operations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -1538,6 +1540,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/18-RAJAT/LEETCODE/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/18-RAJAT/LEETCODE/tree/master/2463-minimum-total-distance-traveled) |
 | [3225-maximum-score-from-grid-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3225-maximum-score-from-grid-operations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
