@@ -405,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3225-maximum-score-from-grid-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/3742-maximum-path-score-in-a-grid) |
 | [0396-rotate-function](https://github.com/18-RAJAT/LEETCODE/tree/master/0396-rotate-function) |
+| [0048-rotate-image](https://github.com/18-RAJAT/LEETCODE/tree/master/0048-rotate-image) |
 ## Simulation
 |  |
 | ------- |
@@ -571,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [0396-rotate-function](https://github.com/18-RAJAT/LEETCODE/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/0788-rotated-digits) |
+| [0048-rotate-image](https://github.com/18-RAJAT/LEETCODE/tree/master/0048-rotate-image) |
 ## String
 |  |
 | ------- |
@@ -1299,6 +1301,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/3742-maximum-path-score-in-a-grid) |
+| [0048-rotate-image](https://github.com/18-RAJAT/LEETCODE/tree/master/0048-rotate-image) |
 ## Graph
 |  |
 | ------- |
