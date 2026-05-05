@@ -1230,6 +1230,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0696-count-binary-substrings](https://github.com/18-RAJAT/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [3643-flip-square-submatrix-vertically](https://github.com/18-RAJAT/LEETCODE/tree/master/3643-flip-square-submatrix-vertically) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/18-RAJAT/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [0061-rotate-list](https://github.com/18-RAJAT/LEETCODE/tree/master/0061-rotate-list) |
 ## Matrix
 |  |
 | ------- |
@@ -1933,6 +1934,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/18-RAJAT/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [0061-rotate-list](https://github.com/18-RAJAT/LEETCODE/tree/master/0061-rotate-list) |
 ## Number Theory
 |  |
 | ------- |
