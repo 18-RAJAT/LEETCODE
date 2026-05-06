@@ -406,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3742-maximum-path-score-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/3742-maximum-path-score-in-a-grid) |
 | [0396-rotate-function](https://github.com/18-RAJAT/LEETCODE/tree/master/0396-rotate-function) |
 | [0048-rotate-image](https://github.com/18-RAJAT/LEETCODE/tree/master/0048-rotate-image) |
+| [1861-rotating-the-box](https://github.com/18-RAJAT/LEETCODE/tree/master/1861-rotating-the-box) |
 ## Simulation
 |  |
 | ------- |
@@ -1231,6 +1232,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3643-flip-square-submatrix-vertically](https://github.com/18-RAJAT/LEETCODE/tree/master/3643-flip-square-submatrix-vertically) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/18-RAJAT/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [0061-rotate-list](https://github.com/18-RAJAT/LEETCODE/tree/master/0061-rotate-list) |
+| [1861-rotating-the-box](https://github.com/18-RAJAT/LEETCODE/tree/master/1861-rotating-the-box) |
 ## Matrix
 |  |
 | ------- |
@@ -1303,6 +1305,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3225-maximum-score-from-grid-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/3742-maximum-path-score-in-a-grid) |
 | [0048-rotate-image](https://github.com/18-RAJAT/LEETCODE/tree/master/0048-rotate-image) |
+| [1861-rotating-the-box](https://github.com/18-RAJAT/LEETCODE/tree/master/1861-rotating-the-box) |
 ## Graph
 |  |
 | ------- |
