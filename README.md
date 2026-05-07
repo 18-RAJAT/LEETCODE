@@ -407,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0396-rotate-function](https://github.com/18-RAJAT/LEETCODE/tree/master/0396-rotate-function) |
 | [0048-rotate-image](https://github.com/18-RAJAT/LEETCODE/tree/master/0048-rotate-image) |
 | [1861-rotating-the-box](https://github.com/18-RAJAT/LEETCODE/tree/master/1861-rotating-the-box) |
+| [3660-jump-game-ix](https://github.com/18-RAJAT/LEETCODE/tree/master/3660-jump-game-ix) |
 ## Simulation
 |  |
 | ------- |
@@ -1553,6 +1554,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3742-maximum-path-score-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/3742-maximum-path-score-in-a-grid) |
 | [0396-rotate-function](https://github.com/18-RAJAT/LEETCODE/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/0788-rotated-digits) |
+| [3660-jump-game-ix](https://github.com/18-RAJAT/LEETCODE/tree/master/3660-jump-game-ix) |
 ## Shortest Path
 |  |
 | ------- |
