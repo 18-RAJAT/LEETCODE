@@ -409,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1861-rotating-the-box](https://github.com/18-RAJAT/LEETCODE/tree/master/1861-rotating-the-box) |
 | [3660-jump-game-ix](https://github.com/18-RAJAT/LEETCODE/tree/master/3660-jump-game-ix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/18-RAJAT/LEETCODE/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [1914-cyclically-rotating-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1914-cyclically-rotating-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -464,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0874-walking-robot-simulation](https://github.com/18-RAJAT/LEETCODE/tree/master/0874-walking-robot-simulation) |
 | [2069-walking-robot-simulation-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/2069-walking-robot-simulation-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [1914-cyclically-rotating-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1914-cyclically-rotating-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -1310,6 +1312,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3742-maximum-path-score-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/3742-maximum-path-score-in-a-grid) |
 | [0048-rotate-image](https://github.com/18-RAJAT/LEETCODE/tree/master/0048-rotate-image) |
 | [1861-rotating-the-box](https://github.com/18-RAJAT/LEETCODE/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1914-cyclically-rotating-a-grid) |
 ## Graph
 |  |
 | ------- |
