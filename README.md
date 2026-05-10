@@ -410,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3660-jump-game-ix](https://github.com/18-RAJAT/LEETCODE/tree/master/3660-jump-game-ix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/18-RAJAT/LEETCODE/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1914-cyclically-rotating-a-grid) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/18-RAJAT/LEETCODE/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Simulation
 |  |
 | ------- |
@@ -1561,6 +1562,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0396-rotate-function](https://github.com/18-RAJAT/LEETCODE/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/0788-rotated-digits) |
 | [3660-jump-game-ix](https://github.com/18-RAJAT/LEETCODE/tree/master/3660-jump-game-ix) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/18-RAJAT/LEETCODE/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Shortest Path
 |  |
 | ------- |
