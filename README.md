@@ -411,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/18-RAJAT/LEETCODE/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1914-cyclically-rotating-a-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/18-RAJAT/LEETCODE/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2553-separate-the-digits-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -467,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2069-walking-robot-simulation-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/2069-walking-robot-simulation-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [1914-cyclically-rotating-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1914-cyclically-rotating-a-grid) |
+| [2553-separate-the-digits-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 ## Math
 |  |
 | ------- |
