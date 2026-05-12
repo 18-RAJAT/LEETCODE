@@ -412,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1914-cyclically-rotating-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1914-cyclically-rotating-a-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/18-RAJAT/LEETCODE/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2553-separate-the-digits-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/18-RAJAT/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Simulation
 |  |
 | ------- |
@@ -850,6 +851,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2573-find-the-string-with-lcp](https://github.com/18-RAJAT/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/18-RAJAT/LEETCODE/tree/master/3474-lexicographically-smallest-generated-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/18-RAJAT/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/18-RAJAT/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Sorting
 |  |
 | ------- |
@@ -940,6 +942,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2463-minimum-total-distance-traveled](https://github.com/18-RAJAT/LEETCODE/tree/master/2463-minimum-total-distance-traveled) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/18-RAJAT/LEETCODE/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/18-RAJAT/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Hash Table
 |  |
 | ------- |
