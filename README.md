@@ -413,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/18-RAJAT/LEETCODE/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2553-separate-the-digits-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/18-RAJAT/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/18-RAJAT/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 ## Simulation
 |  |
 | ------- |
@@ -1092,6 +1093,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/18-RAJAT/LEETCODE/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [2615-sum-of-distances](https://github.com/18-RAJAT/LEETCODE/tree/master/2615-sum-of-distances) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/18-RAJAT/LEETCODE/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/18-RAJAT/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 ## Tree
 |  |
 | ------- |
@@ -1884,6 +1886,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3548-equal-sum-grid-partition-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-equal-sum-grid-partition-ii) |
 | [2615-sum-of-distances](https://github.com/18-RAJAT/LEETCODE/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3225-maximum-score-from-grid-operations) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/18-RAJAT/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 ## Game Theory
 |  |
 | ------- |
