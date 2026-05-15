@@ -415,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/18-RAJAT/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/18-RAJAT/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/18-RAJAT/LEETCODE/tree/master/2784-check-if-array-is-good) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Simulation
 |  |
 | ------- |
@@ -1688,6 +1689,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3488-closest-equal-element-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/3488-closest-equal-element-queries) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/18-RAJAT/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/18-RAJAT/LEETCODE/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Recursion
 |  |
 | ------- |
