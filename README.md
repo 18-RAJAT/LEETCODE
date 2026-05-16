@@ -416,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/18-RAJAT/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/18-RAJAT/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -1690,6 +1691,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/18-RAJAT/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/18-RAJAT/LEETCODE/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Recursion
 |  |
 | ------- |
