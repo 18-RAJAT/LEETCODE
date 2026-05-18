@@ -418,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1306-jump-game-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1345-jump-game-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -1100,6 +1101,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/18-RAJAT/LEETCODE/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/18-RAJAT/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/18-RAJAT/LEETCODE/tree/master/2784-check-if-array-is-good) |
+| [1345-jump-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1345-jump-game-iv) |
 ## Tree
 |  |
 | ------- |
@@ -1756,6 +1758,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/18-RAJAT/LEETCODE/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [1306-jump-game-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1345-jump-game-iv) |
 ## Union Find
 |  |
 | ------- |
