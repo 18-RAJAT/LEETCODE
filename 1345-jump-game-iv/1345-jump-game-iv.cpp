@@ -6,8 +6,8 @@ public:
         {
             return 0;
         }
-        map<int,vector<int>>mp;
-        for(int i=0;i<n;i++)
+        unordered_map<int,vector<int>>mp;
+        for(int i=0;i<n;++i)
         {
             mp[arr[i]].push_back(i);
         }
