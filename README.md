@@ -419,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1306-jump-game-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1345-jump-game-iv) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -1102,6 +1103,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/18-RAJAT/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/18-RAJAT/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [1345-jump-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1345-jump-game-iv) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Tree
 |  |
 | ------- |
@@ -1954,6 +1956,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/18-RAJAT/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1009-complement-of-base-10-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/1009-complement-of-base-10-integer) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
