@@ -420,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1306-jump-game-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1345-jump-game-iv) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/18-RAJAT/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Simulation
 |  |
 | ------- |
@@ -746,6 +747,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/18-RAJAT/LEETCODE/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/18-RAJAT/LEETCODE/tree/master/2833-furthest-point-from-origin) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/18-RAJAT/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -1104,6 +1106,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2784-check-if-array-is-good](https://github.com/18-RAJAT/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [1345-jump-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1345-jump-game-iv) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/18-RAJAT/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Tree
 |  |
 | ------- |
@@ -2018,6 +2021,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/18-RAJAT/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/18-RAJAT/LEETCODE/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/18-RAJAT/LEETCODE/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/18-RAJAT/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Segment Tree
 |  |
 | ------- |
