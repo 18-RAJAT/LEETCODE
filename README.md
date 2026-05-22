@@ -421,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1345-jump-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1345-jump-game-iv) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/18-RAJAT/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 ## Simulation
 |  |
 | ------- |
@@ -1701,6 +1702,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/18-RAJAT/LEETCODE/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0033-search-in-rotated-sorted-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 ## Recursion
 |  |
 | ------- |
