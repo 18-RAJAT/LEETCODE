@@ -422,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/18-RAJAT/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [1340-jump-game-v](https://github.com/18-RAJAT/LEETCODE/tree/master/1340-jump-game-v) |
 ## Simulation
 |  |
 | ------- |
@@ -954,6 +955,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/18-RAJAT/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2784-check-if-array-is-good](https://github.com/18-RAJAT/LEETCODE/tree/master/2784-check-if-array-is-good) |
+| [1340-jump-game-v](https://github.com/18-RAJAT/LEETCODE/tree/master/1340-jump-game-v) |
 ## Hash Table
 |  |
 | ------- |
@@ -1585,6 +1587,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0788-rotated-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/0788-rotated-digits) |
 | [3660-jump-game-ix](https://github.com/18-RAJAT/LEETCODE/tree/master/3660-jump-game-ix) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/18-RAJAT/LEETCODE/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [1340-jump-game-v](https://github.com/18-RAJAT/LEETCODE/tree/master/1340-jump-game-v) |
 ## Shortest Path
 |  |
 | ------- |
