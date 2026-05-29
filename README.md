@@ -423,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/18-RAJAT/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [1340-jump-game-v](https://github.com/18-RAJAT/LEETCODE/tree/master/1340-jump-game-v) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -593,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0788-rotated-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/0788-rotated-digits) |
 | [0048-rotate-image](https://github.com/18-RAJAT/LEETCODE/tree/master/0048-rotate-image) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/18-RAJAT/LEETCODE/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## String
 |  |
 | ------- |
