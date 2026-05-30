@@ -424,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0033-search-in-rotated-sorted-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [1340-jump-game-v](https://github.com/18-RAJAT/LEETCODE/tree/master/1340-jump-game-v) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3161-block-placement-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/3161-block-placement-queries) |
 ## Simulation
 |  |
 | ------- |
@@ -1613,6 +1614,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1511-count-number-of-teams](https://github.com/18-RAJAT/LEETCODE/tree/master/1511-count-number-of-teams) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/18-RAJAT/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [2280-count-good-triplets-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
+| [3161-block-placement-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/3161-block-placement-queries) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1715,6 +1717,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0033-search-in-rotated-sorted-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [3161-block-placement-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/3161-block-placement-queries) |
 ## Recursion
 |  |
 | ------- |
@@ -2047,6 +2050,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3719-longest-balanced-subarray-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3721-longest-balanced-subarray-ii) |
 | [1622-fancy-sequence](https://github.com/18-RAJAT/LEETCODE/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/3161-block-placement-queries) |
 ## Ordered Set
 |  |
 | ------- |
