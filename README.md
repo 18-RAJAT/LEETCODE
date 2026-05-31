@@ -425,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1340-jump-game-v](https://github.com/18-RAJAT/LEETCODE/tree/master/1340-jump-game-v) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3161-block-placement-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/3161-block-placement-queries) |
+| [2126-destroying-asteroids](https://github.com/18-RAJAT/LEETCODE/tree/master/2126-destroying-asteroids) |
 ## Simulation
 |  |
 | ------- |
@@ -869,6 +870,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3474-lexicographically-smallest-generated-string](https://github.com/18-RAJAT/LEETCODE/tree/master/3474-lexicographically-smallest-generated-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/18-RAJAT/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/18-RAJAT/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2126-destroying-asteroids](https://github.com/18-RAJAT/LEETCODE/tree/master/2126-destroying-asteroids) |
 ## Sorting
 |  |
 | ------- |
@@ -962,6 +964,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/18-RAJAT/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2784-check-if-array-is-good](https://github.com/18-RAJAT/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [1340-jump-game-v](https://github.com/18-RAJAT/LEETCODE/tree/master/1340-jump-game-v) |
+| [2126-destroying-asteroids](https://github.com/18-RAJAT/LEETCODE/tree/master/2126-destroying-asteroids) |
 ## Hash Table
 |  |
 | ------- |
