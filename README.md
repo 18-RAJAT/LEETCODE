@@ -426,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3161-block-placement-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/3161-block-placement-queries) |
 | [2126-destroying-asteroids](https://github.com/18-RAJAT/LEETCODE/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/18-RAJAT/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Simulation
 |  |
 | ------- |
@@ -871,6 +872,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2078-two-furthest-houses-with-different-colors](https://github.com/18-RAJAT/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/18-RAJAT/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/18-RAJAT/LEETCODE/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/18-RAJAT/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Sorting
 |  |
 | ------- |
@@ -965,6 +967,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2784-check-if-array-is-good](https://github.com/18-RAJAT/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [1340-jump-game-v](https://github.com/18-RAJAT/LEETCODE/tree/master/1340-jump-game-v) |
 | [2126-destroying-asteroids](https://github.com/18-RAJAT/LEETCODE/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/18-RAJAT/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Hash Table
 |  |
 | ------- |
