@@ -427,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3161-block-placement-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/3161-block-placement-queries) |
 | [2126-destroying-asteroids](https://github.com/18-RAJAT/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/18-RAJAT/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Simulation
 |  |
 | ------- |
@@ -873,6 +874,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/18-RAJAT/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/18-RAJAT/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/18-RAJAT/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -968,6 +970,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1340-jump-game-v](https://github.com/18-RAJAT/LEETCODE/tree/master/1340-jump-game-v) |
 | [2126-destroying-asteroids](https://github.com/18-RAJAT/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/18-RAJAT/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1278,6 +1281,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/18-RAJAT/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [0061-rotate-list](https://github.com/18-RAJAT/LEETCODE/tree/master/0061-rotate-list) |
 | [1861-rotating-the-box](https://github.com/18-RAJAT/LEETCODE/tree/master/1861-rotating-the-box) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
 | ------- |
@@ -1724,6 +1728,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0033-search-in-rotated-sorted-array](https://github.com/18-RAJAT/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [3161-block-placement-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/3161-block-placement-queries) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Recursion
 |  |
 | ------- |
