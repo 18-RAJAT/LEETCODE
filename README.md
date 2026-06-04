@@ -600,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0048-rotate-image](https://github.com/18-RAJAT/LEETCODE/tree/master/0048-rotate-image) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/18-RAJAT/LEETCODE/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
 |  |
 | ------- |
@@ -1611,6 +1612,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/18-RAJAT/LEETCODE/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [1340-jump-game-v](https://github.com/18-RAJAT/LEETCODE/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/18-RAJAT/LEETCODE/tree/master/1871-jump-game-vii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -2142,6 +2144,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3713-longest-balanced-substring-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Monotonic Queue
 |  |
 | ------- |
