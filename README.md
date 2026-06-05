@@ -601,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/18-RAJAT/LEETCODE/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/18-RAJAT/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## String
 |  |
 | ------- |
@@ -1613,6 +1614,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1340-jump-game-v](https://github.com/18-RAJAT/LEETCODE/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/18-RAJAT/LEETCODE/tree/master/1871-jump-game-vii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Shortest Path
 |  |
 | ------- |
