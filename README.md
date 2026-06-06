@@ -429,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/18-RAJAT/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [2574-left-and-right-sum-differences](https://github.com/18-RAJAT/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
 |  |
 | ------- |
@@ -1943,6 +1944,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3225-maximum-score-from-grid-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/3225-maximum-score-from-grid-operations) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/18-RAJAT/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/18-RAJAT/LEETCODE/tree/master/1871-jump-game-vii) |
+| [2574-left-and-right-sum-differences](https://github.com/18-RAJAT/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 ## Game Theory
 |  |
 | ------- |
