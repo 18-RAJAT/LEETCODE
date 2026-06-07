@@ -430,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/18-RAJAT/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/18-RAJAT/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Simulation
 |  |
 | ------- |
@@ -1133,6 +1134,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/18-RAJAT/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/18-RAJAT/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Tree
 |  |
 | ------- |
@@ -1166,6 +1168,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/18-RAJAT/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/18-RAJAT/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1191,6 +1194,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/18-RAJAT/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/18-RAJAT/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/18-RAJAT/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
