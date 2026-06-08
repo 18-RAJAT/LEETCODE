@@ -431,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/18-RAJAT/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/18-RAJAT/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/18-RAJAT/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
 | ------- |
@@ -488,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [1914-cyclically-rotating-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/18-RAJAT/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Math
 |  |
 | ------- |
@@ -1293,6 +1295,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1861-rotating-the-box](https://github.com/18-RAJAT/LEETCODE/tree/master/1861-rotating-the-box) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/18-RAJAT/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Matrix
 |  |
 | ------- |
