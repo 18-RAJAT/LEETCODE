@@ -433,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2196-create-binary-tree-from-descriptions](https://github.com/18-RAJAT/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/18-RAJAT/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3689-maximum-total-subarray-value-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -885,6 +886,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -1473,6 +1475,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/18-RAJAT/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -2082,6 +2085,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3721-longest-balanced-subarray-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3721-longest-balanced-subarray-ii) |
 | [1622-fancy-sequence](https://github.com/18-RAJAT/LEETCODE/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Ordered Set
 |  |
 | ------- |
