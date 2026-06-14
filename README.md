@@ -805,6 +805,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2211-count-collisions-on-a-road](https://github.com/18-RAJAT/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 | [0085-maximal-rectangle](https://github.com/18-RAJAT/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [2751-robot-collisions](https://github.com/18-RAJAT/LEETCODE/tree/master/2751-robot-collisions) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/18-RAJAT/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -1303,6 +1304,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/18-RAJAT/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/18-RAJAT/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -2031,6 +2033,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [0061-rotate-list](https://github.com/18-RAJAT/LEETCODE/tree/master/0061-rotate-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/18-RAJAT/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Number Theory
 |  |
 | ------- |
