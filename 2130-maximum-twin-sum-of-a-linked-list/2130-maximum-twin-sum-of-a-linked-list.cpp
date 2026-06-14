@@ -10,23 +10,18 @@
  */
 class Solution {
 public:
-    int maximum=0;
-    ListNode *left=nullptr;
-    void maxSum(ListNode *right)
-    {
-        if(not right)
-        {
-            return;
-        }
-        maxSum(right->next);
-        maximum=max(maximum,left->val+right->val);
-        left=left->next;
-
-    }
     int pairSum(ListNode* head) {
-        left=head;
-        maxSum(head);
-        return maximum;
-
+        vector<int>storeEle;
+        int maxi(0);
+        while(head)
+        {
+            storeEle.push_back(head->val);
+            head=head->next;
+        }
+        for(int i=0;i<storeEle.size()/2;++i)
+        {
+            maxi=max<int>(maxi,storeEle[i]+storeEle[storeEle.size()-i-1]);
+        }
+        return maxi;
     }
 };
