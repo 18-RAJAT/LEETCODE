@@ -493,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2553-separate-the-digits-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/18-RAJAT/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3614-process-string-with-special-operations-ii) |
 ## Math
 |  |
 | ------- |
@@ -771,6 +772,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3120-count-the-number-of-special-characters-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3614-process-string-with-special-operations-ii) |
 ## Stack
 |  |
 | ------- |
