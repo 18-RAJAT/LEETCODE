@@ -434,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2161-partition-array-according-to-given-pivot](https://github.com/18-RAJAT/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3689-maximum-total-subarray-value-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
+| [1732-find-the-highest-altitude](https://github.com/18-RAJAT/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 ## Simulation
 |  |
 | ------- |
@@ -1968,6 +1969,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/18-RAJAT/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/18-RAJAT/LEETCODE/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/18-RAJAT/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
+| [1732-find-the-highest-altitude](https://github.com/18-RAJAT/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 ## Game Theory
 |  |
 | ------- |
