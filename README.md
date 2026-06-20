@@ -435,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3689-maximum-total-subarray-value-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 | [1732-find-the-highest-altitude](https://github.com/18-RAJAT/LEETCODE/tree/master/1732-find-the-highest-altitude) |
+| [1840-maximum-building-height](https://github.com/18-RAJAT/LEETCODE/tree/master/1840-maximum-building-height) |
 ## Simulation
 |  |
 | ------- |
@@ -613,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/18-RAJAT/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/18-RAJAT/LEETCODE/tree/master/1840-maximum-building-height) |
 ## String
 |  |
 | ------- |
@@ -992,6 +994,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/18-RAJAT/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [1840-maximum-building-height](https://github.com/18-RAJAT/LEETCODE/tree/master/1840-maximum-building-height) |
 ## Hash Table
 |  |
 | ------- |
