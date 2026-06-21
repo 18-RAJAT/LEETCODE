@@ -436,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3691-maximum-total-subarray-value-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 | [1732-find-the-highest-altitude](https://github.com/18-RAJAT/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1840-maximum-building-height](https://github.com/18-RAJAT/LEETCODE/tree/master/1840-maximum-building-height) |
+| [1833-maximum-ice-cream-bars](https://github.com/18-RAJAT/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 ## Simulation
 |  |
 | ------- |
@@ -897,6 +898,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
+| [1833-maximum-ice-cream-bars](https://github.com/18-RAJAT/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
 | ------- |
@@ -995,6 +997,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [1840-maximum-building-height](https://github.com/18-RAJAT/LEETCODE/tree/master/1840-maximum-building-height) |
+| [1833-maximum-ice-cream-bars](https://github.com/18-RAJAT/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
 | ------- |
@@ -1544,6 +1547,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3583-count-special-triplets](https://github.com/18-RAJAT/LEETCODE/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 | [2833-furthest-point-from-origin](https://github.com/18-RAJAT/LEETCODE/tree/master/2833-furthest-point-from-origin) |
+| [1833-maximum-ice-cream-bars](https://github.com/18-RAJAT/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 ## Dynamic Programming
 |  |
 | ------- |
