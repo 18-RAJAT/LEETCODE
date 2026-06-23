@@ -1650,6 +1650,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1871-jump-game-vii](https://github.com/18-RAJAT/LEETCODE/tree/master/1871-jump-game-vii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1980,6 +1981,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1871-jump-game-vii](https://github.com/18-RAJAT/LEETCODE/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/18-RAJAT/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [1732-find-the-highest-altitude](https://github.com/18-RAJAT/LEETCODE/tree/master/1732-find-the-highest-altitude) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Game Theory
 |  |
 | ------- |
