@@ -438,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1840-maximum-building-height](https://github.com/18-RAJAT/LEETCODE/tree/master/1840-maximum-building-height) |
 | [1833-maximum-ice-cream-bars](https://github.com/18-RAJAT/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -1160,6 +1161,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2196-create-binary-tree-from-descriptions](https://github.com/18-RAJAT/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [1189-maximum-number-of-balloons](https://github.com/18-RAJAT/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Tree
 |  |
 | ------- |
@@ -1454,6 +1456,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1507,6 +1510,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2280-count-good-triplets-in-an-array](https://github.com/18-RAJAT/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [0023-merge-k-sorted-lists](https://github.com/18-RAJAT/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1990,6 +1994,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1732-find-the-highest-altitude](https://github.com/18-RAJAT/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -2122,6 +2127,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3161-block-placement-queries](https://github.com/18-RAJAT/LEETCODE/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Ordered Set
 |  |
 | ------- |
