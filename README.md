@@ -439,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1833-maximum-ice-cream-bars](https://github.com/18-RAJAT/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/18-RAJAT/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Simulation
 |  |
 | ------- |
@@ -1162,6 +1163,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1189-maximum-number-of-balloons](https://github.com/18-RAJAT/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/18-RAJAT/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Tree
 |  |
 | ------- |
@@ -2204,6 +2206,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3546-equal-sum-grid-partition-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/18-RAJAT/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Monotonic Queue
 |  |
 | ------- |
