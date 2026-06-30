@@ -786,6 +786,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3614-process-string-with-special-operations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3614-process-string-with-special-operations-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/18-RAJAT/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/18-RAJAT/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
 | ------- |
@@ -1169,6 +1170,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3737-count-subarrays-with-majority-element-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/18-RAJAT/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Tree
 |  |
 | ------- |
@@ -1732,6 +1734,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/18-RAJAT/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/18-RAJAT/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1871-jump-game-vii](https://github.com/18-RAJAT/LEETCODE/tree/master/1871-jump-game-vii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
 | ------- |
