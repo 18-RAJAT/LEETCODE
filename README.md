@@ -1292,6 +1292,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1306-jump-game-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1306-jump-game-iii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/18-RAJAT/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1868,6 +1869,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1345-jump-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1345-jump-game-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/18-RAJAT/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union Find
 |  |
 | ------- |
@@ -2295,6 +2297,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/18-RAJAT/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/18-RAJAT/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
 | ------- |
@@ -2303,4 +2306,5 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/18-RAJAT/LEETCODE/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/18-RAJAT/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
