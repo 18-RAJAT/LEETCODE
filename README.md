@@ -444,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/18-RAJAT/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [1301-number-of-paths-with-max-score](https://github.com/18-RAJAT/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 ## Simulation
 |  |
 | ------- |
@@ -1413,6 +1414,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1914-cyclically-rotating-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1914-cyclically-rotating-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [1301-number-of-paths-with-max-score](https://github.com/18-RAJAT/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 ## Graph
 |  |
 | ------- |
@@ -1678,6 +1680,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/18-RAJAT/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 ## Shortest Path
 |  |
 | ------- |
