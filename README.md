@@ -445,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2812-find-the-safest-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/18-RAJAT/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -913,6 +914,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3691-maximum-total-subarray-value-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/18-RAJAT/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/18-RAJAT/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -1013,6 +1015,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1840-maximum-building-height](https://github.com/18-RAJAT/LEETCODE/tree/master/1840-maximum-building-height) |
 | [1833-maximum-ice-cream-bars](https://github.com/18-RAJAT/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/18-RAJAT/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -1339,6 +1342,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2161-partition-array-according-to-given-pivot](https://github.com/18-RAJAT/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/18-RAJAT/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/18-RAJAT/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -1682,6 +1686,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3699-number-of-zigzag-arrays-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/18-RAJAT/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1808,6 +1813,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -2076,6 +2082,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1009-complement-of-base-10-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/1009-complement-of-base-10-integer) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -2302,6 +2309,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/18-RAJAT/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/18-RAJAT/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
 |  |
 | ------- |
