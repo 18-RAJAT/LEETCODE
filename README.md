@@ -446,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/18-RAJAT/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [1260-shift-2d-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -506,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2161-partition-array-according-to-given-pivot](https://github.com/18-RAJAT/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3614-process-string-with-special-operations-ii) |
+| [1260-shift-2d-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1260-shift-2d-grid) |
 ## Math
 |  |
 | ------- |
@@ -1421,6 +1423,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2812-find-the-safest-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/18-RAJAT/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
+| [1260-shift-2d-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1260-shift-2d-grid) |
 ## Graph
 |  |
 | ------- |
