@@ -447,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1301-number-of-paths-with-max-score](https://github.com/18-RAJAT/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [1260-shift-2d-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1260-shift-2d-grid) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -629,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1840-maximum-building-height](https://github.com/18-RAJAT/LEETCODE/tree/master/1840-maximum-building-height) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## String
 |  |
 | ------- |
@@ -2088,6 +2090,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1009-complement-of-base-10-integer](https://github.com/18-RAJAT/LEETCODE/tree/master/1009-complement-of-base-10-integer) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -2243,6 +2246,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3548-equal-sum-grid-partition-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/18-RAJAT/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
