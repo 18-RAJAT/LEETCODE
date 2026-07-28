@@ -799,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1189-maximum-number-of-balloons](https://github.com/18-RAJAT/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/18-RAJAT/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -1025,6 +1026,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1595,6 +1597,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1833-maximum-ice-cream-bars](https://github.com/18-RAJAT/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1189-maximum-number-of-balloons](https://github.com/18-RAJAT/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
 | ------- |
