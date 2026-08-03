@@ -1,7 +1,6 @@
 class Solution {
 public:
     string stoneGameIII(vector<int>& stoneValue) {
-        //bottom up
         int n=stoneValue.size();
         int dp[n+1];
         memset(dp,0,sizeof(dp));
