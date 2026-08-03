@@ -449,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1260-shift-2d-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [1406-stone-game-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1406-stone-game-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -634,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [1406-stone-game-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1406-stone-game-iii) |
 ## String
 |  |
 | ------- |
@@ -1701,6 +1703,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3700-number-of-zigzag-arrays-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/18-RAJAT/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [1406-stone-game-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1406-stone-game-iii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -2047,6 +2050,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [1240-stone-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1240-stone-game-ii) |
 | [0909-stone-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0909-stone-game) |
+| [1406-stone-game-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1406-stone-game-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
