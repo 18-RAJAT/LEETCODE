@@ -450,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1406-stone-game-iii) |
+| [3731-find-missing-elements](https://github.com/18-RAJAT/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -1029,6 +1030,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3536-maximum-product-of-two-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/18-RAJAT/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -1191,6 +1193,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/18-RAJAT/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3731-find-missing-elements](https://github.com/18-RAJAT/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
 | ------- |
