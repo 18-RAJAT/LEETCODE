@@ -637,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3536-maximum-product-of-two-digits](https://github.com/18-RAJAT/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-stone-game-iv) |
 ## String
 |  |
 | ------- |
@@ -1712,6 +1713,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [1406-stone-game-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/18-RAJAT/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [1510-stone-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-stone-game-iv) |
 ## Shortest Path
 |  |
 | ------- |
@@ -2060,6 +2062,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1240-stone-game-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/1240-stone-game-ii) |
 | [0909-stone-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0909-stone-game) |
 | [1406-stone-game-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-stone-game-iv) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -2352,4 +2355,20 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2812-find-the-safest-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/18-RAJAT/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/18-RAJAT/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
