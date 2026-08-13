@@ -24,7 +24,6 @@ public:
             build(mid+1,j,right);
             seg[idx][0]=seg[left][0];
             seg[idx][1]=max(seg[left][1],seg[right][1]);
-            seg[idx][2]=seg[right][2];
             if(s[mid]==s[mid+1])
             {
                 seg[idx][1]=max(seg[idx][1],seg[left][2]+seg[right][0]);
@@ -62,7 +61,6 @@ public:
         st.build(0,n-1);
         vector<int>ans;
         int q=queryCharacters.size();
-
         for(int i=0;i<q;++i)
         {
             st.Idx=queryIndices[i];
