@@ -451,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0628-maximum-product-of-three-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/18-RAJAT/LEETCODE/tree/master/3731-find-missing-elements) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/18-RAJAT/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Simulation
 |  |
 | ------- |
@@ -805,6 +806,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/18-RAJAT/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/18-RAJAT/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Stack
 |  |
 | ------- |
@@ -2193,6 +2195,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3691-maximum-total-subarray-value-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/18-RAJAT/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Ordered Set
 |  |
 | ------- |
@@ -2207,6 +2210,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/18-RAJAT/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/18-RAJAT/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Queue
 |  |
 | ------- |
