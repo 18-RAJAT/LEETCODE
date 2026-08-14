@@ -807,6 +807,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/18-RAJAT/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/18-RAJAT/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/18-RAJAT/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -1199,6 +1200,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/18-RAJAT/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3731-find-missing-elements](https://github.com/18-RAJAT/LEETCODE/tree/master/3731-find-missing-elements) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/18-RAJAT/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Tree
 |  |
 | ------- |
@@ -1781,6 +1783,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/18-RAJAT/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1871-jump-game-vii](https://github.com/18-RAJAT/LEETCODE/tree/master/1871-jump-game-vii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/18-RAJAT/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
