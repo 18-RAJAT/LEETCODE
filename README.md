@@ -452,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1406-stone-game-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/18-RAJAT/LEETCODE/tree/master/3731-find-missing-elements) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/18-RAJAT/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2029-stone-game-ix](https://github.com/18-RAJAT/LEETCODE/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
 | ------- |
@@ -639,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0628-maximum-product-of-three-numbers](https://github.com/18-RAJAT/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/18-RAJAT/LEETCODE/tree/master/2029-stone-game-ix) |
 ## String
 |  |
 | ------- |
@@ -932,6 +934,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/18-RAJAT/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/18-RAJAT/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [2029-stone-game-ix](https://github.com/18-RAJAT/LEETCODE/tree/master/2029-stone-game-ix) |
 ## Sorting
 |  |
 | ------- |
@@ -1612,6 +1615,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1189-maximum-number-of-balloons](https://github.com/18-RAJAT/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [2029-stone-game-ix](https://github.com/18-RAJAT/LEETCODE/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -2068,6 +2072,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0909-stone-game](https://github.com/18-RAJAT/LEETCODE/tree/master/0909-stone-game) |
 | [1406-stone-game-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/18-RAJAT/LEETCODE/tree/master/2029-stone-game-ix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -2366,10 +2371,12 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/18-RAJAT/LEETCODE/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/18-RAJAT/LEETCODE/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -2378,4 +2385,5 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/18-RAJAT/LEETCODE/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
