@@ -453,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3731-find-missing-elements](https://github.com/18-RAJAT/LEETCODE/tree/master/3731-find-missing-elements) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/18-RAJAT/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2029-stone-game-ix](https://github.com/18-RAJAT/LEETCODE/tree/master/2029-stone-game-ix) |
+| [1563-stone-game-v](https://github.com/18-RAJAT/LEETCODE/tree/master/1563-stone-game-v) |
 ## Simulation
 |  |
 | ------- |
@@ -641,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1406-stone-game-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/18-RAJAT/LEETCODE/tree/master/2029-stone-game-ix) |
+| [1563-stone-game-v](https://github.com/18-RAJAT/LEETCODE/tree/master/1563-stone-game-v) |
 ## String
 |  |
 | ------- |
@@ -1722,6 +1724,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1406-stone-game-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/18-RAJAT/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [1510-stone-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/18-RAJAT/LEETCODE/tree/master/1563-stone-game-v) |
 ## Shortest Path
 |  |
 | ------- |
@@ -2073,6 +2076,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1406-stone-game-iii](https://github.com/18-RAJAT/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/18-RAJAT/LEETCODE/tree/master/2029-stone-game-ix) |
+| [1563-stone-game-v](https://github.com/18-RAJAT/LEETCODE/tree/master/1563-stone-game-v) |
 ## Bit Manipulation
 |  |
 | ------- |
