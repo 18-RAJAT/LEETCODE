@@ -454,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2213-longest-substring-of-one-repeating-character](https://github.com/18-RAJAT/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2029-stone-game-ix](https://github.com/18-RAJAT/LEETCODE/tree/master/2029-stone-game-ix) |
 | [1563-stone-game-v](https://github.com/18-RAJAT/LEETCODE/tree/master/1563-stone-game-v) |
+| [1386-cinema-seat-allocation](https://github.com/18-RAJAT/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 ## Simulation
 |  |
 | ------- |
@@ -937,6 +938,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/18-RAJAT/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [2029-stone-game-ix](https://github.com/18-RAJAT/LEETCODE/tree/master/2029-stone-game-ix) |
+| [1386-cinema-seat-allocation](https://github.com/18-RAJAT/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 ## Sorting
 |  |
 | ------- |
@@ -1206,6 +1208,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3731-find-missing-elements](https://github.com/18-RAJAT/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/18-RAJAT/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [1386-cinema-seat-allocation](https://github.com/18-RAJAT/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 ## Tree
 |  |
 | ------- |
@@ -2129,6 +2132,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/18-RAJAT/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [1386-cinema-seat-allocation](https://github.com/18-RAJAT/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 ## Linked List
 |  |
 | ------- |
