@@ -455,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2029-stone-game-ix](https://github.com/18-RAJAT/LEETCODE/tree/master/2029-stone-game-ix) |
 | [1563-stone-game-v](https://github.com/18-RAJAT/LEETCODE/tree/master/1563-stone-game-v) |
 | [1386-cinema-seat-allocation](https://github.com/18-RAJAT/LEETCODE/tree/master/1386-cinema-seat-allocation) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -644,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1510-stone-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/18-RAJAT/LEETCODE/tree/master/2029-stone-game-ix) |
 | [1563-stone-game-v](https://github.com/18-RAJAT/LEETCODE/tree/master/1563-stone-game-v) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
