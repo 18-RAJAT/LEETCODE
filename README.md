@@ -815,6 +815,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/18-RAJAT/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/18-RAJAT/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/18-RAJAT/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Stack
 |  |
 | ------- |
@@ -852,6 +853,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0085-maximal-rectangle](https://github.com/18-RAJAT/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [2751-robot-collisions](https://github.com/18-RAJAT/LEETCODE/tree/master/2751-robot-collisions) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/18-RAJAT/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Greedy
 |  |
 | ------- |
@@ -2397,4 +2399,8 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [1510-stone-game-iv](https://github.com/18-RAJAT/LEETCODE/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/18-RAJAT/LEETCODE/tree/master/2029-stone-game-ix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
