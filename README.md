@@ -816,6 +816,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2213-longest-substring-of-one-repeating-character](https://github.com/18-RAJAT/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/18-RAJAT/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [0020-valid-parentheses](https://github.com/18-RAJAT/LEETCODE/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -854,6 +855,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2751-robot-collisions](https://github.com/18-RAJAT/LEETCODE/tree/master/2751-robot-collisions) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/18-RAJAT/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [0020-valid-parentheses](https://github.com/18-RAJAT/LEETCODE/tree/master/0020-valid-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -2403,4 +2405,5 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [0020-valid-parentheses](https://github.com/18-RAJAT/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
