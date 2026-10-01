@@ -1,39 +1,33 @@
 class Solution {
 public:
     bool isValid(string s) {
-        
-        function<bool(char,char)>pairs=[&](char a,char b)->bool
+        stack<int>st;
+        unordered_map<char,char>ump;
+        ump['(']=')';
+        ump['{']='}';
+        ump['[']=']';
+        for(auto& chars:s)
         {
-            if(a=='(' and b==')')return true;
-            if(a=='{' and b=='}')return true;
-            if(a=='[' and b==']')return true;
-            return false;
-        };
-        
-        stack<char>st;
-        for(auto& it:s)
-        {
-            if(it=='(' or it=='{' or it=='[')
+            if(chars=='(' || chars=='[' || chars=='{')
             {
-                st.push(it);
+                st.push(chars);
             }
             else
             {
-                if(st.empty())return false;
-                if(pairs(st.top(),it))
-                {
-                    st.pop();
-                }
-                else
+                if(st.empty())
                 {
                     return false;
                 }
+                else if(ump[st.top()]!=chars)
+                {
+                    return false;
+                }
+                else
+                {
+                    st.pop();
+                }
             }
         }
-        if(st.empty())
-        {
-            return true;
-        }
-        return false;
+        return st.empty()?true:false;
     }
 };
