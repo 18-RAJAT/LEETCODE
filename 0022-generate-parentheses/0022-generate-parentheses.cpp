@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void parenthesis(vector<string>&B,int open,int close,string s)
+    void parenthesis(vector<string>& B,int open,int close,string s)
     {
         if(open==0 and close==0)
         {
