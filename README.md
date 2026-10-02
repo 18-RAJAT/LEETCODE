@@ -2406,4 +2406,5 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [0020-valid-parentheses](https://github.com/18-RAJAT/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/18-RAJAT/LEETCODE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
