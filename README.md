@@ -456,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1563-stone-game-v](https://github.com/18-RAJAT/LEETCODE/tree/master/1563-stone-game-v) |
 | [1386-cinema-seat-allocation](https://github.com/18-RAJAT/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
+| [1254-number-of-closed-islands](https://github.com/18-RAJAT/LEETCODE/tree/master/1254-number-of-closed-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -1337,6 +1338,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/18-RAJAT/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/18-RAJAT/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/18-RAJAT/LEETCODE/tree/master/3310-remove-methods-from-project) |
+| [1254-number-of-closed-islands](https://github.com/18-RAJAT/LEETCODE/tree/master/1254-number-of-closed-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1461,6 +1463,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/18-RAJAT/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1260-shift-2d-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/1260-shift-2d-grid) |
+| [1254-number-of-closed-islands](https://github.com/18-RAJAT/LEETCODE/tree/master/1254-number-of-closed-islands) |
 ## Graph
 |  |
 | ------- |
@@ -1930,6 +1933,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/18-RAJAT/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/18-RAJAT/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/18-RAJAT/LEETCODE/tree/master/3310-remove-methods-from-project) |
+| [1254-number-of-closed-islands](https://github.com/18-RAJAT/LEETCODE/tree/master/1254-number-of-closed-islands) |
 ## Union Find
 |  |
 | ------- |
@@ -2382,6 +2386,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2812-find-the-safest-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/18-RAJAT/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/18-RAJAT/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
+| [1254-number-of-closed-islands](https://github.com/18-RAJAT/LEETCODE/tree/master/1254-number-of-closed-islands) |
 ## Minimax
 |  |
 | ------- |
