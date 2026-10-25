@@ -1,44 +1,39 @@
 class Solution {
 public:
     int closedIsland(vector<vector<int>>& grid) {
-        
-        int closed = 0;
-        int n = grid.size();
-        int m = grid[0].size();
+        int n=grid.size(),m=grid[0].size();
+        function<void(int,int)>DFS=[&](int i,int j)->void
+        {
+            if(i<0 || j<0 || i>=n || j>=m || grid[i][j]==1)
+            {
+                return;
+            }
+            grid[i][j]=1;
+            DFS(i+1,j);
+            DFS(i-1,j);
+            DFS(i,j+1);
+            DFS(i,j-1);
+        };
         
         for(int i=0;i<n;++i)
         {
             for(int j=0;j<m;++j)
             {
-                if(grid[i][j] == 0 and isClosedIsland(grid,i,j))
+                if(i==0 || j==0 || i==n-1 || j==m-1)DFS(i,j);
+            }
+        }
+        int closedIslands=0;
+        for(int i=0;i<n;++i)
+        {
+            for(int j=0;j<m;++j)
+            {
+                if(grid[i][j]==0)
                 {
-                    closed++;
+                    closedIslands++;
+                    DFS(i,j);
                 }
             }
         }
-    return closed;
-   }
-    
-    bool isClosedIsland(vector<vector<int>>& grid,int i,int j)
-    {
-        if(i < 0 or j < 0 or i >= grid.size() or j >= grid[0].size())
-        {
-            return false;
-        }
-        
-        if(grid[i][j] == 1)
-        {
-            return true;
-        }
-        
-        grid[i][j] = 1;
-        
-        bool x1 = isClosedIsland(grid,i-1,j);
-        bool x2 = isClosedIsland(grid,i,j-1);
-        bool x3 = isClosedIsland(grid,i+1,j);
-        bool x4 = isClosedIsland(grid,i,j+1);
-        
-        return x1 and x2 and x3 and x4;
+        return closedIslands;
     }
-    
 };
