@@ -818,6 +818,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/18-RAJAT/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/18-RAJAT/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [0020-valid-parentheses](https://github.com/18-RAJAT/LEETCODE/tree/master/0020-valid-parentheses) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
 | ------- |
@@ -1570,6 +1571,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3691-maximum-total-subarray-value-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1749,6 +1751,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/18-RAJAT/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/18-RAJAT/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/18-RAJAT/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -2376,6 +2379,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/18-RAJAT/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/18-RAJAT/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/18-RAJAT/LEETCODE/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/18-RAJAT/LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Union-Find
 |  |
 | ------- |
